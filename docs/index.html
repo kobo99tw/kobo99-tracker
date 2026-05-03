@@ -232,6 +232,14 @@ const todayMD = (() => {
   return `${d.getMonth()+1}/${d.getDate()}`;
 })();
 
+// "M/D" → 數字（排序比較用）
+function dateVal(md) {
+  if (!md) return 0;
+  const [m, d] = md.split("/").map(Number);
+  return m * 100 + d;
+}
+const todayVal = dateVal(todayMD);
+
 let DATA = null;
 
 async function loadData() {
@@ -257,12 +265,20 @@ function render() {
     if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
     if (sort === "amazon")    return (b.ratings?.amazon_com?.score ?? 0) - (a.ratings?.amazon_com?.score ?? 0);
     if (sort === "saving")    return saving(b) - saving(a);
-    return 0;
+    // 書單順序：今日 → 未來（時序）→ 過去（時序）
+    const av = dateVal(a.date), bv = dateVal(b.date);
+    const aToday = av === todayVal, bToday = bv === todayVal;
+    if (aToday !== bToday) return aToday ? -1 : 1;
+    const aFuture = av > todayVal,  bFuture = bv > todayVal;
+    if (aFuture !== bFuture) return aFuture ? -1 : 1;
+    return av - bv;
   });
 
-  // 今日特價書永遠排第一（不論排序方式）
-  const todayIdx = books.findIndex(b => b.date === todayMD);
-  if (todayIdx > 0) books.unshift(books.splice(todayIdx, 1)[0]);
+  // 其他排序方式：今日特價書仍強制排第一
+  if (sort !== "order") {
+    const todayIdx = books.findIndex(b => b.date === todayMD);
+    if (todayIdx > 0) books.unshift(books.splice(todayIdx, 1)[0]);
+  }
 
   // 週次 badge
   document.getElementById("weekBadge").textContent =
