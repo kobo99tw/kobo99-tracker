@@ -1,0 +1,16 @@
+{
+  "name": "Kobo每日99書單",
+  "short_name": "Kobo每日99",
+  "description": "整合博客來、讀墨、Goodreads、Amazon 評分的 Kobo 每週 99 書單",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#0D9488",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
