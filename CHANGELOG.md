@@ -1,5 +1,85 @@
 # CHANGELOG
 
+## [2026-05-04 v7] — 國外評分重寫、前端全面改版、GitHub 部署
+
+### 爬蟲（scraper/scrape.py）
+
+**Step 4 國外評分全面重寫**
+- 新增 `_detect_book_type(original_title)`：依原文書名字元判斷歐美書/日文書/韓文書/台灣本地書
+- 每本書印出語言判斷結果：`《書名》→ 歐美書`
+- 不再用 ISBN（台灣版 ISBN 國外查不到）
+
+**Goodreads 重寫**
+- 搜尋順序：書名+作者 → 書名 → 作者 → 無原文資訊
+- 搜尋頁找連結後**跟進書頁解析評分**（確保評分與連結是同一本書，舊版從搜尋頁直接取）
+- 台灣本地書直接跳過，回傳 `{"note": "無原文資訊"}`
+- Timeout 15 秒
+
+**Amazon 重寫**
+- 歐美書：`amazon.com`，書名+作者 → 書名
+- 日文書：`amazon.co.jp`，書名 → 作者
+- 韓文書/台灣本地書：跳過
+- 評分解析改用 `re.findall(r"\d+\.\d+", ...)` 避免誤抓整數
+- Timeout 25 秒（原 15 秒，co.jp 較慢）
+
+**博客來改為電子書**
+- 搜尋分類 `cat/BK`（紙本）→ `cat/EK`（電子書）
+- Product ID 過濾改為只取 E 開頭（電子書）
+- Timeout 20 秒 → 30 秒
+
+**Timeout 調整**
+- `books_com`：20s → 30s
+- `amazon`：15s → 25s
+
+### 前端（docs/index.html）
+
+**排版重設計**
+- 格線：`repeat(auto-fill, minmax(300px,1fr))` → 固定 2 欄，max-width 960px
+- 手機 breakpoint：520px → 640px
+- 卡片底部 buy-row：價格左、「🛒 立即購買」按鈕右對齊
+- 移除多餘的博客來/讀墨/GR 個別按鈕（評分列整行可點擊即可）
+
+**字體全面放大**
+- 平台名稱 `.r-src`：`.65rem` → `.78rem`
+- 評分數字 `.r-val`：`.7rem` → `.82rem`
+- 人數 `.r-cnt`：`.62rem` → `.72rem`
+- 作者 `.book-author`：`.75rem` → `.82rem`
+- 評分條：4px → 5px
+
+**今日特價標示**
+- 橘色橫幅（含日期）：`🔥 今日特價 5/3（日）`
+- 橘色邊框 + 淡橘底色（`--sale: #F97316`，獨立於 teal 購買色）
+- 今日特價書永遠排第一（不論排序方式）
+- 日期標籤放大（`.85rem` → `.88rem`）
+
+**其他**
+- Header 顯示 `sale_label`（特賣期間，含「✅ 特賣中」或「已結束」）
+- 博客來標籤改為「博客來」（去掉「紙本」字樣）
+- Ko-fi 連結更新為 `https://ko-fi.com/kobo99tw`
+- Footer 加入不蒜子瀏覽計數
+
+### 部署
+
+- 資料夾 `public/` 改名為 `docs/`（配合 GitHub Pages /docs 選項）
+- `DATA_DIR` 更新為 `docs/data/`
+- GitHub Actions workflow `public/data/` → `docs/data/`
+- Repo 推上 GitHub：https://github.com/kobo99tw/kobo99-tracker
+- 網站：https://kobo99tw.github.io/kobo99-tracker/
+- `docs/sitemap.xml` 建立
+
+### 測試結果（W18，8本）
+
+| 來源 | 命中 | 備註 |
+|---|---|---|
+| kobo | 4/8 | 部分新書無評分 |
+| books_com | 6/8 | 改電子書搜尋後首次測試 |
+| readmoo | 4/8 | 正常 |
+| goodreads | 6/8 | 台灣本地書×2 跳過 |
+| amazon_com | 5/8 | 日文書超時×1 |
+| 總時間 | ~5分 | |
+
+---
+
 ## [2026-05-03 v6] — 爬蟲全面重寫、前端重設計、逐本逾時保護
 
 ### 爬蟲（scrape.py）
