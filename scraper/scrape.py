@@ -180,12 +180,13 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
         seen_clean.add(clean)
         anchors.append((a, full))
 
-    # 對每個連結，往上走 DOM 找最近的 《書名》
+    # 對每個連結，往上走 DOM 找最近的 《書名》與日期標記
     result: list[dict] = []
     used: set[str] = set()
     for a_tag, link in anchors:
-        title  = ""
-        parent = a_tag
+        title      = ""
+        blog_date  = ""
+        parent     = a_tag
         for _ in range(7):
             parent = parent.parent
             if parent is None:
@@ -197,8 +198,12 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
             if m and m.group(1) not in used:
                 title = m.group(1).strip()
                 used.add(title)
+                # 同一區塊內找日期（格式：5/1週五 或 4/30週四）
+                d = re.search(r"(\d{1,2}/\d{1,2})\s*週[一二三四五六日]", blk)
+                if d:
+                    blog_date = d.group(1)
                 break
-        result.append({"title": title, "kobo_url": link})
+        result.append({"title": title, "kobo_url": link, "blog_date": blog_date})
 
     # 補缺失書名：先找獨立行《書名》，不夠再全文 findall
     missing = [i for i, b in enumerate(result) if not b["title"]]
@@ -710,7 +715,7 @@ def run(year=None, week=None):
                 "kobo_url":       info.get("kobo_url", kobo_url),
                 "kobo_price":     info.get("kobo_price"),
                 "sale_price":     "NT$99",
-                "date":           _book_date(sale_start, i - 1),
+                "date":           item.get("blog_date") or _book_date(sale_start, i - 1),
                 "sale_start":     sale_start.isoformat(),
                 "sale_end":       sale_end.isoformat(),
                 "on_sale":        on_sale,
