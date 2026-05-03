@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## [2026-05-04 v8] — 日期修正、排序優化、UI 細節
+
+### 爬蟲（scraper/scrape.py）
+
+**書本特價日期 bug 修正（重要）**
+- 原因：部落格同一天可能有多本書（W18 的 5/1 有兩本），位置序號算日期導致後續全部偏掉
+- 修法：`fetch_books_from_blog()` 在找書名的同時，從同一 HTML 區塊解析 `M/D週X` 格式日期
+- 主流程改為 `item.get("blog_date") or _book_date(sale_start, i-1)`（有日期用部落格日期，否則 fallback）
+- W18 JSON 已手動修正（金钱博弈、神曲、品嘗的科學、問題不是從你開始的、帶爸媽去日本、失智行為說明書 共 6 本）
+
+### 前端（docs/index.html）
+
+- **書單排序**：書單順序改為「今日 → 未來 → 過去」（`dateVal()` 函式計算日期數值比較）
+- **今日特價橫幅**：移除 `.today-date` 獨立樣式，整行統一字體，格式改為「🔥 今日特價 · 5/4（一）」
+- **網頁標題**：簡化為 `<title>Kobo每日99</title>`
+- **favicon**：移除書本圖示，「99」放大至 62px、垂直置中 y=65
+- **manifest.json**：新增，name/short_name 設為 Kobo每日99，`<link rel="manifest">` 加入 HTML
+
+---
+
 ## [2026-05-04 v7] — 國外評分重寫、前端全面改版、GitHub 部署
 
 ### 爬蟲（scraper/scrape.py）

@@ -31,6 +31,15 @@
 2. **Actions 寫入權限**：Settings → Actions → General → Read and write permissions
 3. **首次手動觸發 Actions**：確認完整流程正常
 
+## 已修正（v8）
+
+### ✅ 書本特價日期從部落格 HTML 解析
+- 同一天多本書不再算錯日期
+
+### ✅ 書單排序：今日 → 未來 → 過去
+### ✅ 今日特價橫幅字體統一
+### ✅ favicon 優化、manifest.json 新增
+
 ---
 
 ## 下一步改善方向
