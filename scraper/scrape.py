@@ -17,7 +17,7 @@ import requests
 from bs4 import BeautifulSoup
 
 TW_TZ    = timezone(timedelta(hours=8))
-DATA_DIR = Path(__file__).parent.parent / "public" / "data"
+DATA_DIR = Path(__file__).parent.parent / "docs" / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 HEADERS = {

@@ -51,7 +51,7 @@ jobs:
       - name: 確認是否有新資料
         id: check
         run: |
-          if git diff --quiet public/data/; then
+          if git diff --quiet docs/data/; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -62,7 +62,7 @@ jobs:
         run: |
           git config user.name  "kobo99-bot"
           git config user.email "bot@kobo99-tracker.local"
-          git add public/data/
+          git add docs/data/
           WEEK_NUM=$(python -c "from datetime import datetime,timezone,timedelta; now=datetime.now(timezone(timedelta(hours=8))); print(now.isocalendar().week)")
           git commit -m "📚 更新 W${WEEK_NUM} 書單 $(date +'%Y-%m-%d')"
           git push
