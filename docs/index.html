@@ -61,8 +61,7 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 /* 日期小標籤 */
 .date-tag{font-size:.88rem;color:var(--ink2);font-weight:600}
 /* 今日特價橫幅 */
-.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.92rem;font-weight:700;padding:.42rem .5rem;border-radius:8px;letter-spacing:.05em;margin-bottom:.6rem}
-.today-date{font-size:.8rem;font-weight:500;opacity:.88;margin-left:.4rem}
+.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.88rem;font-weight:700;padding:.42rem .5rem;border-radius:8px;letter-spacing:.04em;margin-bottom:.6rem}
 
 /* 書脊色條 */
 .spine{height:5px;flex-shrink:0}
@@ -323,7 +322,7 @@ function render() {
     // 今日特價判斷
     const isToday = book.date === todayMD;
     const todayBanner = isToday
-      ? `<div class="today-banner">🔥 今日特價<span class="today-date">${fmtDate(book.date)}</span></div>`
+      ? `<div class="today-banner">🔥 今日特價 · ${fmtDate(book.date)}</div>`
       : "";
     const dateTag = isToday
       ? ""
