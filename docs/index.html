@@ -46,70 +46,71 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .chip{font-size:.7rem;padding:.18rem .6rem;border-radius:20px;border:1px solid var(--line);color:var(--ink2);background:var(--cream);white-space:nowrap}
 .chip b{color:var(--ink)}
 
-/* ── Grid ── */
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.1rem;padding:1.25rem;max-width:1200px;margin:0 auto}
+/* ── Grid：桌機 2 欄，手機 1 欄 ── */
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.25rem;padding:1.25rem;max-width:960px;margin:0 auto}
 
 /* ── Book Card ── */
-.card{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .2s,transform .2s}
-.card:hover{box-shadow:0 4px 18px rgba(0,0,0,.08);transform:translateY(-2px)}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .2s,transform .2s}
+.card:hover{box-shadow:0 4px 20px rgba(0,0,0,.09);transform:translateY(-2px)}
 .card--today{border:2px solid var(--sale);background:var(--sale-bg);box-shadow:0 0 0 3px rgba(249,115,22,.1),0 6px 24px rgba(249,115,22,.14)}
 .card--today:hover{box-shadow:0 0 0 3px rgba(249,115,22,.18),0 8px 28px rgba(249,115,22,.2);transform:translateY(-2px)}
 
 /* 日期小標籤 */
-.date-tag{font-size:.85rem;color:var(--ink2);font-weight:600}
+.date-tag{font-size:.88rem;color:var(--ink2);font-weight:600}
 /* 今日特價橫幅 */
-.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.88rem;font-weight:700;padding:.38rem .5rem;border-radius:7px;letter-spacing:.05em;margin-bottom:.55rem}
-.today-date{font-size:.78rem;font-weight:500;opacity:.88;margin-left:.4rem}
+.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.92rem;font-weight:700;padding:.42rem .5rem;border-radius:8px;letter-spacing:.05em;margin-bottom:.6rem}
+.today-date{font-size:.8rem;font-weight:500;opacity:.88;margin-left:.4rem}
 
 /* 書脊色條 */
-.spine{height:4px;flex-shrink:0}
+.spine{height:5px;flex-shrink:0}
 
-.card-body{padding:.9rem 1rem 1rem;flex:1;display:flex;flex-direction:column}
+.card-body{padding:1rem 1.15rem 1.1rem;flex:1;display:flex;flex-direction:column}
 
-.card-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem}
-.score-badge{font-size:.82rem;font-weight:700;padding:.15rem .55rem;border-radius:6px;min-width:2.6rem;text-align:center}
+.card-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:.55rem}
+.score-badge{font-size:.88rem;font-weight:700;padding:.18rem .6rem;border-radius:6px;min-width:2.8rem;text-align:center}
 .sc-high{background:var(--teal-bg);color:var(--teal)}
 .sc-mid {background:var(--amber-bg);color:var(--amber)}
 .sc-low {background:var(--red-bg);color:var(--red)}
-.sc-none{background:var(--line);color:var(--ink3);font-size:.68rem}
+.sc-none{background:var(--line);color:var(--ink3);font-size:.75rem}
 
-.book-title{font-family:'Noto Serif TC',serif;font-size:1rem;font-weight:600;line-height:1.55;margin-bottom:.2rem}
-.book-original{font-size:.72rem;color:var(--ink3);font-style:italic;margin-bottom:.25rem;line-height:1.4}
-.book-author{font-size:.75rem;color:var(--ink2);margin-bottom:.8rem}
+.book-title{font-family:'Noto Serif TC',serif;font-size:1.05rem;font-weight:600;line-height:1.6;margin-bottom:.25rem}
+.book-original{font-size:.8rem;color:var(--ink3);font-style:italic;margin-bottom:.3rem;line-height:1.4}
+.book-author{font-size:.82rem;color:var(--ink2);margin-bottom:.9rem}
 
 /* 評分 */
-.ratings{flex:1;display:flex;flex-direction:column;gap:.42rem;margin-bottom:.8rem}
-.r-row{display:flex;align-items:center;gap:5px}
-.r-src{font-size:.65rem;color:var(--ink3);width:68px;flex-shrink:0;white-space:nowrap}
-.r-bar-bg{flex:1;height:4px;background:var(--line);border-radius:2px;overflow:hidden}
-.r-bar{height:4px;border-radius:2px}
-.r-val{font-size:.7rem;font-weight:700;width:28px;text-align:right;flex-shrink:0}
-.r-cnt{font-size:.62rem;color:var(--ink3);width:38px;text-align:right;flex-shrink:0}
-.r-na{font-size:.62rem;color:var(--ink3);flex:1;text-align:right;font-style:italic}
-.r-warn{font-size:.58rem;color:var(--amber);margin-left:2px;flex-shrink:0;cursor:help}
-a.r-link{text-decoration:none;border-radius:4px;margin:0 -.3rem;padding:0 .3rem;transition:background .12s}
+.ratings{flex:1;display:flex;flex-direction:column;gap:.5rem;margin-bottom:.9rem}
+.r-row{display:flex;align-items:center;gap:7px}
+.r-src{font-size:.78rem;color:var(--ink2);width:76px;flex-shrink:0;white-space:nowrap}
+.r-bar-bg{flex:1;height:5px;background:var(--line);border-radius:3px;overflow:hidden}
+.r-bar{height:5px;border-radius:3px}
+.r-val{font-size:.82rem;font-weight:700;width:30px;text-align:right;flex-shrink:0}
+.r-cnt{font-size:.72rem;color:var(--ink3);width:42px;text-align:right;flex-shrink:0}
+.r-na{font-size:.75rem;color:var(--ink3);flex:1;text-align:right;font-style:italic}
+.r-warn{font-size:.68rem;color:var(--amber);margin-left:2px;flex-shrink:0;cursor:help}
+a.r-link{text-decoration:none;border-radius:5px;margin:0 -.35rem;padding:.1rem .35rem;transition:background .12s}
 a.r-link:hover{background:var(--line)}
 
 /* 購買列：價格左、按鈕右 */
-.buy-row{display:flex;align-items:center;justify-content:space-between;gap:.6rem;border-top:1px solid var(--line);padding-top:.7rem}
-.price-info{display:flex;align-items:baseline;gap:.4rem;flex-wrap:wrap}
-.price-sale{font-size:1.05rem;font-weight:700;color:var(--teal)}
-.price-original{font-size:.73rem;color:var(--ink3);text-decoration:line-through}
-.price-saving{font-size:.63rem;font-weight:600;color:var(--kofi);background:#FFF1F0;padding:.1rem .4rem;border-radius:8px}
-.btn-buy{flex-shrink:0;text-align:center;text-decoration:none;font-size:.75rem;font-weight:600;padding:.45rem .9rem;border-radius:8px;transition:background .15s;white-space:nowrap;background:var(--teal);color:#fff}
+.buy-row{display:flex;align-items:center;justify-content:space-between;gap:.6rem;border-top:1px solid var(--line);padding-top:.75rem}
+.price-info{display:flex;align-items:baseline;gap:.45rem;flex-wrap:wrap}
+.price-sale{font-size:1.1rem;font-weight:700;color:var(--teal)}
+.price-original{font-size:.78rem;color:var(--ink3);text-decoration:line-through}
+.price-saving{font-size:.68rem;font-weight:600;color:var(--kofi);background:#FFF1F0;padding:.12rem .45rem;border-radius:8px}
+.btn-buy{flex-shrink:0;text-align:center;text-decoration:none;font-size:.8rem;font-weight:600;padding:.5rem 1rem;border-radius:8px;transition:background .15s;white-space:nowrap;background:var(--teal);color:#fff}
 .btn-buy:hover{background:#0F766E}
-.btn-dis{flex-shrink:0;font-size:.75rem;padding:.45rem .9rem;border-radius:8px;opacity:.4;cursor:default;background:var(--cream);color:var(--ink3);border:1px solid var(--line)}
+.btn-dis{flex-shrink:0;font-size:.8rem;padding:.5rem 1rem;border-radius:8px;opacity:.4;cursor:default;background:var(--cream);color:var(--ink3);border:1px solid var(--line)}
 
 /* ── Empty / Loading ── */
 .empty{grid-column:1/-1;text-align:center;padding:4rem 1rem;color:var(--ink3);font-size:.9rem;line-height:2}
 
 /* ── Footer ── */
-footer{text-align:center;padding:1.75rem 1rem;font-size:.72rem;color:var(--ink3);border-top:1px solid var(--line);margin-top:.5rem;line-height:2}
+footer{text-align:center;padding:1.75rem 1rem;font-size:.75rem;color:var(--ink3);border-top:1px solid var(--line);margin-top:.5rem;line-height:2}
 footer a{color:var(--teal);text-decoration:none}
 
-@media(max-width:520px){
-  .grid{grid-template-columns:1fr;padding:.75rem}
+@media(max-width:640px){
+  .grid{grid-template-columns:1fr;padding:.85rem;gap:1rem}
   .stat-chips{display:none}
+  .card-body{padding:.9rem 1rem 1rem}
 }
 </style>
 </head>
