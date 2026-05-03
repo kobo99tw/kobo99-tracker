@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+
+  <!-- 背景：圓角正方形，深綠色 -->
+  <rect width="100" height="100" rx="18" fill="#0D9488"/>
+
+  <!-- 書本圖示（左上角，約 15×16，位置 x=10 y=10） -->
+  <!-- 書本主體 -->
+  <rect x="10" y="10" width="15" height="17" rx="2" fill="white" opacity="0.95"/>
+  <!-- 書脊線 -->
+  <rect x="13.5" y="10" width="1.5" height="17" fill="#0D9488" opacity="0.3"/>
+  <!-- 書頁橫線 -->
+  <rect x="16" y="13.5" width="7"   height="1.2" rx="0.6" fill="#0D9488" opacity="0.28"/>
+  <rect x="16" y="16.5" width="5.5" height="1.2" rx="0.6" fill="#0D9488" opacity="0.28"/>
+  <rect x="16" y="19.5" width="6.5" height="1.2" rx="0.6" fill="#0D9488" opacity="0.28"/>
+
+  <!-- 「99」文字（白色，置中，y=68） -->
+  <text x="50" y="68"
+        font-family="Arial Rounded MT Bold, Arial"
+        font-size="52"
+        font-weight="bold"
+        fill="white"
+        text-anchor="middle">99</text>
+
+</svg>
