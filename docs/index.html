@@ -251,8 +251,12 @@ function render() {
     if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
     if (sort === "amazon")    return (b.ratings?.amazon_com?.score ?? 0) - (a.ratings?.amazon_com?.score ?? 0);
     if (sort === "saving")    return saving(b) - saving(a);
-    return 0; // "order"：保持原始順序
+    return 0;
   });
+
+  // 今日特價書永遠排第一（不論排序方式）
+  const todayIdx = books.findIndex(b => b.date === todayMD);
+  if (todayIdx > 0) books.unshift(books.splice(todayIdx, 1)[0]);
 
   // 週次 badge
   document.getElementById("weekBadge").textContent =
