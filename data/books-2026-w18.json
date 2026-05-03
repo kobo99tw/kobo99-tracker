@@ -1,0 +1,35 @@
+{
+  "year": 2026,
+  "week": 18,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w18",
+  "updated_at": "2026-05-01T23:03:04.319091+08:00",
+  "books": [
+    {
+      "date": "5/5",
+      "title": "帶爸媽去日本自由行：不趕路、不排隊、多詢問、多拍照、多休息，掌握二不三多原則，讓孝親也能輕鬆玩",
+      "author": "",
+      "kobo_url": "",
+      "kobo_price": null,
+      "sale_price": "NT$99",
+      "description": "選擇跟團，把爸媽扔給導遊，覺得無事一身輕嗎？從最熟悉的日本開始孝親自由行的第一步。帶著爸媽嚐遍新鮮的時令果物，深入豐富的活動祭典，希望未來也能盡可能陪伴著他們前進，體會從未見過的新事物。",
+      "ratings": {
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.comhttps://readmoo.com/leaderboard/book/instant?header_v2_mobile_leaderboard"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null
+    }
+  ]
+}

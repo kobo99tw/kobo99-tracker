@@ -1,0 +1,68 @@
+name: 每週四自動抓 Kobo 99 書單
+
+on:
+  schedule:
+    # 每週四 03:00 UTC = 台灣時間 11:00
+    - cron: "0 3 * * 4"
+
+  # 也可以手動觸發（測試用）
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "年份（留空 = 本週）"
+        required: false
+      week:
+        description: "週次（留空 = 本週）"
+        required: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 允許 commit 回 repo
+
+    steps:
+      - name: Checkout 專案
+        uses: actions/checkout@v4
+
+      - name: 設定 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: 安裝 Python 套件
+        run: pip install -r scraper/requirements.txt
+
+      - name: 安裝 Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: 執行爬蟲
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          WEEK="${{ github.event.inputs.week }}"
+          if [ -n "$YEAR" ] && [ -n "$WEEK" ]; then
+            python scraper/scrape.py $YEAR $WEEK
+          else
+            python scraper/scrape.py
+          fi
+
+      - name: 確認是否有新資料
+        id: check
+        run: |
+          if git diff --quiet public/data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit & Push 新書單
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name  "kobo99-bot"
+          git config user.email "bot@kobo99-tracker.local"
+          git add public/data/
+          WEEK_NUM=$(python -c "from datetime import datetime,timezone,timedelta; now=datetime.now(timezone(timedelta(hours=8))); print(now.isocalendar().week)")
+          git commit -m "📚 更新 W${WEEK_NUM} 書單 $(date +'%Y-%m-%d')"
+          git push

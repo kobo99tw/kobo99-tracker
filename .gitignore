@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# 爬蟲 debug
+scraper/debug_*.html
+
+# 環境變數
+.env
+.env.*
+
+# 本機測試
+scraper/test_*.py
+
+# 系統
+.DS_Store
+Thumbs.db
+
+# 打包檔
+*.zip
+
+# Claude
+.claude/

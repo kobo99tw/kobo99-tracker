@@ -1,0 +1,364 @@
+{
+  "year": 2026,
+  "week": 17,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w17",
+  "sale_label": "NT$99 特價：4/20（一）～4/26（日）",
+  "sale_start": "2026-04-20",
+  "sale_end": "2026-04-26",
+  "on_sale": false,
+  "updated_at": "2026-05-03T01:53:47.806641+08:00",
+  "books": [
+    {
+      "title": "地緣政治輕鬆讀：原來如此！全民啟蒙師超強圖解，60張秒懂全世界！",
+      "author": "池上彰",
+      "original_title": "",
+      "isbn": "9786269797493",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3_W3-OIsijKWdUh0rUYcUw?sId=6b14e9be-961f-493d-9e1a-27cb39544450&ssId=O-dDQy2NTXrUqP5EbRiUi&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$266",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "明白文化",
+      "publish_date": "2024年7月31日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 4.17,
+          "count": 18,
+          "url": "https://www.kobo.com/tw/zh/ebook/3_W3-OIsijKWdUh0rUYcUw?sId=6b14e9be-961f-493d-9e1a-27cb39544450&ssId=O-dDQy2NTXrUqP5EbRiUi&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 5,
+          "url": "https://www.books.com.tw/products/0010995876"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 23,
+          "url": "https://readmoo.com/book/210340754000101"
+        },
+        "goodreads": {
+          "score": 4.43,
+          "count": 437,
+          "url": "https://www.goodreads.com/book/show/217093594"
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.41
+    },
+    {
+      "title": "真正的快樂處方：瑞典國民書！腦科學實證的健康生活提案",
+      "author": "安德斯・韓森",
+      "original_title": "HJÄRNSTARK: Hur motion och träning stärker din hjärna",
+      "isbn": "3219861372952",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DrSl7amSrTK8-gIZZ6tbGA?sId=525634df-f9aa-4b43-8567-90bff476635e&ssId=3ehUw9YmDH5qleT7S9T0K&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$238",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "究竟出版",
+      "publish_date": "2020年5月1日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 4.59,
+          "count": 32,
+          "url": "https://www.kobo.com/tw/zh/ebook/DrSl7amSrTK8-gIZZ6tbGA?sId=525634df-f9aa-4b43-8567-90bff476635e&ssId=3ehUw9YmDH5qleT7S9T0K&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 18,
+          "url": "https://www.books.com.tw/products/0010855828"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 3.97,
+          "count": 7563,
+          "url": "https://www.goodreads.com/book/show/31682628-hj-rnstark?from_search=true&from_srp=true&qid=CtCt19AKOz&rank=1"
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 9,
+          "url": "https://www.amazon.com/-/zh_TW/Hj%C3%A4rnstark-motion-tr%C3%A4ning-st%C3%A4rker-hj%C3%A4rna/dp/9173630780/ref=sr_1_1"
+        }
+      },
+      "avg_score": 3.98
+    },
+    {
+      "title": "信心的博弈：现代中央银行与宏观经济",
+      "author": "缪延亮",
+      "original_title": "",
+      "isbn": "7553521750874",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LvIgabGrwT6seRZlMVnCHQ?sId=e8b9da60-e6d7-4a8a-82da-5930c50b428f&ssId=WVdlf66EbqWoXso7BckkO&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$327",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "中信出版集团股份有限公司",
+      "publish_date": "2023年3月1日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/LvIgabGrwT6seRZlMVnCHQ?sId=e8b9da60-e6d7-4a8a-82da-5930c50b428f&ssId=WVdlf66EbqWoXso7BckkO&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null
+    },
+    {
+      "title": "裝幀師",
+      "author": "布莉琪．柯林斯",
+      "original_title": "",
+      "isbn": "3069863844608",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/23WdBms6lje8asd45-msng?sId=87279028-2627-488d-9833-5487a8610c60&ssId=IJrhdOCPHuVgdFbHZ2Fsz&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$199",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "野人",
+      "publish_date": "2020年11月25日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 3.92,
+          "count": 49,
+          "url": "https://www.kobo.com/tw/zh/ebook/23WdBms6lje8asd45-msng?sId=87279028-2627-488d-9833-5487a8610c60&ssId=IJrhdOCPHuVgdFbHZ2Fsz&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 26,
+          "url": "https://www.books.com.tw/products/0010876121"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.12
+    },
+    {
+      "title": "物理之舞：用量子力學打開新時代大門，理性與靈性的絕妙共舞【榮獲美國國家圖書獎】",
+      "author": "蓋瑞・祖卡夫",
+      "original_title": "The Dancing Wu Li Masters : An Overview of the New Physics",
+      "isbn": "9786269767984",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Q1RZNYlGxzuS3KU11wSE1Q?sId=6e18d2f1-2507-4ae8-b255-6cc0a6cdc867&ssId=veI0FLAHDhtzTJUa3jWWb&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$336",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "地平線文化",
+      "publish_date": "2024年1月3日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Q1RZNYlGxzuS3KU11wSE1Q?sId=6e18d2f1-2507-4ae8-b255-6cc0a6cdc867&ssId=veI0FLAHDhtzTJUa3jWWb&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210307621000101"
+        },
+        "goodreads": {
+          "score": 4.01,
+          "count": 110967,
+          "url": "https://www.goodreads.com/book/show/222659960"
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 1197,
+          "url": "https://www.amazon.com/-/zh_TW/Dancing-Masters-Enlightening-Exploration-Spirituality/dp/0060959681/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.02
+    },
+    {
+      "title": "X！又是星期一（影集同名原著小說）",
+      "author": "傑洛米",
+      "original_title": "",
+      "isbn": "9786263966420",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/x-530?sId=751d5428-2ae1-450a-8330-0015af663505&ssId=WCwWlkgRVRU0f_8sfN9dH&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$266",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "時報出版",
+      "publish_date": "2024年9月27日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/x-530?sId=751d5428-2ae1-450a-8330-0015af663505&ssId=WCwWlkgRVRU0f_8sfN9dH&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 3,
+          "url": "https://readmoo.com/book/210350693000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.7
+    },
+    {
+      "title": "東方星理學（單星篇）",
+      "author": "天乙上人",
+      "original_title": "Oriental Astrology 40 Star Signs",
+      "isbn": "3119579439916",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/GujL42psITy1h8hIh8d0Fw?sId=1b8b8c0d-a031-40a0-ab32-c798ea18dee1&ssId=n26BeKVeAVAyC42YZ7N4t&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$419",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "春光出版",
+      "publish_date": "2020年4月9日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/GujL42psITy1h8hIh8d0Fw?sId=1b8b8c0d-a031-40a0-ab32-c798ea18dee1&ssId=n26BeKVeAVAyC42YZ7N4t&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": 2.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0010853781"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 152,
+          "url": "https://www.amazon.com/-/zh_TW/Mari-Silva-ebook/dp/B08T6P2KB4/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.37
+    },
+    {
+      "title": "手勢心理學",
+      "author": "蘇珊·戈爾丁-梅多",
+      "original_title": "",
+      "isbn": "9786263205338",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/e1bXTFPqxj-4ddi9xLXC-Q?sId=f6a0dfa5-3ebc-420e-b254-7fb61461852b&ssId=uJoEGFuSAP9tVn8hTu-cb&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423",
+      "kobo_price": "NT$273",
+      "sale_price": "NT$99",
+      "sale_start": "2026-04-20",
+      "sale_end": "2026-04-26",
+      "on_sale": false,
+      "publisher": "晨星出版",
+      "publish_date": "2023年9月15日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/e1bXTFPqxj-4ddi9xLXC-Q?sId=f6a0dfa5-3ebc-420e-b254-7fb61461852b&ssId=uJoEGFuSAP9tVn8hTu-cb&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260423"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null
+    }
+  ]
+}

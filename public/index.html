@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kobo 每週 99 書單 × 評分整合</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --cream:    #FAF7F2;
+  --ink:      #1C1917;
+  --ink2:     #57534E;
+  --ink3:     #A8A29E;
+  --line:     #E7E5E4;
+  --teal:     #0D9488;
+  --teal-bg:  #F0FDFA;
+  --amber:    #B45309;
+  --amber-bg: #FFFBEB;
+  --red:      #B91C1C;
+  --red-bg:   #FEF2F2;
+
+  --kofi:     #FF5E5B;
+
+  --sale:     #F97316;
+  --sale-bg:  #FFF7ED;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Noto Sans TC',sans-serif;background:var(--cream);color:var(--ink);min-height:100vh}
+
+/* ── Header ── */
+header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align:center}
+.site-name{font-family:'Noto Serif TC',serif;font-size:clamp(1.4rem,4vw,2rem);font-weight:600;letter-spacing:.06em;margin-bottom:.35rem}
+.site-sub{font-size:.78rem;color:#A8A29E;letter-spacing:.06em}
+.header-row{display:flex;justify-content:center;align-items:center;gap:.75rem;margin-top:.9rem;flex-wrap:wrap}
+.week-badge{background:var(--teal);color:#fff;font-size:.72rem;font-weight:500;padding:.25rem .85rem;border-radius:20px;letter-spacing:.04em}
+.kofi-btn{display:inline-flex;align-items:center;gap:.4rem;background:var(--kofi);color:#fff;font-size:.72rem;font-weight:600;padding:.28rem .85rem;border-radius:20px;text-decoration:none;transition:opacity .15s}
+.kofi-btn:hover{opacity:.88}
+.sale-period{font-size:.72rem;color:#D4D4D4;margin-top:.45rem;letter-spacing:.04em}
+
+/* ── Toolbar ── */
+.toolbar{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;padding:.75rem 1.25rem;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10}
+.toolbar label{font-size:.78rem;color:var(--ink2);white-space:nowrap}
+.toolbar select{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink);cursor:pointer}
+.stat-chips{margin-left:auto;display:flex;gap:.4rem;flex-wrap:wrap}
+.chip{font-size:.7rem;padding:.18rem .6rem;border-radius:20px;border:1px solid var(--line);color:var(--ink2);background:var(--cream);white-space:nowrap}
+.chip b{color:var(--ink)}
+
+/* ── Grid ── */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.1rem;padding:1.25rem;max-width:1200px;margin:0 auto}
+
+/* ── Book Card ── */
+.card{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .2s,transform .2s}
+.card:hover{box-shadow:0 4px 18px rgba(0,0,0,.08);transform:translateY(-2px)}
+.card--today{border:2px solid var(--sale);background:var(--sale-bg);box-shadow:0 0 0 3px rgba(249,115,22,.1),0 6px 24px rgba(249,115,22,.14)}
+.card--today:hover{box-shadow:0 0 0 3px rgba(249,115,22,.18),0 8px 28px rgba(249,115,22,.2);transform:translateY(-2px)}
+
+/* 日期小標籤 */
+.date-tag{font-size:.85rem;color:var(--ink2);font-weight:600}
+/* 今日特價橫幅 */
+.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.88rem;font-weight:700;padding:.38rem .5rem;border-radius:7px;letter-spacing:.05em;margin-bottom:.55rem}
+.today-date{font-size:.78rem;font-weight:500;opacity:.88;margin-left:.4rem}
+
+/* 書脊色條 */
+.spine{height:4px;flex-shrink:0}
+
+.card-body{padding:.9rem 1rem 1rem;flex:1;display:flex;flex-direction:column}
+
+.card-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem}
+.score-badge{font-size:.82rem;font-weight:700;padding:.15rem .55rem;border-radius:6px;min-width:2.6rem;text-align:center}
+.sc-high{background:var(--teal-bg);color:var(--teal)}
+.sc-mid {background:var(--amber-bg);color:var(--amber)}
+.sc-low {background:var(--red-bg);color:var(--red)}
+.sc-none{background:var(--line);color:var(--ink3);font-size:.68rem}
+
+.book-title{font-family:'Noto Serif TC',serif;font-size:1rem;font-weight:600;line-height:1.55;margin-bottom:.2rem}
+.book-original{font-size:.72rem;color:var(--ink3);font-style:italic;margin-bottom:.25rem;line-height:1.4}
+.book-author{font-size:.75rem;color:var(--ink2);margin-bottom:.8rem}
+
+/* 評分 */
+.ratings{flex:1;display:flex;flex-direction:column;gap:.42rem;margin-bottom:.8rem}
+.r-row{display:flex;align-items:center;gap:5px}
+.r-src{font-size:.65rem;color:var(--ink3);width:68px;flex-shrink:0;white-space:nowrap}
+.r-bar-bg{flex:1;height:4px;background:var(--line);border-radius:2px;overflow:hidden}
+.r-bar{height:4px;border-radius:2px}
+.r-val{font-size:.7rem;font-weight:700;width:28px;text-align:right;flex-shrink:0}
+.r-cnt{font-size:.62rem;color:var(--ink3);width:38px;text-align:right;flex-shrink:0}
+.r-na{font-size:.62rem;color:var(--ink3);flex:1;text-align:right;font-style:italic}
+.r-warn{font-size:.58rem;color:var(--amber);margin-left:2px;flex-shrink:0;cursor:help}
+a.r-link{text-decoration:none;border-radius:4px;margin:0 -.3rem;padding:0 .3rem;transition:background .12s}
+a.r-link:hover{background:var(--line)}
+
+/* 購買列：價格左、按鈕右 */
+.buy-row{display:flex;align-items:center;justify-content:space-between;gap:.6rem;border-top:1px solid var(--line);padding-top:.7rem}
+.price-info{display:flex;align-items:baseline;gap:.4rem;flex-wrap:wrap}
+.price-sale{font-size:1.05rem;font-weight:700;color:var(--teal)}
+.price-original{font-size:.73rem;color:var(--ink3);text-decoration:line-through}
+.price-saving{font-size:.63rem;font-weight:600;color:var(--kofi);background:#FFF1F0;padding:.1rem .4rem;border-radius:8px}
+.btn-buy{flex-shrink:0;text-align:center;text-decoration:none;font-size:.75rem;font-weight:600;padding:.45rem .9rem;border-radius:8px;transition:background .15s;white-space:nowrap;background:var(--teal);color:#fff}
+.btn-buy:hover{background:#0F766E}
+.btn-dis{flex-shrink:0;font-size:.75rem;padding:.45rem .9rem;border-radius:8px;opacity:.4;cursor:default;background:var(--cream);color:var(--ink3);border:1px solid var(--line)}
+
+/* ── Empty / Loading ── */
+.empty{grid-column:1/-1;text-align:center;padding:4rem 1rem;color:var(--ink3);font-size:.9rem;line-height:2}
+
+/* ── Footer ── */
+footer{text-align:center;padding:1.75rem 1rem;font-size:.72rem;color:var(--ink3);border-top:1px solid var(--line);margin-top:.5rem;line-height:2}
+footer a{color:var(--teal);text-decoration:none}
+
+@media(max-width:520px){
+  .grid{grid-template-columns:1fr;padding:.75rem}
+  .stat-chips{display:none}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="site-name">📚 Kobo 每週 99 書單</div>
+  <div class="site-sub">整合博客來 × 讀墨 × Goodreads × Amazon 評分 ｜ 每週自動更新</div>
+  <div class="header-row">
+    <span class="week-badge" id="weekBadge">載入中...</span>
+    <a class="kofi-btn" href="https://ko-fi.com/YOUR_KOFI_ID" target="_blank">☕ 請我喝杯咖啡</a>
+  </div>
+  <div id="salePeriod" class="sale-period"></div>
+</header>
+
+<div class="toolbar">
+  <label>排序</label>
+  <select id="sortSel" onchange="render()">
+    <option value="order"    selected>書單順序</option>
+    <option value="avg">綜合評分 ↓</option>
+    <option value="books_com">博客來 ↓</option>
+    <option value="goodreads">Goodreads ↓</option>
+    <option value="amazon">Amazon ↓</option>
+    <option value="saving">折扣幅度 ↓</option>
+  </select>
+  <div class="stat-chips" id="chips"></div>
+</div>
+
+<div class="grid" id="grid">
+  <div class="empty">⏳ 書單載入中...</div>
+</div>
+
+<footer>
+  資料來源：
+  <a href="https://www.kobo.com/zh/blog" target="_blank">Kobo 官方部落格</a>、
+  <a href="https://www.books.com.tw" target="_blank">博客來</a>、
+  <a href="https://readmoo.com" target="_blank">讀墨</a>、
+  <a href="https://www.goodreads.com" target="_blank">Goodreads</a>、
+  <a href="https://www.amazon.com" target="_blank">Amazon</a><br>
+  評分為自動抓取，僅供參考。價格資訊以 Kobo 官網為準。
+</footer>
+
+<script>
+const SPINES = [
+  "#0D9488","#7C3AED","#DB2777","#D97706",
+  "#2563EB","#059669","#DC2626","#9333EA"
+];
+
+const SRC_META = {
+  kobo:       { label: "Kobo",        color: "#0D9488" },
+  books_com:  { label: "博客來",        color: "#0369A1" },
+  readmoo:    { label: "讀墨",         color: "#7C3AED" },
+  goodreads:  { label: "Goodreads",   color: "#D97706" },
+  amazon_com: { label: "Amazon",      color: "#EA580C" },
+};
+
+const WD = ["日","一","二","三","四","五","六"];
+
+/* "M/D（X）" */
+function fmtDate(mSlashD) {
+  if (!mSlashD) return "";
+  const [m, d] = mSlashD.split("/").map(Number);
+  const dt = new Date(new Date().getFullYear(), m - 1, d);
+  return `${m}/${d}（${WD[dt.getDay()]}）`;
+}
+
+function saving(book) {
+  if (!book.kobo_price) return 0;
+  const m = book.kobo_price.match(/[\d,]+/);
+  return m ? parseInt(m[0].replace(",","")) - 99 : 0;
+}
+
+function scClass(s) {
+  if (s == null) return "sc-none";
+  if (s >= 4.3)  return "sc-high";
+  if (s >= 3.8)  return "sc-mid";
+  return "sc-low";
+}
+
+function fmtN(n) {
+  if (!n) return "";
+  if (n >= 10000) return (n/10000).toFixed(1)+"萬";
+  if (n >= 1000)  return (n/1000).toFixed(1)+"k";
+  return String(n);
+}
+
+function ratingRow(srcKey, obj) {
+  const { label, color } = SRC_META[srcKey] || { label: srcKey, color: "#888" };
+  if (!obj || obj.score == null) {
+    return `<div class="r-row">
+      <span class="r-src">${label}</span>
+      <span class="r-na">暫無評分</span>
+    </div>`;
+  }
+  const pct  = Math.round((obj.score / 5) * 100);
+  const warn = obj.count && obj.count < 10
+    ? `<span class="r-warn" title="僅 ${obj.count} 人評分，參考性低">⚠️</span>` : "";
+  const inner = `
+    <span class="r-src">${label}</span>
+    <div class="r-bar-bg"><div class="r-bar" style="width:${pct}%;background:${color}"></div></div>
+    <span class="r-val" style="color:${color}">${obj.score.toFixed(1)}</span>
+    <span class="r-cnt">${fmtN(obj.count)}</span>
+    ${warn}`;
+  if (obj.url) {
+    return `<a class="r-row r-link" href="${obj.url}" target="_blank">${inner}</a>`;
+  }
+  return `<div class="r-row">${inner}</div>`;
+}
+
+// 台灣今日日期，格式 "M/D"（用於判斷今日特價書）
+const todayMD = (() => {
+  const d = new Date(new Date().toLocaleString("en-US", {timeZone: "Asia/Taipei"}));
+  return `${d.getMonth()+1}/${d.getDate()}`;
+})();
+
+let DATA = null;
+
+async function loadData() {
+  try {
+    const res = await fetch("data/latest.json");
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    DATA = await res.json();
+    render();
+  } catch(e) {
+    document.getElementById("grid").innerHTML =
+      `<div class="empty">❌ 書單資料載入失敗<br><small>${e.message}</small></div>`;
+  }
+}
+
+function render() {
+  if (!DATA) return;
+  const sort  = document.getElementById("sortSel").value;
+  const books = [...DATA.books];
+
+  books.sort((a, b) => {
+    if (sort === "avg")       return (b.avg_score ?? 0) - (a.avg_score ?? 0);
+    if (sort === "books_com") return (b.ratings?.books_com?.score  ?? 0) - (a.ratings?.books_com?.score  ?? 0);
+    if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
+    if (sort === "amazon")    return (b.ratings?.amazon_com?.score ?? 0) - (a.ratings?.amazon_com?.score ?? 0);
+    if (sort === "saving")    return saving(b) - saving(a);
+    return 0; // "order"：保持原始順序
+  });
+
+  // 週次 badge
+  document.getElementById("weekBadge").textContent =
+    `第 ${DATA.week} 週 ｜ ${books.length} 本`;
+
+  // 特賣期間
+  const sp = document.getElementById("salePeriod");
+  if (sp && DATA.sale_label) {
+    const tag = DATA.on_sale
+      ? `<span style="color:#4ADE80;margin-left:.4rem">✅ 特賣中</span>`
+      : `<span style="color:#6B7280;margin-left:.4rem">（已結束）</span>`;
+    sp.innerHTML = DATA.sale_label + tag;
+  }
+
+  // 統計 chips
+  const rec     = books.filter(b => (b.avg_score ?? 0) >= 4.3).length;
+  const maxSave = Math.max(0, ...books.map(saving));
+  document.getElementById("chips").innerHTML = `
+    <span class="chip">本週 <b>${books.length}</b> 本</span>
+    <span class="chip">強推（4.3+）<b>${rec}</b> 本</span>
+    ${maxSave > 0 ? `<span class="chip">最高省 <b>NT$${maxSave}</b></span>` : ""}
+    <span class="chip">更新 <b>${(DATA.updated_at||"").slice(0,10)}</b></span>
+  `;
+
+  if (!books.length) {
+    document.getElementById("grid").innerHTML =
+      `<div class="empty">📅 本週書單尚未更新，請週四後再來 🙏</div>`;
+    return;
+  }
+
+  document.getElementById("grid").innerHTML = books.map((book, idx) => {
+    const r     = book.ratings ?? {};
+    const avg   = book.avg_score;
+    const cls   = scClass(avg);
+    const sv    = saving(book);
+    const spine = SPINES[idx % SPINES.length];
+
+    // 原文書名
+    const origTitle = book.original_title
+      ? `<div class="book-original">${book.original_title}</div>` : "";
+
+    // 今日特價判斷
+    const isToday = book.date === todayMD;
+    const todayBanner = isToday
+      ? `<div class="today-banner">🔥 今日特價<span class="today-date">${fmtDate(book.date)}</span></div>`
+      : "";
+    const dateTag = isToday
+      ? ""
+      : (book.date ? `<span class="date-tag">${fmtDate(book.date)}</span>` : "");
+
+    // 評分
+    const ratingsHtml = Object.keys(SRC_META).map(k => ratingRow(k, r[k])).join("");
+
+    // 購買列：價格左、按鈕右
+    const priceInfo = `<div class="price-info">
+      <span class="price-sale">NT$99</span>
+      ${book.kobo_price ? `<span class="price-original">${book.kobo_price}</span>` : ""}
+      ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
+    </div>`;
+    const buyBtn = book.kobo_url
+      ? `<a class="btn-buy" href="${book.kobo_url}" target="_blank">🛒 立即購買</a>`
+      : `<span class="btn-dis">連結待補</span>`;
+
+    return `
+    <div class="${isToday ? 'card card--today' : 'card'}">
+      <div class="spine" style="background:${isToday ? 'var(--sale)' : spine}"></div>
+      <div class="card-body">
+        ${todayBanner}
+        <div class="card-top">
+          ${dateTag}
+          <span class="score-badge ${cls}">${avg != null ? avg.toFixed(2) : "N/A"}</span>
+        </div>
+        <div class="book-title">《${book.title}》</div>
+        ${origTitle}
+        <div class="book-author">${book.author || ""}</div>
+        <div class="ratings">${ratingsHtml}</div>
+        <div class="buy-row">${priceInfo}${buyBtn}</div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+loadData();
+</script>
+</body>
+</html>
