@@ -115,6 +115,16 @@ a.r-link:hover{background:var(--line)}
 .btn-buy:hover{background:#0F766E}
 .btn-dis{flex-shrink:0;font-size:.8rem;padding:.5rem 1rem;border-radius:8px;opacity:.4;cursor:default;background:var(--cream);color:var(--ink3);border:1px solid var(--line)}
 
+/* ── 收藏 / 已讀 ── */
+.card-actions{display:flex;align-items:center;gap:.35rem}
+.mark-btn{background:none;border:1px solid var(--line);border-radius:6px;padding:.15rem .42rem;font-size:.78rem;cursor:pointer;color:var(--ink3);transition:all .15s;line-height:1.3}
+.mark-btn:hover{border-color:var(--ink2);color:var(--ink)}
+.mark-btn.m-saved.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
+.mark-btn.m-read.active{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
+.card--read{opacity:.5}
+.filter-btn{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
+.filter-btn.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
+
 /* ── Empty / Loading ── */
 .empty{grid-column:1/-1;text-align:center;padding:4rem 1rem;color:var(--ink3);font-size:.9rem;line-height:2}
 
@@ -152,6 +162,7 @@ footer a{color:var(--teal);text-decoration:none}
     <option value="amazon">Amazon ↓</option>
     <option value="saving">折扣幅度 ↓</option>
   </select>
+  <button id="filterSavedBtn" class="filter-btn" onclick="toggleFilterSaved()">🔖 只看收藏</button>
   <div class="stat-chips" id="chips"></div>
 </div>
 
@@ -253,6 +264,42 @@ function dateVal(md) {
 }
 const todayVal = dateVal(todayMD);
 
+const LS_SAVED = 'kobo99_saved';
+const LS_READ  = 'kobo99_read';
+let filterSaved = false;
+
+function getSet(key) {
+  try { return new Set(JSON.parse(localStorage.getItem(key) || '[]')); }
+  catch { return new Set(); }
+}
+function saveSet(key, set) {
+  localStorage.setItem(key, JSON.stringify([...set]));
+}
+function esc(s) {
+  return s.replace(/&/g,'&amp;').replace(/"/g,'&quot;');
+}
+function toggleFilterSaved() {
+  filterSaved = !filterSaved;
+  document.getElementById('filterSavedBtn').classList.toggle('active', filterSaved);
+  render();
+}
+function toggleSaved(btn) {
+  const title = btn.dataset.title;
+  const s = getSet(LS_SAVED);
+  s.has(title) ? s.delete(title) : s.add(title);
+  saveSet(LS_SAVED, s);
+  btn.classList.toggle('active', s.has(title));
+  if (filterSaved) render();
+}
+function toggleRead(btn) {
+  const title = btn.dataset.title;
+  const s = getSet(LS_READ);
+  s.has(title) ? s.delete(title) : s.add(title);
+  saveSet(LS_READ, s);
+  btn.classList.toggle('active', s.has(title));
+  btn.closest('.card').classList.toggle('card--read', s.has(title));
+}
+
 let DATA = null;
 
 async function loadData() {
@@ -269,8 +316,11 @@ async function loadData() {
 
 function render() {
   if (!DATA) return;
-  const sort  = document.getElementById("sortSel").value;
-  const books = [...DATA.books];
+  const sort   = document.getElementById("sortSel").value;
+  const saved  = getSet(LS_SAVED);
+  const read   = getSet(LS_READ);
+  let   books  = [...DATA.books];
+  if (filterSaved) books = books.filter(b => saved.has(b.title));
 
   books.sort((a, b) => {
     if (sort === "avg")       return (b.avg_score ?? 0) - (a.avg_score ?? 0);
@@ -327,7 +377,9 @@ function render() {
     const avg   = book.avg_score;
     const cls   = scClass(avg);
     const sv    = saving(book);
-    const spine = SPINES[idx % SPINES.length];
+    const spine   = SPINES[idx % SPINES.length];
+    const isSaved = saved.has(book.title);
+    const isRead  = read.has(book.title);
 
     // 原文書名
     const origTitle = book.original_title
@@ -355,14 +407,21 @@ function render() {
       ? `<a class="btn-buy" href="${book.kobo_url}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
 
+    const markBtns = `
+      <div class="card-actions">
+        <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-title="${esc(book.title)}" title="收藏">🔖</button>
+        <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-title="${esc(book.title)}" title="已讀">✅</button>
+        <span class="score-badge ${cls}">${avg != null ? avg.toFixed(2) : "N/A"}</span>
+      </div>`;
+
     return `
-    <div class="${isToday ? 'card card--today' : 'card'}">
+    <div class="${['card', isToday?'card--today':'', isRead?'card--read':''].filter(Boolean).join(' ')}">
       <div class="spine" style="background:${isToday ? 'var(--sale)' : spine}"></div>
       <div class="card-body">
         ${todayBanner}
         <div class="card-top">
           ${dateTag}
-          <span class="score-badge ${cls}">${avg != null ? avg.toFixed(2) : "N/A"}</span>
+          ${markBtns}
         </div>
         <div class="book-title">《${book.title}》</div>
         ${origTitle}
