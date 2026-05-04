@@ -126,6 +126,18 @@ a.r-link:hover{background:var(--line)}
 .filter-btn{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .filter-btn.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 
+/* ── 日曆 Modal ── */
+.modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:100;align-items:center;justify-content:center;padding:1rem}
+.modal-overlay.open{display:flex}
+.modal-box{background:#fff;border-radius:16px;padding:1.5rem;max-width:420px;width:100%;box-shadow:0 8px 32px rgba(0,0,0,.18)}
+.modal-box h3{font-size:1.05rem;font-weight:700;margin-bottom:.75rem;color:var(--ink)}
+.modal-box p{font-size:.82rem;color:var(--ink2);line-height:1.7;margin-bottom:.35rem}
+.modal-box .steps{background:var(--cream);border-radius:10px;padding:.85rem 1rem;margin:.75rem 0;display:flex;flex-direction:column;gap:.4rem}
+.modal-box .steps p{margin:0;font-size:.8rem}
+.btn-dl{display:block;text-align:center;background:var(--teal);color:#fff;font-size:.9rem;font-weight:600;padding:.65rem 1rem;border-radius:10px;text-decoration:none;margin:.75rem 0;transition:background .15s}
+.btn-dl:hover{background:#0F766E}
+.btn-close{width:100%;padding:.5rem;border:1px solid var(--line);border-radius:8px;background:none;cursor:pointer;font-size:.82rem;color:var(--ink3);margin-top:.25rem}
+
 /* ── Empty / Loading ── */
 .empty{grid-column:1/-1;text-align:center;padding:4rem 1rem;color:var(--ink3);font-size:.9rem;line-height:2}
 
@@ -164,6 +176,7 @@ footer a{color:var(--teal);text-decoration:none}
     <option value="saving">折扣幅度 ↓</option>
   </select>
   <button id="filterSavedBtn" class="filter-btn" onclick="toggleFilterSaved()">🔖 只看收藏</button>
+  <button class="filter-btn" onclick="openCalModal()">📅 日曆</button>
   <div class="stat-chips" id="chips"></div>
 </div>
 
@@ -183,6 +196,22 @@ footer a{color:var(--teal);text-decoration:none}
     👁 累計瀏覽 <span id="busuanzi_value_site_pv">--</span> 次　訪客 <span id="busuanzi_value_site_uv">--</span> 人
   </span>
 </footer>
+
+<div id="calModal" class="modal-overlay" onclick="closeCalModal()">
+  <div class="modal-box" onclick="event.stopPropagation()">
+    <h3>📅 每週特價日曆</h3>
+    <p>下載 .ics 檔案，加入手機或電腦日曆，每本書的特價日當天會自動提醒你。</p>
+    <a class="btn-dl" href="calendar.ics" download>⬇️ 下載本週日曆（.ics）</a>
+    <div class="steps">
+      <p>📱 <b>三星日曆</b>：下載後點開，選擇匯入即可</p>
+      <p>🍎 <b>Apple 日曆</b>：下載後點開，選擇加入日曆</p>
+      <p>📆 <b>Google 日曆</b>（電腦）：設定 → 匯入與匯出 → 匯入</p>
+      <p>💬 <b>LINE 用戶</b>：點右上角 ⋮ → 用外部瀏覽器開啟，再下載</p>
+    </div>
+    <p style="font-size:.75rem;color:var(--ink3)">每週四書單更新後需重新下載一次</p>
+    <button class="btn-close" onclick="closeCalModal()">關閉</button>
+  </div>
+</div>
 
 <script>
 const SPINES = [
@@ -264,6 +293,9 @@ function dateVal(md) {
   return m * 100 + d;
 }
 const todayVal = dateVal(todayMD);
+
+function openCalModal()  { document.getElementById('calModal').classList.add('open'); }
+function closeCalModal() { document.getElementById('calModal').classList.remove('open'); }
 
 const LS_SAVED = 'kobo99_saved';
 const LS_READ  = 'kobo99_read';
@@ -430,15 +462,14 @@ function render() {
 
     const markBtns = `
       <div class="card-actions">
-        <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-title="${esc(book.title)}" title="收藏">🔖</button>
-        <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-title="${esc(book.title)}" title="已讀">✅</button>
+        <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-title="${esc(book.title)}">🔖 收藏</button>
+        <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-title="${esc(book.title)}">✅ 已讀</button>
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
           data-score="${avg != null ? avg.toFixed(2) : 'null'}"
           data-price="${esc(book.kobo_price||'')}"
-          data-url="${esc(book.kobo_url||'')}"
-          title="分享">📤</button>
+          data-url="${esc(book.kobo_url||'')}">📤 分享</button>
         <span class="score-badge ${cls}">${avg != null ? avg.toFixed(2) : "N/A"}</span>
       </div>`;
 
