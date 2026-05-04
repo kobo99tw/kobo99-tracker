@@ -1,60 +1,59 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
-## 已完成（v7 全部上線）
+## 已完成（v9，2026-05-04）
 
-### ✅ 上傳 GitHub + GitHub Pages
-- Repo：https://github.com/kobo99tw/kobo99-tracker
-- 網站：https://kobo99tw.github.io/kobo99-tracker/
-- 資料夾：`docs/`（GitHub Pages /docs 選項）
+### ✅ OG 標籤 + OG 圖片
+- og:title / description / image / url / locale / twitter:card 全部到位
+- og-image.png：1200×630，深色背景橘色 99
 
-### ✅ GitHub Actions 每週自動排程
-- cron：`0 3 * * 4`（每週四 UTC 03:00 = 台灣 11:00）
-- 自動跑爬蟲、commit `docs/data/`、push
+### ✅ Favicon 橘色 99
+- 與 OG 圖統一風格
 
-### ✅ Ko-fi 換上真實帳號
-- `https://ko-fi.com/kobo99tw`
+### ✅ 錯誤回報按鈕
+- header 加 Google 表單連結（ghost button）
 
-### ✅ 今日特價書卡標示
-- 橘色橫幅（含日期）、橘色邊框、今日特價永遠排第一
+### ✅ sitemap lastmod
+- Actions 每週自動更新
 
-### ✅ Goodreads 連結準確性
-- 搜尋頁找連結後跟進書頁解析，確保評分＝連結是同一本書
+### ✅ 收藏 / 已讀標記（localStorage）
+- 🔖 收藏 / ✅ 已讀 按鈕，重整不消失
+- 只看收藏篩選
 
-### ✅ 博客來改為電子書評分
-- 搜尋 `cat/EK`，只取 E 開頭 product ID
+### ✅ 分享按鈕
+- 📤 分享，手機 Web Share API，電腦複製剪貼簿
+
+### ✅ ICS 日曆
+- 爬蟲自動產生 docs/calendar.ics
+- 描述含書名 / 原價 / 購買連結 / 網站回流連結
+- toolbar 📅 日曆按鈕 + modal 分平台說明
+
+### ✅ 按鈕文字標籤
+- 🔖 收藏 / ✅ 已讀 / 📤 分享 加文字，手機也直覺
 
 ---
 
-## 待確認（使用者端）
+## 已完成（v7–v8）
 
-1. **GitHub Pages 啟用**：Settings → Pages → Branch: main / Folder: /docs
-2. **Actions 寫入權限**：Settings → Actions → General → Read and write permissions
-3. **首次手動觸發 Actions**：確認完整流程正常
-
-## 已修正（v8）
-
+### ✅ 上傳 GitHub + GitHub Pages
+### ✅ GitHub Actions 每週自動排程（每週四 11:00）
+### ✅ Ko-fi 真實帳號
+### ✅ 今日特價書卡標示（橘色橫幅 + 邊框）
+### ✅ Goodreads 連結準確性（跟進書頁解析）
+### ✅ 博客來改為電子書評分（cat/EK）
 ### ✅ 書本特價日期從部落格 HTML 解析
-- 同一天多本書不再算錯日期
-
 ### ✅ 書單排序：今日 → 未來 → 過去
-### ✅ 今日特價橫幅字體統一
 ### ✅ favicon 優化、manifest.json 新增
 
 ---
 
 ## 下一步改善方向
 
-### 🟡 爬蟲穩定性
-- Actions 排程 11:00 可能太早（Kobo 部落格發文時間不確定），評估改為 15:00（UTC 07:00）
-- Goodreads/Amazon 仍無書名驗證，搜尋第一筆結果不一定是正確書本
-
-### 🟡 前端功能
-- 書籍收藏 / 已讀標記（localStorage）
-- 「已結束特價」書卡 opacity 降低或移到最後
+### 🟡 待討論
+- **ICS webcal 訂閱**：用 webcal:// 協定讓用戶訂閱一次自動更新，但會減少回訪流量，暫緩
 
 ### 🟢 長期
 - 評分歷史趨勢（多週資料比較）
-- Google Search Console 提交 sitemap
+- Goodreads/Amazon 書名驗證（目前無，影響少數書，低優先）
 
 ---
 

@@ -1,5 +1,32 @@
 # CHANGELOG
 
+## [2026-05-04 v9] — OG 標籤、日曆、收藏已讀、分享、UI 強化
+
+### 前端（docs/index.html）
+
+- **OG 標籤**：新增 og:title / og:description / og:image / og:url / og:locale / twitter:card，分享到 LINE/FB 有預覽
+- **OG 圖片**：`docs/og-image.png`（1200×630，Gemini 設計，深色背景橘色 99）
+- **Favicon**：`99` 改橘色（#F97316），與 OG 圖統一風格
+- **錯誤回報按鈕**：header 加入「📝 回報錯誤」Google 表單連結（ghost button 樣式）
+- **收藏 / 已讀標記**：每張書卡「🔖 收藏」「✅ 已讀」按鈕，localStorage 儲存，重整不消失；已讀書卡 opacity 0.5
+- **只看收藏篩選**：toolbar 加「🔖 只看收藏」切換按鈕
+- **分享按鈕**：「📤 分享」，手機用 Web Share API，電腦自動複製格式化文字到剪貼簿
+- **按鈕加文字標籤**：三個 mark 按鈕改為「🔖 收藏 / ✅ 已讀 / 📤 分享」，手機也看得懂（移除 title tooltip）
+- **日曆 modal**：toolbar 加「📅 日曆」按鈕，點開顯示下載說明（三星/Apple/Google/LINE 分平台）
+
+### 爬蟲（scraper/scrape.py）
+
+- **ICS 日曆產生**：新增 `generate_ics()`，爬蟲跑完自動輸出 `docs/calendar.ics`
+- **ICS 格式**：RFC 5545 標準，全天事件，75 octet 折行，支援 Google/Apple/Outlook 訂閱
+- **ICS 描述**：書名 / 原價 / 購買連結 / 查看當週各書評分（含網站回流連結）
+
+### SEO / 部署
+
+- **sitemap.xml**：加入 `<lastmod>`，Actions 每週更新書單時自動同步更新日期
+- **Google Search Console**：sitemap 提交、重新讀取
+
+---
+
 ## [2026-05-04 v8] — 日期修正、排序優化、UI 細節
 
 ### 爬蟲（scraper/scrape.py）
