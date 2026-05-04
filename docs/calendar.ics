@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kobo99-tracker//NONSGML v1.0//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kobo 每週 99 特價書單
+X-WR-CALDESC:每週 Kobo 99 元電子書特價
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:《毒梟烏托邦：解密逃出中情局掌握的亞洲販毒集
+ 團》NT$99 特價
+DESCRIPTION:⭐ 4.33 | 省 NT$377\n👉 https://www.kobo.com/tw/zh/ebook/Ae
+ Eb58aKMjGn0Az3MePPkg?sId=445d20a7-e5ef-46ce-9e04-218613a0f674&ssId=sLrART
+ jPwpR55KeiihABK&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_2
+ 0260430
+URL:https://www.kobo.com/tw/zh/ebook/AeEb58aKMjGn0Az3MePPkg?sId=445d20a7-e5
+ ef-46ce-9e04-218613a0f674&ssId=sLrARTjPwpR55KeiihABK&utm_source=twblog&ut
+ m_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-01@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:《筆記的魔力：最強深度思考筆記術 打造你攀登人
+ 生曲線高峰的行動力，高效自我進化》NT$99 特價
+DESCRIPTION:⭐ 3.85 | 省 NT$153\n👉 https://www.kobo.com/tw/zh/ebook/lg
+ rPeUeOdzGZZYnHT9t52Q?sId=cae8b36d-a387-4563-9859-5d780878ce82&ssId=pXP1xB
+ jIZTSUnlwOvQmkV&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=c
+ oin99_20260430
+URL:https://www.kobo.com/tw/zh/ebook/lgrPeUeOdzGZZYnHT9t52Q?sId=cae8b36d-a3
+ 87-4563-9859-5d780878ce82&ssId=pXP1xBjIZTSUnlwOvQmkV&cPos=3&utm_source=tw
+ blog&utm_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-02@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:《金钱博弈：重振韩国第一银行内幕》NT$99 特價
+DESCRIPTION:⭐ 4.43 | 省 NT$228\n👉 https://www.kobo.com/tw/zh/ebook/7s
+ ApXbWPxzyHyyecjQiB7A?sId=b7827596-0a59-4656-a747-7caad3157e85&ssId=7tuK1P
+ j2_I8ez-E4GGo_4&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=c
+ oin99_20260430
+URL:https://www.kobo.com/tw/zh/ebook/7sApXbWPxzyHyyecjQiB7A?sId=b7827596-0a
+ 59-4656-a747-7caad3157e85&ssId=7tuK1Pj2_I8ez-E4GGo_4&cPos=8&utm_source=tw
+ blog&utm_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-03@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:《神曲》NT$99 特價
+DESCRIPTION:⭐ 4.0 | 省 NT$159\n👉 https://www.kobo.com/tw/zh/ebook/iDu
+ ViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b8b-4052-8f16-62ec019012ed&ssId=7y1b7pO
+ dwU9vt_LWumzhE&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20
+ 260430
+URL:https://www.kobo.com/tw/zh/ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b
+ 8b-4052-8f16-62ec019012ed&ssId=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&ut
+ m_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-04@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:《品嘗的科學：普立茲獎得主教你用腦品出好滋味
+ （三版）》NT$99 特價
+DESCRIPTION:⭐ 3.54 | 省 NT$100\n👉 https://www.kobo.com/tw/zh/ebook/7o
+ 3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c54e-4001-8dcb-d39913a1dd14&ssId=G2Kw0m
+ lYy2sq8-10ASW4B&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=c
+ oin99_20260430
+URL:https://www.kobo.com/tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c5
+ 4e-4001-8dcb-d39913a1dd14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=tw
+ blog&utm_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-05@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:《問題不是從你開始的：以核心語言方法探索並療
+ 癒家族創傷對於身心健康的影響》NT$99 特價
+DESCRIPTION:⭐ 3.55 | 省 NT$181\n👉 https://www.kobo.com/tw/zh/ebook/HG
+ ex0KgpWTikrLj3J-9kgw?sId=8876871a-8e85-4716-9ef0-999dad999b82&ssId=dm7-BR
+ hjSWTm3KFVqhLHp&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=c
+ oin99_20260430
+URL:https://www.kobo.com/tw/zh/ebook/HGex0KgpWTikrLj3J-9kgw?sId=8876871a-8e
+ 85-4716-9ef0-999dad999b82&ssId=dm7-BRhjSWTm3KFVqhLHp&cPos=6&utm_source=tw
+ blog&utm_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-06@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:《帶爸媽去日本自由行：不趕路、不排隊、多詢問
+ 、多拍照、多休息，掌握二不三多原則，讓孝親也能輕
+ 鬆玩》NT$99 特價
+DESCRIPTION:⭐ 2.0 | 省 NT$195\n👉 https://www.kobo.com/tw/zh/ebook/wYt
+ B0QOTYzSstrzl8VL2QQ?sId=e82e4292-d44e-45e9-93cf-cc278c8c4a69&ssId=ko3mini
+ osbXP8PZluhcxI&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20
+ 260430
+URL:https://www.kobo.com/tw/zh/ebook/wYtB0QOTYzSstrzl8VL2QQ?sId=e82e4292-d4
+ 4e-45e9-93cf-cc278c8c4a69&ssId=ko3miniosbXP8PZluhcxI&utm_source=twblog&ut
+ m_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-07@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:《失智行為說明書：到底是失智？還是老化？改善
+ 問題行為同時改善生理現象，讓照顧變輕鬆！》NT$99 特
+ 價
+DESCRIPTION:⭐ 3.76 | 省 NT$181\n👉 https://www.kobo.com/tw/zh/ebook/K-
+ PXT5OlQDin5aEFM4rvgw?sId=b799c82c-d7c5-46c3-b97b-5cd40f90e95e&ssId=zHjRr0
+ qhx9FEynspFEb20&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=c
+ oin99_20260430
+URL:https://www.kobo.com/tw/zh/ebook/K-PXT5OlQDin5aEFM4rvgw?sId=b799c82c-d7
+ c5-46c3-b97b-5cd40f90e95e&ssId=zHjRr0qhx9FEynspFEb20&cPos=7&utm_source=tw
+ blog&utm_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-08@kobo99-tracker
+DTSTAMP:20260504T120605Z
+END:VEVENT
+END:VCALENDAR

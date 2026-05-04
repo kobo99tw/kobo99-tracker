@@ -6,7 +6,7 @@
   "sale_start": "2026-04-30",
   "sale_end": "2026-05-07",
   "on_sale": true,
-  "updated_at": "2026-05-03T15:23:33.234494+08:00",
+  "updated_at": "2026-05-04T20:00:35.676680+08:00",
   "books": [
     {
       "title": "毒梟烏托邦：解密逃出中情局掌握的亞洲販毒集團",
@@ -33,7 +33,7 @@
         "books_com": {
           "score": 5.0,
           "count": 5,
-          "url": "https://www.books.com.tw/products/0011001938"
+          "url": "https://www.books.com.tw/products/E050236310"
         },
         "readmoo": {
           "score": 4.7,
@@ -42,8 +42,8 @@
         },
         "goodreads": {
           "score": 4.33,
-          "count": 999,
-          "url": "https://www.goodreads.com/book/show/145624870-narcotopia?from_search=true&from_srp=true&qid=mGNRBwYdYF&rank=1",
+          "count": 331001,
+          "url": "https://www.goodreads.com/book/show/145624870-narcotopia?from_search=true&from_srp=true&qid=nuHcKAGf93&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -52,7 +52,7 @@
           "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B0C5G8Z9RY/ref=sr_1_1"
         }
       },
-      "avg_score": 4.37
+      "avg_score": 4.33
     },
     {
       "title": "筆記的魔力：最強深度思考筆記術 打造你攀登人生曲線高峰的行動力，高效自我進化",
@@ -79,7 +79,7 @@
         "books_com": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.books.com.tw/products/0010971378"
+          "url": "https://www.books.com.tw/products/E050184903"
         },
         "readmoo": {
           "score": 4.4,
@@ -88,8 +88,8 @@
         },
         "goodreads": {
           "score": 3.32,
-          "count": 19,
-          "url": "https://www.goodreads.com/book/show/53496843--the-magic-of-memos--newspicks-book?from_search=true&from_srp=true&qid=7prYTgpRC1&rank=1",
+          "count": 3219,
+          "url": "https://www.goodreads.com/book/show/53496843--the-magic-of-memos--newspicks-book?from_search=true&from_srp=true&qid=1ojOgSTjlW&rank=1",
           "note": "title+author"
         },
         "amazon_com": {
@@ -98,7 +98,7 @@
           "url": "https://www.amazon.co.jp/-/zh/dp/4344034082/ref=sr_1_1"
         }
       },
-      "avg_score": 4.2
+      "avg_score": 3.85
     },
     {
       "title": "金钱博弈：重振韩国第一银行内幕",
@@ -134,8 +134,8 @@
         },
         "goodreads": {
           "score": 4.43,
-          "count": 283,
-          "url": "https://www.goodreads.com/book/show/52810146-money-games?from_search=true&from_srp=true&qid=rMlGBkZtFs&rank=1",
+          "count": 43283,
+          "url": "https://www.goodreads.com/book/show/52810146-money-games?from_search=true&from_srp=true&qid=9bqhkM7Nra&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -144,7 +144,7 @@
           "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B09DJ9DW1P/ref=sr_1_1"
         }
       },
-      "avg_score": 4.48
+      "avg_score": 4.43
     },
     {
       "title": "神曲",
@@ -165,13 +165,13 @@
       "ratings": {
         "kobo": {
           "score": 4.0,
-          "count": 3,
+          "count": 4,
           "url": "https://www.kobo.com/tw/zh/ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b8b-4052-8f16-62ec019012ed&ssId=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430"
         },
         "books_com": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0010637939"
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "readmoo": {
           "score": null,
@@ -190,7 +190,7 @@
           "url": ""
         }
       },
-      "avg_score": 3.75
+      "avg_score": 4.0
     },
     {
       "title": "品嘗的科學：普立茲獎得主教你用腦品出好滋味（三版）",
@@ -217,7 +217,7 @@
         "books_com": {
           "score": 3.5,
           "count": 1,
-          "url": "https://www.books.com.tw/products/0010989898"
+          "url": "https://www.books.com.tw/products/E050224440"
         },
         "readmoo": {
           "score": 4.5,
@@ -226,8 +226,8 @@
         },
         "goodreads": {
           "score": 3.54,
-          "count": 466,
-          "url": "https://www.goodreads.com/book/show/21412374-tasty?from_search=true&from_srp=true&qid=qxGmuRZxPT&rank=1",
+          "count": 54466,
+          "url": "https://www.goodreads.com/book/show/21412374-tasty?from_search=true&from_srp=true&qid=kPVKRrHNHY&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -236,7 +236,7 @@
           "url": "https://www.amazon.com/-/zh_TW/Tasty-Art-Science-What-Eat/dp/1451685017/ref=sr_1_1"
         }
       },
-      "avg_score": 3.64
+      "avg_score": 3.54
     },
     {
       "title": "問題不是從你開始的：以核心語言方法探索並療癒家族創傷對於身心健康的影響",
@@ -263,7 +263,7 @@
         "books_com": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.books.com.tw/products/0010977813"
+          "url": "https://www.books.com.tw/products/E050197986"
         },
         "readmoo": {
           "score": null,
@@ -272,17 +272,17 @@
         },
         "goodreads": {
           "score": 3.55,
-          "count": 40112,
-          "url": "https://www.goodreads.com/book/show/26026054-it-didn-t-start-with-you?from_search=true&from_srp=true&qid=ixlwNFRvHy&rank=1",
+          "count": 5540129,
+          "url": "https://www.goodreads.com/book/show/26026054-it-didn-t-start-with-you?from_search=true&from_srp=true&qid=EHdSKLllgl&rank=1",
           "note": "title"
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 13708,
+          "count": 13715,
           "url": "https://www.amazon.com/-/zh_TW/%E9%80%99%E4%B8%8D%E6%98%AF%E4%BD%A0%E7%9A%84%E9%8C%AF%EF%BC%9A-%E6%B5%B7%E9%9D%88%E6%A0%BC%E5%AE%B6%E5%BA%AD%E5%89%B5%E5%82%B7%E7%99%82%E6%84%88%E4%B9%8B%E9%81%93-Didnt-Start-You/dp/1101980389/ref=sr_1_1"
         }
       },
-      "avg_score": 3.82
+      "avg_score": 3.55
     },
     {
       "title": "帶爸媽去日本自由行：不趕路、不排隊、多詢問、多拍照、多休息，掌握二不三多原則，讓孝親也能輕鬆玩",
@@ -292,7 +292,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/wYtB0QOTYzSstrzl8VL2QQ?sId=e82e4292-d44e-45e9-93cf-cc278c8c4a69&ssId=ko3miniosbXP8PZluhcxI&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
       "kobo_price": "NT$294",
       "sale_price": "NT$99",
-      "date": "5/5",
+      "date": "5/6",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-07",
       "on_sale": true,
@@ -309,7 +309,7 @@
         "books_com": {
           "score": 2.0,
           "count": 1,
-          "url": "https://www.books.com.tw/products/0010980116"
+          "url": "https://www.books.com.tw/products/E050218335"
         },
         "readmoo": {
           "score": null,
@@ -363,18 +363,18 @@
           "url": "https://readmoo.com/book/210362986000101"
         },
         "goodreads": {
-          "score": 4.5,
-          "count": 4,
-          "url": "https://www.goodreads.com/book/show/157355743-16?from_search=true&from_srp=true&qid=KgjlJLa8TC&rank=1",
+          "score": 3.25,
+          "count": 254,
+          "url": "https://www.goodreads.com/book/show/58471502-55?from_search=true&from_srp=true&qid=peC6TVNoIU&rank=1",
           "note": "author"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.3,
+          "count": 243,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4897754488/ref=sr_1_1"
         }
       },
-      "avg_score": 4.29
+      "avg_score": 3.76
     }
   ]
 }

@@ -660,14 +660,6 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
         "X-WR-TIMEZONE:Asia/Taipei",
     ]
 
-    SRC_LABELS = [
-        ("kobo",       "Kobo"),
-        ("books_com",  "博客來"),
-        ("readmoo",    "讀墨"),
-        ("goodreads",  "Goodreads"),
-        ("amazon_com", "Amazon"),
-    ]
-
     for idx, book in enumerate(books, 1):
         if not book.get("date"):
             continue
@@ -688,25 +680,16 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
         url     = book.get("kobo_url", "")
         avg     = book.get("avg_score")
 
-        summary = _ics_escape(
-            f"《{title}》NT$99 特價" + (f"（原價 {price}）" if price else "")
-        )
+        summary = _ics_escape(f"《{title}》NT$99 特價")
 
-        desc_parts = []
-        if author:
-            desc_parts.append(f"作者：{author}")
-        if avg is not None:
-            desc_parts.append(f"綜合評分：{avg}")
-        for src, label in SRC_LABELS:
-            r = book.get("ratings", {}).get(src, {})
-            s = r.get("score")
-            c = r.get("count", 0)
-            if s is not None:
-                desc_parts.append(f"{label}：{s}" + (f"（{c} 人）" if c else ""))
-        if url:
-            desc_parts.append(f"購買連結：{url}")
+        sv_match = re.search(r"[\d,]+", price) if price else None
+        saving   = int(sv_match.group().replace(",", "")) - 99 if sv_match else 0
 
-        description = "\\n".join(_ics_escape(p) for p in desc_parts)
+        line1 = ("⭐ " + str(avg) if avg is not None else "⭐ -")
+        if saving > 0:
+            line1 += f" | 省 NT${saving}"
+        line2 = f"👉 {url}" if url else ""
+        description = "\\n".join(_ics_escape(p) for p in [line1, line2] if p)
         uid = f"kobo99-{year}-w{week:02d}-{idx:02d}@kobo99-tracker"
 
         lines += [
