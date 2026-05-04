@@ -680,16 +680,15 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
         url     = book.get("kobo_url", "")
         avg     = book.get("avg_score")
 
-        summary = _ics_escape(f"《{title}》NT$99 特價")
+        summary = _ics_escape(f"《{title}》")
 
-        sv_match = re.search(r"[\d,]+", price) if price else None
-        saving   = int(sv_match.group().replace(",", "")) - 99 if sv_match else 0
-
-        line1 = ("⭐ " + str(avg) if avg is not None else "⭐ -")
-        if saving > 0:
-            line1 += f" | 省 NT${saving}"
-        line2 = f"👉 {url}" if url else ""
-        description = "\\n".join(_ics_escape(p) for p in [line1, line2] if p)
+        desc_parts = [
+            f"書名: 《{title}》",
+            f"原價: {price}" if price else "",
+            f"連結: {url}" if url else "",
+            "查看當週各書評分: https://kobo99tw.github.io/kobo99-tracker/",
+        ]
+        description = "\\n".join(_ics_escape(p) for p in desc_parts if p)
         uid = f"kobo99-{year}-w{week:02d}-{idx:02d}@kobo99-tracker"
 
         lines += [

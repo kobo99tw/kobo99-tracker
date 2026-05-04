@@ -6,7 +6,7 @@
   "sale_start": "2026-04-30",
   "sale_end": "2026-05-07",
   "on_sale": true,
-  "updated_at": "2026-05-04T20:00:35.676680+08:00",
+  "updated_at": "2026-05-04T20:20:58.600260+08:00",
   "books": [
     {
       "title": "毒梟烏托邦：解密逃出中情局掌握的亞洲販毒集團",
@@ -43,7 +43,7 @@
         "goodreads": {
           "score": 4.33,
           "count": 331001,
-          "url": "https://www.goodreads.com/book/show/145624870-narcotopia?from_search=true&from_srp=true&qid=nuHcKAGf93&rank=1",
+          "url": "https://www.goodreads.com/book/show/145624870-narcotopia?from_search=true&from_srp=true&qid=KH16mzSd5N&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -89,7 +89,7 @@
         "goodreads": {
           "score": 3.32,
           "count": 3219,
-          "url": "https://www.goodreads.com/book/show/53496843--the-magic-of-memos--newspicks-book?from_search=true&from_srp=true&qid=1ojOgSTjlW&rank=1",
+          "url": "https://www.goodreads.com/book/show/53496843--the-magic-of-memos--newspicks-book?from_search=true&from_srp=true&qid=lF8rFhM8JX&rank=1",
           "note": "title+author"
         },
         "amazon_com": {
@@ -135,7 +135,7 @@
         "goodreads": {
           "score": 4.43,
           "count": 43283,
-          "url": "https://www.goodreads.com/book/show/52810146-money-games?from_search=true&from_srp=true&qid=9bqhkM7Nra&rank=1",
+          "url": "https://www.goodreads.com/book/show/52810146-money-games?from_search=true&from_srp=true&qid=x3Kieml9Te&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -227,7 +227,7 @@
         "goodreads": {
           "score": 3.54,
           "count": 54466,
-          "url": "https://www.goodreads.com/book/show/21412374-tasty?from_search=true&from_srp=true&qid=kPVKRrHNHY&rank=1",
+          "url": "https://www.goodreads.com/book/show/21412374-tasty?from_search=true&from_srp=true&qid=xlwcOUg2eH&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -273,7 +273,7 @@
         "goodreads": {
           "score": 3.55,
           "count": 5540129,
-          "url": "https://www.goodreads.com/book/show/26026054-it-didn-t-start-with-you?from_search=true&from_srp=true&qid=EHdSKLllgl&rank=1",
+          "url": "https://www.goodreads.com/book/show/26026054-it-didn-t-start-with-you?from_search=true&from_srp=true&qid=KG4AlmJy0E&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -363,9 +363,9 @@
           "url": "https://readmoo.com/book/210362986000101"
         },
         "goodreads": {
-          "score": 3.25,
-          "count": 254,
-          "url": "https://www.goodreads.com/book/show/58471502-55?from_search=true&from_srp=true&qid=peC6TVNoIU&rank=1",
+          "score": 4.5,
+          "count": 504,
+          "url": "https://www.goodreads.com/book/show/157355743-16?from_search=true&from_srp=true&qid=6SpZDNnBcg&rank=1",
           "note": "author"
         },
         "amazon_com": {
@@ -374,7 +374,7 @@
           "url": "https://www.amazon.co.jp/-/zh/dp/4897754488/ref=sr_1_1"
         }
       },
-      "avg_score": 3.76
+      "avg_score": 4.43
     }
   ]
 }
