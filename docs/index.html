@@ -122,6 +122,7 @@ a.r-link:hover{background:var(--line)}
 .mark-btn.m-saved.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 .mark-btn.m-read.active{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
 .card--read{opacity:.5}
+.mark-btn.m-share:hover{border-color:#2563EB;color:#2563EB}
 .filter-btn{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .filter-btn.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 
@@ -291,6 +292,26 @@ function toggleSaved(btn) {
   btn.classList.toggle('active', s.has(title));
   if (filterSaved) render();
 }
+async function shareBook(btn) {
+  const d = btn.dataset;
+  const text = [
+    `📚《${d.title}》`,
+    d.author ? `✍️ ${d.author}` : '',
+    d.score !== 'null' ? `⭐ 綜合評分 ${d.score}` : '',
+    d.price ? `💰 Kobo 特價 NT$99（原價 ${d.price}）` : '💰 Kobo 特價 NT$99',
+    d.url ? `🔗 ${d.url}` : '',
+  ].filter(Boolean).join('\n');
+
+  if (navigator.share) {
+    await navigator.share({ title: `《${d.title}》`, text, url: d.url || '' });
+  } else {
+    await navigator.clipboard.writeText(text);
+    const orig = btn.textContent;
+    btn.textContent = '✓';
+    setTimeout(() => btn.textContent = orig, 1500);
+  }
+}
+
 function toggleRead(btn) {
   const title = btn.dataset.title;
   const s = getSet(LS_READ);
@@ -411,6 +432,13 @@ function render() {
       <div class="card-actions">
         <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-title="${esc(book.title)}" title="收藏">🔖</button>
         <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-title="${esc(book.title)}" title="已讀">✅</button>
+        <button class="mark-btn m-share" onclick="shareBook(this)"
+          data-title="${esc(book.title)}"
+          data-author="${esc(book.author||'')}"
+          data-score="${avg != null ? avg.toFixed(2) : 'null'}"
+          data-price="${esc(book.kobo_price||'')}"
+          data-url="${esc(book.kobo_url||'')}"
+          title="分享">📤</button>
         <span class="score-badge ${cls}">${avg != null ? avg.toFixed(2) : "N/A"}</span>
       </div>`;
 
