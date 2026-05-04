@@ -618,6 +618,121 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
 
 
 # ══════════════════════════════════════════════════════════════════
+# ICS 日曆產生
+# ══════════════════════════════════════════════════════════════════
+
+def _ics_escape(text: str) -> str:
+    text = text.replace("\\", "\\\\")
+    text = text.replace(";",  "\\;")
+    text = text.replace(",",  "\\,")
+    return text
+
+
+def _ics_fold(line: str) -> str:
+    """RFC 5545：每行不超過 75 octets，超出時以 CRLF + SPACE 折行。"""
+    result, current, cur_len, first = [], [], 0, True
+    for ch in line:
+        ch_len = len(ch.encode("utf-8"))
+        limit  = 75 if first else 74
+        if cur_len + ch_len > limit:
+            result.append("".join(current))
+            current, cur_len, first = [" ", ch], 1 + ch_len, False
+        else:
+            current.append(ch)
+            cur_len += ch_len
+    if current:
+        result.append("".join(current))
+    return "\r\n".join(result)
+
+
+def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> None:
+    ics_path = Path(__file__).parent.parent / "docs" / "calendar.ics"
+    now_utc  = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//kobo99-tracker//NONSGML v1.0//ZH",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:Kobo 每週 99 特價書單",
+        "X-WR-CALDESC:每週 Kobo 99 元電子書特價",
+        "X-WR-TIMEZONE:Asia/Taipei",
+    ]
+
+    SRC_LABELS = [
+        ("kobo",       "Kobo"),
+        ("books_com",  "博客來"),
+        ("readmoo",    "讀墨"),
+        ("goodreads",  "Goodreads"),
+        ("amazon_com", "Amazon"),
+    ]
+
+    for idx, book in enumerate(books, 1):
+        if not book.get("date"):
+            continue
+        try:
+            m_num, d_num = map(int, book["date"].split("/"))
+            yr = sale_start.year
+            if m_num < sale_start.month and (sale_start.month - m_num) > 6:
+                yr += 1  # 跨年修正
+            book_date = Date(yr, m_num, d_num)
+        except Exception:
+            continue
+
+        dtstart = book_date.strftime("%Y%m%d")
+        dtend   = (book_date + timedelta(days=1)).strftime("%Y%m%d")
+        title   = book.get("title", "")
+        author  = book.get("author", "")
+        price   = book.get("kobo_price", "")
+        url     = book.get("kobo_url", "")
+        avg     = book.get("avg_score")
+
+        summary = _ics_escape(
+            f"《{title}》NT$99 特價" + (f"（原價 {price}）" if price else "")
+        )
+
+        desc_parts = []
+        if author:
+            desc_parts.append(f"作者：{author}")
+        if avg is not None:
+            desc_parts.append(f"綜合評分：{avg}")
+        for src, label in SRC_LABELS:
+            r = book.get("ratings", {}).get(src, {})
+            s = r.get("score")
+            c = r.get("count", 0)
+            if s is not None:
+                desc_parts.append(f"{label}：{s}" + (f"（{c} 人）" if c else ""))
+        if url:
+            desc_parts.append(f"購買連結：{url}")
+
+        description = "\\n".join(_ics_escape(p) for p in desc_parts)
+        uid = f"kobo99-{year}-w{week:02d}-{idx:02d}@kobo99-tracker"
+
+        lines += [
+            "BEGIN:VEVENT",
+            f"DTSTART;VALUE=DATE:{dtstart}",
+            f"DTEND;VALUE=DATE:{dtend}",
+            f"SUMMARY:{summary}",
+            f"DESCRIPTION:{description}",
+        ]
+        if url:
+            lines.append(f"URL:{url}")
+        lines += [
+            f"UID:{uid}",
+            f"DTSTAMP:{now_utc}",
+            "END:VEVENT",
+        ]
+
+    lines.append("END:VCALENDAR")
+
+    content = "\r\n".join(_ics_fold(line) for line in lines) + "\r\n"
+    with open(ics_path, "w", encoding="utf-8", newline="") as f:
+        f.write(content)
+    print(f"\n📅 日曆已產生：docs/calendar.ics（{len(books)} 個事件）")
+
+
+# ══════════════════════════════════════════════════════════════════
 # 主流程
 # ══════════════════════════════════════════════════════════════════
 
@@ -768,6 +883,8 @@ def run(year=None, week=None):
     for path in [DATA_DIR / f"books-{y}-w{w:02d}.json", DATA_DIR / "latest.json"]:
         with open(path, "w", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
+
+    generate_ics(books, y, w, sale_start)
 
     # 摘要
     total_sec = int(time.time() - t_start)
