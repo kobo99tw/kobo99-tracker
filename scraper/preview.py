@@ -54,7 +54,8 @@ def api_run():
             yield "data: ⚠️ 已有抓取任務執行中，請等候完成\n\n"
             return
         _running = True
-        cmd = [sys.executable, str(SCRAPE_PY)]
+        # -u：強制 Python 不緩衝 stdout，才能逐行串流
+        cmd = [sys.executable, "-u", str(SCRAPE_PY)]
         if url:
             cmd += ["--url", url]
         env = {**os.environ, "PYTHONUNBUFFERED": "1"}
@@ -65,9 +66,13 @@ def api_run():
                 encoding="utf-8", errors="replace",
                 env=env, cwd=str(ROOT_DIR),
             )
-            for line in proc.stdout:
-                yield f"data: {line.rstrip()}\n\n"
-            proc.wait()
+            # readline() 逐行讀，不等 buffer 滿才輸出
+            while True:
+                line = proc.stdout.readline()
+                if line:
+                    yield f"data: {line.rstrip()}\n\n"
+                elif proc.poll() is not None:
+                    break
             tag = "DONE" if proc.returncode == 0 else "ERROR"
             yield f"data: __{tag}__\n\n"
         except Exception as e:
@@ -188,8 +193,8 @@ function startFetch() {
       btn.textContent = '▶ 開始抓取';
       setStatus('err', '失敗 ✗');
     } else {
-      log.textContent += (log.textContent === '（尚未執行）' ? '' : '\n') + d;
-      if (log.textContent.startsWith('\n')) log.textContent = log.textContent.slice(1);
+      const placeholder = log.textContent === '（尚未執行）' || log.textContent === '（已清除）';
+      log.textContent = placeholder ? d : log.textContent + '\n' + d;
       log.scrollTop = log.scrollHeight;
     }
   };
