@@ -159,14 +159,23 @@ def _calc_current_yw() -> tuple[int, int]:
     return cal.year, cal.week
 
 
-def _resolve_weekly(br: Browser, year, week) -> tuple[int, int, str]:
+def _resolve_weekly(br: Browser, year, week, url=None) -> tuple[int, int, str]:
     """決定要抓的年份、週次與部落格 URL。
+    - 有指定 url：直接用該 URL，從 URL 或公式取 year/week
     - 有指定 year/week：直接用公式
     - 未指定：從部落格主頁找書單文章，優先比對「今天在日期範圍內」
       方法A（主）：標題含「一週99書單」且有 （M/D-M/D） 日期範圍
       方法B（輔）：URL 格式 /blog/weekly-dd99-YYYY-wNN
       以上都沒找到才用公式 fallback
     """
+    if url:
+        full = url.split("?")[0]
+        m = re.search(r"weekly-dd99-(\d{4})-w(\d+)", full)
+        if m:
+            return int(m.group(1)), int(m.group(2)), full
+        y2, w2 = _calc_current_yw()
+        print(f"   URL 無法解析週次，以公式補 year/week：{y2}-W{w2}")
+        return y2, w2, full
     if year and week:
         return year, week, get_weekly_url(year, week)
 
@@ -826,7 +835,7 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
 # 主流程
 # ══════════════════════════════════════════════════════════════════
 
-def run(year=None, week=None):
+def run(year=None, week=None, url=None):
     now    = datetime.now(TW_TZ)
     today  = now.date()
     t_start = time.time()
@@ -840,7 +849,7 @@ def run(year=None, week=None):
     with Browser() as br:
 
         # Step 1a：決定本週 URL（主頁發現 → fallback 公式）
-        y, w, blog_url = _resolve_weekly(br, year, week)
+        y, w, blog_url = _resolve_weekly(br, year, week, url)
 
         sale_start = Date.fromisocalendar(y, w, 4)          # 週四
         sale_end   = sale_start + timedelta(days=6)          # 下週三
@@ -982,6 +991,10 @@ def run(year=None, week=None):
 
 
 if __name__ == "__main__":
-    y = int(sys.argv[1]) if len(sys.argv) > 1 else None
-    w = int(sys.argv[2]) if len(sys.argv) > 2 else None
-    run(y, w)
+    import argparse
+    ap = argparse.ArgumentParser(description="Kobo99 爬蟲")
+    ap.add_argument("year", nargs="?", type=int, help="ISO 年份")
+    ap.add_argument("week", nargs="?", type=int, help="ISO 週次")
+    ap.add_argument("--url", default=None, help="直接指定部落格文章 URL")
+    args = ap.parse_args()
+    run(args.year, args.week, args.url)
