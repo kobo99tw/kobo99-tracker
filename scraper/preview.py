@@ -7,7 +7,7 @@ Kobo99 本機預覽伺服器
 import sys, os, subprocess, webbrowser, threading
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from flask import Flask, request, send_from_directory, jsonify
+from flask import Flask, request, send_from_directory, jsonify, make_response
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -44,11 +44,14 @@ def admin():
     last_thu = today - timedelta(days=days)
     cal = last_thu.isocalendar()
     suggested = f"https://www.kobo.com/zh/blog/weekly-dd99-{cal.year}-w{cal.week}"
-    return ADMIN_HTML.replace("{{SUGGESTED_URL}}", suggested)
+    resp = make_response(ADMIN_HTML.replace("{{SUGGESTED_URL}}", suggested))
+    resp.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    resp.headers["Pragma"] = "no-cache"
+    return resp
 
 
-# ── API：啟動爬蟲（背景 thread）──────────────────────────────
-@app.route("/api/run", methods=["POST"])
+# ── API：啟動爬蟲（GET，背景 thread）────────────────────────
+@app.route("/api/run")
 def api_run():
     global _running, _log, _status
     with _lock:
@@ -58,8 +61,7 @@ def api_run():
         _log     = []
         _status  = "running"
 
-    data = request.get_json(silent=True) or {}
-    url  = (data.get("url") or "").strip()
+    url = request.args.get("url", "").strip()
 
     def worker():
         global _running, _status
@@ -202,11 +204,8 @@ function startFetch() {
   document.getElementById('log').textContent = '⏳ 啟動中…';
   badge('running', '抓取中');
 
-  fetch('/api/run', {
-    method: 'POST',
-    headers: {'Content-Type': 'application/json'},
-    body: JSON.stringify({ url })
-  })
+  const qs = url ? '?url=' + encodeURIComponent(url) : '';
+  fetch('/api/run' + qs)
   .then(r => r.json())
   .then(data => {
     if (data.error === 'already_running') {
