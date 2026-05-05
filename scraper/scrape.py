@@ -162,29 +162,85 @@ def _calc_current_yw() -> tuple[int, int]:
 def _resolve_weekly(br: Browser, year, week) -> tuple[int, int, str]:
     """決定要抓的年份、週次與部落格 URL。
     - 有指定 year/week：直接用公式
-    - 未指定：先從部落格主頁找最新 weekly-dd99 文章，找不到才 fallback 公式
+    - 未指定：從部落格主頁找書單文章，優先比對「今天在日期範圍內」
+      方法A（主）：標題含「一週99書單」且有 （M/D-M/D） 日期範圍
+      方法B（輔）：URL 格式 /blog/weekly-dd99-YYYY-wNN
+      以上都沒找到才用公式 fallback
     """
     if year and week:
         return year, week, get_weekly_url(year, week)
 
     print("[1a] 從部落格主頁尋找最新書單…")
-    soup = br.get("https://www.kobo.com/zh/blog", wait="networkidle", sleep=3)
-    pat  = re.compile(r"/zh/blog/weekly-dd99-(\d{4})-w(\d+)")
-    best_y, best_w, best_url = 0, 0, ""
+    soup  = br.get("https://www.kobo.com/zh/blog", wait="networkidle", sleep=3)
+    today = datetime.now(TW_TZ).date()
+
+    KW_PAT     = re.compile(r"一週99書單")
+    DR_PAT     = re.compile(r"[（(](\d{1,2}/\d{1,2})[~\-～](\d{1,2}/\d{1,2})[）)]")
+    URL_PAT    = re.compile(r"/zh/blog/weekly-dd99-(\d{4})-w(\d+)")
+
+    def _to_date(s: str) -> Date | None:
+        try:
+            m, d = map(int, s.split("/"))
+            return Date(today.year, m, d)
+        except Exception:
+            return None
+
+    seen: set[str] = set()
+    # 每筆：(start_date, end_date, y, w, url)
+    candidates: list[tuple] = []
+
     for a in soup.find_all("a", href=True):
-        m = pat.search(a["href"])
-        if not m:
-            continue
-        y2, w2 = int(m.group(1)), int(m.group(2))
         href = a["href"]
         full = (href if href.startswith("http") else "https://www.kobo.com" + href).split("?")[0]
-        if (y2, w2) > (best_y, best_w):
-            best_y, best_w, best_url = y2, w2, full
+        if full in seen:
+            continue
 
-    if best_url:
-        print(f"   ✅ 找到最新書單：{best_url}")
-        return best_y, best_w, best_url
+        # 取標題文字（連結本身 → 上一層，限 200 字以內）
+        title = ""
+        for node in [a, a.parent]:
+            if node is None:
+                continue
+            t = node.get_text(strip=True)
+            if len(t) < 200:
+                title = t
+                break
 
+        # ── 方法A：標題關鍵字 + 日期範圍 ──────────────────────
+        if KW_PAT.search(title):
+            m_dr = DR_PAT.search(title)
+            if m_dr:
+                start_d = _to_date(m_dr.group(1))
+                end_d   = _to_date(m_dr.group(2))
+                if start_d and end_d:
+                    if end_d < start_d:          # 跨年修正
+                        end_d = Date(today.year + 1, end_d.month, end_d.day)
+                    cal = start_d.isocalendar()
+                    seen.add(full)
+                    candidates.append((start_d, end_d, cal.year, cal.week, full))
+                    continue
+
+        # ── 方法B：URL 格式比對 ─────────────────────────────────
+        m_url = URL_PAT.search(href)
+        if m_url:
+            y2, w2 = int(m_url.group(1)), int(m_url.group(2))
+            start_d = Date.fromisocalendar(y2, w2, 4)
+            end_d   = start_d + timedelta(days=6)
+            seen.add(full)
+            candidates.append((start_d, end_d, y2, w2, full))
+
+    if candidates:
+        # 優先：今天在日期範圍內的（最近一筆）
+        for start_d, end_d, y2, w2, url in sorted(candidates, key=lambda x: x[0], reverse=True):
+            if start_d <= today <= end_d:
+                print(f"   ✅ 找到當週書單（{start_d.month}/{start_d.day}～{end_d.month}/{end_d.day}）：{url}")
+                return y2, w2, url
+        # 次選：最新的一筆
+        best = max(candidates, key=lambda x: x[0])
+        s, e = best[0], best[1]
+        print(f"   ✅ 找到最新書單（{s.month}/{s.day}～{e.month}/{e.day}）：{best[4]}")
+        return best[2], best[3], best[4]
+
+    # Fallback：公式計算
     y2, w2 = _calc_current_yw()
     fallback = get_weekly_url(y2, w2)
     print(f"   ⚠️  主頁未找到書單，使用公式 fallback：{fallback}")
