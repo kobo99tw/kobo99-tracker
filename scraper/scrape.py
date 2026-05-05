@@ -840,6 +840,10 @@ def run(year=None, week=None, url=None):
     today  = now.date()
     t_start = time.time()
 
+    print("🚀 Kobo99 爬蟲啟動")
+    print("   正在初始化瀏覽器，首次啟動約需 10~30 秒，請稍候...")
+    sys.stdout.flush()
+
     _WD = ["一", "二", "三", "四", "五", "六", "日"]
 
     def _s(v: dict) -> str:

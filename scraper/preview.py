@@ -186,11 +186,8 @@ function badge(type, text) {
 
 function appendLog(line) {
   const el = document.getElementById('log');
-  if (el.textContent === '（尚未執行）' || el.textContent === '（已清除）') {
-    el.textContent = line;
-  } else {
-    el.textContent += '\n' + line;
-  }
+  const isPlaceholder = ['（尚未執行）','（已清除）','⏳ 啟動中…'].includes(el.textContent);
+  el.textContent = isPlaceholder ? line : el.textContent + '\n' + line;
   el.scrollTop = el.scrollHeight;
 }
 
@@ -202,8 +199,7 @@ function startFetch() {
   btn.disabled = true;
   btn.textContent = '⏳ 抓取中…';
   prev.style.display = 'none';
-  document.getElementById('log').textContent = '（尚未執行）';
-  offset = 0;
+  document.getElementById('log').textContent = '⏳ 啟動中…';
   badge('running', '抓取中');
 
   fetch('/api/run', {
@@ -214,12 +210,13 @@ function startFetch() {
   .then(r => r.json())
   .then(data => {
     if (data.error === 'already_running') {
-      appendLog('⚠️ 已有任務執行中，請稍候');
+      document.getElementById('log').textContent = '⚠️ 已有任務執行中，請稍候';
       btn.disabled = false;
       btn.textContent = '▶ 開始抓取';
       badge('idle', '待機');
       return;
     }
+    offset = 0;
     // 開始輪詢
     polling = setInterval(pollLog, 300);
   })
