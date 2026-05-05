@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## [2026-05-05 v11] — 本機預覽伺服器、自動發現書單 URL
+
+### 新增：scraper/preview.py（本機預覽伺服器）
+- Flask（port 8099），點 `本機預覽.bat` 啟動
+- `/admin`：控制面板，可手動輸入書單 URL、點按鈕抓取、即時看 log
+- `/`：書單預覽，直接讀 docs/index.html + latest.json
+- 背景 thread 執行爬蟲，前端每 300ms 輪詢 `/api/log` 取新 log 行
+- 抓完後「📚 查看書單」按鈕亮起，可直接預覽結果
+
+### 爬蟲（scraper/scrape.py）
+- **自動發現書單 URL**：`_resolve_weekly()` 三層保護
+  - 有 `--url` 參數 → 直接用
+  - 自動模式 → 主頁找「一週99書單」+日期範圍（`M/D-M/D`）比對今天是否在範圍內
+  - URL 格式 `weekly-dd99-YYYY-wNN` 作為備用
+  - 公式計算作為最後 fallback
+- 新增 `--url` CLI 參數，可直接指定文章 URL
+
+### 新增：本機預覽.bat
+- 自動安裝 Flask + 啟動 preview.py
+- 舊的 `開啟網頁.bat` 修正資料夾名稱（public → docs）
+
+---
+
 ## [2026-05-05 v10] — 日期提取架構改寫、特賣週期修正
 
 ### 爬蟲（scraper/scrape.py）
