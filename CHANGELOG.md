@@ -1,5 +1,29 @@
 # CHANGELOG
 
+## [2026-05-06 v12] — Admin 書單審查表格、日期對應修正、資料手動修正
+
+### scraper/preview.py — Admin 書單審查表格
+- 抓取完成後自動顯示「書單資料審查」表格（日期 / 書名 / ISBN / 原文名 / 各來源評分+連結 / 綜合）
+- **點擊任一評分格 → 編輯浮層**：可修改評分、筆數、連結，Enter 確認、Escape 取消、點外部自動關閉
+- 新增 `/api/patch` endpoint：POST 修正單筆評分，寫回 `latest.json` + 週次 JSON，重算 `avg_score`
+- `/api/info` 改回傳完整欄位（ISBN、原文名、各來源評分+URL）
+- `_calc_avg()` 加權平均 helper（Python 側與 patch 共用）
+
+### 爬蟲（scraper/scrape.py）— 日期對應錯位根治
+- 舊法：以文字節點順序追蹤最新日期標記，但連結節點與書名出現順序不一致時仍會錯位
+- 新法：**兩步驟**—先純文字預掃建立「書名 → 日期」對照表（正則過濾日期標記），再依對照表歸因，完全脫離 DOM 順序依賴
+
+### 資料修正（W18 5/6「失智行為說明書」）
+- `books_com.url`：補 `books.com.tw/products/0011007411`
+- `goodreads.count`：254（誤）→ 4（正確）
+- `amazon_com`：改為 Kindle 版連結（`B079K8SHW4`），評分 4.3/243（紙本誤抓）→ 3.9/65
+- `avg_score`：3.76 → 3.87
+
+### 其他修正
+- Port 8099 衝突改為 8188；`開啟網頁.bat` localhost 改 127.0.0.1 解決 IPv6 優先問題
+
+---
+
 ## [2026-05-05 v11] — 本機預覽伺服器、自動發現書單 URL
 
 ### 新增：scraper/preview.py（本機預覽伺服器）
