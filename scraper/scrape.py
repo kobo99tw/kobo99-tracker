@@ -370,7 +370,7 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
     for b in result:
         d_str = b["blog_date"] or "⚠️ 未取得"
         print(f"   {d_str}  《{b['title'][:28]}》")
-    return result
+    return result, title_date_map
 
 
 # ══════════════════════════════════════════════════════════════════
@@ -916,7 +916,7 @@ def run(year=None, week=None, url=None):
         print(f"   {sale_label}  今天 {today} {'✅ 特賣中' if on_sale else '（已結束）'}")
 
         # Step 1b：部落格
-        blog_books = fetch_books_from_blog(br, blog_url)
+        blog_books, title_date_map = fetch_books_from_blog(br, blog_url)
         if len(blog_books) < MIN_BOOKS:
             print(f"[錯誤] 只找到 {len(blog_books)} 本，停止")
             sys.exit(1)
@@ -945,6 +945,17 @@ def run(year=None, week=None, url=None):
             title  = info.get("title", blog_title)
             author = info.get("author", "")
             orig_t = info.get("original_title", "")
+
+            # Kobo 實際書名可能與部落格書名不同（DOM 順序錯位），用實際書名重查日期
+            blog_date = item.get("blog_date") or ""
+            if title != blog_title:
+                if title in title_date_map:
+                    blog_date = title_date_map[title]
+                else:
+                    for mt, md in title_date_map.items():
+                        if title.startswith(mt[:12]) or mt.startswith(title[:12]):
+                            blog_date = md
+                            break
 
             # ── 博客來
             bc = _timed(fetch_books_com,
@@ -978,7 +989,7 @@ def run(year=None, week=None, url=None):
                 "kobo_url":       info.get("kobo_url", kobo_url),
                 "kobo_price":     info.get("kobo_price"),
                 "sale_price":     "NT$99",
-                "date":           item.get("blog_date") or "",
+                "date":           blog_date,
                 "sale_start":     sale_start.isoformat(),
                 "sale_end":       sale_end.isoformat(),
                 "on_sale":        on_sale,

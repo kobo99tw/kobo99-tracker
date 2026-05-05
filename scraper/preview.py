@@ -4,7 +4,7 @@ Kobo99 本機預覽伺服器
 開啟：http://localhost:8099/admin
 需要：pip install flask
 """
-import sys, os, subprocess, webbrowser, threading
+import sys, os, subprocess, webbrowser, threading, json as _json
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from flask import Flask, request, send_from_directory, jsonify, make_response
@@ -115,6 +115,86 @@ def api_log():
     return jsonify({"lines": lines, "status": status})
 
 
+# ── API：發佈到 GitHub ───────────────────────────────────────
+@app.route("/api/publish")
+def api_publish():
+    global _running, _log, _status
+    with _lock:
+        if _running:
+            return jsonify({"error": "already_running"}), 409
+        _running = True
+        _log     = []
+        _status  = "running"
+
+    def worker():
+        global _running, _status
+        try:
+            lp = DOCS_DIR / "data" / "latest.json"
+            wlabel = "書單"
+            if lp.exists():
+                with open(lp, encoding="utf-8") as f:
+                    d = _json.load(f)
+                wlabel = f"{d.get('year','')}-w{d.get('week','')}"
+            with _lock:
+                _log.append(f"📤 發佈 {wlabel} 到 GitHub…")
+            for cmd in [
+                ["git", "add", "docs/data/", "docs/calendar.ics"],
+                ["git", "commit", "-m", f"更新書單 {wlabel}"],
+                ["git", "push"],
+            ]:
+                with _lock:
+                    _log.append("$ " + " ".join(cmd))
+                proc = subprocess.Popen(
+                    cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                    encoding="utf-8", errors="replace", cwd=str(ROOT_DIR),
+                )
+                for line in proc.stdout:
+                    if line.rstrip():
+                        with _lock:
+                            _log.append(line.rstrip())
+                proc.wait()
+                if proc.returncode != 0 and cmd[1] != "commit":
+                    with _lock:
+                        _log.append(f"❌ 失敗（exit {proc.returncode}）")
+                        _status = "error"
+                    return
+            with _lock:
+                _log.append("✅ 已發佈！GitHub Pages 幾分鐘後更新。")
+                _status = "done"
+        except Exception as e:
+            with _lock:
+                _log.append(f"❌ 錯誤：{e}")
+                _status = "error"
+        finally:
+            _running = False
+
+    threading.Thread(target=worker, daemon=True).start()
+    return jsonify({"ok": True})
+
+
+# ── API：目前書單資訊 ─────────────────────────────────────────
+@app.route("/api/info")
+def api_info():
+    lp = DOCS_DIR / "data" / "latest.json"
+    if not lp.exists():
+        return jsonify({})
+    with open(lp, encoding="utf-8") as f:
+        d = _json.load(f)
+    books = d.get("books", [])
+    return jsonify({
+        "year":       d.get("year"),
+        "week":       d.get("week"),
+        "updated_at": (d.get("updated_at") or "")[:16],
+        "sale_label": d.get("sale_label", ""),
+        "books_count": len(books),
+        "books": [
+            {"title": b.get("title",""), "date": b.get("date",""),
+             "avg_score": b.get("avg_score")}
+            for b in books
+        ],
+    })
+
+
 # ── 控制面板 HTML ─────────────────────────────────────────────
 ADMIN_HTML = """<!DOCTYPE html>
 <html lang="zh-TW">
@@ -141,6 +221,11 @@ h1{font-size:1.2rem;font-weight:700;color:#F97316;margin-bottom:1.5rem;letter-sp
 #runBtn:disabled{opacity:.4;cursor:not-allowed}
 #previewBtn{background:#0D9488;color:#fff;text-decoration:none;display:none;
   padding:.55rem 1.1rem;border-radius:8px;font-size:.85rem;font-weight:600}
+#publishBtn{background:#7C3AED;color:#fff;display:none}
+#publishBtn:disabled{opacity:.4;cursor:not-allowed}
+#ghPagesBtn{background:#1D4ED8;color:#fff;text-decoration:none;
+  padding:.55rem 1.1rem;border-radius:8px;font-size:.85rem;font-weight:600}
+#weekInfo{font-size:.75rem;color:#78716C;margin-top:.75rem;line-height:1.6}
 .hint{font-size:.75rem;color:#57534E;margin-top:.5rem}
 #log{background:#0C0A09;border-radius:8px;padding:1rem;
   font-family:'Courier New',monospace;font-size:.78rem;color:#D6D3D1;
@@ -171,10 +256,13 @@ h1{font-size:1.2rem;font-weight:700;color:#F97316;margin-bottom:1.5rem;letter-sp
   <div class="url-row">
     <input id="urlInput" type="text" value="{{SUGGESTED_URL}}"
       placeholder="留空 = 自動從部落格主頁偵測最新書單">
-    <button id="runBtn" class="btn" onclick="startFetch()">▶ 開始抓取</button>
+    <button id="runBtn" class="btn" onclick="startFetch()">🔄 重新抓取</button>
     <a id="previewBtn" class="btn" href="/" target="_blank">📚 查看書單</a>
+    <button id="publishBtn" class="btn" onclick="publishToGitHub()">📤 發佈到 GitHub</button>
+    <a id="ghPagesBtn" class="btn" href="https://kobo99tw.github.io/kobo99-tracker/" target="_blank">🌐 GitHub Pages</a>
   </div>
   <p class="hint">留空 → 自動偵測最新書單　｜　貼入指定網址 → 強制抓取該週</p>
+  <div id="weekInfo"></div>
 </div>
 
 <div class="panel">
@@ -214,6 +302,7 @@ function startFetch() {
   btn.disabled = true;
   btn.textContent = '⏳ 抓取中…';
   prev.style.display = 'none';
+  document.getElementById('publishBtn').style.display = 'none';
   document.getElementById('log').textContent = '⏳ 啟動中…';
   badge('running', '抓取中');
 
@@ -249,11 +338,16 @@ function pollLog() {
       const btn  = document.getElementById('runBtn');
       const prev = document.getElementById('previewBtn');
       btn.disabled = false;
-      btn.textContent = '▶ 開始抓取';
+      btn.textContent = '🔄 重新抓取';
       if (data.status === 'done') {
         prev.style.display = 'inline-block';
-        appendLog('\\n✅ 完成！點「查看書單」預覽結果。');
+        const pub = document.getElementById('publishBtn');
+        pub.style.display = 'inline-block';
+        pub.disabled = false;
+        pub.textContent = '📤 發佈到 GitHub';
+        appendLog('\\n✅ 完成！可點「查看書單」預覽，或「發佈到 GitHub」上線。');
         badge('done', '完成 ✓');
+        loadWeekInfo();
       } else {
         badge('error', '失敗 ✗');
       }
@@ -264,6 +358,52 @@ function pollLog() {
 function clearLog() {
   document.getElementById('log').textContent = '（已清除）';
   offset = 0;
+}
+
+function publishToGitHub() {
+  const btn = document.getElementById('publishBtn');
+  btn.disabled = true;
+  btn.textContent = '⏳ 發佈中…';
+  document.getElementById('log').textContent = '⏳ 發佈中…';
+  badge('running', '發佈中');
+  fetch('/api/publish')
+  .then(r => r.json())
+  .then(() => { offset = 0; polling = setInterval(pollLog, 300); })
+  .catch(err => {
+    appendLog('❌ 連線失敗：' + err);
+    btn.disabled = false;
+    btn.textContent = '📤 發佈到 GitHub';
+    badge('error', '失敗');
+  });
+}
+
+function loadWeekInfo() {
+  fetch('/api/info')
+  .then(r => r.json())
+  .then(d => {
+    if (!d.week) return;
+    document.getElementById('weekInfo').textContent =
+      `目前資料：第 ${d.week} 週｜${d.sale_label}｜${d.books_count} 本｜更新 ${d.updated_at}`;
+    // 若 log 是初始佔位文字，用書目填充
+    const log = document.getElementById('log');
+    const placeholders = ['（尚未執行）', '（已清除）'];
+    if (placeholders.includes(log.textContent)) {
+      const lines = [`📚 第 ${d.week} 週書單（${d.updated_at} 更新）`, ''];
+      for (const b of d.books) {
+        const score = b.avg_score != null ? ` ★${b.avg_score.toFixed(2)}` : '';
+        lines.push(`  ${b.date}  《${b.title}》${score}`);
+      }
+      lines.push('', '點「重新抓取」更新書單，或「發佈到 GitHub」上線。');
+      log.textContent = lines.join('\\n');
+    }
+    // 顯示預覽和發佈按鈕
+    document.getElementById('previewBtn').style.display = 'inline-block';
+    const pub = document.getElementById('publishBtn');
+    pub.style.display = 'inline-block';
+    pub.disabled = false;
+    pub.textContent = '📤 發佈到 GitHub';
+    badge('done', '已就緒');
+  });
 }
 
 fetch('/api/log?offset=0')
@@ -279,11 +419,17 @@ fetch('/api/log?offset=0')
   } else if (data.status === 'done') {
     badge('done', '完成 ✓');
     document.getElementById('previewBtn').style.display = 'inline-block';
+    const pub = document.getElementById('publishBtn');
+    pub.style.display = 'inline-block';
+    pub.disabled = false;
+    pub.textContent = '📤 發佈到 GitHub';
   } else if (data.status === 'error') {
     badge('error', '失敗 ✗');
   }
 })
 .catch(err => { appendLog('⚠️ 無法連線：' + err); });
+
+loadWeekInfo();
 """
 
 

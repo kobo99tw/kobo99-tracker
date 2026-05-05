@@ -7,8 +7,8 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260505
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
 SUMMARY:《毒梟烏托邦：解密逃出中情局掌握的亞洲販毒集
  團》
 DESCRIPTION:書名: 《毒梟烏托邦：解密逃出中情局掌握的亞
@@ -21,71 +21,54 @@ URL:https://www.kobo.com/tw/zh/ebook/AeEb58aKMjGn0Az3MePPkg?sId=445d20a7-e5
  ef-46ce-9e04-218613a0f674&ssId=sLrARTjPwpR55KeiihABK&utm_source=twblog&ut
  m_medium=99list&utm_campaign=coin99_20260430
 UID:kobo99-2026-w18-01@kobo99-tracker
-DTSTAMP:20260505T160846Z
+DTSTAMP:20260505T164932Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-SUMMARY:《毒梟烏托邦：解密逃出中情局掌握的亞洲販毒集
- 團》
-DESCRIPTION:書名: 《毒梟烏托邦：解密逃出中情局掌握的亞
- 洲販毒集團》\n連結: https://www.kobo.com/tw/zh/ebook/lgrPeUeOdzGZ
- ZYnHT9t52Q?sId=cae8b36d-a387-4563-9859-5d780878ce82&ssId=pXP1xBjIZTSUnlwO
- vQmkV&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_2026
- 0430\n查看當週各書評分: https://kobo99tw.github.io/kobo99-tracker
- /
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:《筆記的魔力：最強深度思考筆記術 打造你攀登人
+ 生曲線高峰的行動力，高效自我進化》
+DESCRIPTION:書名: 《筆記的魔力：最強深度思考筆記術 打造
+ 你攀登人生曲線高峰的行動力，高效自我進化》\n原價: 
+ NT$252\n連結: https://www.kobo.com/tw/zh/ebook/lgrPeUeOdzGZZYnHT9t52Q?s
+ Id=cae8b36d-a387-4563-9859-5d780878ce82&ssId=pXP1xBjIZTSUnlwOvQmkV&cPos=3
+ &utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430\n查看
+ 當週各書評分: https://kobo99tw.github.io/kobo99-tracker/
 URL:https://www.kobo.com/tw/zh/ebook/lgrPeUeOdzGZZYnHT9t52Q?sId=cae8b36d-a3
  87-4563-9859-5d780878ce82&ssId=pXP1xBjIZTSUnlwOvQmkV&cPos=3&utm_source=tw
  blog&utm_medium=99list&utm_campaign=coin99_20260430
 UID:kobo99-2026-w18-02@kobo99-tracker
-DTSTAMP:20260505T160846Z
+DTSTAMP:20260505T164932Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:《筆記的魔力：最強深度思考筆記術，打造你攀登
- 人生曲線高峰的行動力，高效自我進化》
-DESCRIPTION:書名: 《筆記的魔力：最強深度思考筆記術，打
- 造你攀登人生曲線高峰的行動力，高效自我進化》\n連
- 結: https://www.kobo.com/tw/zh/ebook/7sApXbWPxzyHyyecjQiB7A?sId=b7827596
- -0a59-4656-a747-7caad3157e85&ssId=7tuK1Pj2_I8ez-E4GGo_4&cPos=8&utm_source
- =twblog&utm_medium=99list&utm_campaign=coin99_20260430\n查看當週各
- 書評分: https://kobo99tw.github.io/kobo99-tracker/
+SUMMARY:《金钱博弈：重振韩国第一银行内幕》
+DESCRIPTION:書名: 《金钱博弈：重振韩国第一银行内幕》\n
+ 原價: NT$327\n連結: https://www.kobo.com/tw/zh/ebook/7sApXbWPxzyHyyec
+ jQiB7A?sId=b7827596-0a59-4656-a747-7caad3157e85&ssId=7tuK1Pj2_I8ez-E4GGo_
+ 4&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430
+ \n查看當週各書評分: https://kobo99tw.github.io/kobo99-tracker/
 URL:https://www.kobo.com/tw/zh/ebook/7sApXbWPxzyHyyecjQiB7A?sId=b7827596-0a
  59-4656-a747-7caad3157e85&ssId=7tuK1Pj2_I8ez-E4GGo_4&cPos=8&utm_source=tw
  blog&utm_medium=99list&utm_campaign=coin99_20260430
 UID:kobo99-2026-w18-03@kobo99-tracker
-DTSTAMP:20260505T160846Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:《金钱博弈》
-DESCRIPTION:書名: 《金钱博弈》\n連結: https://www.kobo.com/tw/zh/
- ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b8b-4052-8f16-62ec019012ed&ssI
- d=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&utm_medium=99list&utm_campaign=
- coin99_20260430\n查看當週各書評分: https://kobo99tw.github.io/kob
- o99-tracker/
-URL:https://www.kobo.com/tw/zh/ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b
- 8b-4052-8f16-62ec019012ed&ssId=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&ut
- m_medium=99list&utm_campaign=coin99_20260430
-UID:kobo99-2026-w18-04@kobo99-tracker
-DTSTAMP:20260505T160846Z
+DTSTAMP:20260505T164932Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 SUMMARY:《神曲》
-DESCRIPTION:書名: 《神曲》\n連結: https://www.kobo.com/tw/zh/ebook/
- 7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c54e-4001-8dcb-d39913a1dd14&ssId=G2Kw
- 0mlYy2sq8-10ASW4B&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign
- =coin99_20260430\n查看當週各書評分: https://kobo99tw.github.io/ko
- bo99-tracker/
-URL:https://www.kobo.com/tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c5
- 4e-4001-8dcb-d39913a1dd14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=tw
- blog&utm_medium=99list&utm_campaign=coin99_20260430
-UID:kobo99-2026-w18-05@kobo99-tracker
-DTSTAMP:20260505T160846Z
+DESCRIPTION:書名: 《神曲》\n原價: NT$258\n連結: https://www.kobo.
+ com/tw/zh/ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b8b-4052-8f16-62ec01
+ 9012ed&ssId=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&utm_medium=99list&utm
+ _campaign=coin99_20260430\n查看當週各書評分: https://kobo99tw.git
+ hub.io/kobo99-tracker/
+URL:https://www.kobo.com/tw/zh/ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b
+ 8b-4052-8f16-62ec019012ed&ssId=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&ut
+ m_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-04@kobo99-tracker
+DTSTAMP:20260505T164932Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503
@@ -93,16 +76,33 @@ DTEND;VALUE=DATE:20260504
 SUMMARY:《品嘗的科學：普立茲獎得主教你用腦品出好滋味
  （三版）》
 DESCRIPTION:書名: 《品嘗的科學：普立茲獎得主教你用腦品
- 出好滋味（三版）》\n連結: https://www.kobo.com/tw/zh/ebook/HGe
- x0KgpWTikrLj3J-9kgw?sId=8876871a-8e85-4716-9ef0-999dad999b82&ssId=dm7-BRh
- jSWTm3KFVqhLHp&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=co
- in99_20260430\n查看當週各書評分: https://kobo99tw.github.io/kobo9
- 9-tracker/
+ 出好滋味（三版）》\n原價: NT$199\n連結: https://www.kobo.com
+ /tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c54e-4001-8dcb-d39913a1d
+ d14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=twblog&utm_medium=99list
+ &utm_campaign=coin99_20260430\n查看當週各書評分: https://kobo99tw
+ .github.io/kobo99-tracker/
+URL:https://www.kobo.com/tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c5
+ 4e-4001-8dcb-d39913a1dd14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=tw
+ blog&utm_medium=99list&utm_campaign=coin99_20260430
+UID:kobo99-2026-w18-05@kobo99-tracker
+DTSTAMP:20260505T164932Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:《問題不是從你開始的：以核心語言方法探索並療
+ 癒家族創傷對於身心健康的影響》
+DESCRIPTION:書名: 《問題不是從你開始的：以核心語言方法
+ 探索並療癒家族創傷對於身心健康的影響》\n原價: NT$280
+ \n連結: https://www.kobo.com/tw/zh/ebook/HGex0KgpWTikrLj3J-9kgw?sId=887
+ 6871a-8e85-4716-9ef0-999dad999b82&ssId=dm7-BRhjSWTm3KFVqhLHp&cPos=6&utm_s
+ ource=twblog&utm_medium=99list&utm_campaign=coin99_20260430\n查看當週
+ 各書評分: https://kobo99tw.github.io/kobo99-tracker/
 URL:https://www.kobo.com/tw/zh/ebook/HGex0KgpWTikrLj3J-9kgw?sId=8876871a-8e
  85-4716-9ef0-999dad999b82&ssId=dm7-BRhjSWTm3KFVqhLHp&cPos=6&utm_source=tw
  blog&utm_medium=99list&utm_campaign=coin99_20260430
 UID:kobo99-2026-w18-06@kobo99-tracker
-DTSTAMP:20260505T160846Z
+DTSTAMP:20260505T164932Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
@@ -112,15 +112,16 @@ SUMMARY:《帶爸媽去日本自由行：不趕路、不排隊、多詢問
  鬆玩》
 DESCRIPTION:書名: 《帶爸媽去日本自由行：不趕路、不排隊
  、多詢問、多拍照、多休息，掌握二不三多原則，讓孝
- 親也能輕鬆玩》\n連結: https://www.kobo.com/tw/zh/ebook/wYtB0QOTY
- zSstrzl8VL2QQ?sId=e82e4292-d44e-45e9-93cf-cc278c8c4a69&ssId=ko3miniosbXP8
- PZluhcxI&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430
- \n查看當週各書評分: https://kobo99tw.github.io/kobo99-tracker/
+ 親也能輕鬆玩》\n原價: NT$294\n連結: https://www.kobo.com/tw/zh
+ /ebook/wYtB0QOTYzSstrzl8VL2QQ?sId=e82e4292-d44e-45e9-93cf-cc278c8c4a69&ss
+ Id=ko3miniosbXP8PZluhcxI&utm_source=twblog&utm_medium=99list&utm_campaign
+ =coin99_20260430\n查看當週各書評分: https://kobo99tw.github.io/ko
+ bo99-tracker/
 URL:https://www.kobo.com/tw/zh/ebook/wYtB0QOTYzSstrzl8VL2QQ?sId=e82e4292-d4
  4e-45e9-93cf-cc278c8c4a69&ssId=ko3miniosbXP8PZluhcxI&utm_source=twblog&ut
  m_medium=99list&utm_campaign=coin99_20260430
 UID:kobo99-2026-w18-07@kobo99-tracker
-DTSTAMP:20260505T160846Z
+DTSTAMP:20260505T164932Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
@@ -129,14 +130,15 @@ SUMMARY:《失智行為說明書：到底是失智？還是老化？改善
  問題行為同時改善生理現象，讓照顧變輕鬆！》
 DESCRIPTION:書名: 《失智行為說明書：到底是失智？還是老
  化？改善問題行為同時改善生理現象，讓照顧變輕鬆！
- 》\n連結: https://www.kobo.com/tw/zh/ebook/K-PXT5OlQDin5aEFM4rvgw?sId=
- b799c82c-d7c5-46c3-b97b-5cd40f90e95e&ssId=zHjRr0qhx9FEynspFEb20&cPos=7&ut
- m_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430\n查看當
- 週各書評分: https://kobo99tw.github.io/kobo99-tracker/
+ 》\n原價: NT$280\n連結: https://www.kobo.com/tw/zh/ebook/K-PXT5OlQDi
+ n5aEFM4rvgw?sId=b799c82c-d7c5-46c3-b97b-5cd40f90e95e&ssId=zHjRr0qhx9FEyns
+ pFEb20&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_202
+ 60430\n查看當週各書評分: https://kobo99tw.github.io/kobo99-tracke
+ r/
 URL:https://www.kobo.com/tw/zh/ebook/K-PXT5OlQDin5aEFM4rvgw?sId=b799c82c-d7
  c5-46c3-b97b-5cd40f90e95e&ssId=zHjRr0qhx9FEynspFEb20&cPos=7&utm_source=tw
  blog&utm_medium=99list&utm_campaign=coin99_20260430
 UID:kobo99-2026-w18-08@kobo99-tracker
-DTSTAMP:20260505T160846Z
+DTSTAMP:20260505T164932Z
 END:VEVENT
 END:VCALENDAR
