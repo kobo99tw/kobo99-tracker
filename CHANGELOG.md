@@ -1,5 +1,33 @@
 # CHANGELOG
 
+## [2026-05-05 v10] — 日期提取架構改寫、特賣週期修正
+
+### 爬蟲（scraper/scrape.py）
+
+**日期提取方式根本改寫（重要）**
+- 舊法：從每個連結往上走 DOM 7 層找日期，碰到 `len > 2000` 就停，容器大時完全抓不到
+- 新法：以 `soup.descendants` 掃描全部文字節點，依頁面順序追蹤最新日期標記（`M/D週X`），連結自動套用其上方最近的日期 → 完全以網頁內容為準，不推論
+- 移除 `_book_date(sale_start, i-1)` 位置推算 fallback（會在多書同天時全部錯位）
+- 取不到日期時改印 `⚠️ 連結取不到日期` 警告，不靜默寫錯值
+
+**特賣週期 bug 修正**
+- `sale_end` 原為 `sale_start + 7天`（週四→下週四），實際 Kobo 特賣是週四到下週三共 7 天
+- 改為 `sale_start + 6天`，`sale_label` 現正確顯示 5/6（三）而非 5/7（四）
+
+### 前端（docs/index.html）
+
+- **`todayMD` 可靠性**：原 `new Date(toLocaleString(...))` 跨瀏覽器解析不穩定，改用 `Intl.DateTimeFormat` API
+- **`fmtDate` 年份**：改用台灣時區年份（`Intl.DateTimeFormat` 取得），避免跨年邊界顯示錯誤週幾
+
+### 資料修正（W18 手動修正）
+
+- `sale_end`：2026-05-07 → 2026-05-06
+- `sale_label`：5/7（四）→ 5/6（三）
+- 帶爸媽去日本 `date`：5/6 → 5/5（舊爬蟲誤判，今日特價書修正）
+- calendar.ics：帶爸媽去日本事件從 20260506 → 20260505
+
+---
+
 ## [2026-05-04 v9] — OG 標籤、日曆、收藏已讀、分享、UI 強化
 
 ### 前端（docs/index.html）

@@ -1,5 +1,19 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
+## 已完成（v10，2026-05-05）
+
+### ✅ 日期提取架構改寫（文字節點順序掃描）
+- 以 `soup.descendants` 頁面順序追蹤 `M/D週X` 日期，不再走 DOM 上找
+- 移除 `_book_date` 位置推算 fallback，完全以網頁內容為準
+
+### ✅ 特賣週期修正（+7 → +6 天）
+- Kobo 每週特賣為週四到下週三（7 天），sale_end 已修正
+
+### ✅ 前端 todayMD / fmtDate 改用 Intl API
+- 跨瀏覽器取台灣日期更可靠
+
+---
+
 ## 已完成（v9，2026-05-04）
 
 ### ✅ OG 標籤 + OG 圖片
@@ -71,6 +85,8 @@
 | 博客來評分全部 None | 搜尋結果 JS 動態載入 | `get_fresh()` 每次新 browser context |
 | 博客來搜尋不支援 ISBN | books.com.tw 搜尋 API 不索引 ISBN | 改用書名+作者搜尋 |
 | 書本特賣日期算錯 | 用 ISO 週一 + index | `sale_start = Date.fromisocalendar(y, w, 4)`（週四）|
+| sale_end 算成下週四 | `+7天` = 週四→週四 | 改 `+6天`，週四→週三（正確 7 天特賣期）|
+| 日期從 DOM 上走取不到 | 容器大於 2000 字就停 | 改以文字節點頁面順序掃描，不靠 DOM 祖先 |
 | Playwright + ThreadPoolExecutor 衝突 | sync API 用 greenlet，不能跨執行緒 | 改直接呼叫 + `_timed()` wrapper |
 | Goodreads 評分與連結不一致 | 從搜尋頁取評分，連結取第一本書 | 搜尋頁找連結→跟進書頁解析 |
 | Amazon .co.jp 評分誤抓整數 | `re.search(r"(\d+\.?\d*)")` 會匹配 "5" | 改 `re.findall(r"\d+\.\d+")` 只取小數 |

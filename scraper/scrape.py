@@ -59,11 +59,6 @@ def _timed(fn, args: tuple, limit: float, label: str) -> dict:
         return {}
 
 
-def _book_date(sale_start: Date, offset: int) -> str:
-    """部落格第 offset 本（0-based）對應的特賣日，格式 M/D"""
-    d = sale_start + timedelta(days=offset)
-    return f"{d.month}/{d.day}"
-
 
 # ══════════════════════════════════════════════════════════════════
 # Browser
@@ -166,70 +161,93 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
     print(f"\n[1] 部落格：{url}")
     soup = br.get(url, wait="networkidle", sleep=3)
 
-    # 收集所有電子書連結（保序、去重），同時保留 anchor tag 引用
-    anchors: list[tuple] = []
-    seen_clean: set[str] = set()
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if not re.search(r"/(?:tw/)?zh/ebook/", href) or "/hk/" in href:
-            continue
-        full  = href if href.startswith("http") else "https://www.kobo.com" + href
-        clean = full.split("?")[0]
-        if clean in seen_clean:
-            continue
-        seen_clean.add(clean)
-        anchors.append((a, full))
+    from bs4 import NavigableString, Tag as BsTag
 
-    # 對每個連結，往上走 DOM 找最近的 《書名》與日期標記
-    result: list[dict] = []
-    used: set[str] = set()
-    for a_tag, link in anchors:
-        title      = ""
-        blog_date  = ""
-        parent     = a_tag
-        for _ in range(7):
-            parent = parent.parent
-            if parent is None:
-                break
-            blk = parent.get_text()
-            if len(blk) > 2000:
-                break
-            m = re.search(r"《([^》]{2,100})》", blk)
-            if m and m.group(1) not in used:
-                title = m.group(1).strip()
-                used.add(title)
-                # 同一區塊內找日期（格式：5/1週五 或 4/30週四）
-                d = re.search(r"(\d{1,2}/\d{1,2})\s*週[一二三四五六日]", blk)
-                if d:
-                    blog_date = d.group(1)
-                break
-        result.append({"title": title, "kobo_url": link, "blog_date": blog_date})
+    DATE_PAT   = re.compile(r"(\d{1,2}/\d{1,2})\s*週[一二三四五六日]")
+    TITLE_PAT  = re.compile(r"《([^》]{2,100})》")
+    EBOOK_PAT  = re.compile(r"/(?:tw/)?zh/ebook/")
+
+    result:        list[dict] = []
+    used_links:    set[str]   = set()
+    used_titles:   set[str]   = set()
+    current_date:  str        = ""
+    pending_title: str        = ""
+
+    content = soup.find("body") or soup
+
+    for elem in content.descendants:
+        # ── 文字節點：依頁面順序更新日期 & 待用書名 ──────────────
+        if isinstance(elem, NavigableString):
+            text = str(elem).strip()
+            if not text:
+                continue
+            # 日期標記（短文字才算標題，避免把整段內文誤判）
+            dm = DATE_PAT.search(text)
+            if dm and len(text) < 60:
+                current_date = dm.group(1)
+            # 書名
+            tm = TITLE_PAT.search(text)
+            if tm:
+                t = tm.group(1).strip()
+                if t not in used_titles:
+                    pending_title = t
+
+        # ── <a> 標籤：判斷是否為電子書連結 ────────────────────────
+        elif isinstance(elem, BsTag) and elem.name == "a":
+            href = elem.get("href", "")
+            if not EBOOK_PAT.search(href) or "/hk/" in href:
+                continue
+            full  = href if href.startswith("http") else "https://www.kobo.com" + href
+            clean = full.split("?")[0]
+            if clean in used_links:
+                continue
+            used_links.add(clean)
+
+            # 書名：連結本身文字 → 前方 pending_title
+            link_text = elem.get_text(strip=True)
+            lm = TITLE_PAT.search(link_text)
+            if lm and lm.group(1).strip() not in used_titles:
+                title = lm.group(1).strip()
+            elif pending_title and pending_title not in used_titles:
+                title = pending_title
+            else:
+                title = ""
+
+            if title:
+                used_titles.add(title)
+            pending_title = ""
+
+            if not current_date:
+                print(f"   ⚠️  連結取不到日期，書名：《{title[:20]}》")
+
+            result.append({"title": title, "kobo_url": full, "blog_date": current_date})
 
     # 補缺失書名：先找獨立行《書名》，不夠再全文 findall
     missing = [i for i, b in enumerate(result) if not b["title"]]
     if missing:
         text  = soup.get_text(separator="\n")
         extra: list[str] = []
-        seen_t: set[str] = set()
+        seen_t: set[str] = set(used_titles)
         for line in text.split("\n"):
             m = re.match(r"^《([^》]{2,100})》$", line.strip())
-            if m and m.group(1) not in seen_t and m.group(1) not in used:
+            if m and m.group(1) not in seen_t:
                 seen_t.add(m.group(1))
                 extra.append(m.group(1).strip())
         if len(extra) < len(missing):
             for m in re.finditer(r"《([^》]{2,100})》", text):
                 t = m.group(1).strip()
-                if t not in seen_t and t not in used:
+                if t not in seen_t:
                     seen_t.add(t)
                     extra.append(t)
         for idx, pos in enumerate(missing):
             if idx < len(extra):
                 result[pos]["title"] = extra[idx]
-                used.add(extra[idx])
+                used_titles.add(extra[idx])
 
     print(f"   找到 {len(result)} 本")
     for b in result:
-        print(f"   《{b['title'][:28]}》")
+        d_str = b["blog_date"] or "⚠️ 未取得"
+        print(f"   {d_str}  《{b['title'][:28]}》")
     return result
 
 
@@ -728,7 +746,7 @@ def run(year=None, week=None):
     # 特賣期間：ISO 週的週四（Kobo 每日99 從週四開始）
     # 8 本書對應 8 天：週四 ~ 下週四
     sale_start = Date.fromisocalendar(y, w, 4)  # 週四
-    sale_end   = sale_start + timedelta(days=7)  # 下週四（最後一本書的日期）
+    sale_end   = sale_start + timedelta(days=6)  # 下週三（特賣最後一天，週四到週三共7天）
     today      = now.date()
     on_sale    = sale_start <= today <= sale_end
 
@@ -812,7 +830,7 @@ def run(year=None, week=None):
                 "kobo_url":       info.get("kobo_url", kobo_url),
                 "kobo_price":     info.get("kobo_price"),
                 "sale_price":     "NT$99",
-                "date":           item.get("blog_date") or _book_date(sale_start, i - 1),
+                "date":           item.get("blog_date") or "",
                 "sale_start":     sale_start.isoformat(),
                 "sale_end":       sale_end.isoformat(),
                 "on_sale":        on_sale,

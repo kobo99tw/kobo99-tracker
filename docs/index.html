@@ -233,7 +233,10 @@ const WD = ["日","一","二","三","四","五","六"];
 function fmtDate(mSlashD) {
   if (!mSlashD) return "";
   const [m, d] = mSlashD.split("/").map(Number);
-  const dt = new Date(new Date().getFullYear(), m - 1, d);
+  const twYear = parseInt(new Intl.DateTimeFormat("en", {
+    timeZone: "Asia/Taipei", year: "numeric"
+  }).format(new Date()));
+  const dt = new Date(twYear, m - 1, d);
   return `${m}/${d}（${WD[dt.getDay()]}）`;
 }
 
@@ -282,8 +285,13 @@ function ratingRow(srcKey, obj) {
 
 // 台灣今日日期，格式 "M/D"（用於判斷今日特價書）
 const todayMD = (() => {
-  const d = new Date(new Date().toLocaleString("en-US", {timeZone: "Asia/Taipei"}));
-  return `${d.getMonth()+1}/${d.getDate()}`;
+  const fmt   = new Intl.DateTimeFormat("zh-TW", {
+    timeZone: "Asia/Taipei", month: "numeric", day: "numeric"
+  });
+  const parts = fmt.formatToParts(new Date());
+  const m     = parts.find(p => p.type === "month")?.value;
+  const d     = parts.find(p => p.type === "day")?.value;
+  return m && d ? `${m}/${d}` : "";
 })();
 
 // "M/D" → 數字（排序比較用）
