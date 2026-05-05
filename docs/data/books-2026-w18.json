@@ -355,7 +355,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.books.com.tw/products/0011007411"
         },
         "readmoo": {
           "score": 4.0,
@@ -364,17 +364,17 @@
         },
         "goodreads": {
           "score": 3.25,
-          "count": 254,
+          "count": 4,
           "url": "https://www.goodreads.com/book/show/58471502-55?from_search=true&from_srp=true&qid=XiAkaLLvPr&rank=1",
           "note": "author"
         },
         "amazon_com": {
-          "score": 4.3,
-          "count": 243,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4897754488/ref=sr_1_1"
+          "score": 3.9,
+          "count": 65,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B079K8SHW4/"
         }
       },
-      "avg_score": 3.76
+      "avg_score": 3.87
     }
   ]
 }
