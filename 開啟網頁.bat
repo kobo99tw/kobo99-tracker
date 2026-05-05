@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 > nul
-start "" python -m http.server 8080 --directory docs
+start "" python -m http.server 8080 --directory docs --bind 127.0.0.1
 timeout /t 2 /nobreak > nul
 start http://localhost:8080
 echo 伺服器啟動：http://localhost:8080

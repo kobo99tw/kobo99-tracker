@@ -14,7 +14,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 DOCS_DIR  = Path(__file__).parent.parent / "docs"
 SCRAPE_PY = Path(__file__).parent / "scrape.py"
 ROOT_DIR  = Path(__file__).parent.parent
-PORT      = 8099
+PORT      = 8188
 
 app = Flask(__name__, static_folder=None)
 
