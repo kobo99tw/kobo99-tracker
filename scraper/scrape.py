@@ -146,15 +146,49 @@ class Browser:
 # STEP 1：部落格 → 書名 + 直接連結
 # ══════════════════════════════════════════════════════════════════
 
-def get_weekly_url(year=None, week=None) -> str:
-    if not year or not week:
-        now = datetime.now(TW_TZ).date()
-        # Kobo 每日99 從週四開始，取最近週四所在的 ISO 週
-        days_since_thu = (now.weekday() - 3) % 7   # 0=今天是週四, 1=週五...
-        last_thu = now - timedelta(days=days_since_thu)
-        cal  = last_thu.isocalendar()
-        year, week = cal.year, cal.week
+def get_weekly_url(year: int, week: int) -> str:
     return f"https://www.kobo.com/zh/blog/weekly-dd99-{year}-w{week}"
+
+
+def _calc_current_yw() -> tuple[int, int]:
+    """根據台灣時間計算目前應抓的年份與 ISO 週次（最近週四所在週）。"""
+    now = datetime.now(TW_TZ).date()
+    days_since_thu = (now.weekday() - 3) % 7
+    last_thu = now - timedelta(days=days_since_thu)
+    cal = last_thu.isocalendar()
+    return cal.year, cal.week
+
+
+def _resolve_weekly(br: Browser, year, week) -> tuple[int, int, str]:
+    """決定要抓的年份、週次與部落格 URL。
+    - 有指定 year/week：直接用公式
+    - 未指定：先從部落格主頁找最新 weekly-dd99 文章，找不到才 fallback 公式
+    """
+    if year and week:
+        return year, week, get_weekly_url(year, week)
+
+    print("[1a] 從部落格主頁尋找最新書單…")
+    soup = br.get("https://www.kobo.com/zh/blog", wait="networkidle", sleep=3)
+    pat  = re.compile(r"/zh/blog/weekly-dd99-(\d{4})-w(\d+)")
+    best_y, best_w, best_url = 0, 0, ""
+    for a in soup.find_all("a", href=True):
+        m = pat.search(a["href"])
+        if not m:
+            continue
+        y2, w2 = int(m.group(1)), int(m.group(2))
+        href = a["href"]
+        full = (href if href.startswith("http") else "https://www.kobo.com" + href).split("?")[0]
+        if (y2, w2) > (best_y, best_w):
+            best_y, best_w, best_url = y2, w2, full
+
+    if best_url:
+        print(f"   ✅ 找到最新書單：{best_url}")
+        return best_y, best_w, best_url
+
+    y2, w2 = _calc_current_yw()
+    fallback = get_weekly_url(y2, w2)
+    print(f"   ⚠️  主頁未找到書單，使用公式 fallback：{fallback}")
+    return y2, w2, fallback
 
 
 def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
@@ -737,38 +771,33 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
 # ══════════════════════════════════════════════════════════════════
 
 def run(year=None, week=None):
-    now = datetime.now(TW_TZ)
-    cal = now.isocalendar()
-    y   = year or cal.year
-    w   = week or cal.week
-    blog_url = get_weekly_url(y, w)
-
-    # 特賣期間：ISO 週的週四（Kobo 每日99 從週四開始）
-    # 8 本書對應 8 天：週四 ~ 下週四
-    sale_start = Date.fromisocalendar(y, w, 4)  # 週四
-    sale_end   = sale_start + timedelta(days=6)  # 下週三（特賣最後一天，週四到週三共7天）
-    today      = now.date()
-    on_sale    = sale_start <= today <= sale_end
-
-    _WD = ["一", "二", "三", "四", "五", "六", "日"]
-    sale_label = (
-        f"NT$99 特價：{sale_start.month}/{sale_start.day}"
-        f"（{_WD[sale_start.weekday()]}）～"
-        f"{sale_end.month}/{sale_end.day}"
-        f"（{_WD[sale_end.weekday()]}）"
-    )
-    print(f"   {sale_label}  今天 {today} {'✅ 特賣中' if on_sale else '（已結束）'}")
-
+    now    = datetime.now(TW_TZ)
+    today  = now.date()
     t_start = time.time()
 
+    _WD = ["一", "二", "三", "四", "五", "六", "日"]
+
     def _s(v: dict) -> str:
-        """評分格式化：有分顯示數字，沒有顯示 -"""
         s = v.get("score")
         return f"{s}" if s is not None else "-"
 
     with Browser() as br:
 
-        # Step 1：部落格
+        # Step 1a：決定本週 URL（主頁發現 → fallback 公式）
+        y, w, blog_url = _resolve_weekly(br, year, week)
+
+        sale_start = Date.fromisocalendar(y, w, 4)          # 週四
+        sale_end   = sale_start + timedelta(days=6)          # 下週三
+        on_sale    = sale_start <= today <= sale_end
+        sale_label = (
+            f"NT$99 特價：{sale_start.month}/{sale_start.day}"
+            f"（{_WD[sale_start.weekday()]}）～"
+            f"{sale_end.month}/{sale_end.day}"
+            f"（{_WD[sale_end.weekday()]}）"
+        )
+        print(f"   {sale_label}  今天 {today} {'✅ 特賣中' if on_sale else '（已結束）'}")
+
+        # Step 1b：部落格
         blog_books = fetch_books_from_blog(br, blog_url)
         if len(blog_books) < MIN_BOOKS:
             print(f"[錯誤] 只找到 {len(blog_books)} 本，停止")
