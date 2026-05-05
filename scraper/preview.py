@@ -50,6 +50,15 @@ def admin():
     return resp
 
 
+# ── Admin JS（外部檔案避免 inline script 被封鎖）──────────────
+@app.route("/admin.js")
+def admin_js():
+    resp = make_response(ADMIN_JS)
+    resp.headers["Content-Type"] = "application/javascript; charset=utf-8"
+    resp.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    return resp
+
+
 # ── API：啟動爬蟲（GET，背景 thread）────────────────────────
 @app.route("/api/run")
 def api_run():
@@ -176,9 +185,13 @@ h1{font-size:1.2rem;font-weight:700;color:#F97316;margin-bottom:1.5rem;letter-sp
   <pre id="log">（尚未執行）</pre>
 </div>
 
-<script>
-let polling  = null;
-let offset   = 0;
+<script src="/admin.js"></script>
+</body>
+</html>"""
+
+ADMIN_JS = """
+let polling = null;
+let offset  = 0;
 
 function badge(type, text) {
   const b = document.getElementById('badge');
@@ -188,8 +201,8 @@ function badge(type, text) {
 
 function appendLog(line) {
   const el = document.getElementById('log');
-  const isPlaceholder = ['（尚未執行）','（已清除）','⏳ 啟動中…'].includes(el.textContent);
-  el.textContent = isPlaceholder ? line : el.textContent + '\n' + line;
+  const placeholders = ['（尚未執行）', '（已清除）', '⏳ 啟動中…'];
+  el.textContent = placeholders.includes(el.textContent) ? line : el.textContent + '\\n' + line;
   el.scrollTop = el.scrollHeight;
 }
 
@@ -216,7 +229,6 @@ function startFetch() {
       return;
     }
     offset = 0;
-    // 開始輪詢
     polling = setInterval(pollLog, 300);
   })
   .catch(err => {
@@ -231,20 +243,16 @@ function pollLog() {
   fetch('/api/log?offset=' + offset)
   .then(r => r.json())
   .then(data => {
-    for (const line of data.lines) {
-      appendLog(line);
-      offset++;
-    }
+    for (const line of data.lines) { appendLog(line); offset++; }
     if (data.status === 'done' || data.status === 'error') {
-      clearInterval(polling);
-      polling = null;
+      clearInterval(polling); polling = null;
       const btn  = document.getElementById('runBtn');
       const prev = document.getElementById('previewBtn');
       btn.disabled = false;
       btn.textContent = '▶ 開始抓取';
       if (data.status === 'done') {
         prev.style.display = 'inline-block';
-        appendLog('\n✅ 完成！點「查看書單」預覽結果。');
+        appendLog('\\n✅ 完成！點「查看書單」預覽結果。');
         badge('done', '完成 ✓');
       } else {
         badge('error', '失敗 ✗');
@@ -255,10 +263,28 @@ function pollLog() {
 
 function clearLog() {
   document.getElementById('log').textContent = '（已清除）';
+  offset = 0;
 }
-</script>
-</body>
-</html>"""
+
+fetch('/api/log?offset=0')
+.then(r => r.json())
+.then(data => {
+  if (!data.lines.length && data.status === 'idle') return;
+  for (const line of data.lines) { appendLog(line); offset++; }
+  if (data.status === 'running') {
+    badge('running', '抓取中');
+    document.getElementById('runBtn').disabled = true;
+    document.getElementById('runBtn').textContent = '⏳ 抓取中…';
+    polling = setInterval(pollLog, 300);
+  } else if (data.status === 'done') {
+    badge('done', '完成 ✓');
+    document.getElementById('previewBtn').style.display = 'inline-block';
+  } else if (data.status === 'error') {
+    badge('error', '失敗 ✗');
+  }
+})
+.catch(err => { appendLog('⚠️ 無法連線：' + err); });
+"""
 
 
 if __name__ == "__main__":

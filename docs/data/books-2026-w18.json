@@ -6,7 +6,7 @@
   "sale_start": "2026-04-30",
   "sale_end": "2026-05-06",
   "on_sale": true,
-  "updated_at": "2026-05-04T20:20:58.600260+08:00",
+  "updated_at": "2026-05-06T00:06:32.428488+08:00",
   "books": [
     {
       "title": "毒梟烏托邦：解密逃出中情局掌握的亞洲販毒集團",
@@ -16,7 +16,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/AeEb58aKMjGn0Az3MePPkg?sId=445d20a7-e5ef-46ce-9e04-218613a0f674&ssId=sLrARTjPwpR55KeiihABK&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
       "kobo_price": "NT$476",
       "sale_price": "NT$99",
-      "date": "4/30",
+      "date": "5/4",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-06",
       "on_sale": true,
@@ -43,7 +43,7 @@
         "goodreads": {
           "score": 4.33,
           "count": 331001,
-          "url": "https://www.goodreads.com/book/show/145624870-narcotopia?from_search=true&from_srp=true&qid=KH16mzSd5N&rank=1",
+          "url": "https://www.goodreads.com/book/show/145624870-narcotopia?from_search=true&from_srp=true&qid=DNndenOKu9&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -55,66 +55,66 @@
       "avg_score": 4.33
     },
     {
-      "title": "筆記的魔力：最強深度思考筆記術 打造你攀登人生曲線高峰的行動力，高效自我進化",
-      "author": "前田裕二",
-      "original_title": "メモの魔力",
-      "isbn": "9789863989318",
+      "title": "毒梟烏托邦：解密逃出中情局掌握的亞洲販毒集團",
+      "author": "",
+      "original_title": "",
+      "isbn": null,
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/lgrPeUeOdzGZZYnHT9t52Q?sId=cae8b36d-a387-4563-9859-5d780878ce82&ssId=pXP1xBjIZTSUnlwOvQmkV&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
-      "kobo_price": "NT$252",
+      "kobo_price": null,
       "sale_price": "NT$99",
-      "date": "5/1",
+      "date": "4/30",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-06",
       "on_sale": true,
-      "publisher": "天下雜誌",
-      "publish_date": "2023年11月1日",
-      "language": "中文",
+      "publisher": "",
+      "publish_date": "",
+      "language": "",
       "description": "",
       "ratings": {
         "kobo": {
-          "score": 4.22,
-          "count": 9,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/lgrPeUeOdzGZZYnHT9t52Q?sId=cae8b36d-a387-4563-9859-5d780878ce82&ssId=pXP1xBjIZTSUnlwOvQmkV&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430"
         },
         "books_com": {
           "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050184903"
+          "count": 5,
+          "url": "https://www.books.com.tw/products/E050236310"
         },
         "readmoo": {
-          "score": 4.4,
-          "count": 17,
-          "url": "https://readmoo.com/book/210299203000101"
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "goodreads": {
-          "score": 3.32,
-          "count": 3219,
-          "url": "https://www.goodreads.com/book/show/53496843--the-magic-of-memos--newspicks-book?from_search=true&from_srp=true&qid=lF8rFhM8JX&rank=1",
-          "note": "title+author"
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 4729,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4344034082/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 3.85
+      "avg_score": 5.0
     },
     {
-      "title": "金钱博弈：重振韩国第一银行内幕",
-      "author": "单伟建",
-      "original_title": "Money Games: The Inside Story of How American Dealmakers Saved Korea's Most Iconic Bank",
-      "isbn": "7553521739725",
+      "title": "筆記的魔力：最強深度思考筆記術，打造你攀登人生曲線高峰的行動力，高效自我進化",
+      "author": "",
+      "original_title": "",
+      "isbn": null,
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/7sApXbWPxzyHyyecjQiB7A?sId=b7827596-0a59-4656-a747-7caad3157e85&ssId=7tuK1Pj2_I8ez-E4GGo_4&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
-      "kobo_price": "NT$327",
+      "kobo_price": null,
       "sale_price": "NT$99",
       "date": "5/1",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-06",
       "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2022年5月1日",
-      "language": "中文",
+      "publisher": "",
+      "publish_date": "",
+      "language": "",
       "description": "",
       "ratings": {
         "kobo": {
@@ -123,9 +123,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/7sApXbWPxzyHyyecjQiB7A?sId=b7827596-0a59-4656-a747-7caad3157e85&ssId=7tuK1Pj2_I8ez-E4GGo_4&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050184903"
         },
         "readmoo": {
           "score": null,
@@ -133,39 +133,39 @@
           "url": ""
         },
         "goodreads": {
-          "score": 4.43,
-          "count": 43283,
-          "url": "https://www.goodreads.com/book/show/52810146-money-games?from_search=true&from_srp=true&qid=x3Kieml9Te&rank=1",
-          "note": "title"
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 123,
-          "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B09DJ9DW1P/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.43
+      "avg_score": 5.0
     },
     {
-      "title": "神曲",
-      "author": "但丁（Alighieri Dante）",
+      "title": "金钱博弈",
+      "author": "",
       "original_title": "",
-      "isbn": "9789861785974",
+      "isbn": null,
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b8b-4052-8f16-62ec019012ed&ssId=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
-      "kobo_price": "NT$258",
+      "kobo_price": null,
       "sale_price": "NT$99",
-      "date": "5/2",
+      "date": "5/1",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-06",
       "on_sale": true,
-      "publisher": "好讀出版社",
-      "publish_date": "2022年3月15日",
-      "language": "中文",
+      "publisher": "",
+      "publish_date": "",
+      "language": "",
       "description": "",
       "ratings": {
         "kobo": {
-          "score": 4.0,
-          "count": 4,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/iDuViurP7zqZm-Igjjuxgg?sId=f6872cd4-4b8b-4052-8f16-62ec019012ed&ssId=7y1b7pOdwU9vt_LWumzhE&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430"
         },
         "books_com": {
@@ -190,69 +190,69 @@
           "url": ""
         }
       },
+      "avg_score": null
+    },
+    {
+      "title": "神曲",
+      "author": "",
+      "original_title": "",
+      "isbn": null,
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c54e-4001-8dcb-d39913a1dd14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
+      "kobo_price": null,
+      "sale_price": "NT$99",
+      "date": "5/2",
+      "sale_start": "2026-04-30",
+      "sale_end": "2026-05-06",
+      "on_sale": true,
+      "publisher": "",
+      "publish_date": "",
+      "language": "",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c54e-4001-8dcb-d39913a1dd14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 11,
+          "url": "https://readmoo.com/book/210004986000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
       "avg_score": 4.0
     },
     {
       "title": "品嘗的科學：普立茲獎得主教你用腦品出好滋味（三版）",
-      "author": "約翰‧麥奎德",
-      "original_title": "Tasty: The Art and Science of What We Eat",
-      "isbn": "9786267244487",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c54e-4001-8dcb-d39913a1dd14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
-      "kobo_price": "NT$199",
+      "author": "",
+      "original_title": "",
+      "isbn": null,
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/HGex0KgpWTikrLj3J-9kgw?sId=8876871a-8e85-4716-9ef0-999dad999b82&ssId=dm7-BRhjSWTm3KFVqhLHp&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
+      "kobo_price": null,
       "sale_price": "NT$99",
       "date": "5/3",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-06",
       "on_sale": true,
-      "publisher": "行路",
-      "publish_date": "2024年7月10日",
-      "language": "中文",
-      "description": "",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/7o3X8vfHAzKbbt0xSu_ADg?sId=34efd076-c54e-4001-8dcb-d39913a1dd14&ssId=G2Kw0mlYy2sq8-10ASW4B&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430"
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050224440"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 4,
-          "url": "https://readmoo.com/book/210337366000101"
-        },
-        "goodreads": {
-          "score": 3.54,
-          "count": 54466,
-          "url": "https://www.goodreads.com/book/show/21412374-tasty?from_search=true&from_srp=true&qid=xlwcOUg2eH&rank=1",
-          "note": "title"
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 76,
-          "url": "https://www.amazon.com/-/zh_TW/Tasty-Art-Science-What-Eat/dp/1451685017/ref=sr_1_1"
-        }
-      },
-      "avg_score": 3.54
-    },
-    {
-      "title": "問題不是從你開始的：以核心語言方法探索並療癒家族創傷對於身心健康的影響",
-      "author": "馬克．渥林",
-      "original_title": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
-      "isbn": "9786263189683",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/HGex0KgpWTikrLj3J-9kgw?sId=8876871a-8e85-4716-9ef0-999dad999b82&ssId=dm7-BRhjSWTm3KFVqhLHp&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
-      "kobo_price": "NT$280",
-      "sale_price": "NT$99",
-      "date": "5/4",
-      "sale_start": "2026-04-30",
-      "sale_end": "2026-05-06",
-      "on_sale": true,
-      "publisher": "商周出版",
-      "publish_date": "2024年1月4日",
-      "language": "中文",
+      "publisher": "",
+      "publish_date": "",
+      "language": "",
       "description": "",
       "ratings": {
         "kobo": {
@@ -261,44 +261,44 @@
           "url": "https://www.kobo.com/tw/zh/ebook/HGex0KgpWTikrLj3J-9kgw?sId=8876871a-8e85-4716-9ef0-999dad999b82&ssId=dm7-BRhjSWTm3KFVqhLHp&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430"
         },
         "books_com": {
-          "score": 5.0,
+          "score": 3.5,
           "count": 1,
-          "url": "https://www.books.com.tw/products/E050197986"
+          "url": "https://www.books.com.tw/products/E050224440"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210309116000101"
+          "url": ""
         },
         "goodreads": {
-          "score": 3.55,
-          "count": 5540129,
-          "url": "https://www.goodreads.com/book/show/26026054-it-didn-t-start-with-you?from_search=true&from_srp=true&qid=KG4AlmJy0E&rank=1",
-          "note": "title"
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 13715,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%80%99%E4%B8%8D%E6%98%AF%E4%BD%A0%E7%9A%84%E9%8C%AF%EF%BC%9A-%E6%B5%B7%E9%9D%88%E6%A0%BC%E5%AE%B6%E5%BA%AD%E5%89%B5%E5%82%B7%E7%99%82%E6%84%88%E4%B9%8B%E9%81%93-Didnt-Start-You/dp/1101980389/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 3.55
+      "avg_score": 3.5
     },
     {
       "title": "帶爸媽去日本自由行：不趕路、不排隊、多詢問、多拍照、多休息，掌握二不三多原則，讓孝親也能輕鬆玩",
-      "author": "盧德瑋（R瑋哥）",
+      "author": "",
       "original_title": "",
-      "isbn": "9786263793163",
+      "isbn": null,
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/wYtB0QOTYzSstrzl8VL2QQ?sId=e82e4292-d44e-45e9-93cf-cc278c8c4a69&ssId=ko3miniosbXP8PZluhcxI&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
-      "kobo_price": "NT$294",
+      "kobo_price": null,
       "sale_price": "NT$99",
       "date": "5/5",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-06",
       "on_sale": true,
       "publisher": "",
-      "publish_date": "2024年5月24日",
-      "language": "中文",
+      "publish_date": "",
+      "language": "",
       "description": "",
       "ratings": {
         "kobo": {
@@ -314,7 +314,7 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210329991000101"
+          "url": ""
         },
         "goodreads": {
           "score": null,
@@ -332,19 +332,19 @@
     },
     {
       "title": "失智行為說明書：到底是失智？還是老化？改善問題行為同時改善生理現象，讓照顧變輕鬆！",
-      "author": "平松類",
-      "original_title": "認知症の取扱説明書",
-      "isbn": "9786267498521",
+      "author": "",
+      "original_title": "",
+      "isbn": null,
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/K-PXT5OlQDin5aEFM4rvgw?sId=b799c82c-d7c5-46c3-b97b-5cd40f90e95e&ssId=zHjRr0qhx9FEynspFEb20&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260430",
-      "kobo_price": "NT$280",
+      "kobo_price": null,
       "sale_price": "NT$99",
       "date": "5/6",
       "sale_start": "2026-04-30",
       "sale_end": "2026-05-06",
       "on_sale": true,
-      "publisher": "如果出版",
-      "publish_date": "2024年12月18日",
-      "language": "中文",
+      "publisher": "",
+      "publish_date": "",
+      "language": "",
       "description": "",
       "ratings": {
         "kobo": {
@@ -358,23 +358,23 @@
           "url": ""
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 3,
-          "url": "https://readmoo.com/book/210362986000101"
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "goodreads": {
-          "score": 4.5,
-          "count": 504,
-          "url": "https://www.goodreads.com/book/show/157355743-16?from_search=true&from_srp=true&qid=6SpZDNnBcg&rank=1",
-          "note": "author"
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": 4.3,
-          "count": 243,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4897754488/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.43
+      "avg_score": null
     }
   ]
 }

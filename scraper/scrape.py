@@ -267,12 +267,21 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
     EBOOK_PAT  = re.compile(r"/(?:tw/)?zh/ebook/")
 
     result:        list[dict] = []
-    used_links:    set[str]   = set()
+    used_links:    dict[str, int] = {}   # clean_url → index in result
     used_titles:   set[str]   = set()
     current_date:  str        = ""
     pending_title: str        = ""
+    title_date_map: dict[str, str] = {}  # 書名 → 日期
 
     content = soup.find("body") or soup
+
+    # 預掃：從純文字裡比對「M/D週X...《書名》」，建立日期對照表
+    DT_PAT = re.compile(r"(\d{1,2}/\d{1,2})\s*週[一二三四五六日][^《]{0,50}《([^》]{2,80})》")
+    full_text = soup.get_text(separator="\n")
+    for m in DT_PAT.finditer(full_text):
+        d, t = m.group(1), m.group(2).strip()
+        if t not in title_date_map:
+            title_date_map[t] = d
 
     for elem in content.descendants:
         # ── 文字節點：依頁面順序更新日期 & 待用書名 ──────────────
@@ -300,7 +309,7 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
             clean = full.split("?")[0]
             if clean in used_links:
                 continue
-            used_links.add(clean)
+            used_links[clean] = len(result)
 
             # 書名：連結本身文字 → 前方 pending_title
             link_text = elem.get_text(strip=True)
@@ -342,6 +351,20 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
             if idx < len(extra):
                 result[pos]["title"] = extra[idx]
                 used_titles.add(extra[idx])
+
+    # 用 title_date_map 修正日期（部落格「M/D週X Kobo99選書：《書名》」是最可靠來源）
+    if title_date_map:
+        for book in result:
+            t = book["title"]
+            # 完整比對
+            if t in title_date_map:
+                book["blog_date"] = title_date_map[t]
+                continue
+            # 前綴比對（書名可能被截斷）
+            for map_t, map_d in title_date_map.items():
+                if t.startswith(map_t[:12]) or map_t.startswith(t[:12]):
+                    book["blog_date"] = map_d
+                    break
 
     print(f"   找到 {len(result)} 本")
     for b in result:
@@ -835,6 +858,32 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
 # 主流程
 # ══════════════════════════════════════════════════════════════════
 
+def _fix_date_attribution(books: list[dict], sale_start: Date, sale_end: Date) -> list[dict]:
+    """
+    修正 DOM 順序造成的日期誤歸因：
+    若某日有 2 本以上且下一天完全缺書，將最後一本移至下一天。
+    """
+    date_range: list[str] = []
+    d = sale_start
+    while d <= sale_end:
+        date_range.append(f"{d.month}/{d.day}")
+        d += timedelta(days=1)
+
+    fixed = False
+    for i, d_str in enumerate(date_range[:-1]):
+        here = [idx for idx, b in enumerate(books) if b.get("blog_date") == d_str]
+        next_d = date_range[i + 1]
+        nxt  = [idx for idx, b in enumerate(books) if b.get("blog_date") == next_d]
+        if len(here) >= 2 and len(nxt) == 0:
+            last_idx = here[-1]
+            books[last_idx]["blog_date"] = next_d
+            print(f"   📅 日期修正：《{books[last_idx]['title'][:20]}》{d_str} → {next_d}")
+            fixed = True
+    if not fixed:
+        print("   ✅ 日期分配正常")
+    return books
+
+
 def run(year=None, week=None, url=None):
     now    = datetime.now(TW_TZ)
     today  = now.date()
@@ -871,6 +920,7 @@ def run(year=None, week=None, url=None):
         if len(blog_books) < MIN_BOOKS:
             print(f"[錯誤] 只找到 {len(blog_books)} 本，停止")
             sys.exit(1)
+        blog_books = _fix_date_attribution(blog_books, sale_start, sale_end)
 
         n = len(blog_books)
         print(f"\n處理每本書（共 {n} 本）")
