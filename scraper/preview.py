@@ -575,6 +575,7 @@ let offset       = 0;
 let _books       = [];
 let _editISBN    = null, _editSrc = null;
 let _pollingFor  = 'fetch'; // 'fetch' | 'publish' | 'pull'
+let _pollGen     = 0;       // 每次啟動新 polling 遞增，stale callback 用此過濾
 let _year        = null;
 
 const DOW = ['日','一','二','三','四','五','六'];
@@ -582,6 +583,13 @@ function weekday(dateStr) {
   if (!_year || !dateStr) return '';
   const [m, d] = dateStr.split('/').map(Number);
   return '(' + DOW[new Date(_year, m - 1, d).getDay()] + ')';
+}
+
+function startPolling() {
+  if (polling) { clearInterval(polling); polling = null; }
+  const gen = ++_pollGen;
+  offset = 0;
+  polling = setInterval(() => pollLog(gen), 300);
 }
 
 function markDirty() {
@@ -618,7 +626,6 @@ function appendLog(line) {
 }
 
 function startFetch() {
-  if (polling) { clearInterval(polling); polling = null; }
   const url = document.getElementById('urlInput').value.trim();
   const btn = document.getElementById('runBtn');
   btn.disabled = true;
@@ -639,8 +646,7 @@ function startFetch() {
         badge('idle', '待機');
         return;
       }
-      offset = 0;
-      polling = setInterval(pollLog, 300);
+      startPolling();
     })
     .catch(err => {
       appendLog('❌ 連線失敗：' + err);
@@ -650,10 +656,12 @@ function startFetch() {
     });
 }
 
-function pollLog() {
+function pollLog(gen) {
+  if (gen !== _pollGen) return;
   fetch('/api/log?offset=' + offset)
     .then(r => r.json())
     .then(data => {
+      if (gen !== _pollGen) return;
       for (const line of data.lines) { appendLog(line); offset++; }
       if (data.status === 'done' || data.status === 'error') {
         clearInterval(polling); polling = null;
@@ -694,7 +702,6 @@ function clearLog() {
 }
 
 function pullFromGitHub() {
-  if (polling) { clearInterval(polling); polling = null; }
   _pollingFor = 'pull';
   const btn = document.getElementById('pullBtn');
   btn.disabled = true;
@@ -703,7 +710,7 @@ function pullFromGitHub() {
   badge('running', '同步中');
   fetch('/api/pull')
     .then(r => r.json())
-    .then(() => { offset = 0; polling = setInterval(pollLog, 300); })
+    .then(() => startPolling())
     .catch(err => {
       appendLog('❌ 連線失敗：' + err);
       btn.disabled = false;
@@ -713,7 +720,6 @@ function pullFromGitHub() {
 }
 
 function publishToGitHub() {
-  if (polling) { clearInterval(polling); polling = null; }
   _pollingFor = 'publish';
   const btn = document.getElementById('publishBtn');
   btn.disabled = true;
@@ -722,7 +728,7 @@ function publishToGitHub() {
   badge('running', '發佈中');
   fetch('/api/publish')
     .then(r => r.json())
-    .then(() => { offset = 0; polling = setInterval(pollLog, 300); })
+    .then(() => startPolling())
     .catch(err => {
       appendLog('❌ 連線失敗：' + err);
       document.getElementById('publishBtn').disabled = false;
