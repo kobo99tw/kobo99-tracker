@@ -247,7 +247,7 @@ function saving(book) {
 }
 
 function scClass(s) {
-  if (s == null) return "sc-none";
+  if (!s) return "sc-none";
   if (s >= 4.3)  return "sc-high";
   if (s >= 3.8)  return "sc-mid";
   return "sc-low";
@@ -262,7 +262,7 @@ function fmtN(n) {
 
 function ratingRow(srcKey, obj) {
   const { label, color } = SRC_META[srcKey] || { label: srcKey, color: "#888" };
-  if (!obj || obj.score == null) {
+  if (!obj || !obj.score) {
     return `<div class="r-row">
       <span class="r-src">${label}</span>
       <span class="r-na">暫無評分</span>
@@ -475,10 +475,10 @@ function render() {
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
-          data-score="${avg != null ? avg.toFixed(2) : 'null'}"
+          data-score="${avg ? avg.toFixed(2) : 'null'}"
           data-price="${esc(book.kobo_price||'')}"
           data-url="${esc(book.kobo_url||'')}">📤 分享</button>
-        <span class="score-badge ${cls}">${avg != null ? avg.toFixed(2) : "N/A"}</span>
+        <span class="score-badge ${cls}">${avg ? avg.toFixed(2) : "—"}</span>
       </div>`;
 
     return `

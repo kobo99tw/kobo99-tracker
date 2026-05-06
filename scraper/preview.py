@@ -276,6 +276,8 @@ def api_patch():
     count_raw = data.get("count")
     url       = str(data.get("url", "")).strip()
     score = float(score_raw) if score_raw not in (None, "", "null") else None
+    if score is not None and score <= 0:
+        score = None
     count = int(count_raw)   if count_raw not in (None, "", "null") else 0
 
     lp = DOCS_DIR / "data" / "latest.json"
@@ -833,7 +835,7 @@ function saveRating() {
     headers: {'Content-Type': 'application/json'},
     body: JSON.stringify({
       isbn, source: src,
-      score: scoreV === '' ? null : parseFloat(scoreV),
+      score: (scoreV === '' || parseFloat(scoreV) <= 0) ? null : parseFloat(scoreV),
       count: countV, url: urlV
     })
   })
@@ -844,7 +846,7 @@ function saveRating() {
         if (String(b.isbn) === String(isbn)) {
           if (!b.ratings) b.ratings = {};
           if (!b.ratings[src]) b.ratings[src] = {};
-          b.ratings[src].score = scoreV === '' ? null : parseFloat(scoreV);
+          b.ratings[src].score = (scoreV === '' || parseFloat(scoreV) <= 0) ? null : parseFloat(scoreV);
           b.ratings[src].count = countV;
           b.ratings[src].url   = urlV;
           b.avg_score = data.avg_score;
