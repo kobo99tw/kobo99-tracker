@@ -287,6 +287,58 @@ def api_patch():
     return jsonify({"ok": True, "avg_score": new_avg})
 
 
+# ── API：修正書本欄位（原價等）────────────────────────────────
+@app.route("/api/patch_book", methods=["POST"])
+def api_patch_book():
+    data  = request.json or {}
+    isbn  = str(data.get("isbn", "")).strip()
+    field = data.get("field", "").strip()
+    value = data.get("value", "")
+    if not isbn or field not in ("kobo_price",):
+        return jsonify({"error": "invalid params"}), 400
+
+    lp = DOCS_DIR / "data" / "latest.json"
+    if not lp.exists():
+        return jsonify({"error": "no data"}), 404
+    with open(lp, encoding="utf-8") as f:
+        ld = _json.load(f)
+    year, week = ld.get("year"), ld.get("week")
+    week_file  = DOCS_DIR / "data" / f"books-{year}-w{week}.json"
+
+    updated_val = None
+    for fpath in (lp, week_file):
+        if not fpath.exists():
+            continue
+        with open(fpath, encoding="utf-8") as f:
+            d = _json.load(f)
+        for book in d.get("books", []):
+            if str(book.get("isbn", "")) == isbn:
+                book[field] = value
+                updated_val = value
+                break
+        if updated_val is not None:
+            with open(fpath, "w", encoding="utf-8") as f:
+                _json.dump(d, f, ensure_ascii=False, indent=2)
+
+    if updated_val is not None and year and week:
+        corr_path = DOCS_DIR / "data" / "corrections.json"
+        try:
+            corrections = _json.loads(corr_path.read_text(encoding="utf-8")) if corr_path.exists() else {}
+            corrections.setdefault(f"{year}-w{week:02d}", {}).setdefault(isbn, {}).setdefault("_book", {})[field] = value
+            corr_path.write_text(_json.dumps(corrections, ensure_ascii=False, indent=2), encoding="utf-8")
+        except Exception as e:
+            print(f"[warn] corrections.json 寫入失敗: {e}")
+        try:
+            with open(lp, encoding="utf-8") as f:
+                updated = _json.load(f)
+            sale_start = Date.fromisocalendar(year, week, 4)
+            generate_ics(updated.get("books", []), year, week, sale_start)
+        except Exception as e:
+            print(f"[warn] ICS 重建失敗: {e}")
+
+    return jsonify({"ok": True, "value": updated_val})
+
+
 # ── 控制面板 HTML ─────────────────────────────────────────────
 ADMIN_HTML = """<!DOCTYPE html>
 <html lang="zh-TW">
@@ -351,14 +403,22 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
 .ba{color:#A8A29E;font-size:.74rem;display:block;margin-top:.1rem}
 .ot{color:#78716C;font-size:.76rem;max-width:120px;word-break:break-word}
 .mono{font-family:'Courier New',monospace;font-size:.73rem;color:#A8A29E;white-space:nowrap}
-.price{font-size:.82rem;color:#44403C;white-space:nowrap;text-align:right}
+.price{font-size:.82rem;color:#44403C;white-space:nowrap;text-align:right;cursor:pointer}
+.price:hover{background:#FFFBF5!important}
 .rc{text-align:center;cursor:pointer;padding:.45rem .35rem;user-select:none}
 .rc:hover{background:#FFF7ED!important}
 .rc-empty .rc-miss{color:#D6D3D1;font-weight:700}
 .rc-score{color:#0F766E;font-weight:700}
 .rc-cnt{font-size:.7rem;color:#A8A29E;margin-left:.15rem}
-.rc-a{text-decoration:none;color:inherit;display:inline-block}
-.rc-a:hover .rc-score{color:#0D9488}
+#rBack{position:fixed;inset:0;z-index:9998;background:rgba(0,0,0,.15);cursor:default}
+.rc-url{font-size:.68rem;color:#A8A29E;cursor:pointer;text-decoration:underline;
+  display:block;margin-top:.1rem;max-width:80px;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+.rpop-url-row{display:flex;gap:.35rem;align-items:center}
+.rpop-url-row input{flex:1}
+.rpop-open{border:none;background:#F5F3F0;border:1px solid #D6D3D1;border-radius:5px;
+  padding:.3rem .55rem;font-size:.75rem;cursor:pointer;white-space:nowrap;color:#44403C}
+.rpop-open:hover{border-color:#A8A29E}
 .avg{text-align:center;font-weight:700;color:#EA580C;font-size:.84rem;white-space:nowrap}
 
 /* ── 編輯浮層 ── */
@@ -563,10 +623,7 @@ function fmtRating(isbn, src, r) {
     ? '<span class="rc-miss">?</span>'
     : '<span class="rc-score">\\u2605' + sc.toFixed(1) + '</span>'
       + '<span class="rc-cnt">(' + cnt + ')</span>';
-  if (url) {
-    inner = '<a class="rc-a" href="' + esc(url)
-      + '" target="_blank" onclick="event.stopPropagation()">' + inner + '</a>';
-  }
+  if (url) inner += '<span class="rc-url">🔗</span>';
   return '<td class="rc' + (miss ? ' rc-empty' : '') + '"'
     + ' data-isbn="' + esc(isbn) + '"'
     + ' data-src="' + src + '"'
@@ -590,7 +647,9 @@ function renderReviewTable(books) {
     body += '<td><span class="bt">' + esc(b.title) + '</span>'
           + '<span class="ba">' + esc(b.author) + '</span></td>';
     body += '<td class="mono">' + esc(b.isbn) + '</td>';
-    body += '<td class="price">' + esc(b.kobo_price || '\\u2014') + '</td>';
+    body += '<td class="price" data-isbn="' + esc(b.isbn) + '" data-price="'
+          + esc(b.kobo_price || '') + '" onclick="openPriceEditPop(this)" title="點擊編輯原價">'
+          + esc(b.kobo_price || '\\u2014') + '</td>';
     body += '<td class="ot">' + esc(b.original_title || '\\u2014') + '</td>';
     for (const s of srcs) body += fmtRating(b.isbn, s, (b.ratings || {})[s]);
     body += '<td class="avg">' + (avg != null ? '\\u2605' + avg.toFixed(2) : '\\u2014') + '</td>';
@@ -605,10 +664,26 @@ function renderReviewTable(books) {
 
 // ── 浮層編輯 ─────────────────────────────────────────────────
 
+function _showPop(pop, anchorRect) {
+  const popH = 240, popW = 310, gap = 6;
+  const top  = (window.innerHeight - anchorRect.bottom >= popH + gap)
+    ? anchorRect.bottom + gap
+    : Math.max(gap, anchorRect.top - popH - gap);
+  const left = Math.max(gap, Math.min(anchorRect.left, window.innerWidth - popW - gap));
+  pop.style.top  = top  + 'px';
+  pop.style.left = left + 'px';
+  const back = document.createElement('div');
+  back.id = 'rBack';
+  back.addEventListener('click', closeEditPop);
+  document.body.appendChild(back);
+  document.body.appendChild(pop);
+}
+
 function openEditPop(cell) {
   closeEditPop();
   _editISBN = cell.dataset.isbn;
   _editSrc  = cell.dataset.src;
+  const curUrl = cell.dataset.url || '';
   const pop = document.createElement('div');
   pop.id = 'rPop';
   pop.className = 'rpop';
@@ -618,34 +693,50 @@ function openEditPop(cell) {
     + esc(cell.dataset.score) + '" placeholder="（留空=無）"></label>'
     + '<label>筆數<input id="rpCount" type="number" min="0" value="'
     + esc(cell.dataset.count) + '"></label>'
-    + '<label>連結<input id="rpUrl" type="text" autocomplete="off" value="'
-    + esc(cell.dataset.url) + '"></label>'
+    + '<label>連結<div class="rpop-url-row">'
+    + '<input id="rpUrl" type="text" autocomplete="off" value="' + esc(curUrl) + '">'
+    + (curUrl ? '<button class="rpop-open" onclick="window.open(document.getElementById(\\'rpUrl\\').value,\\'_blank\\')">🔗 開啟</button>' : '')
+    + '</div></label>'
     + '<div class="rpop-btns">'
     + '<button class="rpop-cancel" onclick="closeEditPop()">取消</button>'
     + '<button class="rpop-save" onclick="saveRating()">儲存</button>'
     + '</div>';
-
-  const rect = cell.getBoundingClientRect();
-  const popH = 230;
-  const popW = 300;
-  const gap  = 6;
-  const top  = (window.innerHeight - rect.bottom >= popH + gap)
-    ? rect.bottom + gap
-    : Math.max(gap, rect.top - popH - gap);
-  const left = Math.max(gap, Math.min(rect.left, window.innerWidth - popW - gap));
-  pop.style.top  = top  + 'px';
-  pop.style.left = left + 'px';
-  document.body.appendChild(pop);
   pop.addEventListener('keydown', e => {
     if (e.key === 'Enter')  { e.preventDefault(); saveRating(); }
     if (e.key === 'Escape') closeEditPop();
   });
+  _showPop(pop, cell.getBoundingClientRect());
   document.getElementById('rpScore').focus();
+}
+
+function openPriceEditPop(cell) {
+  closeEditPop();
+  _editISBN = cell.dataset.isbn;
+  _editSrc  = '__price__';
+  const pop = document.createElement('div');
+  pop.id = 'rPop';
+  pop.className = 'rpop';
+  pop.innerHTML =
+    '<div class="rpop-t">\\u270f\\ufe0f 編輯原價</div>'
+    + '<label>原價<input id="rpPrice" type="text" autocomplete="off" value="'
+    + esc(cell.dataset.price) + '" placeholder="NT$xxx"></label>'
+    + '<div class="rpop-btns">'
+    + '<button class="rpop-cancel" onclick="closeEditPop()">取消</button>'
+    + '<button class="rpop-save" onclick="savePrice()">儲存</button>'
+    + '</div>';
+  pop.addEventListener('keydown', e => {
+    if (e.key === 'Enter')  { e.preventDefault(); savePrice(); }
+    if (e.key === 'Escape') closeEditPop();
+  });
+  _showPop(pop, cell.getBoundingClientRect());
+  document.getElementById('rpPrice').focus();
 }
 
 function closeEditPop() {
   const p = document.getElementById('rPop');
   if (p) p.remove();
+  const b = document.getElementById('rBack');
+  if (b) b.remove();
   _editISBN = null; _editSrc = null;
 }
 
@@ -692,9 +783,33 @@ function saveRating() {
   .catch(e => appendLog('\\u274c 儲存錯誤：' + e));
 }
 
-document.addEventListener('click', e => {
-  if (_editISBN && !e.target.closest('#rPop') && !e.target.closest('.rc')) closeEditPop();
-});
+function savePrice() {
+  if (!_editISBN) return;
+  const el = document.getElementById('rpPrice');
+  if (!el) return;
+  const val = el.value.trim();
+  const isbn = _editISBN;
+  closeEditPop();
+  fetch('/api/patch_book', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({ isbn, field: 'kobo_price', value: val })
+  })
+  .then(r => r.json())
+  .then(data => {
+    if (data.ok) {
+      for (const b of _books) {
+        if (String(b.isbn) === String(isbn)) { b.kobo_price = val; break; }
+      }
+      renderReviewTable(_books);
+      appendLog('\\u2705 已儲存原價（ICS 已更新，記得發佈到 GitHub）');
+      markDirty();
+    } else {
+      appendLog('\\u274c 儲存失敗：' + JSON.stringify(data));
+    }
+  })
+  .catch(e => appendLog('\\u274c 儲存錯誤：' + e));
+}
 
 // ── 書單資訊 + 渲染表格 ──────────────────────────────────────
 

@@ -898,8 +898,12 @@ def _apply_corrections(books: list[dict], year: int, week: int) -> None:
         isbn = str(book.get("isbn", ""))
         if isbn not in week_corr:
             continue
-        for source, vals in week_corr[isbn].items():
-            book.setdefault("ratings", {}).setdefault(source, {}).update(vals)
+        for key, vals in week_corr[isbn].items():
+            if key == "_book":
+                for field, val in vals.items():
+                    book[field] = val
+            else:
+                book.setdefault("ratings", {}).setdefault(key, {}).update(vals)
     print(f"📝 套用 {len(week_corr)} 筆手動修正（corrections.json）")
 
 
