@@ -351,6 +351,7 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
 .ba{color:#A8A29E;font-size:.74rem;display:block;margin-top:.1rem}
 .ot{color:#78716C;font-size:.76rem;max-width:120px;word-break:break-word}
 .mono{font-family:'Courier New',monospace;font-size:.73rem;color:#A8A29E;white-space:nowrap}
+.price{font-size:.82rem;color:#44403C;white-space:nowrap;text-align:right}
 .rc{text-align:center;cursor:pointer;padding:.45rem .35rem;user-select:none}
 .rc:hover{background:#FFF7ED!important}
 .rc-empty .rc-miss{color:#D6D3D1;font-weight:700}
@@ -589,6 +590,7 @@ function renderReviewTable(books) {
     body += '<td><span class="bt">' + esc(b.title) + '</span>'
           + '<span class="ba">' + esc(b.author) + '</span></td>';
     body += '<td class="mono">' + esc(b.isbn) + '</td>';
+    body += '<td class="price">' + esc(b.kobo_price || '\\u2014') + '</td>';
     body += '<td class="ot">' + esc(b.original_title || '\\u2014') + '</td>';
     for (const s of srcs) body += fmtRating(b.isbn, s, (b.ratings || {})[s]);
     body += '<td class="avg">' + (avg != null ? '\\u2605' + avg.toFixed(2) : '\\u2014') + '</td>';
@@ -596,7 +598,7 @@ function renderReviewTable(books) {
   }
   document.getElementById('reviewTableWrap').innerHTML =
     '<table class="rt"><thead><tr>'
-    + '<th>日期</th><th>書名 / 作者</th><th>ISBN</th><th>原文名</th>'
+    + '<th>日期</th><th>書名 / 作者</th><th>ISBN</th><th>原價</th><th>原文名</th>'
     + '<th>Kobo</th><th>博客來</th><th>讀墨</th><th>GR</th><th>AMZ</th>'
     + '<th>綜合</th></tr></thead><tbody>' + body + '</tbody></table>';
 }
