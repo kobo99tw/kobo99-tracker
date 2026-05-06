@@ -199,25 +199,33 @@ def api_pull():
     def worker():
         global _running, _status
         try:
+            # 步驟1：fetch 取得遠端最新狀態
             with _lock:
                 _log.append("⬇ 從 GitHub 拉取最新資料…")
-            proc = subprocess.Popen(
-                ["git", "pull", "--ff-only"],
-                stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-                encoding="utf-8", errors="replace", cwd=str(ROOT_DIR),
-            )
-            for line in proc.stdout:
-                if line.rstrip():
+            for cmd in [
+                ["git", "fetch", "origin"],
+                ["git", "checkout", "origin/main", "--",
+                 "docs/data/", "docs/calendar.ics"],
+            ]:
+                with _lock:
+                    _log.append("$ " + " ".join(cmd))
+                proc = subprocess.Popen(
+                    cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                    encoding="utf-8", errors="replace", cwd=str(ROOT_DIR),
+                )
+                for line in proc.stdout:
+                    if line.rstrip():
+                        with _lock:
+                            _log.append(line.rstrip())
+                proc.wait()
+                if proc.returncode != 0:
                     with _lock:
-                        _log.append(line.rstrip())
-            proc.wait()
+                        _log.append(f"❌ 失敗（exit {proc.returncode}）")
+                        _status = "error"
+                    return
             with _lock:
-                if proc.returncode == 0:
-                    _log.append("✅ 已同步最新資料！")
-                    _status = "done"
-                else:
-                    _log.append("❌ git pull 失敗，請確認網路或手動處理衝突")
-                    _status = "error"
+                _log.append("✅ 已同步最新資料！")
+                _status = "done"
         except Exception as e:
             with _lock:
                 _log.append(f"❌ 錯誤：{e}")
