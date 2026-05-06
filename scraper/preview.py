@@ -237,6 +237,76 @@ def api_pull():
     return jsonify({"ok": True})
 
 
+# ── API：資料版本歷史 ─────────────────────────────────────────
+@app.route("/api/history")
+def api_history():
+    try:
+        result = subprocess.run(
+            ["git", "log", "--pretty=format:%h|%ad|%s",
+             "--date=format:%Y-%m-%d %H:%M", "-15",
+             "--", "docs/data/", "docs/calendar.ics"],
+            cwd=str(ROOT_DIR), capture_output=True,
+            text=True, encoding="utf-8", errors="replace",
+        )
+        entries = []
+        for line in result.stdout.strip().splitlines():
+            parts = line.split("|", 2)
+            if len(parts) == 3:
+                entries.append({"hash": parts[0], "date": parts[1], "msg": parts[2]})
+        return jsonify({"entries": entries})
+    except Exception as e:
+        return jsonify({"entries": [], "error": str(e)})
+
+
+# ── API：還原指定版本資料 ─────────────────────────────────────
+@app.route("/api/restore")
+def api_restore():
+    import re as _re
+    global _running, _log, _status
+    h = request.args.get("hash", "").strip()
+    if not h or not _re.match(r"^[0-9a-f]{4,40}$", h):
+        return jsonify({"error": "invalid hash"}), 400
+    with _lock:
+        if _running:
+            return jsonify({"error": "already_running"}), 409
+        _running = True
+        _log     = []
+        _status  = "running"
+
+    def worker():
+        global _running, _status
+        try:
+            cmd = ["git", "checkout", h, "--", "docs/data/", "docs/calendar.ics"]
+            with _lock:
+                _log.append(f"⏮ 還原至版本 {h}…")
+                _log.append("$ " + " ".join(cmd))
+            proc = subprocess.Popen(
+                cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                encoding="utf-8", errors="replace", cwd=str(ROOT_DIR),
+            )
+            for line in proc.stdout:
+                if line.rstrip():
+                    with _lock:
+                        _log.append(line.rstrip())
+            proc.wait()
+            with _lock:
+                if proc.returncode == 0:
+                    _log.append(f"✅ 已還原至 {h}，若要上線請按「發佈到 GitHub」。")
+                    _status = "done"
+                else:
+                    _log.append(f"❌ 還原失敗（exit {proc.returncode}）")
+                    _status = "error"
+        except Exception as e:
+            with _lock:
+                _log.append(f"❌ 錯誤：{e}")
+                _status = "error"
+        finally:
+            _running = False
+
+    threading.Thread(target=worker, daemon=True).start()
+    return jsonify({"ok": True})
+
+
 # ── API：書單資訊（完整欄位）────────────────────────────────
 @app.route("/api/info")
 def api_info():
@@ -465,6 +535,19 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
 .st-done{background:#F0FDF4;color:#15803D;border:1px solid #86EFAC}
 .st-error{background:#FEF2F2;color:#B91C1C;border:1px solid #FCA5A5}
 
+/* ── 版本歷史 ── */
+.hist-row{display:flex;align-items:center;gap:.6rem;padding:.45rem 0;
+  border-bottom:1px solid #F0EEEC;font-size:.82rem}
+.hist-row:last-child{border-bottom:none}
+.hist-date{color:#78716C;white-space:nowrap;font-size:.78rem;min-width:110px}
+.hist-msg{flex:1;color:#1C1917;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.hist-hash{font-family:'Courier New',monospace;font-size:.72rem;color:#A8A29E}
+.hist-cur{font-size:.72rem;background:#F0FDF4;color:#15803D;border:1px solid #86EFAC;
+  border-radius:4px;padding:.1rem .45rem;white-space:nowrap}
+.hist-btn{border:none;background:#F5F3F0;border:1px solid #D6D3D1;color:#44403C;
+  border-radius:6px;padding:.25rem .7rem;font-size:.76rem;cursor:pointer;white-space:nowrap}
+.hist-btn:hover{border-color:#A8A29E;background:#EDE9E4}
+
 /* ── 書單審查表格 ── */
 .rt{width:100%;border-collapse:collapse;font-size:.84rem;min-width:860px}
 .rt th{background:#F9F8F7;color:#78716C;padding:.5rem .65rem;text-align:center;
@@ -562,6 +645,11 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
   <pre id="log">（尚未執行）</pre>
 </div>
 
+<div class="panel">
+  <div class="panel-title">版本歷史</div>
+  <div id="historyList"><span style="color:#A8A29E;font-size:.8rem">載入中…</span></div>
+</div>
+
 <div class="panel" id="reviewPanel" style="display:none">
   <div class="panel-title">
     書單資料審查
@@ -582,7 +670,7 @@ let polling      = null;
 let offset       = 0;
 let _books       = [];
 let _editISBN    = null, _editSrc = null;
-let _pollingFor  = 'fetch'; // 'fetch' | 'publish' | 'pull'
+let _pollingFor  = 'fetch'; // 'fetch' | 'publish' | 'pull' | 'restore'
 let _pollGen     = 0;       // 每次啟動新 polling 遞增，stale callback 用此過濾
 let _year        = null;
 
@@ -687,6 +775,13 @@ function pollLog(gen) {
             appendLog('\\n✅ 書單已同步，表格已更新。');
             badge('done', '已同步 ✓');
             loadWeekInfo();
+            loadHistory();
+          } else if (_pollingFor === 'restore') {
+            markDirty();
+            appendLog('\\n⏮ 還原完成，表格已更新。若要上線請按「發佈到 GitHub」。');
+            badge('done', '已還原 ✓');
+            loadWeekInfo();
+            loadHistory();
           } else {
             markDirty();
             appendLog('\\n✅ 完成！可點「查看書單」預覽，或「發佈到 GitHub」上線。');
@@ -700,6 +795,7 @@ function pollLog(gen) {
           }
           badge('error', '失敗 ✗');
         }
+
       }
     });
 }
@@ -1057,6 +1153,44 @@ fetch('/api/log?offset=0')
   .catch(err => appendLog('⚠️ 無法連線：' + err));
 
 loadWeekInfo();
+
+function loadHistory() {
+  fetch('/api/history')
+    .then(r => r.json())
+    .then(d => {
+      const el = document.getElementById('historyList');
+      if (!d.entries || !d.entries.length) {
+        el.innerHTML = '<span style="color:#A8A29E;font-size:.8rem">尚無歷史記錄</span>';
+        return;
+      }
+      el.innerHTML = d.entries.map((e, i) =>
+        '<div class="hist-row">'
+        + '<span class="hist-date">' + esc(e.date) + '</span>'
+        + '<span class="hist-msg">' + esc(e.msg) + '</span>'
+        + '<span class="hist-hash">' + esc(e.hash) + '</span>'
+        + (i === 0
+          ? '<span class="hist-cur">目前</span>'
+          : '<button class="hist-btn" onclick="restoreVersion(\'' + esc(e.hash) + '\',\'' + esc(e.msg).replace(/'/g,"\\'") + '\')">⏮ 還原</button>')
+        + '</div>'
+      ).join('');
+    });
+}
+
+function restoreVersion(hash, msg) {
+  if (!confirm('還原資料至：\\n' + msg + '\\n\\n確定？還原後需再按「發佈到 GitHub」才會上線。')) return;
+  _pollingFor = 'restore';
+  document.getElementById('log').textContent = '⏮ 還原中…';
+  badge('running', '還原中');
+  fetch('/api/restore?hash=' + encodeURIComponent(hash))
+    .then(r => r.json())
+    .then(d => {
+      if (d.error) { appendLog('❌ ' + d.error); badge('error', '失敗'); return; }
+      startPolling();
+    })
+    .catch(err => { appendLog('❌ 連線失敗：' + err); badge('error', '失敗'); });
+}
+
+loadHistory();
 """
 
 
