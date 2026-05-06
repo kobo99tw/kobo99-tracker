@@ -185,6 +185,50 @@ def api_publish():
     return jsonify({"ok": True})
 
 
+# ── API：從 GitHub 拉取最新資料 ─────────────────────────────
+@app.route("/api/pull")
+def api_pull():
+    global _running, _log, _status
+    with _lock:
+        if _running:
+            return jsonify({"error": "already_running"}), 409
+        _running = True
+        _log     = []
+        _status  = "running"
+
+    def worker():
+        global _running, _status
+        try:
+            with _lock:
+                _log.append("⬇ 從 GitHub 拉取最新資料…")
+            proc = subprocess.Popen(
+                ["git", "pull", "--ff-only"],
+                stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                encoding="utf-8", errors="replace", cwd=str(ROOT_DIR),
+            )
+            for line in proc.stdout:
+                if line.rstrip():
+                    with _lock:
+                        _log.append(line.rstrip())
+            proc.wait()
+            with _lock:
+                if proc.returncode == 0:
+                    _log.append("✅ 已同步最新資料！")
+                    _status = "done"
+                else:
+                    _log.append("❌ git pull 失敗，請確認網路或手動處理衝突")
+                    _status = "error"
+        except Exception as e:
+            with _lock:
+                _log.append(f"❌ 錯誤：{e}")
+                _status = "error"
+        finally:
+            _running = False
+
+    threading.Thread(target=worker, daemon=True).start()
+    return jsonify({"ok": True})
+
+
 # ── API：書單資訊（完整欄位）────────────────────────────────
 @app.route("/api/info")
 def api_info():
@@ -363,6 +407,8 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
 .btn{border:none;border-radius:8px;padding:.58rem 1.15rem;font-size:.88rem;
   font-weight:600;cursor:pointer;transition:filter .15s;white-space:nowrap}
 .btn:hover:not(:disabled){filter:brightness(.9)}
+#pullBtn{background:#0369A1;color:#fff}
+#pullBtn:disabled{opacity:.4;cursor:not-allowed}
 #runBtn{background:#F97316;color:#fff}
 #runBtn:disabled{opacity:.4;cursor:not-allowed}
 #previewBtn{background:#0F766E;color:#fff;text-decoration:none;
@@ -451,10 +497,11 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
   <div class="url-row">
     <input id="urlInput" type="text" value="{{SUGGESTED_URL}}"
       placeholder="留空 = 自動從部落格主頁偵測最新書單">
-    <button id="runBtn" class="btn" onclick="startFetch()">🔄 重新抓取</button>
-    <a id="previewBtn" class="btn" href="/" target="_blank">📚 查看書單</a>
+    <button id="pullBtn"    class="btn" onclick="pullFromGitHub()">⬇ 拉取更新</button>
+    <button id="runBtn"     class="btn" onclick="startFetch()">🔄 重新抓取</button>
+    <a id="previewBtn"      class="btn" href="/" target="_blank">📚 查看書單</a>
     <button id="publishBtn" class="btn" onclick="publishToGitHub()">📤 發佈到 GitHub</button>
-    <a id="ghPagesBtn" class="btn" href="https://kobo99tw.github.io/kobo99-tracker/" target="_blank">🌐 GitHub Pages</a>
+    <a id="ghPagesBtn"      class="btn" href="https://kobo99tw.github.io/kobo99-tracker/" target="_blank">🌐 GitHub Pages</a>
   </div>
   <p class="hint">留空 → 自動偵測最新書單　｜　貼入指定網址 → 強制抓取該週</p>
   <div id="weekInfo"></div>
@@ -487,7 +534,7 @@ let polling      = null;
 let offset       = 0;
 let _books       = [];
 let _editISBN    = null, _editSrc = null;
-let _pollingFor  = 'fetch'; // 'fetch' | 'publish'
+let _pollingFor  = 'fetch'; // 'fetch' | 'publish' | 'pull'
 let _year        = null;
 
 const DOW = ['日','一','二','三','四','五','六'];
@@ -578,6 +625,12 @@ function pollLog() {
             clearDirty();
             appendLog('\\n✅ 已發佈到 GitHub！');
             badge('done', '已發佈 ✓');
+          } else if (_pollingFor === 'pull') {
+            document.getElementById('pullBtn').disabled = false;
+            document.getElementById('pullBtn').textContent = '⬇ 拉取更新';
+            appendLog('\\n✅ 書單已同步，表格已更新。');
+            badge('done', '已同步 ✓');
+            loadWeekInfo();
           } else {
             markDirty();
             appendLog('\\n✅ 完成！可點「查看書單」預覽，或「發佈到 GitHub」上線。');
@@ -585,6 +638,10 @@ function pollLog() {
             loadWeekInfo();
           }
         } else {
+          if (_pollingFor === 'pull') {
+            document.getElementById('pullBtn').disabled = false;
+            document.getElementById('pullBtn').textContent = '⬇ 拉取更新';
+          }
           badge('error', '失敗 ✗');
         }
       }
@@ -594,6 +651,25 @@ function pollLog() {
 function clearLog() {
   document.getElementById('log').textContent = '（已清除）';
   offset = 0;
+}
+
+function pullFromGitHub() {
+  if (polling) { clearInterval(polling); polling = null; }
+  _pollingFor = 'pull';
+  const btn = document.getElementById('pullBtn');
+  btn.disabled = true;
+  btn.textContent = '⏳ 同步中…';
+  document.getElementById('log').textContent = '⏳ 拉取中…';
+  badge('running', '同步中');
+  fetch('/api/pull')
+    .then(r => r.json())
+    .then(() => { offset = 0; polling = setInterval(pollLog, 300); })
+    .catch(err => {
+      appendLog('❌ 連線失敗：' + err);
+      btn.disabled = false;
+      btn.textContent = '⬇ 拉取更新';
+      badge('error', '失敗');
+    });
 }
 
 function publishToGitHub() {
