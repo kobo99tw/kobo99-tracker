@@ -648,19 +648,42 @@ def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict
             pass
         return None
 
-    def _search(query: str, note: str) -> dict | None:
-        """搜尋頁找第一本書連結 → 跟進書頁解析（確保評分＝連結那本書）"""
+    def _best_url(candidates: list[tuple[str, str]], hint: str) -> str | None:
+        """從 (url, title) 列表中用 SequenceMatcher 取最接近 hint 的 URL。
+        相似度 < 0.3 且候補 > 1 時放棄（避免誤抓）；只有一筆時直接用。"""
+        if not candidates:
+            return None
+        if not hint or len(candidates) == 1:
+            return candidates[0][0]
+        h = hint.lower()
+        best_url, best_sim = candidates[0][0], 0.0
+        for url, title in candidates:
+            sim = SequenceMatcher(None, h, title.lower()).ratio()
+            if sim > best_sim:
+                best_sim, best_url = sim, url
+        return best_url if best_sim >= 0.3 else candidates[0][0]
+
+    def _search(query: str, note: str, hint: str = "") -> dict | None:
+        """搜尋頁取前 5 筆，用書名相似度選最佳結果後進書頁解析"""
         try:
             q    = requests.utils.quote(query)
             r    = requests.get(f"https://www.goodreads.com/search?q={q}",
                                 headers=HEADERS, timeout=8)
             soup = BeautifulSoup(r.text, "html.parser")
-            a    = soup.select_one("a.bookTitle, a[href*='/book/show/']")
-            if not a:
-                return None
-            href = a["href"]
-            book_url = href if href.startswith("http") else "https://www.goodreads.com" + href
-            return _parse_book_page(book_url, note)
+            candidates: list[tuple[str, str]] = []
+            for a in soup.select("a.bookTitle")[:5]:
+                href = a.get("href", "")
+                if "/book/show/" not in href:
+                    continue
+                url = href if href.startswith("http") else "https://www.goodreads.com" + href
+                candidates.append((url, a.get_text(strip=True)))
+            if not candidates:
+                for a in soup.select("a[href*='/book/show/']")[:5]:
+                    href = a.get("href", "")
+                    url = href if href.startswith("http") else "https://www.goodreads.com" + href
+                    candidates.append((url, a.get_text(strip=True)))
+            best = _best_url(candidates, hint)
+            return _parse_book_page(best, note) if best else None
         except Exception:
             pass
         return None
@@ -668,17 +691,17 @@ def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict
     if not original_title and not original_author:
         return {"note": "無原文資訊"}
 
-    # 1. 原文書名 + 原文作者（最精準）
+    # 1. 原文書名 + 原文作者（最精準），用書名做相似度比對
     if original_title and original_author:
-        r = _search(f"{original_title} {original_author}", "title+author")
+        r = _search(f"{original_title} {original_author}", "title+author", original_title)
         if r:
             return r
     # 2. 只用原文書名
     if original_title:
-        r = _search(original_title, "title")
+        r = _search(original_title, "title", original_title)
         if r:
             return r
-    # 3. 只用原文作者
+    # 3. 只用原文作者（無書名 hint，取第一筆）
     if original_author:
         r = _search(original_author, "author")
         if r:
