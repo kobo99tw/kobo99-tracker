@@ -531,6 +531,7 @@ function appendLog(line) {
 }
 
 function startFetch() {
+  if (polling) { clearInterval(polling); polling = null; }
   const url = document.getElementById('urlInput').value.trim();
   const btn = document.getElementById('runBtn');
   btn.disabled = true;
@@ -596,6 +597,7 @@ function clearLog() {
 }
 
 function publishToGitHub() {
+  if (polling) { clearInterval(polling); polling = null; }
   _pollingFor = 'publish';
   const btn = document.getElementById('publishBtn');
   btn.disabled = true;
