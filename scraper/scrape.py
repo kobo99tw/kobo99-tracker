@@ -749,7 +749,10 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
             # 取前 5 筆搜尋結果 (title, url)
             candidates: list[tuple[str, str]] = []
             for card in soup.select("div[data-component-type='s-search-result']")[:5]:
-                a = card.select_one("h2 a[href*='/dp/']")
+                # amazon.co.jp 的 <a> 是 <h2> 的父層，需用 a.a-link-normal 而非 h2 a
+                a = card.select_one("a.a-link-normal[href*='/dp/']")
+                if not a:
+                    a = card.select_one("a[href*='/dp/']")
                 if not a:
                     continue
                 title_el = card.select_one("h2 span")
