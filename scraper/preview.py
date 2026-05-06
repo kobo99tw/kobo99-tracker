@@ -626,8 +626,15 @@ function openEditPop(cell) {
     + '</div>';
 
   const rect = cell.getBoundingClientRect();
-  pop.style.top  = (rect.bottom + 6) + 'px';
-  pop.style.left = Math.max(6, Math.min(rect.left, window.innerWidth - 306)) + 'px';
+  const popH = 230;
+  const popW = 300;
+  const gap  = 6;
+  const top  = (window.innerHeight - rect.bottom >= popH + gap)
+    ? rect.bottom + gap
+    : Math.max(gap, rect.top - popH - gap);
+  const left = Math.max(gap, Math.min(rect.left, window.innerWidth - popW - gap));
+  pop.style.top  = top  + 'px';
+  pop.style.left = left + 'px';
   document.body.appendChild(pop);
   pop.addEventListener('keydown', e => {
     if (e.key === 'Enter')  { e.preventDefault(); saveRating(); }
