@@ -618,7 +618,7 @@ function openEditPop(cell) {
     + esc(cell.dataset.score) + '" placeholder="（留空=無）"></label>'
     + '<label>筆數<input id="rpCount" type="number" min="0" value="'
     + esc(cell.dataset.count) + '"></label>'
-    + '<label>連結<input id="rpUrl" type="text" value="'
+    + '<label>連結<input id="rpUrl" type="text" autocomplete="off" value="'
     + esc(cell.dataset.url) + '"></label>'
     + '<div class="rpop-btns">'
     + '<button class="rpop-cancel" onclick="closeEditPop()">取消</button>'
