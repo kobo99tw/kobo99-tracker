@@ -5,8 +5,11 @@ Kobo99 本機預覽伺服器
 需要：pip install flask
 """
 import sys, os, subprocess, webbrowser, threading, json as _json
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta, date as Date
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from scrape import generate_ics
 from flask import Flask, request, send_from_directory, jsonify, make_response
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -259,6 +262,27 @@ def api_patch():
         if updated:
             with open(fpath, "w", encoding="utf-8") as f:
                 _json.dump(d, f, ensure_ascii=False, indent=2)
+
+    if new_avg is not None and year and week:
+        # 寫入 corrections.json（讓下次重爬時保留此修正）
+        corr_path = DOCS_DIR / "data" / "corrections.json"
+        try:
+            corrections = _json.loads(corr_path.read_text(encoding="utf-8")) if corr_path.exists() else {}
+            corrections.setdefault(f"{year}-w{week:02d}", {}).setdefault(isbn, {})[source] = {
+                "score": score, "count": count, "url": url
+            }
+            corr_path.write_text(_json.dumps(corrections, ensure_ascii=False, indent=2), encoding="utf-8")
+        except Exception as e:
+            print(f"[warn] corrections.json 寫入失敗: {e}")
+
+        # 重建 ICS
+        try:
+            with open(lp, encoding="utf-8") as f:
+                updated = _json.load(f)
+            sale_start = Date.fromisocalendar(year, week, 4)
+            generate_ics(updated.get("books", []), year, week, sale_start)
+        except Exception as e:
+            print(f"[warn] ICS 重建失敗: {e}")
 
     return jsonify({"ok": True, "avg_score": new_avg})
 

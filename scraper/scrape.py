@@ -822,11 +822,11 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
 
         summary = _ics_escape(f"《{title}》")
 
+        price_str  = f"特價 NT$99｜原價 {price}" if price else "特價 NT$99"
         desc_parts = [
-            f"書名: 《{title}》",
-            f"原價: {price}" if price else "",
-            f"連結: {url}" if url else "",
-            "查看當週各書評分: https://kobo99tw.github.io/kobo99-tracker/",
+            price_str,
+            url if url else "",
+            "查看當週各書評價: https://kobo99tw.github.io/kobo99-tracker/",
         ]
         description = "\\n".join(_ics_escape(p) for p in desc_parts if p)
         uid = f"kobo99-{year}-w{week:02d}-{idx:02d}@kobo99-tracker"
@@ -882,6 +882,25 @@ def _fix_date_attribution(books: list[dict], sale_start: Date, sale_end: Date) -
     if not fixed:
         print("   ✅ 日期分配正常")
     return books
+
+
+def _apply_corrections(books: list[dict], year: int, week: int) -> None:
+    """把 corrections.json 裡的手動修正套回 books（在計算 avg_score 之前呼叫）。"""
+    corrections_path = DATA_DIR / "corrections.json"
+    if not corrections_path.exists():
+        return
+    with open(corrections_path, encoding="utf-8") as f:
+        corrections = json.load(f)
+    week_corr = corrections.get(f"{year}-w{week:02d}", {})
+    if not week_corr:
+        return
+    for book in books:
+        isbn = str(book.get("isbn", ""))
+        if isbn not in week_corr:
+            continue
+        for source, vals in week_corr[isbn].items():
+            book.setdefault("ratings", {}).setdefault(source, {}).update(vals)
+    print(f"📝 套用 {len(week_corr)} 筆手動修正（corrections.json）")
 
 
 def run(year=None, week=None, url=None):
@@ -1013,6 +1032,8 @@ def run(year=None, week=None, url=None):
                   f"讀墨:{_s(rm)} "
                   f"GR:{_s(gr)} "
                   f"AMZ:{_s(amz)}）")
+
+    _apply_corrections(books, y, w)
 
     # 加權綜合分（依優先順序）
     RATING_ORDER = ["kobo", "books_com", "readmoo", "goodreads", "amazon_com"]
