@@ -1,5 +1,44 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
+## 已完成（v13，2026-05-07）
+
+### ✅ corrections.json 永久修正系統
+- Admin 存檔 → 寫入 corrections.json → 重爬後自動套用
+- 支援評分欄位與書本欄位（原價等）
+
+### ✅ Admin 面板大改版
+- 淺色主題、字體放大、原價欄、星期幾顯示
+- 發佈按鈕常駐、遮罩防呆、Log 重複根治
+- 拉取更新修正（git fetch + checkout）
+
+### ✅ 新舊資料對照
+- prev.json 備份、全欄位差異偵測、變更摘要列
+- 套用舊值按鈕
+
+### ✅ 版本歷史還原
+- Admin 面板列出近 15 次資料 commit，一鍵還原
+
+### ✅ 爬蟲準確度提升
+- Goodreads & Amazon：前 5 筆 + SequenceMatcher
+- Amazon selector 修正（amazon.com 和 amazon.co.jp 同結構 bug）
+
+---
+
+## 待辦
+
+### 🔴 立即
+- **失智行為說明書 Amazon 手動補值**：Admin 面板補入 3.9/65 + Kindle 連結，存入 corrections.json，發佈
+
+### 🟡 下次驗證
+- W19 首次自動抓取：確認 Goodreads / Amazon 新邏輯正確率
+- corrections.json 有無正確套用於新週次
+
+### 🟢 長期
+- 評分歷史趨勢（多週資料比較）
+- ICS webcal:// 一鍵訂閱（暫緩，會減少回訪）
+
+---
+
 ## 已完成（v12，2026-05-06）
 
 ### ✅ Admin 書單審查表格（preview.py）

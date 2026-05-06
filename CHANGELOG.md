@@ -1,5 +1,45 @@
 # CHANGELOG
 
+## [2026-05-07 v13] — Admin 大改版、corrections 系統、爬蟲準確度提升
+
+### scraper/preview.py — Admin 面板全面改版
+- **配色**：深色主題改為淺色高對比（#F5F3F0 背景、白色卡片），字體放大（.82–.95rem）
+- **新欄位**：原價欄（可點擊編輯）、日期欄加星期幾（如 5/1(四)）
+- **發佈按鈕**：改為常駐可見；抓完或修正後顯示「⬆」提示未發佈
+- **編輯 popup 防呆**：改用背景遮罩，點遮罩自動儲存（而非關閉），取消按鈕才是放棄
+- **連結處理**：移除格子上的直接連結（誤點問題），改在 popup 內「🔗 開啟」按鈕
+- **Log 重複根治**：generation counter（`_pollGen`）過濾 stale async callback
+- **「⬇ 拉取更新」修正**：改用 `git fetch + git checkout origin/main -- docs/data/`，強制覆蓋本機未 commit 的資料，不再被 uncommitted 變更擋住
+- **「⏮ 版本歷史」新區塊**：列出近 15 次觸及資料的 commit，一鍵還原任一版本
+
+### corrections.json 永久修正系統（scraper/）
+- `api/patch`、`api/patch_book`：Admin 存檔時同步寫入 `docs/data/corrections.json`
+- `_apply_corrections(books, y, w)`：每次重爬後、計算 avg_score 前套用，支援評分欄位（`goodreads` 等）與書本欄位（`_book.kobo_price`）
+- ICS 在 Admin 存檔後立即重建，不需等下次排程
+
+### 新舊資料對照系統（scraper/）
+- 重爬前自動備份 `books-Y-wW-prev.json`
+- `api/info` 同時回傳 prev 資料，admin 表格顯示：
+  - **日期/書名變更 → 紅底**（最嚴重）
+  - **原價/評分變更 → 橘底 + 舊值小字**
+  - 表格上方「⚠ 變更摘要列」一次列出所有差異
+- 編輯 popup 有舊值時顯示並提供「套用舊值」按鈕
+
+### 爬蟲（scraper/scrape.py）— 評分準確度提升
+- **_best_candidate()**：抽出 module 層級，SequenceMatcher 書名相似度選最佳匹配（Goodreads、Amazon 共用）
+- **Goodreads**：搜尋取前 5 筆 → 比對 original_title 相似度 → 取最高分
+- **Amazon（歐美 + 日文）**：搜尋取前 5 筆 → 比對相似度；修正 selector：`a.a-link-normal[href*='/dp/']`（取代錯誤的 `h2 a`，amazon.com 和 amazon.co.jp 同結構）
+
+### 網站（docs/index.html）
+- score=0 與 null 統一顯示為「暫無評分」
+- 綜合評分徽章無資料時從「N/A」改為「—」
+
+### 其他
+- 刪除 `開啟網頁.bat`（功能已由 `本機預覽.bat` 涵蓋）
+- 建立 `stable-v12` 備份分支
+
+---
+
 ## [2026-05-06 v12] — Admin 書單審查表格、日期對應修正、資料手動修正
 
 ### scraper/preview.py — Admin 書單審查表格
