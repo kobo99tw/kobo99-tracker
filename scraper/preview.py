@@ -417,10 +417,20 @@ h1{font-size:1.2rem;font-weight:700;color:#F97316;margin-bottom:1.5rem;letter-sp
 </html>"""
 
 ADMIN_JS = """
-let polling  = null;
-let offset   = 0;
-let _books   = [];
-let _editISBN = null, _editSrc = null;
+let polling      = null;
+let offset       = 0;
+let _books       = [];
+let _editISBN    = null, _editSrc = null;
+let _pollingFor  = 'fetch'; // 'fetch' | 'publish'
+
+function markDirty() {
+  const btn = document.getElementById('publishBtn');
+  if (btn) btn.textContent = '📤 發佈到 GitHub \\u2B06';
+}
+function clearDirty() {
+  const btn = document.getElementById('publishBtn');
+  if (btn) btn.textContent = '📤 發佈到 GitHub';
+}
 
 const SRCLABELS = {
   kobo: 'Kobo', books_com: '博客來',
@@ -451,10 +461,10 @@ function startFetch() {
   const btn = document.getElementById('runBtn');
   btn.disabled = true;
   btn.textContent = '⏳ 抓取中…';
-  document.getElementById('previewBtn').style.display = 'none';
-  document.getElementById('publishBtn').style.display = 'none';
+  document.getElementById('publishBtn').disabled = true;
   document.getElementById('log').textContent = '⏳ 啟動中…';
   badge('running', '抓取中');
+  _pollingFor = 'fetch';
 
   const qs = url ? '?url=' + encodeURIComponent(url) : '';
   fetch('/api/run' + qs)
@@ -485,18 +495,20 @@ function pollLog() {
       for (const line of data.lines) { appendLog(line); offset++; }
       if (data.status === 'done' || data.status === 'error') {
         clearInterval(polling); polling = null;
-        const btn = document.getElementById('runBtn');
-        btn.disabled = false;
-        btn.textContent = '🔄 重新抓取';
+        document.getElementById('runBtn').disabled = false;
+        document.getElementById('runBtn').textContent = '🔄 重新抓取';
+        document.getElementById('publishBtn').disabled = false;
         if (data.status === 'done') {
-          document.getElementById('previewBtn').style.display = 'inline-block';
-          const pub = document.getElementById('publishBtn');
-          pub.style.display = 'inline-block';
-          pub.disabled = false;
-          pub.textContent = '📤 發佈到 GitHub';
-          appendLog('\\n✅ 完成！可點「查看書單」預覽，或「發佈到 GitHub」上線。');
-          badge('done', '完成 ✓');
-          loadWeekInfo();
+          if (_pollingFor === 'publish') {
+            clearDirty();
+            appendLog('\\n✅ 已發佈到 GitHub！');
+            badge('done', '已發佈 ✓');
+          } else {
+            markDirty();
+            appendLog('\\n✅ 完成！可點「查看書單」預覽，或「發佈到 GitHub」上線。');
+            badge('done', '完成 ✓');
+            loadWeekInfo();
+          }
         } else {
           badge('error', '失敗 ✗');
         }
@@ -510,6 +522,7 @@ function clearLog() {
 }
 
 function publishToGitHub() {
+  _pollingFor = 'publish';
   const btn = document.getElementById('publishBtn');
   btn.disabled = true;
   btn.textContent = '⏳ 發佈中…';
@@ -648,7 +661,8 @@ function saveRating() {
         }
       }
       renderReviewTable(_books);
-      appendLog('\\u2705 已儲存 ' + (SRCLABELS[src] || src) + ' 評分');
+      appendLog('\\u2705 已儲存 ' + (SRCLABELS[src] || src) + ' 評分（ICS 已更新，記得發佈到 GitHub）');
+      markDirty();
     } else {
       appendLog('\\u274c 儲存失敗：' + JSON.stringify(data));
     }
