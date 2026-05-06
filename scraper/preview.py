@@ -346,6 +346,7 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
 .rt td{padding:.55rem .65rem;border-bottom:1px solid #F0EEEc;vertical-align:middle}
 .rt tbody tr:hover td{background:#FFFBF5}
 .dt{color:#78716C;font-size:.84rem;white-space:nowrap;text-align:center;font-weight:600}
+.dow{font-size:.74rem;color:#A8A29E;margin-left:.1rem;font-weight:400}
 .bt{font-weight:600;color:#1C1917;display:block;max-width:160px;line-height:1.35;font-size:.88rem}
 .ba{color:#A8A29E;font-size:.74rem;display:block;margin-top:.1rem}
 .ot{color:#78716C;font-size:.76rem;max-width:120px;word-break:break-word}
@@ -426,6 +427,14 @@ let offset       = 0;
 let _books       = [];
 let _editISBN    = null, _editSrc = null;
 let _pollingFor  = 'fetch'; // 'fetch' | 'publish'
+let _year        = null;
+
+const DOW = ['日','一','二','三','四','五','六'];
+function weekday(dateStr) {
+  if (!_year || !dateStr) return '';
+  const [m, d] = dateStr.split('/').map(Number);
+  return '(' + DOW[new Date(_year, m - 1, d).getDay()] + ')';
+}
 
 function markDirty() {
   const btn = document.getElementById('publishBtn');
@@ -576,7 +585,7 @@ function renderReviewTable(books) {
   for (const b of _books) {
     const avg = b.avg_score;
     body += '<tr>';
-    body += '<td class="dt">' + esc(b.date) + '</td>';
+    body += '<td class="dt">' + esc(b.date) + '<span class="dow">' + weekday(b.date) + '</span></td>';
     body += '<td><span class="bt">' + esc(b.title) + '</span>'
           + '<span class="ba">' + esc(b.author) + '</span></td>';
     body += '<td class="mono">' + esc(b.isbn) + '</td>';
@@ -685,6 +694,7 @@ function loadWeekInfo() {
     .then(r => r.json())
     .then(d => {
       if (!d.week) return;
+      _year = d.year;
       document.getElementById('weekInfo').textContent =
         '目前資料：第 ' + d.week + ' 週｜' + d.sale_label
         + '｜' + d.books_count + ' 本｜更新 ' + d.updated_at;
