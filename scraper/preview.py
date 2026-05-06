@@ -240,15 +240,21 @@ def api_info():
     books = d.get("books", [])
     year, week = d.get("year"), d.get("week")
 
-    # 讀取上次備份（供對照用）
-    prev_ratings: dict = {}
+    # 讀取上次備份（供全欄位對照用）
+    prev_books: dict = {}
     if year and week:
         prev_path = DOCS_DIR / "data" / f"books-{year}-w{week:02d}-prev.json"
         if prev_path.exists():
             with open(prev_path, encoding="utf-8") as f:
                 prev_d = _json.load(f)
             for b in prev_d.get("books", []):
-                prev_ratings[str(b.get("isbn", ""))] = b.get("ratings", {})
+                prev_books[str(b.get("isbn", ""))] = {
+                    "date":           b.get("date", ""),
+                    "title":          b.get("title", ""),
+                    "kobo_price":     b.get("kobo_price", ""),
+                    "kobo_url":       b.get("kobo_url", ""),
+                    "ratings":        b.get("ratings", {}),
+                }
 
     return jsonify({
         "year":        year,
@@ -269,7 +275,7 @@ def api_info():
                 "publish_date":   b.get("publish_date", ""),
                 "avg_score":      b.get("avg_score"),
                 "ratings":        b.get("ratings", {}),
-                "prev_ratings":   prev_ratings.get(str(b.get("isbn", "")), {}),
+                "prev":           prev_books.get(str(b.get("isbn", "")), {}),
             }
             for b in books
         ],
@@ -472,6 +478,16 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
 .rc-score{color:#0F766E;font-weight:700}
 .rc-prev{font-size:.66rem;color:#A8A29E;display:block;margin-top:.1rem}
 .rc-changed{background:#FFF7ED!important}
+.cell-warn{background:#FFF7ED!important}
+.cell-alert{background:#FEF2F2!important}
+.cell-diff{font-size:.68rem;color:#C2410C;display:block;margin-top:.1rem}
+.cell-diff-alert{font-size:.68rem;color:#B91C1C;display:block;margin-top:.1rem;font-weight:700}
+#diffSummary{background:#FFFBEB;border:1px solid #FDE68A;border-radius:8px;
+  padding:.7rem 1rem;margin-bottom:.9rem;font-size:.82rem;line-height:1.8}
+#diffSummary strong{color:#92400E;font-size:.78rem;letter-spacing:.04em;
+  text-transform:uppercase;display:block;margin-bottom:.25rem}
+.diff-critical{color:#B91C1C;font-weight:600}
+.diff-warn{color:#C2410C}
 .rpop-prev{font-size:.75rem;color:#78716C;margin:.6rem 0 .3rem;padding:.4rem .6rem;
   background:#F9F8F7;border-radius:6px;display:flex;justify-content:space-between;align-items:center}
 .rpop-prev span{color:#44403C}
@@ -545,6 +561,7 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
       ← 點擊評分格可編輯；連結可開啟原始頁面驗證
     </span>
   </div>
+  <div id="diffSummary" style="display:none"></div>
   <div style="overflow-x:auto" id="reviewTableWrap"></div>
 </div>
 
@@ -716,10 +733,10 @@ function publishToGitHub() {
 
 // ── 書單審查表格 ─────────────────────────────────────────────
 
-function fmtRating(isbn, src, r, prev) {
-  r = r || {}; prev = prev || {};
+function fmtRating(isbn, src, r, prevR) {
+  r = r || {}; prevR = prevR || {};
   const sc = r.score, cnt = r.count || 0, url = r.url || '';
-  const psc = prev.score, pcnt = prev.count || 0, purl = prev.url || '';
+  const psc = prevR.score, pcnt = prevR.count || 0, purl = prevR.url || '';
   const miss = (sc == null);
   const changed = psc != null && sc !== psc;
   let inner = miss
@@ -747,21 +764,61 @@ function renderReviewTable(books) {
   panel.style.display = '';
   const srcs = ['kobo','books_com','readmoo','goodreads','amazon_com'];
   let body = '';
+  const diffs = [];
   for (const b of _books) {
     const avg = b.avg_score;
     body += '<tr>';
-    body += '<td class="dt">' + esc(b.date) + '<span class="dow">' + weekday(b.date) + '</span></td>';
-    body += '<td><span class="bt">' + esc(b.title) + '</span>'
-          + '<span class="ba">' + esc(b.author) + '</span></td>';
+    const prev  = b.prev || {};
+    const prevR = prev.ratings || {};
+
+    // 主資料欄位比對
+    const dateChg  = prev.date  && prev.date  !== b.date;
+    const titleChg = prev.title && prev.title !== b.title;
+    const priceChg = prev.kobo_price && prev.kobo_price !== b.kobo_price;
+
+    body += '<td class="dt' + (dateChg ? ' cell-alert' : '') + '">'
+          + esc(b.date) + '<span class="dow">' + weekday(b.date) + '</span>'
+          + (dateChg ? '<span class="cell-diff-alert">舊:' + esc(prev.date) + '</span>' : '')
+          + '</td>';
+    body += '<td class="' + (titleChg ? 'cell-warn' : '') + '">'
+          + '<span class="bt">' + esc(b.title) + '</span>'
+          + '<span class="ba">' + esc(b.author) + '</span>'
+          + (titleChg ? '<span class="cell-diff">舊:' + esc(prev.title) + '</span>' : '')
+          + '</td>';
     body += '<td class="mono">' + esc(b.isbn) + '</td>';
-    body += '<td class="price" data-isbn="' + esc(b.isbn) + '" data-price="'
+    body += '<td class="price' + (priceChg ? ' cell-warn' : '') + '" data-isbn="' + esc(b.isbn) + '" data-price="'
           + esc(b.kobo_price || '') + '" onclick="openPriceEditPop(this)" title="點擊編輯原價">'
-          + esc(b.kobo_price || '\\u2014') + '</td>';
+          + esc(b.kobo_price || '\\u2014')
+          + (priceChg ? '<span class="cell-diff">舊:' + esc(prev.kobo_price) + '</span>' : '')
+          + '</td>';
     body += '<td class="ot">' + esc(b.original_title || '\\u2014') + '</td>';
-    for (const s of srcs) body += fmtRating(b.isbn, s, (b.ratings || {})[s], (b.prev_ratings || {})[s]);
+    for (const s of srcs) body += fmtRating(b.isbn, s, (b.ratings || {})[s], prevR[s]);
     body += '<td class="avg">' + (avg != null ? '\\u2605' + avg.toFixed(2) : '\\u2014') + '</td>';
     body += '</tr>';
+
+    // 收集變更摘要
+    if (dateChg)  diffs.push({ level:'alert', text:'日期變更 《' + b.title + '》 ' + prev.date + ' → ' + b.date });
+    if (titleChg) diffs.push({ level:'warn',  text:'書名變更 ' + prev.title + ' → ' + b.title });
+    if (priceChg) diffs.push({ level:'warn',  text:'原價變更 《' + b.title + '》 ' + prev.kobo_price + ' → ' + b.kobo_price });
+    for (const s of srcs) {
+      const cur = (b.ratings||{})[s]||{}, pv = prevR[s]||{};
+      if (pv.score != null && cur.score !== pv.score)
+        diffs.push({ level:'warn', text: SRCLABELS[s] + ' 評分變更 《' + b.title + '》 ' + pv.score + ' → ' + (cur.score??'無') });
+    }
   }
+
+  // 顯示變更摘要
+  const summaryEl = document.getElementById('diffSummary');
+  if (diffs.length) {
+    summaryEl.style.display = '';
+    summaryEl.innerHTML = '<strong>⚠ 與上次抓取相比有 ' + diffs.length + ' 處變更</strong>'
+      + diffs.map(d =>
+          '<span class="' + (d.level==='alert' ? 'diff-critical' : 'diff-warn') + '">• ' + esc(d.text) + '</span>'
+        ).join('<br>');
+  } else {
+    summaryEl.style.display = 'none';
+  }
+
   document.getElementById('reviewTableWrap').innerHTML =
     '<table class="rt"><thead><tr>'
     + '<th>日期</th><th>書名 / 作者</th><th>ISBN</th><th>原價</th><th>原文名</th>'
