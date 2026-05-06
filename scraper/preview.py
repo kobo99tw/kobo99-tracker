@@ -742,7 +742,7 @@ function renderReviewTable(books) {
 
 // ── 浮層編輯 ─────────────────────────────────────────────────
 
-function _showPop(pop, anchorRect) {
+function _showPop(pop, anchorRect, onSave) {
   const popH = 240, popW = 310, gap = 6;
   const top  = (window.innerHeight - anchorRect.bottom >= popH + gap)
     ? anchorRect.bottom + gap
@@ -752,7 +752,7 @@ function _showPop(pop, anchorRect) {
   pop.style.left = left + 'px';
   const back = document.createElement('div');
   back.id = 'rBack';
-  back.addEventListener('click', closeEditPop);
+  back.addEventListener('click', onSave || closeEditPop);
   document.body.appendChild(back);
   document.body.appendChild(pop);
 }
@@ -783,7 +783,7 @@ function openEditPop(cell) {
     if (e.key === 'Enter')  { e.preventDefault(); saveRating(); }
     if (e.key === 'Escape') closeEditPop();
   });
-  _showPop(pop, cell.getBoundingClientRect());
+  _showPop(pop, cell.getBoundingClientRect(), saveRating);
   document.getElementById('rpScore').focus();
 }
 
@@ -806,7 +806,7 @@ function openPriceEditPop(cell) {
     if (e.key === 'Enter')  { e.preventDefault(); savePrice(); }
     if (e.key === 'Escape') closeEditPop();
   });
-  _showPop(pop, cell.getBoundingClientRect());
+  _showPop(pop, cell.getBoundingClientRect(), savePrice);
   document.getElementById('rpPrice').focus();
 }
 
