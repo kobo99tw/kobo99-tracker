@@ -238,9 +238,21 @@ def api_info():
     with open(lp, encoding="utf-8") as f:
         d = _json.load(f)
     books = d.get("books", [])
+    year, week = d.get("year"), d.get("week")
+
+    # 讀取上次備份（供對照用）
+    prev_ratings: dict = {}
+    if year and week:
+        prev_path = DOCS_DIR / "data" / f"books-{year}-w{week:02d}-prev.json"
+        if prev_path.exists():
+            with open(prev_path, encoding="utf-8") as f:
+                prev_d = _json.load(f)
+            for b in prev_d.get("books", []):
+                prev_ratings[str(b.get("isbn", ""))] = b.get("ratings", {})
+
     return jsonify({
-        "year":        d.get("year"),
-        "week":        d.get("week"),
+        "year":        year,
+        "week":        week,
         "updated_at":  (d.get("updated_at") or "")[:16],
         "sale_label":  d.get("sale_label", ""),
         "books_count": len(books),
@@ -257,6 +269,7 @@ def api_info():
                 "publish_date":   b.get("publish_date", ""),
                 "avg_score":      b.get("avg_score"),
                 "ratings":        b.get("ratings", {}),
+                "prev_ratings":   prev_ratings.get(str(b.get("isbn", "")), {}),
             }
             for b in books
         ],
@@ -457,6 +470,14 @@ h1{font-size:1.3rem;font-weight:700;color:#EA580C;margin-bottom:1.5rem}
 .rc:hover{background:#FFF7ED!important}
 .rc-empty .rc-miss{color:#D6D3D1;font-weight:700}
 .rc-score{color:#0F766E;font-weight:700}
+.rc-prev{font-size:.66rem;color:#A8A29E;display:block;margin-top:.1rem}
+.rc-changed{background:#FFF7ED!important}
+.rpop-prev{font-size:.75rem;color:#78716C;margin:.6rem 0 .3rem;padding:.4rem .6rem;
+  background:#F9F8F7;border-radius:6px;display:flex;justify-content:space-between;align-items:center}
+.rpop-prev span{color:#44403C}
+.rpop-use-prev{border:none;background:#E7E5E4;border-radius:5px;padding:.2rem .55rem;
+  font-size:.72rem;cursor:pointer;color:#44403C}
+.rpop-use-prev:hover{background:#D6D3D1}
 .rc-cnt{font-size:.7rem;color:#A8A29E;margin-left:.15rem}
 #rBack{position:fixed;inset:0;z-index:9998;background:rgba(0,0,0,.15);cursor:default}
 .rc-url{font-size:.68rem;color:#A8A29E;cursor:pointer;text-decoration:underline;
@@ -695,21 +716,27 @@ function publishToGitHub() {
 
 // ── 書單審查表格 ─────────────────────────────────────────────
 
-function fmtRating(isbn, src, r) {
-  r = r || {};
+function fmtRating(isbn, src, r, prev) {
+  r = r || {}; prev = prev || {};
   const sc = r.score, cnt = r.count || 0, url = r.url || '';
+  const psc = prev.score, pcnt = prev.count || 0, purl = prev.url || '';
   const miss = (sc == null);
+  const changed = psc != null && sc !== psc;
   let inner = miss
     ? '<span class="rc-miss">?</span>'
     : '<span class="rc-score">\\u2605' + sc.toFixed(1) + '</span>'
       + '<span class="rc-cnt">(' + cnt + ')</span>';
   if (url) inner += '<span class="rc-url">🔗</span>';
-  return '<td class="rc' + (miss ? ' rc-empty' : '') + '"'
+  if (changed) inner += '<span class="rc-prev">舊:' + psc.toFixed(1) + '(' + pcnt + ')</span>';
+  return '<td class="rc' + (miss ? ' rc-empty' : '') + (changed ? ' rc-changed' : '') + '"'
     + ' data-isbn="' + esc(isbn) + '"'
     + ' data-src="' + src + '"'
     + ' data-score="' + (sc != null ? sc : '') + '"'
     + ' data-count="' + cnt + '"'
     + ' data-url="' + esc(url) + '"'
+    + ' data-prev-score="' + (psc != null ? psc : '') + '"'
+    + ' data-prev-count="' + pcnt + '"'
+    + ' data-prev-url="' + esc(purl) + '"'
     + ' onclick="openEditPop(this)" title="點擊編輯">' + inner + '</td>';
 }
 
@@ -731,7 +758,7 @@ function renderReviewTable(books) {
           + esc(b.kobo_price || '') + '" onclick="openPriceEditPop(this)" title="點擊編輯原價">'
           + esc(b.kobo_price || '\\u2014') + '</td>';
     body += '<td class="ot">' + esc(b.original_title || '\\u2014') + '</td>';
-    for (const s of srcs) body += fmtRating(b.isbn, s, (b.ratings || {})[s]);
+    for (const s of srcs) body += fmtRating(b.isbn, s, (b.ratings || {})[s], (b.prev_ratings || {})[s]);
     body += '<td class="avg">' + (avg != null ? '\\u2605' + avg.toFixed(2) : '\\u2014') + '</td>';
     body += '</tr>';
   }
@@ -763,12 +790,21 @@ function openEditPop(cell) {
   closeEditPop();
   _editISBN = cell.dataset.isbn;
   _editSrc  = cell.dataset.src;
-  const curUrl = cell.dataset.url || '';
+  const curUrl  = cell.dataset.url || '';
+  const prevSc  = cell.dataset.prevScore || '';
+  const prevCnt = cell.dataset.prevCount || '0';
+  const prevUrl = cell.dataset.prevUrl   || '';
+  const hasPrev = prevSc !== '' && prevSc !== cell.dataset.score;
   const pop = document.createElement('div');
   pop.id = 'rPop';
   pop.className = 'rpop';
   pop.innerHTML =
     '<div class="rpop-t">\\u270f\\ufe0f 編輯 ' + esc(SRCLABELS[_editSrc] || _editSrc) + '</div>'
+    + (hasPrev
+      ? '<div class="rpop-prev">舊值：<span>\\u2605' + parseFloat(prevSc).toFixed(1)
+        + ' (' + prevCnt + ')</span>'
+        + '<button class="rpop-use-prev" onclick="usePrevRating()">套用舊值</button></div>'
+      : '')
     + '<label>評分<input id="rpScore" type="number" step="0.1" min="0" max="5" value="'
     + esc(cell.dataset.score) + '" placeholder="（留空=無）"></label>'
     + '<label>筆數<input id="rpCount" type="number" min="0" value="'
@@ -810,6 +846,18 @@ function openPriceEditPop(cell) {
   });
   _showPop(pop, cell.getBoundingClientRect(), savePrice);
   document.getElementById('rpPrice').focus();
+}
+
+function usePrevRating() {
+  const cell = document.querySelector(
+    '.rc[data-isbn="' + (_editISBN||'') + '"][data-src="' + (_editSrc||'') + '"]');
+  if (!cell) return;
+  const s = document.getElementById('rpScore');
+  const c = document.getElementById('rpCount');
+  const u = document.getElementById('rpUrl');
+  if (s) s.value = cell.dataset.prevScore || '';
+  if (c) c.value = cell.dataset.prevCount || '0';
+  if (u) u.value = cell.dataset.prevUrl   || '';
 }
 
 function closeEditPop() {

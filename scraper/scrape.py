@@ -1075,6 +1075,12 @@ def run(year=None, week=None, url=None):
                 wt += c
         book["avg_score"] = round(ws / wt, 2) if wt else None
 
+    # 備份舊版本（供 admin 面板對照用）
+    week_file = DATA_DIR / f"books-{y}-w{w:02d}.json"
+    if week_file.exists():
+        import shutil
+        shutil.copy2(week_file, DATA_DIR / f"books-{y}-w{w:02d}-prev.json")
+
     # 儲存
     output = {
         "year":       y,
