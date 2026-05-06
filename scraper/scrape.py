@@ -619,6 +619,22 @@ def _detect_book_type(original_title: str) -> str:
     return "台灣本地書"
 
 
+def _best_candidate(candidates: list[tuple[str, str]], hint: str) -> str | None:
+    """(url, title) 列表中，用 SequenceMatcher 取最接近 hint 的 URL。
+    相似度皆 < 0.3 時仍 fallback 取第一筆（不放棄）。"""
+    if not candidates:
+        return None
+    if not hint or len(candidates) == 1:
+        return candidates[0][0]
+    h = hint.lower()
+    best_url, best_sim = candidates[0][0], 0.0
+    for url, title in candidates:
+        sim = SequenceMatcher(None, h, title.lower()).ratio()
+        if sim > best_sim:
+            best_sim, best_url = sim, url
+    return best_url if best_sim >= 0.3 else candidates[0][0]
+
+
 def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict:
     def _parse_book_page(url: str, note: str) -> dict | None:
         """從書本頁面（/book/show/...）解析評分，確保評分與連結來自同一頁"""
@@ -648,21 +664,6 @@ def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict
             pass
         return None
 
-    def _best_url(candidates: list[tuple[str, str]], hint: str) -> str | None:
-        """從 (url, title) 列表中用 SequenceMatcher 取最接近 hint 的 URL。
-        相似度 < 0.3 且候補 > 1 時放棄（避免誤抓）；只有一筆時直接用。"""
-        if not candidates:
-            return None
-        if not hint or len(candidates) == 1:
-            return candidates[0][0]
-        h = hint.lower()
-        best_url, best_sim = candidates[0][0], 0.0
-        for url, title in candidates:
-            sim = SequenceMatcher(None, h, title.lower()).ratio()
-            if sim > best_sim:
-                best_sim, best_url = sim, url
-        return best_url if best_sim >= 0.3 else candidates[0][0]
-
     def _search(query: str, note: str, hint: str = "") -> dict | None:
         """搜尋頁取前 5 筆，用書名相似度選最佳結果後進書頁解析"""
         try:
@@ -682,7 +683,7 @@ def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict
                     href = a.get("href", "")
                     url = href if href.startswith("http") else "https://www.goodreads.com" + href
                     candidates.append((url, a.get_text(strip=True)))
-            best = _best_url(candidates, hint)
+            best = _best_candidate(candidates, hint)
             return _parse_book_page(best, note) if best else None
         except Exception:
             pass
@@ -739,16 +740,34 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
             return {"score": round(score, 1), "count": count, "url": url}
         return None
 
-    def _search(base: str, query: str, category: str) -> dict | None:
+    def _search(base: str, query: str, category: str, hint: str = "") -> dict | None:
         try:
             q    = requests.utils.quote(query)
             url  = f"{base}/s?k={q}&i={category}"
             soup = br.get(url, sleep=1.5)
-            a    = soup.select_one("a.a-link-normal[href*='/dp/']")
-            if a:
-                book_url = base + a["href"].split("?")[0]
-                soup2    = br.get(book_url, sleep=1.5)
-                return _parse(soup2, book_url)
+
+            # 取前 5 筆搜尋結果 (title, url)
+            candidates: list[tuple[str, str]] = []
+            for card in soup.select("div[data-component-type='s-search-result']")[:5]:
+                a = card.select_one("h2 a[href*='/dp/']")
+                if not a:
+                    continue
+                title_el = card.select_one("h2 span")
+                title    = title_el.get_text(strip=True) if title_el else ""
+                href     = a.get("href", "")
+                candidates.append((base + href.split("?")[0], title))
+
+            if not candidates:
+                # fallback：舊邏輯取第一個 /dp/
+                a = soup.select_one("a.a-link-normal[href*='/dp/']")
+                if a:
+                    candidates.append((base + a["href"].split("?")[0], ""))
+
+            best = _best_candidate(candidates, hint)
+            if not best:
+                return None
+            soup2 = br.get(best, sleep=1.5)
+            return _parse(soup2, best)
         except Exception:
             pass
         return None
@@ -757,11 +776,11 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
         base = "https://www.amazon.com"
         cat  = "stripbooks-intl-ship"
         if original_title and original_author:
-            r = _search(base, f"{original_title} {original_author}", cat)
+            r = _search(base, f"{original_title} {original_author}", cat, original_title)
             if r:
                 return r
         if original_title:
-            r = _search(base, original_title, cat)
+            r = _search(base, original_title, cat, original_title)
             if r:
                 return r
 
@@ -769,7 +788,7 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
         base = "https://www.amazon.co.jp"
         cat  = "stripbooks"
         if original_title:
-            r = _search(base, original_title, cat)
+            r = _search(base, original_title, cat, original_title)
             if r:
                 return r
         if original_author:
