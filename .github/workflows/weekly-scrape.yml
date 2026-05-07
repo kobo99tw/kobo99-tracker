@@ -73,17 +73,17 @@ jobs:
         if: steps.check.outputs.changed == 'true'
         run: |
           TODAY=$(date -u '+%Y-%m-%d')
-          cat > docs/sitemap.xml << EOF
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://kobo99tw.github.io/kobo99-tracker/</loc>
-    <lastmod>${TODAY}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
-EOF
+          {
+            echo '<?xml version="1.0" encoding="UTF-8"?>'
+            echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+            echo '  <url>'
+            echo '    <loc>https://kobo99tw.github.io/kobo99-tracker/</loc>'
+            echo "    <lastmod>${TODAY}</lastmod>"
+            echo '    <changefreq>weekly</changefreq>'
+            echo '    <priority>1.0</priority>'
+            echo '  </url>'
+            echo '</urlset>'
+          } > docs/sitemap.xml
 
       - name: Commit & Push 新書單
         if: steps.check.outputs.changed == 'true'
