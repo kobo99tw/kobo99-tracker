@@ -1,5 +1,40 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
+## 已完成（v15，2026-05-08）
+
+### ✅ Admin panel SyntaxError 修復
+- Python `"""` 字串 `\'` escape bug 導致 admin.js 整個不執行，書單審查表格不顯示
+- 改用 data-hash/data-msg 屬性 + el.onclick 事件委派
+
+### ✅ Amazon Kindle fallback
+- 歐美書依序嘗試 stripbooks-intl-ship → digital-text，不再漏抓 Kindle-only 書
+
+### ✅ Amazon 搜尋改用 GR 英文作者名
+- fetch_goodreads 解析 en_author，優先傳給 fetch_amazon，避免中文譯名干擾，減少同名書抓錯
+
+### ✅ robots.txt + .nojekyll 加入 docs/
+- 改善 Google Sitemap 擷取問題
+
+---
+
+## 待辦
+
+### 🔴 立即
+- **失智行為說明書 Amazon 手動補值**：Admin 面板補入 3.9/65 + Kindle 連結，存入 corrections.json，發佈
+- **Google Sitemap 確認**：明天查看 GSC sitemap 是否變綠（已加 .nojekyll + robots.txt + 重新提交）
+
+### 🟡 下次驗證
+- corrections.json 有無正確套用於新週次（W20 起觀察）
+- Amazon en_author 萃取是否正確運作（W20 起觀察）
+- 《系統思考》GR count 137 是否正確（原 80137，懷疑有截斷）
+- 《告訴我你吃什麼》GR count 2596 是否正確（原 892596）
+
+### 🟢 長期
+- 評分歷史趨勢（多週資料比較）
+- ICS webcal:// 一鍵訂閱（暫緩）
+
+---
+
 ## 已完成（v14，2026-05-07）
 
 ### ✅ W19 書單上線（手動跑爬蟲）

@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## [2026-05-08 v15] — Admin JS 修復、Amazon 搜尋改善、robots.txt / .nojekyll
+
+### Bug 修復：scraper/preview.py
+- **Admin panel SyntaxError 根治**：`loadHistory()` 的「⏮ 還原」按鈕原用 inline onclick handler，Python `"""` 字串將 `\'` 吃掉反斜線，JS 字串提前結束，觸發 `SyntaxError: Unexpected string`，整個 admin.js 無法執行，書單審查表格完全不顯示
+- 改用 `data-hash` / `data-msg` 屬性 + `el.onclick` 事件委派，完全迴避 escaping 地雷
+
+### 爬蟲改善：scraper/scrape.py
+- **Amazon Kindle fallback**：歐美書搜尋依序嘗試 `stripbooks-intl-ship`（實體書）→ `digital-text`（Kindle），解決只有電子版的書抓不到評分問題
+- **Amazon 搜尋改用英文作者名**：`fetch_goodreads` 抓書頁時順便萃取英文作者名（`en_author`），優先傳給 `fetch_amazon`，避免 Kobo 台灣中文譯名干擾搜尋，減少同名書抓錯機率
+
+### 資料修正
+- 《告訴我你吃什麼》Amazon 錯誤書（Ethel Scott 4.8/7）→ 正確（Alice Waters 4.4/439）
+
+### SEO / Google 索引
+- 新增 `docs/robots.txt`，宣告 Sitemap 路徑
+- 新增 `docs/.nojekyll`，防止 GitHub Pages Jekyll 模式干擾 Googlebot 擷取
+
+---
+
 ## [2026-05-07 v14] — W19 書單上線、Goodreads 評論數解析修正
 
 ### 資料更新
