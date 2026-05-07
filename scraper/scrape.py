@@ -655,7 +655,13 @@ def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict
                 if m:
                     score = float(m.group(1))
             count = 0
-            m = re.search(r"([\d,]+)\s*ratings", text)
+            # 優先找 "avg rating — N ratings" 格式，避免抓到頁面其他地方的評論數
+            m = re.search(r"avg rating\s*[—–·\-]\s*([\d,]+)\s*ratings", text)
+            if not m:
+                # 備用：找 RatingStatistics 區塊內的數字
+                stats_el = soup.select_one(".RatingStatistics__meta, [data-testid='ratingsCount']")
+                if stats_el:
+                    m = re.search(r"([\d,]+)\s*ratings", stats_el.get_text())
             if m:
                 count = int(m.group(1).replace(",", ""))
             if score:
