@@ -1,0 +1,380 @@
+{
+  "year": 2026,
+  "week": 19,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w19",
+  "sale_label": "NT$99 特價：5/7（四）～5/13（三）",
+  "sale_start": "2026-05-07",
+  "sale_end": "2026-05-13",
+  "on_sale": true,
+  "updated_at": "2026-05-07T13:55:38.726819+08:00",
+  "books": [
+    {
+      "title": "覺醒中年：另一種生活的開始，找到人生下半場的意義",
+      "author": "詹姆斯．霍利斯",
+      "original_title": "Finding Meaning in the Second Half of Life: How to Finally, Really Grow Up",
+      "isbn": "9786267441879",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/y9TyXp1o7DWQOrBVUEswBA?sId=c82ac0a7-3a02-4520-bc85-80f5bc3ec68b&ssId=Iytzhv77MfZe7gNB8qmqP&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
+      "kobo_price": "NT$336",
+      "sale_price": "NT$99",
+      "date": "5/7",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "橡實文化",
+      "publish_date": "2024年10月1日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 3.71,
+          "count": 17,
+          "url": "https://www.kobo.com/tw/zh/ebook/y9TyXp1o7DWQOrBVUEswBA?sId=c82ac0a7-3a02-4520-bc85-80f5bc3ec68b&ssId=Iytzhv77MfZe7gNB8qmqP&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050237117"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 13,
+          "url": "https://readmoo.com/book/210350910000101"
+        },
+        "goodreads": {
+          "score": 4.16,
+          "count": 3194,
+          "url": "https://www.goodreads.com/book/show/99574.Finding_Meaning_in_the_Second_Half_of_Life?from_search=true&from_srp=true&qid=jecSAgRBu1&rank=1",
+          "note": "title"
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 1469,
+          "url": "https://www.amazon.com/-/zh_TW/Finding-Meaning-Second-Half-Life/dp/1592402070/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.24
+    },
+    {
+      "title": "系統思考實作篇：一眼看清規律背後的結構和邏輯:解決現實世界中的複雜問題",
+      "author": "丹尼斯‧舍伍德",
+      "original_title": "Seeing the Forest for the Trees: A Manager's Guide to Applying Systems Thinking",
+      "isbn": "9786267195710",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/yycV9mY05TWkki7Oq4NQ7w?sId=f0182673-2d80-40a8-9a37-16975c5c3244&ssId=FKWeJem6lDmzjWFenjXJ8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260508",
+      "kobo_price": "NT$400",
+      "sale_price": "NT$99",
+      "date": "5/8",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "經濟新潮社",
+      "publish_date": "2024年7月11日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/yycV9mY05TWkki7Oq4NQ7w?sId=f0182673-2d80-40a8-9a37-16975c5c3244&ssId=FKWeJem6lDmzjWFenjXJ8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260508"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/E050224884"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://readmoo.com/book/210341967000101"
+        },
+        "goodreads": {
+          "score": 3.8,
+          "count": 137,
+          "url": "https://www.goodreads.com/book/show/811882.Seeing_the_Forest_for_the_Trees?from_search=true&from_srp=true&qid=O4n9Euo9FZ&rank=1",
+          "note": "title"
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.84
+    },
+    {
+      "title": "自驱力觉醒",
+      "author": "吕嵘等",
+      "original_title": "",
+      "isbn": "7584043738361",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/yqrXSzxo6TGMG6-KznuOPQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
+      "kobo_price": "NT$199",
+      "sale_price": "NT$99",
+      "date": "5/8",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "",
+      "publish_date": "2022年3月1日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/yqrXSzxo6TGMG6-KznuOPQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null
+    },
+    {
+      "title": "控制（十週年暢銷紀念新版）",
+      "author": "吉莉安．弗琳(Gillian Flynn)",
+      "original_title": "GONE GIRL",
+      "isbn": "9786263742062",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WDQgY6IYnTeU4eOMk0XXfQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
+      "kobo_price": "NT$350",
+      "sale_price": "NT$99",
+      "date": "5/9",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "時報出版",
+      "publish_date": "2023年8月11日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 3.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/WDQgY6IYnTeU4eOMk0XXfQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050176454"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 5,
+          "url": "https://readmoo.com/book/210287373000101"
+        },
+        "goodreads": {
+          "score": 4.15,
+          "count": 3497092,
+          "url": "https://www.goodreads.com/book/show/19288043-gone-girl?from_search=true&from_srp=true&qid=zFd6t3AjvS&rank=1",
+          "note": "title"
+        },
+        "amazon_com": {
+          "score": 4.1,
+          "count": 168259,
+          "url": "https://www.amazon.com/-/zh_TW/Gillian-Flynn-ebook/dp/B006LSZECO/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.15
+    },
+    {
+      "title": "養雞時代：21則你吃過雞，卻不瞭解的冷知識",
+      "author": "李盈瑩",
+      "original_title": "",
+      "isbn": "7343862942529",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3AuScK7SCDK-JrWWDg5GBw?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
+      "kobo_price": "NT$266",
+      "sale_price": "NT$99",
+      "date": "5/10",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "玉山社",
+      "publish_date": "2020年2月10日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/3AuScK7SCDK-JrWWDg5GBw?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050118770"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 4.2,
+          "count": 205,
+          "url": "https://www.goodreads.com/book/show/57323204-21?from_search=true&from_srp=true&qid=1w0HkGV2A1&rank=1",
+          "note": "author"
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.22
+    },
+    {
+      "title": "你，燃燒殆盡了嗎？：用情商打造倦怠免疫力，在壓力下維持高效能，和工作建立更健康的關係",
+      "author": "坎蒂‧韋恩斯",
+      "original_title": "Burnout Immunity: How Emotional Intelligence Can Help You Build Resilience and Heal Your Relationship with Work",
+      "isbn": "9786267442388",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/qlzWfdkZvzi1JBdUJR9_zA?sId=03327ed1-1ccc-44f6-803b-e1ef24741c21&ssId=gTKfPTcxsCVNG38GoHXq8&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
+      "kobo_price": "NT$274",
+      "sale_price": "NT$99",
+      "date": "5/11",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "方舟文化",
+      "publish_date": "2024年7月3日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 4.67,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/qlzWfdkZvzi1JBdUJR9_zA?sId=03327ed1-1ccc-44f6-803b-e1ef24741c21&ssId=gTKfPTcxsCVNG38GoHXq8&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 3,
+          "url": "https://readmoo.com/book/210336597000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 48,
+          "url": "https://www.amazon.com/-/zh_TW/Burnout-Immunity-Intelligence-Resilience-Relationship/dp/0063323664/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.41
+    },
+    {
+      "title": "殺人者的記憶法",
+      "author": "金英夏",
+      "original_title": "살인자의 기억법",
+      "isbn": "9789864899333",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Xy9vZGPMVjW4tMMFF4Jr-g?sId=13d7779a-b046-4453-9278-31eaf9de0344&ssId=s6OhjiXalI1jO_-M76u0U&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
+      "kobo_price": "NT$250",
+      "sale_price": "NT$99",
+      "date": "5/12",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "漫遊者文化",
+      "publish_date": "2024年6月12日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/Xy9vZGPMVjW4tMMFF4Jr-g?sId=13d7779a-b046-4453-9278-31eaf9de0344&ssId=s6OhjiXalI1jO_-M76u0U&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050220891"
+        },
+        "readmoo": {
+          "score": 3.9,
+          "count": 19,
+          "url": "https://readmoo.com/book/210333122000101"
+        },
+        "goodreads": {
+          "score": 3.71,
+          "count": 13334,
+          "url": "https://www.goodreads.com/book/show/18430063?from_search=true&from_srp=true&qid=4Kw00v4Icx&rank=1",
+          "note": "title"
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.71
+    },
+    {
+      "title": "告訴我你吃什麼，我就知道你是誰：吃速食長大的一代不知道的食物真相",
+      "author": "愛莉絲‧華特斯",
+      "original_title": "We are what we eat",
+      "isbn": "9786267279199",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VOS11iq2AT-g5XcOSdO9ZQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
+      "kobo_price": "NT$315",
+      "sale_price": "NT$99",
+      "date": "5/12",
+      "sale_start": "2026-05-07",
+      "sale_end": "2026-05-13",
+      "on_sale": true,
+      "publisher": "好人出版",
+      "publish_date": "2023年6月20日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/VOS11iq2AT-g5XcOSdO9ZQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 3.9,
+          "count": 12,
+          "url": "https://readmoo.com/book/210278105000101"
+        },
+        "goodreads": {
+          "score": 3.89,
+          "count": 2596,
+          "url": "https://www.goodreads.com/book/show/56212574-we-are-what-we-eat?from_search=true&from_srp=true&qid=xWhwEfSTv7&rank=2",
+          "note": "title"
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.89
+    }
+  ]
+}
