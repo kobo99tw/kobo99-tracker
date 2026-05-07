@@ -1170,9 +1170,13 @@ function loadHistory() {
         + '<span class="hist-hash">' + esc(e.hash) + '</span>'
         + (i === 0
           ? '<span class="hist-cur">目前</span>'
-          : '<button class="hist-btn" onclick="restoreVersion(\'' + esc(e.hash) + '\',\'' + esc(e.msg).replace(/'/g,"\\'") + '\')">⏮ 還原</button>')
+          : '<button class="hist-btn" data-hash="' + esc(e.hash) + '" data-msg="' + esc(e.msg) + '">⏮ 還原</button>')
         + '</div>'
       ).join('');
+      el.onclick = ev => {
+        const btn = ev.target.closest('.hist-btn');
+        if (btn) restoreVersion(btn.dataset.hash, btn.dataset.msg);
+      };
     });
 }
 

@@ -680,8 +680,16 @@ def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict
                     m = re.search(r"([\d,]+)\s*ratings", stats_el.get_text())
             if m:
                 count = int(m.group(1).replace(",", ""))
+            # 英文作者名（供 Amazon 搜尋用）
+            en_author = ""
+            for sel in ["span.ContributorLink__name", "a.authorName span", ".authorName span[itemprop='name']"]:
+                el = soup.select_one(sel)
+                if el:
+                    en_author = el.get_text(strip=True)
+                    break
             if score:
-                return {"score": score, "count": count, "url": r.url, "note": note}
+                return {"score": score, "count": count, "url": r.url, "note": note,
+                        "en_author": en_author}
         except Exception:
             pass
         return None
@@ -799,15 +807,15 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
 
     if book_type == "歐美書":
         base = "https://www.amazon.com"
-        cat  = "stripbooks-intl-ship"
-        if original_title and original_author:
-            r = _search(base, f"{original_title} {original_author}", cat, original_title)
-            if r:
-                return r
-        if original_title:
-            r = _search(base, original_title, cat, original_title)
-            if r:
-                return r
+        for cat in ("stripbooks-intl-ship", "digital-text"):
+            if original_title and original_author:
+                r = _search(base, f"{original_title} {original_author}", cat, original_title)
+                if r:
+                    return r
+            if original_title:
+                r = _search(base, original_title, cat, original_title)
+                if r:
+                    return r
 
     elif book_type == "日文書":
         base = "https://www.amazon.co.jp"
@@ -1066,9 +1074,10 @@ def run(year=None, week=None, url=None):
                         (orig_t, author),
                         TIMEOUT["goodreads"], "Goodreads")
 
-            # ── Amazon
+            # ── Amazon（優先用 GR 取回的英文作者名，避免中文譯名干擾搜尋）
+            gr_en_author = (gr or {}).get("en_author", "")
             amz = _timed(fetch_amazon,
-                         (br, orig_t, author, book_type),
+                         (br, orig_t, gr_en_author or author, book_type),
                          TIMEOUT["amazon"], "Amazon")
 
             book = {
