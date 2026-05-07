@@ -6,7 +6,7 @@
   "sale_start": "2026-05-07",
   "sale_end": "2026-05-13",
   "on_sale": true,
-  "updated_at": "2026-05-07T13:55:38.726819+08:00",
+  "updated_at": "2026-05-07T14:52:47.251515+08:00",
   "books": [
     {
       "title": "覺醒中年：另一種生活的開始，找到人生下半場的意義",
@@ -26,8 +26,8 @@
       "description": "",
       "ratings": {
         "kobo": {
-          "score": 3.71,
-          "count": 17,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/y9TyXp1o7DWQOrBVUEswBA?sId=c82ac0a7-3a02-4520-bc85-80f5bc3ec68b&ssId=Iytzhv77MfZe7gNB8qmqP&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507"
         },
         "books_com": {
@@ -43,7 +43,7 @@
         "goodreads": {
           "score": 4.16,
           "count": 3194,
-          "url": "https://www.goodreads.com/book/show/99574.Finding_Meaning_in_the_Second_Half_of_Life?from_search=true&from_srp=true&qid=jecSAgRBu1&rank=1",
+          "url": "https://www.goodreads.com/book/show/99574.Finding_Meaning_in_the_Second_Half_of_Life?from_search=true&from_srp=true&qid=A9wxK5qAtK&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -89,16 +89,16 @@
         "goodreads": {
           "score": 3.8,
           "count": 137,
-          "url": "https://www.goodreads.com/book/show/811882.Seeing_the_Forest_for_the_Trees?from_search=true&from_srp=true&qid=O4n9Euo9FZ&rank=1",
+          "url": "https://www.goodreads.com/book/show/811882.Seeing_the_Forest_for_the_Trees?from_search=true&from_srp=true&qid=sgmUObFgei&rank=1",
           "note": "title"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.3,
+          "count": 63,
+          "url": "https://www.amazon.com/-/zh_TW/Dennis-Sherwood-ebook/dp/B004GCK63Y/ref=sr_1_1"
         }
       },
-      "avg_score": 3.84
+      "avg_score": 3.98
     },
     {
       "title": "自驱力觉醒",
@@ -181,12 +181,12 @@
         "goodreads": {
           "score": 4.15,
           "count": 3497092,
-          "url": "https://www.goodreads.com/book/show/19288043-gone-girl?from_search=true&from_srp=true&qid=zFd6t3AjvS&rank=1",
+          "url": "https://www.goodreads.com/book/show/19288043-gone-girl?from_search=true&from_srp=true&qid=sEEH1tCNLY&rank=1",
           "note": "title"
         },
         "amazon_com": {
           "score": 4.1,
-          "count": 168259,
+          "count": 168261,
           "url": "https://www.amazon.com/-/zh_TW/Gillian-Flynn-ebook/dp/B006LSZECO/ref=sr_1_1"
         }
       },
@@ -227,7 +227,7 @@
         "goodreads": {
           "score": 4.2,
           "count": 205,
-          "url": "https://www.goodreads.com/book/show/57323204-21?from_search=true&from_srp=true&qid=1w0HkGV2A1&rank=1",
+          "url": "https://www.goodreads.com/book/show/57323204-21?from_search=true&from_srp=true&qid=Sltwrh6KYE&rank=1",
           "note": "author"
         },
         "amazon_com": {
@@ -319,7 +319,7 @@
         "goodreads": {
           "score": 3.71,
           "count": 13334,
-          "url": "https://www.goodreads.com/book/show/18430063?from_search=true&from_srp=true&qid=4Kw00v4Icx&rank=1",
+          "url": "https://www.goodreads.com/book/show/18430063?from_search=true&from_srp=true&qid=t2uT14Ycvb&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -365,13 +365,13 @@
         "goodreads": {
           "score": 3.89,
           "count": 2596,
-          "url": "https://www.goodreads.com/book/show/56212574-we-are-what-we-eat?from_search=true&from_srp=true&qid=xWhwEfSTv7&rank=2",
+          "url": "https://www.goodreads.com/book/show/56212574-we-are-what-we-eat?from_search=true&from_srp=true&qid=aTLrneuEnm&rank=2",
           "note": "title"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.8,
+          "count": 7,
+          "url": "https://www.amazon.com/-/zh_TW/Ethel-Scott/dp/1793380449/ref=sr_1_3"
         }
       },
       "avg_score": 3.89
