@@ -38,15 +38,26 @@ jobs:
       - name: 安裝 Playwright Chromium
         run: python -m playwright install --with-deps chromium
 
-      - name: 執行爬蟲
+      - name: 執行爬蟲（含重試，每小時一次最多 4 次）
         run: |
           YEAR="${{ github.event.inputs.year }}"
           WEEK="${{ github.event.inputs.week }}"
-          if [ -n "$YEAR" ] && [ -n "$WEEK" ]; then
-            python scraper/scrape.py $YEAR $WEEK
-          else
-            python scraper/scrape.py
-          fi
+          MAX=4
+          for i in $(seq 1 $MAX); do
+            echo "=== 第 $i 次嘗試 ==="
+            if [ -n "$YEAR" ] && [ -n "$WEEK" ]; then
+              python scraper/scrape.py $YEAR $WEEK && break
+            else
+              python scraper/scrape.py && break
+            fi
+            if [ $i -lt $MAX ]; then
+              echo "⏳ 部落格文章尚未發佈，等待 60 分鐘後重試…"
+              sleep 3600
+            else
+              echo "❌ 已達最大重試次數，放棄"
+              exit 1
+            fi
+          done
 
       - name: 確認是否有新資料
         id: check
