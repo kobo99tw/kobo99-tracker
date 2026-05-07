@@ -472,6 +472,11 @@ def fetch_kobo_book_page(br: Browser, title: str, kobo_url: str) -> dict:
             if re.match(r"^\d+$", t):
                 result["kobo_rating_count"] = int(t)
 
+        # 封面圖：og:image meta tag
+        og_img = soup.select_one('meta[property="og:image"]')
+        if og_img and og_img.get("content"):
+            result["cover_url"] = og_img["content"]
+
         # ── 區塊3：.bookitem-secondary-metadata ─────────────
         meta_fields = _parse_secondary_metadata(soup)
         result.update(meta_fields)
@@ -1060,6 +1065,7 @@ def run(year=None, week=None, url=None):
                 "isbn":           isbn or None,
                 "kobo_url":       info.get("kobo_url", kobo_url),
                 "kobo_price":     info.get("kobo_price"),
+                "cover_url":      info.get("cover_url", ""),
                 "sale_price":     "NT$99",
                 "date":           blog_date,
                 "sale_start":     sale_start.isoformat(),

@@ -79,6 +79,10 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 /* 書脊色條 */
 .spine{height:5px;flex-shrink:0}
 
+/* 書本封面 */
+.cover-wrap{width:100%;background:#f0ede8;overflow:hidden;flex-shrink:0;max-height:220px;display:flex;align-items:center;justify-content:center}
+.cover-img{width:100%;height:100%;object-fit:contain;object-position:center;display:block;max-height:220px}
+
 .card-body{padding:1rem 1.15rem 1.1rem;flex:1;display:flex;flex-direction:column}
 
 .card-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:.55rem}
@@ -481,9 +485,14 @@ function render() {
         <span class="score-badge ${cls}">${avg ? avg.toFixed(2) : "—"}</span>
       </div>`;
 
+    const coverHtml = book.cover_url
+      ? `<div class="cover-wrap"><img class="cover-img" src="${esc(book.cover_url)}" loading="lazy" alt="${esc(book.title)}" onerror="this.closest('.cover-wrap').remove()"></div>`
+      : '';
+
     return `
     <div class="${['card', isToday?'card--today':'', isRead?'card--read':''].filter(Boolean).join(' ')}">
       <div class="spine" style="background:${isToday ? 'var(--sale)' : spine}"></div>
+      ${coverHtml}
       <div class="card-body">
         ${todayBanner}
         <div class="card-top">
