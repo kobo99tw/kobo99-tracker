@@ -1,5 +1,17 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
+## 已完成（v14，2026-05-07）
+
+### ✅ W19 書單上線（手動跑爬蟲）
+- 8 本書完整資料，多項手動修正（日期、Amazon 錯誤書、GR count）
+
+### ✅ Goodreads 評論數解析 Bug 修正
+- 舊方法：抓頁面第一個 `N ratings`，常誤抓作者/系列總評論數（如 153M）
+- 新方法：優先比對 `avg rating — N ratings` 格式，鎖定該書自身的評論數
+- W19 重抓後全部修正，下週起自動生效
+
+---
+
 ## 已完成（v13，2026-05-07）
 
 ### ✅ corrections.json 永久修正系統
@@ -30,8 +42,9 @@
 - **失智行為說明書 Amazon 手動補值**：Admin 面板補入 3.9/65 + Kindle 連結，存入 corrections.json，發佈
 
 ### 🟡 下次驗證
-- W19 首次自動抓取：確認 Goodreads / Amazon 新邏輯正確率
-- corrections.json 有無正確套用於新週次
+- corrections.json 有無正確套用於新週次（W20 起觀察）
+- 《系統思考》GR count 137 是否正確（原 80137，懷疑新 regex 仍有截斷）
+- 《告訴我你吃什麼》GR count 2596 是否正確（原 892596）
 
 ### 🟢 長期
 - 評分歷史趨勢（多週資料比較）
