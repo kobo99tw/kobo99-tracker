@@ -243,16 +243,14 @@ def _resolve_weekly(br: Browser, year, week, url=None) -> tuple[int, int, str]:
             if start_d <= today <= end_d:
                 print(f"   ✅ 找到當週書單（{start_d.month}/{start_d.day}～{end_d.month}/{end_d.day}）：{url}")
                 return y2, w2, url
-        # 次選：最新的一筆
-        best = max(candidates, key=lambda x: x[0])
-        s, e = best[0], best[1]
-        print(f"   ✅ 找到最新書單（{s.month}/{s.day}～{e.month}/{e.day}）：{best[4]}")
-        return best[2], best[3], best[4]
+        # 主頁有文章但今天不在任何一筆的日期範圍內
+        # → 代表當週書單尚未上主頁列表，用公式 fallback 直接取本週 URL
+        # （不選「最新一筆」，否則週四更新日會誤抓上週書單）
 
-    # Fallback：公式計算
+    # Fallback：公式計算本週 URL
     y2, w2 = _calc_current_yw()
     fallback = get_weekly_url(y2, w2)
-    print(f"   ⚠️  主頁未找到書單，使用公式 fallback：{fallback}")
+    print(f"   ⚠️  主頁未找到當週書單，使用公式 fallback：{fallback}")
     return y2, w2, fallback
 
 
