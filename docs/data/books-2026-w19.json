@@ -6,7 +6,7 @@
   "sale_start": "2026-05-07",
   "sale_end": "2026-05-13",
   "on_sale": true,
-  "updated_at": "2026-05-07T22:22:24.439700+08:00",
+  "updated_at": "2026-05-08T01:42:48.027947+08:00",
   "books": [
     {
       "title": "覺醒中年：另一種生活的開始，找到人生下半場的意義",
@@ -15,6 +15,7 @@
       "isbn": "9786267441879",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/y9TyXp1o7DWQOrBVUEswBA?sId=c82ac0a7-3a02-4520-bc85-80f5bc3ec68b&ssId=Iytzhv77MfZe7gNB8qmqP&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
       "kobo_price": "NT$336",
+      "cover_url": "covers/y9TyXp1o7DWQOrBVUEswBA.jpg",
       "sale_price": "NT$99",
       "date": "5/7",
       "sale_start": "2026-05-07",
@@ -43,17 +44,16 @@
         "goodreads": {
           "score": 4.16,
           "count": 3194,
-          "url": "https://www.goodreads.com/book/show/99574.Finding_Meaning_in_the_Second_Half_of_Life?from_search=true&from_srp=true&qid=nI7LxGxEHh&rank=1",
+          "url": "https://www.goodreads.com/book/show/99574.Finding_Meaning_in_the_Second_Half_of_Life?from_search=true&from_srp=true&qid=0MNMVCOr6s&rank=1",
           "note": "title"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.4,
+          "count": 1470,
+          "url": "https://www.amazon.com/-/zh_TW/James-Hollis-ebook/dp/B000P2A436/ref=sr_1_1"
         }
       },
-      "avg_score": 4.16,
-      "cover_url": "covers/y9TyXp1o7DWQOrBVUEswBA.jpg"
+      "avg_score": 4.24
     },
     {
       "title": "系統思考實作篇：一眼看清規律背後的結構和邏輯:解決現實世界中的複雜問題",
@@ -61,7 +61,8 @@
       "original_title": "Seeing the Forest for the Trees: A Manager's Guide to Applying Systems Thinking",
       "isbn": "9786267195710",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/yycV9mY05TWkki7Oq4NQ7w?sId=f0182673-2d80-40a8-9a37-16975c5c3244&ssId=FKWeJem6lDmzjWFenjXJ8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260508",
-      "kobo_price": "NT$400",
+      "kobo_price": "NT$327",
+      "cover_url": "covers/yycV9mY05TWkki7Oq4NQ7w.jpg",
       "sale_price": "NT$99",
       "date": "5/8",
       "sale_start": "2026-05-07",
@@ -90,17 +91,16 @@
         "goodreads": {
           "score": 3.8,
           "count": 137,
-          "url": "https://www.goodreads.com/book/show/811882.Seeing_the_Forest_for_the_Trees?from_search=true&from_srp=true&qid=eDn3sGqzFH&rank=1",
+          "url": "https://www.goodreads.com/book/show/811882.Seeing_the_Forest_for_the_Trees?from_search=true&from_srp=true&qid=Vc43Xr0PR1&rank=1",
           "note": "title"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.3,
+          "count": 63,
+          "url": "https://www.amazon.com/-/zh_TW/Dennis-Sherwood-ebook/dp/B004GCK63Y/ref=sr_1_1?crid=17G3WUAIJ88RF&dib=eyJ2IjoiMSJ9.-5uRaieCAPDIbapk4ufYeUpJYKvGsunhZbzkrdtOpYWUJrRvz3wCo_HO9Q_C8zgx.O_SJNc9uCta58uILfjsw7xn1k_LMG8RwWhyjnWWxmE0&dib_tag=se&keywords=Seeing+the+Forest+for+the+Trees%3A+A+Manager%27s+Guide+to+Applying+Systems+Thinking+%E4%B8%B9%E5%B0%BC%E6%96%AF%E2%80%A7%E8%88%8D%E4%BC%8D%E5%BE%B7&nsdOptOutParam=true&qid=1778174465&s=digital-text&sprefix=seeing+the+forest+for+the+trees+a+manager%27s+guide+to+applying+systems+thinking+%E4%B8%B9%E5%B0%BC%E6%96%AF+%E8%88%8D%E4%BC%8D%E5%BE%B7%2Cdigital-text%2C318&sr=1-1"
         }
       },
-      "avg_score": 3.84,
-      "cover_url": "covers/yycV9mY05TWkki7Oq4NQ7w.jpg"
+      "avg_score": 3.98
     },
     {
       "title": "自驱力觉醒",
@@ -109,6 +109,7 @@
       "isbn": "7584043738361",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/yqrXSzxo6TGMG6-KznuOPQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
       "kobo_price": "NT$199",
+      "cover_url": "covers/yqrXSzxo6TGMG6-KznuOPQ.jpg",
       "sale_price": "NT$99",
       "date": "5/8",
       "sale_start": "2026-05-07",
@@ -146,8 +147,7 @@
           "url": ""
         }
       },
-      "avg_score": null,
-      "cover_url": "covers/yqrXSzxo6TGMG6-KznuOPQ.jpg"
+      "avg_score": null
     },
     {
       "title": "控制（十週年暢銷紀念新版）",
@@ -156,6 +156,7 @@
       "isbn": "9786263742062",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/WDQgY6IYnTeU4eOMk0XXfQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
       "kobo_price": "NT$350",
+      "cover_url": "covers/WDQgY6IYnTeU4eOMk0XXfQ.jpg",
       "sale_price": "NT$99",
       "date": "5/9",
       "sale_start": "2026-05-07",
@@ -183,18 +184,17 @@
         },
         "goodreads": {
           "score": 4.15,
-          "count": 3497198,
-          "url": "https://www.goodreads.com/book/show/19288043-gone-girl?from_search=true&from_srp=true&qid=GoO9q0yJaA&rank=1",
+          "count": 3497262,
+          "url": "https://www.goodreads.com/book/show/19288043-gone-girl?from_search=true&from_srp=true&qid=YYHPrJdEFb&rank=1",
           "note": "title"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.1,
+          "count": 168264,
+          "url": "https://www.amazon.com/-/zh_TW/Gillian-Flynn-ebook/dp/B006LSZECO/ref=sr_1_1"
         }
       },
-      "avg_score": 4.15,
-      "cover_url": "covers/WDQgY6IYnTeU4eOMk0XXfQ.jpg"
+      "avg_score": 4.15
     },
     {
       "title": "養雞時代：21則你吃過雞，卻不瞭解的冷知識",
@@ -203,6 +203,7 @@
       "isbn": "7343862942529",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/3AuScK7SCDK-JrWWDg5GBw?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
       "kobo_price": "NT$266",
+      "cover_url": "covers/3AuScK7SCDK-JrWWDg5GBw.jpg",
       "sale_price": "NT$99",
       "date": "5/10",
       "sale_start": "2026-05-07",
@@ -231,7 +232,7 @@
         "goodreads": {
           "score": 4.2,
           "count": 205,
-          "url": "https://www.goodreads.com/book/show/57323204-21?from_search=true&from_srp=true&qid=LKwJwdX7Pc&rank=1",
+          "url": "https://www.goodreads.com/book/show/57323204-21?from_search=true&from_srp=true&qid=JSwGThTc0l&rank=1",
           "note": "author"
         },
         "amazon_com": {
@@ -240,8 +241,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.22,
-      "cover_url": "covers/3AuScK7SCDK-JrWWDg5GBw.jpg"
+      "avg_score": 4.22
     },
     {
       "title": "你，燃燒殆盡了嗎？：用情商打造倦怠免疫力，在壓力下維持高效能，和工作建立更健康的關係",
@@ -250,6 +250,7 @@
       "isbn": "9786267442388",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/qlzWfdkZvzi1JBdUJR9_zA?sId=03327ed1-1ccc-44f6-803b-e1ef24741c21&ssId=gTKfPTcxsCVNG38GoHXq8&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
       "kobo_price": "NT$274",
+      "cover_url": "covers/qlzWfdkZvzi1JBdUJR9_zA.jpg",
       "sale_price": "NT$99",
       "date": "5/11",
       "sale_start": "2026-05-07",
@@ -282,13 +283,12 @@
           "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.4,
+          "count": 48,
+          "url": "https://www.amazon.com/-/zh_TW/Burnout-Immunity-Intelligence-Resilience-Relationship/dp/0063323664/ref=sr_1_1"
         }
       },
-      "avg_score": 4.48,
-      "cover_url": "covers/qlzWfdkZvzi1JBdUJR9_zA.jpg"
+      "avg_score": 4.41
     },
     {
       "title": "殺人者的記憶法",
@@ -297,6 +297,7 @@
       "isbn": "9789864899333",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Xy9vZGPMVjW4tMMFF4Jr-g?sId=13d7779a-b046-4453-9278-31eaf9de0344&ssId=s6OhjiXalI1jO_-M76u0U&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
       "kobo_price": "NT$250",
+      "cover_url": "covers/Xy9vZGPMVjW4tMMFF4Jr-g.jpg",
       "sale_price": "NT$99",
       "date": "5/12",
       "sale_start": "2026-05-07",
@@ -325,7 +326,7 @@
         "goodreads": {
           "score": 3.71,
           "count": 13338,
-          "url": "https://www.goodreads.com/book/show/18430063?from_search=true&from_srp=true&qid=rcAifNJVmz&rank=1",
+          "url": "https://www.goodreads.com/book/show/18430063?from_search=true&from_srp=true&qid=BWa0IotPxV&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -334,8 +335,7 @@
           "url": ""
         }
       },
-      "avg_score": 3.71,
-      "cover_url": "covers/Xy9vZGPMVjW4tMMFF4Jr-g.jpg"
+      "avg_score": 3.71
     },
     {
       "title": "告訴我你吃什麼，我就知道你是誰：吃速食長大的一代不知道的食物真相",
@@ -343,7 +343,8 @@
       "original_title": "We are what we eat",
       "isbn": "9786267279199",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/VOS11iq2AT-g5XcOSdO9ZQ?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260507",
-      "kobo_price": "NT$315",
+      "kobo_price": "NT$320",
+      "cover_url": "covers/VOS11iq2AT-g5XcOSdO9ZQ.jpg",
       "sale_price": "NT$99",
       "date": "5/12",
       "sale_start": "2026-05-07",
@@ -372,17 +373,16 @@
         "goodreads": {
           "score": 3.89,
           "count": 2596,
-          "url": "https://www.goodreads.com/book/show/56212574-we-are-what-we-eat?from_search=true&from_srp=true&qid=PIXUUjYbaB&rank=2",
+          "url": "https://www.goodreads.com/book/show/56212574-we-are-what-we-eat?from_search=true&from_srp=true&qid=ugf1aie1lR&rank=2",
           "note": "title"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.4,
+          "count": 439,
+          "url": "https://www.amazon.com/-/zh_TW/We-Are-What-Eat-Manifesto/dp/0525561552"
         }
       },
-      "avg_score": 3.89,
-      "cover_url": "covers/VOS11iq2AT-g5XcOSdO9ZQ.jpg"
+      "avg_score": 3.96
     }
   ]
 }
