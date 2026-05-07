@@ -34,7 +34,7 @@ MIN_BOOKS = 5
 # 逾時限制（秒）
 TIMEOUT = {
     "kobo":      30,
-    "books_com": 30,
+    "books_com": 40,
     "readmoo":   20,
     "goodreads": 15,
     "amazon":    25,
