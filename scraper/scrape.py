@@ -34,7 +34,7 @@ MIN_BOOKS = 5
 # 逾時限制（秒）
 TIMEOUT = {
     "kobo":      30,
-    "books_com": 40,
+    "books_com": 30,
     "readmoo":   20,
     "goodreads": 15,
     "amazon":    25,
@@ -118,7 +118,7 @@ class Browser:
             page.goto(url, wait_until="domcontentloaded", timeout=15_000)
             if wait_selector:
                 try:
-                    page.wait_for_selector(wait_selector, timeout=10_000)
+                    page.wait_for_selector(wait_selector, timeout=5_000)
                 except Exception:
                     pass
             time.sleep(min(sleep, 2.0))
