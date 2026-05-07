@@ -88,8 +88,8 @@
         },
         "goodreads": {
           "score": 3.8,
-          "count": 80137,
-          "url": "https://www.goodreads.com/book/show/811882.Seeing_the_Forest_for_the_Trees?from_search=true&from_srp=true&qid=Nyj2Z8jBcT&rank=1",
+          "count": 137,
+          "url": "https://www.goodreads.com/book/show/811882.Seeing_the_Forest_for_the_Trees?from_search=true&from_srp=true&qid=O4n9Euo9FZ&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -98,7 +98,7 @@
           "url": ""
         }
       },
-      "avg_score": 3.8
+      "avg_score": 3.84
     },
     {
       "title": "自驱力觉醒",
@@ -180,8 +180,8 @@
         },
         "goodreads": {
           "score": 4.15,
-          "count": 0,
-          "url": "https://www.goodreads.com/book/show/19288043-gone-girl?from_search=true&from_srp=true&qid=6rxIcgtMZb&rank=1",
+          "count": 3497092,
+          "url": "https://www.goodreads.com/book/show/19288043-gone-girl?from_search=true&from_srp=true&qid=zFd6t3AjvS&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -190,7 +190,7 @@
           "url": "https://www.amazon.com/-/zh_TW/Gillian-Flynn-ebook/dp/B006LSZECO/ref=sr_1_1"
         }
       },
-      "avg_score": 4.1
+      "avg_score": 4.15
     },
     {
       "title": "養雞時代：21則你吃過雞，卻不瞭解的冷知識",
@@ -317,10 +317,10 @@
           "url": "https://readmoo.com/book/210333122000101"
         },
         "goodreads": {
-          "score": 3.82,
-          "count": 82564,
-          "url": "https://www.goodreads.com/book/show/222000425?from_search=true&from_srp=true&qid=5a0i1Q3Wql&rank=1",
-          "note": "author"
+          "score": 3.71,
+          "count": 13334,
+          "url": "https://www.goodreads.com/book/show/18430063?from_search=true&from_srp=true&qid=4Kw00v4Icx&rank=1",
+          "note": "title"
         },
         "amazon_com": {
           "score": null,
@@ -328,7 +328,7 @@
           "url": ""
         }
       },
-      "avg_score": 3.82
+      "avg_score": 3.71
     },
     {
       "title": "告訴我你吃什麼，我就知道你是誰：吃速食長大的一代不知道的食物真相",
@@ -364,8 +364,8 @@
         },
         "goodreads": {
           "score": 3.89,
-          "count": 892596,
-          "url": "https://www.goodreads.com/book/show/56212574-we-are-what-we-eat?from_search=true&from_srp=true&qid=oeaWBp0dHp&rank=2",
+          "count": 2596,
+          "url": "https://www.goodreads.com/book/show/56212574-we-are-what-we-eat?from_search=true&from_srp=true&qid=xWhwEfSTv7&rank=2",
           "note": "title"
         },
         "amazon_com": {
