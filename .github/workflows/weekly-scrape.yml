@@ -90,7 +90,7 @@ jobs:
         run: |
           git config user.name  "kobo99-bot"
           git config user.email "bot@kobo99-tracker.local"
-          git add docs/data/ docs/sitemap.xml docs/calendar.ics
+          git add docs/data/ docs/covers/ docs/sitemap.xml docs/calendar.ics
           WEEK_NUM=$(python -c "from datetime import datetime,timezone,timedelta; now=datetime.now(timezone(timedelta(hours=8))); print(now.isocalendar().week)")
           git commit -m "📚 更新 W${WEEK_NUM} 書單 $(date +'%Y-%m-%d')"
           git push

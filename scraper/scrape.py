@@ -472,10 +472,23 @@ def fetch_kobo_book_page(br: Browser, title: str, kobo_url: str) -> dict:
             if re.match(r"^\d+$", t):
                 result["kobo_rating_count"] = int(t)
 
-        # 封面圖：og:image meta tag
+        # 封面圖：從 og:image 下載並存本機，避免 Kobo CDN token 過期
         og_img = soup.select_one('meta[property="og:image"]')
         if og_img and og_img.get("content"):
-            result["cover_url"] = og_img["content"]
+            og_url = og_img["content"]
+            m_id = re.search(r"/ebook/([A-Za-z0-9_-]+)", kobo_url)
+            if m_id:
+                book_id   = m_id.group(1)
+                covers_dir = DATA_DIR.parent / "covers"
+                covers_dir.mkdir(exist_ok=True)
+                local_path = covers_dir / f"{book_id}.jpg"
+                try:
+                    img_r = requests.get(og_url, headers=HEADERS, timeout=10)
+                    if img_r.status_code == 200 and len(img_r.content) > 1000:
+                        local_path.write_bytes(img_r.content)
+                        result["cover_url"] = f"covers/{book_id}.jpg"
+                except Exception:
+                    pass
 
         # ── 區塊3：.bookitem-secondary-metadata ─────────────
         meta_fields = _parse_secondary_metadata(soup)
