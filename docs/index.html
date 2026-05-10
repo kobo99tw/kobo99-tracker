@@ -4,8 +4,8 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kobo每日99</title>
-<meta name="description" content="整合博客來、讀墨、Goodreads、Amazon 評分，每週自動更新 Kobo 99 元特價好書書單。">
+<title>Kobo 每週 99 特價書單 | 博客來、讀墨、Goodreads 評分整合</title>
+<meta name="description" content="每週自動更新 Kobo 99 元特價電子書書單，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，快速找到 CP 值最高的好書。">
 <meta property="og:title" content="Kobo 每週 99 特價好書">
 <meta property="og:description" content="整合博客來 × 讀墨 × Goodreads × Amazon 評分，每週自動更新。">
 <meta property="og:type" content="website">
@@ -16,6 +16,23 @@
 <meta name="twitter:title" content="Kobo 每週 99 特價好書">
 <meta name="twitter:description" content="整合博客來 × 讀墨 × Goodreads × Amazon 評分，每週自動更新。">
 <meta name="twitter:image" content="https://kobo99tw.github.io/kobo99-tracker/og-image.png">
+<link rel="canonical" href="https://kobo99tw.github.io/kobo99-tracker/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Kobo 每週 99 特價書單",
+  "alternateName": "Kobo每日99",
+  "url": "https://kobo99tw.github.io/kobo99-tracker/",
+  "description": "每週自動更新 Kobo 99 元特價電子書書單，整合博客來、讀墨、Goodreads、Amazon 四大平台評分",
+  "inLanguage": "zh-TW",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kobo99",
+    "url": "https://kobo99tw.github.io/kobo99-tracker/"
+  }
+}
+</script>
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="manifest" href="manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -158,8 +175,16 @@ footer a{color:var(--teal);text-decoration:none}
 </head>
 <body>
 
+<noscript>
+  <div style="padding:2rem;text-align:center;font-family:sans-serif;max-width:600px;margin:0 auto">
+    <h2>Kobo 每週 99 元特價書單</h2>
+    <p>整合博客來、讀墨、Goodreads、Amazon 四大平台評分，每週四自動更新 Kobo 99 元特價電子書書單，快速找到 CP 值最高的好書。</p>
+    <p>請開啟 JavaScript 以瀏覽完整書單。</p>
+  </div>
+</noscript>
+
 <header>
-  <div class="site-name">📚 Kobo 每週 99 書單</div>
+  <h1 class="site-name">📚 Kobo 每週 99 書單</h1>
   <div class="site-sub">整合博客來 × 讀墨 × Goodreads × Amazon 評分 ｜ 每週自動更新</div>
   <div class="header-row">
     <span class="week-badge" id="weekBadge">載入中...</span>
@@ -436,6 +461,36 @@ function render() {
       `<div class="empty">📅 本週書單尚未更新，請週四後再來 🙏</div>`;
     return;
   }
+
+  // 動態注入書單 JSON-LD，讓 Googlebot 讀到結構化資料
+  const existingLd = document.getElementById('ld-books');
+  if (existingLd) existingLd.remove();
+  const ldScript = document.createElement('script');
+  ldScript.id = 'ld-books';
+  ldScript.type = 'application/ld+json';
+  ldScript.textContent = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": `Kobo 第 ${DATA.week} 週 99元特價電子書書單`,
+    "description": DATA.sale_label + "，整合博客來、讀墨、Goodreads、Amazon 評分",
+    "numberOfItems": books.length,
+    "itemListElement": books.map((book, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "item": Object.assign(
+        { "@type": "Book", "name": book.title },
+        book.author ? { "author": { "@type": "Person", "name": book.author } } : {},
+        book.original_title ? { "alternateName": book.original_title } : {},
+        {
+          "offers": Object.assign(
+            { "@type": "Offer", "price": "99", "priceCurrency": "TWD", "availability": "https://schema.org/InStock" },
+            book.kobo_url ? { "url": book.kobo_url } : {}
+          )
+        }
+      )
+    }))
+  });
+  document.head.appendChild(ldScript);
 
   document.getElementById("grid").innerHTML = books.map((book, idx) => {
     const r     = book.ratings ?? {};
