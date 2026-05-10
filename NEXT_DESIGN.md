@@ -1,5 +1,15 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
+## 已完成（v16，2026-05-11）
+
+### ✅ SEO 技術優化（docs/index.html）
+- title / description 關鍵字強化
+- canonical 標準網址宣告
+- JSON-LD WebSite（靜態）+ ItemList（動態）結構化資料
+- h1 語意標籤、noscript 備援內容
+
+---
+
 ## 已完成（v15，2026-05-08）
 
 ### ✅ Admin panel SyntaxError 修復
@@ -21,7 +31,12 @@
 
 ### 🔴 立即
 - **失智行為說明書 Amazon 手動補值**：Admin 面板補入 3.9/65 + Kindle 連結，存入 corrections.json，發佈
-- **Google Sitemap 確認**：明天查看 GSC sitemap 是否變綠（已加 .nojekyll + robots.txt + 重新提交）
+- **GSC 要求建立索引**：已完成 SEO 修復，需在 Search Console 點「要求建立索引」讓 Google 重新爬取新版本
+
+### 🟡 4–8 週後觀察
+- GSC 「使用者宣告的標準網址」是否更新（目前顯示「無」，因快取是 5/8 舊版）
+- 搜尋結果是否開始出現「Kobo 每週 99 特價書單」
+- GSC Performance 是否開始有曝光/點擊數據
 
 ### 🟡 下次驗證
 - corrections.json 有無正確套用於新週次（W20 起觀察）

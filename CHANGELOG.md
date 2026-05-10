@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [2026-05-11 v16] — SEO 技術優化
+
+### SEO 改善：docs/index.html
+- **`<title>` 關鍵字優化**：`Kobo每日99` → `Kobo 每週 99 特價書單 | 博客來、讀墨、Goodreads 評分整合`
+- **`<meta description>` 加強**：加入「99元」「電子書」「CP值」等搜尋關鍵字
+- **`<link rel="canonical">` 加入**：明確宣告標準網址，避免重複內容問題
+- **JSON-LD WebSite 結構化資料**：靜態加在 `<head>`，Googlebot 不執行 JS 也能讀到網站基本資訊
+- **JSON-LD ItemList 動態注入**：書單載入後自動產生每本書的 Schema（書名、作者、售價），幫助 Google 理解內容
+- **`<h1>` 語意標籤**：標題從 `<div class="site-name">` 改為語意正確的 `<h1>`
+- **`<noscript>` 備援內容**：Googlebot 不執行 JS 時也能看到網站描述與關鍵字
+
+---
+
 ## [2026-05-08 v15] — Admin JS 修復、Amazon 搜尋改善、robots.txt / .nojekyll
 
 ### Bug 修復：scraper/preview.py
