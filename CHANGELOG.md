@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [2026-05-13 v17] — Sitemap 問題診斷完成
+
+### 調查結果
+- **Sitemap「無法讀取」根本原因確認**：非技術問題，`github.io` 共用網域導致 Search Console 子目錄資源相容性限制
+- 全面驗證：HTTP 200、Content-Type: application/xml、無 BOM、Googlebot UA 正常、robots.txt 正確、驗證檔可存取
+- **網站已被 Google 索引**：`site:kobo99tw.github.io/kobo99-tracker` 確認有索引結果
+- Sitemap 錯誤不影響實際 SEO，可忽略此 Search Console 警告
+
+### SEO 現況評估
+- 來客數約 1800（來自 FB 論壇分享）
+- 搜尋「kobo 99 書單」未進前五頁，主因：共用網域權重低、無外部反向連結
+- 改善方向：PTT / Dcard 發文建立反向連結、長期考慮自訂網域
+
+---
+
 ## [2026-05-11 v16] — SEO 技術優化
 
 ### SEO 改善：docs/index.html

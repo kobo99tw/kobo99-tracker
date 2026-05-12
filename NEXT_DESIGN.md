@@ -1,5 +1,15 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
+## 已完成（v17，2026-05-13）
+
+### ✅ Sitemap「無法讀取」問題查明
+- 全面診斷：HTTP 200、Content-Type application/xml、無 BOM、Googlebot UA 正常回應
+- 根本原因：`github.io` 共用網域，Search Console 對子目錄資源有相容性限制，非技術問題
+- 確認網站已被 Google 索引（`site:kobo99tw.github.io/kobo99-tracker` 有結果）
+- 結論：Sitemap 錯誤不影響實際索引，可忽略
+
+---
+
 ## 已完成（v16，2026-05-11）
 
 ### ✅ SEO 技術優化（docs/index.html）
@@ -31,12 +41,16 @@
 
 ### 🔴 立即
 - **失智行為說明書 Amazon 手動補值**：Admin 面板補入 3.9/65 + Kindle 連結，存入 corrections.json，發佈
-- **GSC 要求建立索引**：已完成 SEO 修復，需在 Search Console 點「要求建立索引」讓 Google 重新爬取新版本
 
-### 🟡 4–8 週後觀察
-- GSC 「使用者宣告的標準網址」是否更新（目前顯示「無」，因快取是 5/8 舊版）
-- 搜尋結果是否開始出現「Kobo 每週 99 特價書單」
-- GSC Performance 是否開始有曝光/點擊數據
+### 🟡 SEO 成長（需持續推進）
+- **PTT 書版 / 電子書版發文**：附連結，有效反向連結，提升搜尋排名
+- **Dcard 書單版發文**：同上
+- **自訂網域評估**：脫離 github.io 共用網域，長期 SEO 效益
+- GSC Performance 是否開始有曝光/點擊數據（5/11 SEO 優化後 4–8 週觀察）
+
+### 🟡 程式碼保護（視需求）
+- 選項 A：GitHub Pro $4/月，repo 改私有（最簡單）
+- 選項 B：拆成私有爬蟲 repo + 公開前端 repo（免費）
 
 ### 🟡 下次驗證
 - corrections.json 有無正確套用於新週次（W20 起觀察）
