@@ -901,7 +901,7 @@ def generate_ics(books: list[dict], year: int, week: int, sale_start: Date) -> N
         desc_parts = [
             price_str,
             url if url else "",
-            "查看當週各書評價: https://kobo99tw.github.io/kobo99-tracker/",
+            "查看當週各書評價: https://kobo99.com/",
         ]
         description = "\\n".join(_ics_escape(p) for p in desc_parts if p)
         uid = f"kobo99-{year}-w{week:02d}-{idx:02d}@kobo99-tracker"
