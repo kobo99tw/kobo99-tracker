@@ -1,5 +1,18 @@
 # NEXT_DESIGN — 待解決問題與改進方向
 
+## 已完成（v18，2026-05-14）
+
+### ✅ 自訂網域 kobo99.com 上線
+- Cloudflare 購買 kobo99.com，GitHub Pages CNAME 串接完成
+- 所有檔案網址全面更新（index.html、sitemap、robots.txt、workflow、preview.py、scrape.py、calendar.ics）
+- Google Search Console 提交新 Sitemap，狀態成功
+
+### ✅ PNG Favicon 新增
+- 修復 Google 搜尋結果無圖示問題
+- 新增 favicon-48/96/192.png，index.html 補上對應 link 標籤
+
+---
+
 ## 已完成（v17，2026-05-13）
 
 ### ✅ Sitemap「無法讀取」問題查明
@@ -45,8 +58,11 @@
 ### 🟡 SEO 成長（需持續推進）
 - **PTT 書版 / 電子書版發文**：附連結，有效反向連結，提升搜尋排名
 - **Dcard 書單版發文**：同上
-- **自訂網域評估**：脫離 github.io 共用網域，長期 SEO 效益
-- GSC Performance 是否開始有曝光/點擊數據（5/11 SEO 優化後 4–8 週觀察）
+- GSC Performance 觀察：5/11 SEO 優化 + 5/14 換網域後，4–8 週觀察曝光/點擊數據
+- 目前排名：搜尋「Kobo 每週 99 書單」第 3 頁第 1 名（2026-05-14）
+
+### 🟡 待確認
+- 2026-05-14 10:00 自動 Actions 書單結果（用戶回來後確認）
 
 ### 🟡 程式碼保護（視需求）
 - 選項 A：GitHub Pro $4/月，repo 改私有（最簡單）

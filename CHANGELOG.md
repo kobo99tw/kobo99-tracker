@@ -1,5 +1,33 @@
 # CHANGELOG
 
+## [2026-05-14 v18] — 自訂網域 kobo99.com、PNG Favicon
+
+### 自訂網域設定
+- 購買 `kobo99.com`（Cloudflare Registrar，$10.46/年，自動續約）
+- GitHub Pages CNAME 設定完成，`https://kobo99.com` 正式上線
+- Cloudflare DNS：CNAME @ → kobo99tw.github.io（僅 DNS，非 Proxy）
+- Enforce HTTPS 啟用
+
+### 網址全面更新（github.io → kobo99.com）
+- `docs/index.html`：canonical、og:url、og:image、twitter:image、JSON-LD
+- `docs/sitemap.xml`：`<loc>` 更新
+- `docs/robots.txt`：Sitemap 路徑更新
+- `.github/workflows/weekly-scrape.yml`：自動產生 sitemap 的 `<loc>` 更新
+- `scraper/preview.py`：Admin 面板「🌐 GitHub Pages」按鈕改為「🌐 kobo99.com」
+- `scraper/scrape.py`：ICS 日曆「查看當週各書評價」連結更新
+- `docs/calendar.ics`：已發佈日曆連結更新
+
+### PNG Favicon 新增（修復 Google 搜尋無圖示）
+- 新增 `favicon-48.png`、`favicon-96.png`、`favicon-192.png`
+- `index.html` 補上對應 `<link>` 與 `apple-touch-icon`
+- Google 搜尋爬蟲不穩定支援 SVG，PNG 為官方建議格式
+
+### Google Search Console
+- `kobo99.com` Sitemap 提交成功（狀態：成功）
+- 要求 Google 重新爬取 `https://kobo99.com`
+
+---
+
 ## [2026-05-13 v17] — Sitemap 問題診斷完成
 
 ### 調查結果
