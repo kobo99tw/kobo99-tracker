@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kobo99tw.github.io/kobo99-tracker/sitemap.xml
+Sitemap: https://kobo99.com/sitemap.xml
