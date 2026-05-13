@@ -20,6 +20,7 @@
 - 根本原因：`github.io` 共用網域，Search Console 對子目錄資源有相容性限制，非技術問題
 - 確認網站已被 Google 索引（`site:kobo99tw.github.io/kobo99-tracker` 有結果）
 - 結論：Sitemap 錯誤不影響實際索引，可忽略
+- ⚡ **後記（v18）**：換成自訂網域 `kobo99.com` 後，Sitemap 5 分鐘內即顯示成功。根本解法是自訂網域，不是技術排查。
 
 ---
 
