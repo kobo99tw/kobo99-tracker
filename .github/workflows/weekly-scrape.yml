@@ -69,6 +69,10 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
+      - name: 驗證 JSON 格式
+        if: steps.check.outputs.changed == 'true'
+        run: python -c "import json,sys; json.load(open('docs/data/latest.json',encoding='utf-8')); print('JSON OK')"
+
       - name: 更新 sitemap lastmod
         if: steps.check.outputs.changed == 'true'
         run: |
@@ -77,7 +81,7 @@ jobs:
             echo '<?xml version="1.0" encoding="UTF-8"?>'
             echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
             echo '  <url>'
-            echo '    <loc>https://kobo99tw.github.io/kobo99-tracker/</loc>'
+            echo '    <loc>https://kobo99.com/</loc>'
             echo "    <lastmod>${TODAY}</lastmod>"
             echo '    <changefreq>weekly</changefreq>'
             echo '    <priority>1.0</priority>'
