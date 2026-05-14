@@ -44,7 +44,7 @@
         "goodreads": {
           "score": 3.18,
           "count": 17,
-          "url": "https://www.goodreads.com/book/show/123247672-entrepreneurial-marketing?from_search=true&from_srp=true&qid=ZlnsgtjUlq&rank=1",
+          "url": "https://www.goodreads.com/book/show/123247672-entrepreneurial-marketing?from_search=true&from_srp=true&qid=LIOHKfluDz&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -81,7 +81,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.books.com.tw/products/0010974062?srsltid=AfmBOorJJHvHMoz9mmm0BASB6gDCGD02M6EDiHQcyINXK2b16mh0rml1"
         },
         "readmoo": {
           "score": null,
@@ -97,7 +97,7 @@
         "amazon_com": {
           "score": 4.8,
           "count": 71,
-          "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B07YN2BS2D/ref=sr_1_1"
+          "url": "https://www.amazon.com/Optimal-Outcomes-Free-Yourself-Conflict/dp/B07YN2BS2D/ref=sr_1_1"
         }
       },
       "avg_score": 4.06
@@ -138,13 +138,13 @@
         "goodreads": {
           "score": 5.0,
           "count": 2,
-          "url": "https://www.goodreads.com/book/show/141782409-a-history-of-interest-rates-fourth-edition?from_search=true&from_srp=true&qid=IWt67oWXUn&rank=1",
+          "url": "https://www.goodreads.com/book/show/141782409-a-history-of-interest-rates-fourth-edition?from_search=true&from_srp=true&qid=E3rFc6GSwt&rank=1",
           "note": "title"
         },
         "amazon_com": {
           "score": 4.4,
           "count": 56,
-          "url": "https://www.amazon.com/-/zh_TW/History-Interest-Rates-Sidney-Homer/dp/0471732834/ref=sr_1_1"
+          "url": "https://www.amazon.com/History-Interest-Rates-Fourth-Finance/dp/0471732834/ref=sr_1_1"
         }
       },
       "avg_score": 4.42
@@ -185,13 +185,13 @@
         "goodreads": {
           "score": 3.78,
           "count": 9,
-          "url": "https://www.goodreads.com/book/show/200705694-de-bromvliegmethode?from_search=true&from_srp=true&qid=wcVmtiZstA&rank=2",
+          "url": "https://www.goodreads.com/book/show/200705694-de-bromvliegmethode?from_search=true&from_srp=true&qid=FSZplN20L9&rank=2",
           "note": "title"
         },
         "amazon_com": {
           "score": 4.4,
           "count": 3,
-          "url": "https://www.amazon.com/-/zh_TW/Het-bromvliegeffect-alledaagse-fenomenen-stiekem/dp/9000374391/ref=sr_1_1"
+          "url": "https://www.amazon.com/Het-bromvliegeffect-alledaagse-fenomenen-stiekem/dp/9000374391/ref=sr_1_1"
         }
       },
       "avg_score": 4.21
@@ -236,9 +236,9 @@
           "note": "isbn"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.amazon.com/dp/B0CGTDDHSN"
         }
       },
       "avg_score": 4.5
@@ -285,7 +285,7 @@
         "amazon_com": {
           "score": 5.0,
           "count": 2,
-          "url": "https://www.amazon.com/-/zh_TW/Artur-Schnabel/dp/3936000522/ref=sr_1_3"
+          "url": "https://www.amazon.com/Aus-dir-wird-nie-Pianist/dp/3936000522/ref=sr_1_3"
         }
       },
       "avg_score": 3.86
@@ -326,7 +326,7 @@
         "goodreads": {
           "score": 4.33,
           "count": 3,
-          "url": "https://www.goodreads.com/book/show/58513313-1?from_search=true&from_srp=true&qid=ecpNqpFkhr&rank=1",
+          "url": "https://www.goodreads.com/book/show/58513313-1?from_search=true&from_srp=true&qid=zsi4aZkkKn&rank=1",
           "note": "author"
         },
         "amazon_com": {
@@ -373,13 +373,13 @@
         "goodreads": {
           "score": 3.58,
           "count": 1293,
-          "url": "https://www.goodreads.com/book/show/211608763?from_search=true&from_srp=true&qid=rh19fAddEH&rank=1",
+          "url": "https://www.goodreads.com/book/show/211608763?from_search=true&from_srp=true&qid=rpVwV0Wkk9&rank=1",
           "note": "author"
         },
         "amazon_com": {
           "score": 4.3,
           "count": 68,
-          "url": "https://www.amazon.com/-/zh_TW/Have-You-Eaten-Yet-Restaurants/dp/1639365788/ref=sr_1_1"
+          "url": "https://www.amazon.com/Have-You-Eaten-Yet-Restaurants/dp/1639365788/ref=sr_1_1"
         }
       },
       "avg_score": 3.62
