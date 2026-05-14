@@ -273,13 +273,17 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
 
     content = soup.find("body") or soup
 
-    # 預掃：從純文字裡比對「M/D週X...《書名》」，建立日期對照表
-    DT_PAT = re.compile(r"(\d{1,2}/\d{1,2})\s*週[一二三四五六日][^《]{0,50}《([^》]{2,80})》")
+    # 預掃：逐行比對「M/D週X」和《書名》必須在同一行才配對，避免跨行誤配
+    _DATE_LINE  = re.compile(r"(\d{1,2}/\d{1,2})\s*週[一二三四五六日]")
+    _TITLE_LINE = re.compile(r"《([^》]{2,120})》")
     full_text = soup.get_text(separator="\n")
-    for m in DT_PAT.finditer(full_text):
-        d, t = m.group(1), m.group(2).strip()
-        if t not in title_date_map:
-            title_date_map[t] = d
+    for line in full_text.split("\n"):
+        dm = _DATE_LINE.search(line)
+        tm = _TITLE_LINE.search(line)
+        if dm and tm:
+            t = tm.group(1).strip()
+            if t not in title_date_map:
+                title_date_map[t] = dm.group(1)
 
     for elem in content.descendants:
         # ── 文字節點：依頁面順序更新日期 & 待用書名 ──────────────
@@ -350,19 +354,27 @@ def fetch_books_from_blog(br: Browser, url: str) -> list[dict]:
                 result[pos]["title"] = extra[idx]
                 used_titles.add(extra[idx])
 
-    # 用 title_date_map 修正日期（部落格「M/D週X Kobo99選書：《書名》」是最可靠來源）
+    # 用 title_date_map 修正日期（逐行預掃結果是唯一真相來源）
     if title_date_map:
         for book in result:
             t = book["title"]
-            # 完整比對
+            # ① 完整比對
             if t in title_date_map:
                 book["blog_date"] = title_date_map[t]
                 continue
-            # 前綴比對（書名可能被截斷）
+            # ② 包含比對（部落格書名可能是 Kobo 完整書名的子字串，或反之）
             for map_t, map_d in title_date_map.items():
-                if t.startswith(map_t[:12]) or map_t.startswith(t[:12]):
+                if map_t in t or t in map_t:
                     book["blog_date"] = map_d
                     break
+            else:
+                # ③ 相似度比對（閾值 0.8，低於此值警告而非猜測）
+                best = max(title_date_map.items(),
+                           key=lambda x: SequenceMatcher(None, t, x[0]).ratio())
+                if SequenceMatcher(None, t, best[0]).ratio() >= 0.8:
+                    book["blog_date"] = best[1]
+                else:
+                    print(f"   ⚠️  日期無法確認，請手動修正：《{t[:30]}》")
 
     print(f"   找到 {len(result)} 本")
     for b in result:
@@ -1018,7 +1030,7 @@ def run(year=None, week=None, url=None):
         if len(blog_books) < MIN_BOOKS:
             print(f"[錯誤] 只找到 {len(blog_books)} 本，停止")
             sys.exit(1)
-        blog_books = _fix_date_attribution(blog_books, sale_start, sale_end)
+        # _fix_date_attribution 已移除：預掃逐行比對是唯一日期來源，不再推論
 
         n = len(blog_books)
         print(f"\n處理每本書（共 {n} 本）")
@@ -1044,16 +1056,24 @@ def run(year=None, week=None, url=None):
             author = info.get("author", "")
             orig_t = info.get("original_title", "")
 
-            # Kobo 實際書名可能與部落格書名不同（DOM 順序錯位），用實際書名重查日期
+            # Kobo 實際書名可能與部落格書名不同，用相同層級邏輯重查日期
             blog_date = item.get("blog_date") or ""
-            if title != blog_title:
+            if title != blog_title and title_date_map:
+                # ① 完整比對
                 if title in title_date_map:
                     blog_date = title_date_map[title]
                 else:
+                    # ② 包含比對
                     for mt, md in title_date_map.items():
-                        if title.startswith(mt[:12]) or mt.startswith(title[:12]):
+                        if mt in title or title in mt:
                             blog_date = md
                             break
+                    else:
+                        # ③ 相似度比對（閾值 0.8）
+                        best = max(title_date_map.items(),
+                                   key=lambda x: SequenceMatcher(None, title, x[0]).ratio())
+                        if SequenceMatcher(None, title, best[0]).ratio() >= 0.8:
+                            blog_date = best[1]
 
             # ── 博客來
             bc = _timed(fetch_books_com,
