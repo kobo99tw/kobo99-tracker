@@ -663,7 +663,7 @@ def _best_candidate(candidates: list[tuple[str, str]], hint: str) -> str | None:
     return best_url if best_sim >= 0.3 else candidates[0][0]
 
 
-def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict:
+def fetch_goodreads(original_title: str = "", original_author: str = "", isbn: str = "") -> dict:
     def _parse_book_page(url: str, note: str) -> dict | None:
         """從書本頁面（/book/show/...）解析評分，確保評分與連結來自同一頁"""
         try:
@@ -731,8 +731,14 @@ def fetch_goodreads(original_title: str = "", original_author: str = "") -> dict
             pass
         return None
 
-    if not original_title and not original_author:
+    if not original_title and not original_author and not isbn:
         return {"note": "無原文資訊"}
+
+    # 0. ISBN 直查（最可靠，繞過搜尋頁的 JS 渲染問題）
+    if isbn:
+        r = _parse_book_page(f"https://www.goodreads.com/book/isbn/{isbn}", "isbn")
+        if r:
+            return r
 
     # 1. 原文書名 + 原文作者（最精準），用書名做相似度比對
     if original_title and original_author:
@@ -783,38 +789,46 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
         return None
 
     def _search(base: str, query: str, category: str, hint: str = "") -> dict | None:
-        try:
-            q    = requests.utils.quote(query)
-            url  = f"{base}/s?k={q}&i={category}"
-            soup = br.get(url, sleep=1.5)
+        for attempt in range(2):
+            try:
+                q    = requests.utils.quote(query)
+                url  = f"{base}/s?k={q}&i={category}"
+                soup = br.get(url, sleep=1.5)
 
-            # 取前 5 筆搜尋結果 (title, url)
-            candidates: list[tuple[str, str]] = []
-            for card in soup.select("div[data-component-type='s-search-result']")[:5]:
-                # amazon.co.jp 的 <a> 是 <h2> 的父層，需用 a.a-link-normal 而非 h2 a
-                a = card.select_one("a.a-link-normal[href*='/dp/']")
-                if not a:
-                    a = card.select_one("a[href*='/dp/']")
-                if not a:
+                # 取前 5 筆搜尋結果 (title, url)
+                candidates: list[tuple[str, str]] = []
+                for card in soup.select("div[data-component-type='s-search-result']")[:5]:
+                    # amazon.co.jp 的 <a> 是 <h2> 的父層，需用 a.a-link-normal 而非 h2 a
+                    a = card.select_one("a.a-link-normal[href*='/dp/']")
+                    if not a:
+                        a = card.select_one("a[href*='/dp/']")
+                    if not a:
+                        continue
+                    title_el = card.select_one("h2 span")
+                    title    = title_el.get_text(strip=True) if title_el else ""
+                    href     = a.get("href", "")
+                    candidates.append((base + href.split("?")[0], title))
+
+                if not candidates:
+                    # fallback：舊邏輯取第一個 /dp/
+                    a = soup.select_one("a.a-link-normal[href*='/dp/']")
+                    if a:
+                        candidates.append((base + a["href"].split("?")[0], ""))
+
+                best = _best_candidate(candidates, hint)
+                if not best:
+                    if attempt == 0:
+                        time.sleep(3)
                     continue
-                title_el = card.select_one("h2 span")
-                title    = title_el.get_text(strip=True) if title_el else ""
-                href     = a.get("href", "")
-                candidates.append((base + href.split("?")[0], title))
-
-            if not candidates:
-                # fallback：舊邏輯取第一個 /dp/
-                a = soup.select_one("a.a-link-normal[href*='/dp/']")
-                if a:
-                    candidates.append((base + a["href"].split("?")[0], ""))
-
-            best = _best_candidate(candidates, hint)
-            if not best:
-                return None
-            soup2 = br.get(best, sleep=1.5)
-            return _parse(soup2, best)
-        except Exception:
-            pass
+                soup2 = br.get(best, sleep=1.5)
+                result = _parse(soup2, best)
+                if result:
+                    return result
+                if attempt == 0:
+                    time.sleep(3)
+            except Exception:
+                if attempt == 0:
+                    time.sleep(3)
         return None
 
     if book_type == "歐美書":
@@ -1091,7 +1105,7 @@ def run(year=None, week=None, url=None):
 
             # ── Goodreads
             gr = _timed(fetch_goodreads,
-                        (orig_t, author),
+                        (orig_t, author, isbn),
                         TIMEOUT["goodreads"], "Goodreads")
 
             # ── Amazon（優先用 GR 取回的英文作者名，避免中文譯名干擾搜尋）
