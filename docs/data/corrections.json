@@ -7,6 +7,13 @@
         "url": "https://www.goodreads.com/book/show/1157019.My_View_of_the_World"
       }
     },
+    "9786269757763": {
+      "amazon_com": {
+        "score": 4.5,
+        "count": 2,
+        "url": "https://www.amazon.com/dp/B0CGTDDHSN"
+      }
+    },
     "9786267181805": {
       "_book": {
         "date": "5/16"
@@ -15,6 +22,23 @@
         "score": 4.5,
         "count": 4,
         "url": "https://www.books.com.tw/products/0010963423"
+      }
+    },
+    "9786269765959": {
+      "kobo": {
+        "score": null,
+        "count": 0,
+        "url": "https://www.kobo.com/tw/zh/ebook/E9JKMSlZujuc_-2vsTZC0Q?sId=45faa55f-1fa4-4c8c-9837-595b611cab7e&ssId=zWTgjF8Cty6IqORUxW1mW&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+      },
+      "readmoo": {
+        "score": null,
+        "count": 0,
+        "url": "https://readmoo.com/book/210304330000101"
+      },
+      "books_com": {
+        "score": null,
+        "count": 0,
+        "url": "https://www.books.com.tw/products/0010974062?srsltid=AfmBOorJJHvHMoz9mmm0BASB6gDCGD02M6EDiHQcyINXK2b16mh0rml1"
       }
     }
   },
