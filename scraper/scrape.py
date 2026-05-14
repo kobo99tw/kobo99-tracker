@@ -667,7 +667,7 @@ def fetch_goodreads(br: "Browser", original_title: str = "", original_author: st
     def _parse_book_page(url: str, note: str) -> dict | None:
         """用 Playwright 開書頁解析評分（繞過 Goodreads 機器人偵測）"""
         try:
-            soup = br.get(url, wait="networkidle", sleep=2)
+            soup = br.get(url, wait="domcontentloaded", sleep=2)
             text = soup.get_text()
             final_url = url
             score = None
@@ -708,7 +708,7 @@ def fetch_goodreads(br: "Browser", original_title: str = "", original_author: st
         try:
             q    = requests.utils.quote(query)
             soup = br.get(f"https://www.goodreads.com/search?q={q}",
-                          wait="networkidle", sleep=2)
+                          wait="domcontentloaded", sleep=2)
             candidates: list[tuple[str, str]] = []
             for a in soup.select("a[href*='/book/show/']")[:5]:
                 href = a.get("href", "")
@@ -1258,6 +1258,12 @@ def refetch_ratings(year=None, week=None):
     if path.resolve() != latest.resolve():
         with open(latest, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
+
+    # ICS 同步更新
+    y, w = data.get("year"), data.get("week")
+    if y and w:
+        sale_start = Date.fromisocalendar(y, w, 4)
+        generate_ics(books, y, w, sale_start)
 
     print(f"\n✅ 完成！")
     for src in ["goodreads", "amazon_com"]:
