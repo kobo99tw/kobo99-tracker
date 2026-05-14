@@ -39,7 +39,7 @@ run_test.bat
 scrape.py
 *.bat
 *.txt
-data/
+/data/
 
 # 舊版遺留
 .gitattributes
