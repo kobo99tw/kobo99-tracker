@@ -434,23 +434,19 @@ def fetch_kobo_book_page(br: Browser, title: str, kobo_url: str) -> dict:
         if h1:
             result["title"] = h1.get_text(strip=True)
 
-            # h1 的下一個 sibling <p>（無 class）→ 原文書名
-            # 接受英文、日文（平假名/片假名）、韓文；純中文 = 台灣本地書，略過
+            # h1 的緊接下一個 sibling <p>（無 class）→ 原文書名
+            # 只看 1 個 sibling：原文書名在 Kobo 頁面緊貼 h1，再遠就是推薦書或其他區塊
             sib = h1.find_next_sibling()
-            sib_count = 0
-            while sib and sib_count < 3:
+            if sib:
                 t = sib.get_text(strip=True)
                 has_foreign = bool(
-                    re.search(r"[A-Za-z]{2,}", t) or          # 英文
-                    re.search(r"[぀-ヿ]", t) or        # 日文假名
-                    re.search(r"[가-힯]", t)           # 韓文
+                    re.search(r"[A-Za-z]{2,}", t) or
+                    re.search(r"[぀-ヿ]", t) or
+                    re.search(r"[가-힯]", t)
                 )
                 if (t and has_foreign and 3 < len(t) < 200
                         and not re.search(r"NT\$|http|Kobo|評論|作者|^\d", t)):
                     result["original_title"] = t
-                    break
-                sib = sib.find_next_sibling()
-                sib_count += 1
 
         # 作者：.contributor-name（已去掉「由作者」前綴）
         el = soup.select_one(".contributor-name")
@@ -522,10 +518,11 @@ def fetch_kobo_book_page(br: Browser, title: str, kobo_url: str) -> dict:
 # ══════════════════════════════════════════════════════════════════
 
 def _parse_books_com_page(soup, url: str) -> dict:
-    """從博客來書頁解析 .guide-score 評分"""
+    """從博客來書頁解析 .guide-score 評分；有書頁就回傳 URL，即使尚無評分"""
     gs = soup.select_one(".guide-score")
     if not gs:
-        return {}
+        # 書頁存在但無評分 → 保留 URL 讓前端可連結，分數留 None
+        return {"score": None, "count": 0, "url": url}
     score = None
     avg_el = gs.select_one(".average")
     if avg_el:
@@ -547,7 +544,7 @@ def fetch_books_com(br: Browser, isbn: str, title: str = "",
     if not title:
         return {}
 
-    def _search_and_parse(query: str) -> dict:
+    def _search_and_parse(query: str, isbn_mode: bool = False) -> dict:
         q          = requests.utils.quote(query)
         search_url = f"https://search.books.com.tw/search/query/key/{q}/cat/EK"
         soup       = br.get(search_url, sleep=3)
@@ -558,10 +555,18 @@ def fetch_books_com(br: Browser, isbn: str, title: str = "",
             href   = a.get("href", "")
             atitle = a.get("title", "")
             m = re.search(r"/item/(\w+)/", href)
-            if not m or not m.group(1).startswith("E"):  # 只取電子書（E開頭）
+            if not m:
                 continue
             pid = m.group(1)
-            sim = SequenceMatcher(None, title, atitle).ratio()
+            # ISBN 模式：接受任何 ID（ISBN 精準，不怕選到實體書）
+            # 書名模式：只取電子書（E開頭），避免選到實體書
+            if not isbn_mode and not pid.startswith("E"):
+                continue
+            # 包含比對（博客來標題常省略副標題）
+            if atitle and (atitle in title or title in atitle):
+                sim = 0.85
+            else:
+                sim = SequenceMatcher(None, title, atitle).ratio()
             if sim > best_sim:
                 best_sim = sim
                 best_pid = pid
@@ -574,7 +579,12 @@ def fetch_books_com(br: Browser, isbn: str, title: str = "",
         return _parse_books_com_page(soup2, product_url)
 
     try:
-        # 書名 + 作者（精準）→ fallback 只用書名
+        # ISBN 直搜（最精準，不限 E 開頭，避免長書名相似度過低）
+        if isbn:
+            r = _search_and_parse(isbn, isbn_mode=True)
+            if r:
+                return r
+        # fallback: 書名 + 作者 → 只用書名
         if author:
             r = _search_and_parse(f"{title} {author}")
             if r:
@@ -700,7 +710,10 @@ def fetch_goodreads(br: "Browser", original_title: str = "", original_author: st
                 if score:
                     return {"score": score, "count": count, "url": final_url, "note": note,
                             "en_author": en_author}
-            except Exception:
+            except Exception as e:
+                # timeout = GR 在擋，重試沒意義，直接放棄
+                if "timeout" in str(e).lower():
+                    break
                 if attempt == 0:
                     time.sleep(4)
         return None
