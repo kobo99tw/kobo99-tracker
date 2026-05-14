@@ -36,7 +36,7 @@ TIMEOUT = {
     "kobo":      30,
     "books_com": 30,
     "readmoo":   20,
-    "goodreads": 15,
+    "goodreads": 30,
     "amazon":    25,
 }
 
@@ -663,13 +663,13 @@ def _best_candidate(candidates: list[tuple[str, str]], hint: str) -> str | None:
     return best_url if best_sim >= 0.3 else candidates[0][0]
 
 
-def fetch_goodreads(original_title: str = "", original_author: str = "", isbn: str = "") -> dict:
+def fetch_goodreads(br: "Browser", original_title: str = "", original_author: str = "", isbn: str = "") -> dict:
     def _parse_book_page(url: str, note: str) -> dict | None:
-        """從書本頁面（/book/show/...）解析評分，確保評分與連結來自同一頁"""
+        """用 Playwright 開書頁解析評分（繞過 Goodreads 機器人偵測）"""
         try:
-            r    = requests.get(url, headers=HEADERS, timeout=8)
-            soup = BeautifulSoup(r.text, "html.parser")
+            soup = br.get(url, wait="networkidle", sleep=2)
             text = soup.get_text()
+            final_url = url
             score = None
             for sel in ["div.RatingStatistics__rating", "span.RatingStatistics__rating"]:
                 el = soup.select_one(sel)
@@ -683,16 +683,13 @@ def fetch_goodreads(original_title: str = "", original_author: str = "", isbn: s
                 if m:
                     score = float(m.group(1))
             count = 0
-            # 優先找 "avg rating — N ratings" 格式，避免抓到頁面其他地方的評論數
             m = re.search(r"avg rating\s*[—–·\-]\s*([\d,]+)\s*ratings", text)
             if not m:
-                # 備用：找 RatingStatistics 區塊內的數字
                 stats_el = soup.select_one(".RatingStatistics__meta, [data-testid='ratingsCount']")
                 if stats_el:
                     m = re.search(r"([\d,]+)\s*ratings", stats_el.get_text())
             if m:
                 count = int(m.group(1).replace(",", ""))
-            # 英文作者名（供 Amazon 搜尋用）
             en_author = ""
             for sel in ["span.ContributorLink__name", "a.authorName span", ".authorName span[itemprop='name']"]:
                 el = soup.select_one(sel)
@@ -700,38 +697,33 @@ def fetch_goodreads(original_title: str = "", original_author: str = "", isbn: s
                     en_author = el.get_text(strip=True)
                     break
             if score:
-                return {"score": score, "count": count, "url": r.url, "note": note,
+                return {"score": score, "count": count, "url": final_url, "note": note,
                         "en_author": en_author}
         except Exception:
             pass
         return None
 
     def _search(query: str, note: str, hint: str = "") -> dict | None:
-        """搜尋頁取前 5 筆，用書名相似度選最佳結果後進書頁解析"""
+        """用 Playwright 搜尋，取前 5 筆用相似度選最佳後進書頁解析"""
         try:
             q    = requests.utils.quote(query)
-            r    = requests.get(f"https://www.goodreads.com/search?q={q}",
-                                headers=HEADERS, timeout=8)
-            soup = BeautifulSoup(r.text, "html.parser")
+            soup = br.get(f"https://www.goodreads.com/search?q={q}",
+                          wait="networkidle", sleep=2)
             candidates: list[tuple[str, str]] = []
-            for a in soup.select("a.bookTitle")[:5]:
+            for a in soup.select("a[href*='/book/show/']")[:5]:
                 href = a.get("href", "")
-                if "/book/show/" not in href:
-                    continue
-                url = href if href.startswith("http") else "https://www.goodreads.com" + href
-                candidates.append((url, a.get_text(strip=True)))
-            if not candidates:
-                for a in soup.select("a[href*='/book/show/']")[:5]:
-                    href = a.get("href", "")
-                    url = href if href.startswith("http") else "https://www.goodreads.com" + href
-                    candidates.append((url, a.get_text(strip=True)))
+                url  = href if href.startswith("http") else "https://www.goodreads.com" + href
+                title_text = a.get_text(strip=True)
+                if title_text:
+                    candidates.append((url, title_text))
             best = _best_candidate(candidates, hint)
             return _parse_book_page(best, note) if best else None
         except Exception:
             pass
         return None
 
-    if not original_title and not original_author and not isbn:
+    # 台灣本地書：無原文書名也無外文作者 → 跳過 GR
+    if not original_title and not isbn:
         return {"note": "無原文資訊"}
 
     # 0. ISBN 直查（最可靠，繞過搜尋頁的 JS 渲染問題）
@@ -1105,7 +1097,7 @@ def run(year=None, week=None, url=None):
 
             # ── Goodreads
             gr = _timed(fetch_goodreads,
-                        (orig_t, author, isbn),
+                        (br, orig_t, author, isbn),
                         TIMEOUT["goodreads"], "Goodreads")
 
             # ── Amazon（優先用 GR 取回的英文作者名，避免中文譯名干擾搜尋）
@@ -1226,7 +1218,7 @@ def refetch_ratings(year=None, week=None):
             print(f"\n  [{i}/{n}] 《{title[:20]}》")
 
             gr = _timed(fetch_goodreads,
-                        (orig_t, author, isbn),
+                        (br, orig_t, author, isbn),
                         TIMEOUT["goodreads"], "Goodreads")
 
             gr_en_author = (gr or {}).get("en_author", "")
