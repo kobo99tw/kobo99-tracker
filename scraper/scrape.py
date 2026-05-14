@@ -666,41 +666,43 @@ def _best_candidate(candidates: list[tuple[str, str]], hint: str) -> str | None:
 def fetch_goodreads(br: "Browser", original_title: str = "", original_author: str = "", isbn: str = "") -> dict:
     def _parse_book_page(url: str, note: str) -> dict | None:
         """用 Playwright 開書頁解析評分（繞過 Goodreads 機器人偵測）"""
-        try:
-            soup = br.get(url, wait="domcontentloaded", sleep=2)
-            text = soup.get_text()
-            final_url = url
-            score = None
-            for sel in ["div.RatingStatistics__rating", "span.RatingStatistics__rating"]:
-                el = soup.select_one(sel)
-                if el:
-                    m = re.search(r"(\d+\.\d+)", el.get_text())
+        for attempt in range(2):
+            try:
+                soup = br.get(url, wait="domcontentloaded", sleep=2, timeout=35_000)
+                text = soup.get_text()
+                final_url = url
+                score = None
+                for sel in ["div.RatingStatistics__rating", "span.RatingStatistics__rating"]:
+                    el = soup.select_one(sel)
+                    if el:
+                        m = re.search(r"(\d+\.\d+)", el.get_text())
+                        if m:
+                            score = float(m.group(1))
+                            break
+                if not score:
+                    m = re.search(r"(\d+\.\d+)\s*avg rating", text)
                     if m:
                         score = float(m.group(1))
-                        break
-            if not score:
-                m = re.search(r"(\d+\.\d+)\s*avg rating", text)
+                count = 0
+                m = re.search(r"avg rating\s*[—–·\-]\s*([\d,]+)\s*ratings", text)
+                if not m:
+                    stats_el = soup.select_one(".RatingStatistics__meta, [data-testid='ratingsCount']")
+                    if stats_el:
+                        m = re.search(r"([\d,]+)\s*ratings", stats_el.get_text())
                 if m:
-                    score = float(m.group(1))
-            count = 0
-            m = re.search(r"avg rating\s*[—–·\-]\s*([\d,]+)\s*ratings", text)
-            if not m:
-                stats_el = soup.select_one(".RatingStatistics__meta, [data-testid='ratingsCount']")
-                if stats_el:
-                    m = re.search(r"([\d,]+)\s*ratings", stats_el.get_text())
-            if m:
-                count = int(m.group(1).replace(",", ""))
-            en_author = ""
-            for sel in ["span.ContributorLink__name", "a.authorName span", ".authorName span[itemprop='name']"]:
-                el = soup.select_one(sel)
-                if el:
-                    en_author = el.get_text(strip=True)
-                    break
-            if score:
-                return {"score": score, "count": count, "url": final_url, "note": note,
-                        "en_author": en_author}
-        except Exception:
-            pass
+                    count = int(m.group(1).replace(",", ""))
+                en_author = ""
+                for sel in ["span.ContributorLink__name", "a.authorName span", ".authorName span[itemprop='name']"]:
+                    el = soup.select_one(sel)
+                    if el:
+                        en_author = el.get_text(strip=True)
+                        break
+                if score:
+                    return {"score": score, "count": count, "url": final_url, "note": note,
+                            "en_author": en_author}
+            except Exception:
+                if attempt == 0:
+                    time.sleep(4)
         return None
 
     def _search(query: str, note: str, hint: str = "") -> dict | None:
@@ -708,7 +710,7 @@ def fetch_goodreads(br: "Browser", original_title: str = "", original_author: st
         try:
             q    = requests.utils.quote(query)
             soup = br.get(f"https://www.goodreads.com/search?q={q}",
-                          wait="domcontentloaded", sleep=2)
+                          wait="domcontentloaded", sleep=2, timeout=35_000)
             candidates: list[tuple[str, str]] = []
             for a in soup.select("a[href*='/book/show/']")[:5]:
                 href = a.get("href", "")
@@ -1238,6 +1240,9 @@ def refetch_ratings(year=None, week=None):
             gr_s  = gr.get("score")  if gr  else None
             amz_s = amz.get("score") if amz else None
             print(f"      GR:{gr_s if gr_s is not None else '-'}  AMZ:{amz_s if amz_s is not None else '-'}")
+
+    # 套用 corrections.json 手動修正
+    _apply_corrections(books, data["year"], data["week"])
 
     # 重算 avg_score
     RATING_ORDER = ["kobo", "books_com", "readmoo", "goodreads", "amazon_com"]
