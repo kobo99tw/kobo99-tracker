@@ -1197,11 +1197,90 @@ def run(year=None, week=None, url=None):
         print(f"   {src:12s} {hit}/{len(books)}")
 
 
+def refetch_ratings(year=None, week=None):
+    """只重新抓取 Goodreads + Amazon，不重跑完整爬蟲"""
+    if year and week:
+        path = DATA_DIR / f"books-{year}-w{week:02d}.json"
+    else:
+        path = DATA_DIR / "latest.json"
+
+    if not path.exists():
+        print(f"[錯誤] 找不到 {path}")
+        sys.exit(1)
+
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+
+    books = data["books"]
+    n = len(books)
+    print(f"🔄 重新抓取 GR + Amazon（共 {n} 本）")
+
+    with Browser() as br:
+        for i, book in enumerate(books, 1):
+            title     = book.get("title", "")
+            orig_t    = book.get("original_title", "")
+            author    = book.get("author", "")
+            isbn      = str(book.get("isbn") or "")
+            book_type = _detect_book_type(orig_t)
+
+            print(f"\n  [{i}/{n}] 《{title[:20]}》")
+
+            gr = _timed(fetch_goodreads,
+                        (orig_t, author, isbn),
+                        TIMEOUT["goodreads"], "Goodreads")
+
+            gr_en_author = (gr or {}).get("en_author", "")
+            amz = _timed(fetch_amazon,
+                         (br, orig_t, gr_en_author or author, book_type),
+                         TIMEOUT["amazon"], "Amazon")
+
+            book.setdefault("ratings", {})
+            book["ratings"]["goodreads"]  = {
+                "score": gr.get("score"),  "count": gr.get("count", 0),
+                "url":   gr.get("url", ""), "note": gr.get("note", ""),
+            }
+            book["ratings"]["amazon_com"] = {
+                "score": amz.get("score"), "count": amz.get("count", 0),
+                "url":   amz.get("url", ""),
+            }
+            print(f"      GR:{_s(gr)}  AMZ:{_s(amz)}")
+
+    # 重算 avg_score
+    RATING_ORDER = ["kobo", "books_com", "readmoo", "goodreads", "amazon_com"]
+    for book in books:
+        ws = wt = 0.0
+        for src in RATING_ORDER:
+            v = book["ratings"].get(src, {})
+            s = v.get("score")
+            c = max(v.get("count", 0), 1)
+            if s:
+                ws += s * c
+                wt += c
+        book["avg_score"] = round(ws / wt, 2) if wt else None
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    latest = DATA_DIR / "latest.json"
+    if path.resolve() != latest.resolve():
+        with open(latest, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f"\n✅ 完成！")
+    for src in ["goodreads", "amazon_com"]:
+        hit = sum(1 for b in books if b["ratings"].get(src, {}).get("score"))
+        print(f"   {src:12s} {hit}/{n}")
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser(description="Kobo99 爬蟲")
     ap.add_argument("year", nargs="?", type=int, help="ISO 年份")
     ap.add_argument("week", nargs="?", type=int, help="ISO 週次")
     ap.add_argument("--url", default=None, help="直接指定部落格文章 URL")
+    ap.add_argument("--refetch-ratings", action="store_true",
+                    help="只重新抓取 GR + Amazon，不重跑完整流程")
     args = ap.parse_args()
-    run(args.year, args.week, args.url)
+    if args.refetch_ratings:
+        refetch_ratings(args.year, args.week)
+    else:
+        run(args.year, args.week, args.url)
