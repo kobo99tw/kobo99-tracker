@@ -34,12 +34,17 @@ CHANGELOG.md
 # 本機開發工具（不上傳）
 scraper/preview.py
 scraper/run_local.py
+scraper/scrape.py
+scraper/requirements.txt
 report.txt
 run_test.bat
 scrape.py
 *.bat
 *.txt
 /data/
+
+# GitHub Actions（手動發布，不公開）
+.github/
 
 # 舊版遺留
 .gitattributes
