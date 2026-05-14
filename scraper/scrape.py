@@ -1243,7 +1243,9 @@ def refetch_ratings(year=None, week=None):
                 "score": amz.get("score"), "count": amz.get("count", 0),
                 "url":   amz.get("url", ""),
             }
-            print(f"      GR:{_s(gr)}  AMZ:{_s(amz)}")
+            gr_s  = gr.get("score")  if gr  else None
+            amz_s = amz.get("score") if amz else None
+            print(f"      GR:{gr_s if gr_s is not None else '-'}  AMZ:{amz_s if amz_s is not None else '-'}")
 
     # 重算 avg_score
     RATING_ORDER = ["kobo", "books_com", "readmoo", "goodreads", "amazon_com"]
