@@ -28,3 +28,18 @@ Thumbs.db
 
 # 私人規劃文件（不公開）
 NEXT_DESIGN.md
+CLAUDE.md
+CHANGELOG.md
+
+# 本機開發工具（不上傳）
+scraper/preview.py
+scraper/run_local.py
+report.txt
+run_test.bat
+scrape.py
+*.bat
+*.txt
+data/
+
+# 舊版遺留
+.gitattributes
