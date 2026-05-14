@@ -766,8 +766,8 @@ def fetch_goodreads(br: "Browser", original_title: str = "", original_author: st
 
 
 def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "",
-                 book_type: str = "歐美書") -> dict:
-    if book_type in ("韓文書", "台灣本地書"):
+                 book_type: str = "歐美書", title: str = "", author: str = "") -> dict:
+    if book_type in ("韓文書",):
         return {}
 
     def _parse(soup: BeautifulSoup, url: str) -> dict | None:
@@ -859,6 +859,20 @@ def fetch_amazon(br: Browser, original_title: str = "", original_author: str = "
                 return r
         if original_author:
             r = _search(base, original_author, cat)
+            if r:
+                return r
+
+    elif book_type == "台灣本地書":
+        # 台灣本地書：用中文書名+作者搜 amazon.com（部分有 Kindle 版）
+        base = "https://www.amazon.com"
+        t = title or original_title
+        a = author or original_author
+        if t and a:
+            r = _search(base, f"{t} {a}", "digital-text", t)
+            if r:
+                return r
+        if t:
+            r = _search(base, t, "digital-text", t)
             if r:
                 return r
 
@@ -1118,7 +1132,7 @@ def run(year=None, week=None, url=None):
             # ── Amazon（優先用 GR 取回的英文作者名，避免中文譯名干擾搜尋）
             gr_en_author = (gr or {}).get("en_author", "")
             amz = _timed(fetch_amazon,
-                         (br, orig_t, gr_en_author or author, book_type),
+                         (br, orig_t, gr_en_author or author, book_type, title, author),
                          TIMEOUT["amazon"], "Amazon")
 
             book = {
@@ -1238,7 +1252,7 @@ def refetch_ratings(year=None, week=None):
 
             gr_en_author = (gr or {}).get("en_author", "")
             amz = _timed(fetch_amazon,
-                         (br, orig_t, gr_en_author or author, book_type),
+                         (br, orig_t, gr_en_author or author, book_type, title, author),
                          TIMEOUT["amazon"], "Amazon")
 
             book.setdefault("ratings", {})
