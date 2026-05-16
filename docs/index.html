@@ -22,7 +22,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Kobo 每週 99 特價書單",
-  "alternateName": "Kobo每日99",
+  "alternateName": ["Kobo每週99", "Kobo99書單", "Kobo99特價"],
   "url": "https://kobo99.com/",
   "description": "每週自動更新 Kobo 99 元特價電子書書單，整合博客來、讀墨、Goodreads、Amazon 四大平台評分",
   "inLanguage": "zh-TW",
@@ -31,6 +31,38 @@
     "name": "Kobo99",
     "url": "https://kobo99.com/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kobo 每週 99 書單是什麼？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kobo 每週 99 書單是自動整理 Kobo 台灣 99 元特價電子書的書單網站，每週四更新，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，幫助讀者快速找到 CP 值最高的好書。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kobo 99 元特價電子書何時更新？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kobo 99 元特價電子書書單每週四自動更新，每本書特價期間通常為一週。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "kobo99.com 的評分資料來自哪裡？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "評分資料自動從博客來、讀墨、Goodreads、Amazon 四大平台抓取，每週隨書單一起更新，僅供參考。"
+      }
+    }
+  ]
 }
 </script>
 <link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
@@ -169,6 +201,11 @@ a.r-link:hover{background:var(--line)}
 footer{text-align:center;padding:1.75rem 1rem;font-size:.75rem;color:var(--ink3);border-top:1px solid var(--line);margin-top:.5rem;line-height:2}
 footer a{color:var(--teal);text-decoration:none}
 
+/* ── SEO 介紹 ── */
+.seo-intro{max-width:860px;margin:0 auto;padding:1.25rem 1.5rem;font-size:.82rem;color:var(--ink2);line-height:1.9;border-top:1px solid var(--line)}
+.seo-intro h2{font-size:.9rem;font-weight:700;color:var(--ink);margin-bottom:.4rem}
+.seo-intro p{margin:.3rem 0}
+
 @media(max-width:640px){
   .grid{grid-template-columns:1fr;padding:.85rem;gap:1rem}
   .stat-chips{display:none}
@@ -215,6 +252,12 @@ footer a{color:var(--teal);text-decoration:none}
 <div class="grid" id="grid">
   <div class="empty">⏳ 書單載入中...</div>
 </div>
+
+<section class="seo-intro">
+  <h2>關於 Kobo 每週 99 書單</h2>
+  <p><strong>Kobo 每週 99 書單</strong>自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。</p>
+  <p>每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。</p>
+</section>
 
 <footer>
   資料來源：
