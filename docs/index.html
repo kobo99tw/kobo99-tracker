@@ -353,7 +353,8 @@ function ratingRow(srcKey, obj) {
     <span class="r-cnt">${fmtN(obj.count)}</span>
     ${warn}`;
   if (obj.url) {
-    return `<a class="r-row r-link" href="${obj.url}" target="_blank">${inner}</a>`;
+    const href = srcKey === 'kobo' ? rakutenDeepLink(obj.url) : obj.url;
+    return `<a class="r-row r-link" href="${href}" target="_blank">${inner}</a>`;
   }
   return `<div class="r-row">${inner}</div>`;
 }
@@ -441,6 +442,10 @@ let DATA = null;
 function cleanKoboUrl(url) {
   if (!url) return url;
   try { return new URL(url).origin + new URL(url).pathname; } catch { return url; }
+}
+function rakutenDeepLink(url) {
+  if (!url) return url;
+  return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=40380&murl=' + encodeURIComponent(cleanKoboUrl(url));
 }
 
 async function loadData() {
@@ -575,7 +580,7 @@ function render() {
       ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
     </div>`;
     const buyBtn = book.kobo_url
-      ? `<a class="btn-buy" href="${cleanKoboUrl(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
+      ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
 
     const markBtns = `
@@ -618,20 +623,6 @@ function render() {
 loadData();
 </script>
 
-<!-- Rakuten Automate starts here -->
-<script type="text/javascript">
-  var _rakuten_automate = {
-    u1: "",
-    snippetURL: "https://automate-frontend.linksynergy.com/minified_logic.js",
-    automateURL: "https://automate.linksynergy.com",
-    widgetKey: "2GNAhKdr74sTWHRyNmVgPF2n9uMXqqyb",
-    aelJS: null,
-    useDefaultAEL: false,
-    loaded: false,
-    events: []
-  };
-  var ael=window.addEventListener;window.addEventListener=function(a,b,c,d){"click"!==a&&_rakuten_automate.useDefaultAEL?ael(a,b,c):_rakuten_automate.events.push({type:a,handler:b,capture:c,rakuten:d})};_rakuten_automate.links={};var httpRequest=new XMLHttpRequest;httpRequest.open("GET",_rakuten_automate.snippetURL,!0);httpRequest.timeout=5E3;httpRequest.ontimeout=function(){if(!_rakuten_automate.loaded){for(i=0;i<_rakuten_automate.events.length;i++){var a=_rakuten_automate.events[i];ael(a.type,a.handler,a.capture)}_rakuten_automate.useDefaultAEL=!0}};httpRequest.onreadystatechange=function(){if(httpRequest.readyState===XMLHttpRequest.DONE&&200===httpRequest.status){try{eval(httpRequest.responseText);_rakuten_automate.run(ael);}catch(e){console.warn("Rakuten Automate init error:",e.message);}}};httpRequest.send(null);
-</script>
-<!-- Rakuten Automate ends here -->
+<!-- Rakuten tracking via deep links (rakutenDeepLink function in main script) -->
 </body>
 </html>
