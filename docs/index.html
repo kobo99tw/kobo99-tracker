@@ -438,6 +438,11 @@ function toggleRead(btn) {
 
 let DATA = null;
 
+function cleanKoboUrl(url) {
+  if (!url) return url;
+  try { return new URL(url).origin + new URL(url).pathname; } catch { return url; }
+}
+
 async function loadData() {
   try {
     const res = await fetch("data/latest.json");
@@ -530,7 +535,7 @@ function render() {
         {
           "offers": Object.assign(
             { "@type": "Offer", "price": "99", "priceCurrency": "TWD", "availability": "https://schema.org/InStock" },
-            book.kobo_url ? { "url": book.kobo_url } : {}
+            book.kobo_url ? { "url": cleanKoboUrl(book.kobo_url) } : {}
           )
         }
       )
@@ -570,7 +575,7 @@ function render() {
       ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
     </div>`;
     const buyBtn = book.kobo_url
-      ? `<a class="btn-buy" href="${book.kobo_url}" target="_blank">🛒 立即購買</a>`
+      ? `<a class="btn-buy" href="${cleanKoboUrl(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
 
     const markBtns = `
@@ -582,7 +587,7 @@ function render() {
           data-author="${esc(book.author||'')}"
           data-score="${avg ? avg.toFixed(2) : 'null'}"
           data-price="${esc(book.kobo_price||'')}"
-          data-url="${esc(book.kobo_url||'')}">📤 分享</button>
+          data-url="${esc(cleanKoboUrl(book.kobo_url)||'')}">📤 分享</button>
         <span class="score-badge ${cls}">${avg ? avg.toFixed(2) : "—"}</span>
       </div>`;
 
