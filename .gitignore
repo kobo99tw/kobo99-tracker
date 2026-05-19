@@ -30,6 +30,13 @@ Thumbs.db
 NEXT_DESIGN.md
 CLAUDE.md
 CHANGELOG.md
+SITE_BUILD_GUIDE.md
+DESIGN_SYSTEM.md
+
+# 書單存檔與 Admin 暫存（只需本機）
+docs/data/books-*.json
+docs/data/*-prev.json
+docs/data/corrections.json
 
 # 本機開發工具（不上傳）
 scraper/preview.py
