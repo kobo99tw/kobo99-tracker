@@ -11,6 +11,8 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://kobo99.com/">
 <meta property="og:image" content="https://kobo99.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:locale" content="zh_TW">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kobo 每週 99 特價好書">
@@ -393,7 +395,7 @@ function saveSet(key, set) {
   localStorage.setItem(key, JSON.stringify([...set]));
 }
 function esc(s) {
-  return s.replace(/&/g,'&amp;').replace(/"/g,'&quot;');
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 function toggleFilterSaved() {
   filterSaved = !filterSaved;
@@ -401,11 +403,11 @@ function toggleFilterSaved() {
   render();
 }
 function toggleSaved(btn) {
-  const title = btn.dataset.title;
+  const isbn = btn.dataset.isbn;
   const s = getSet(LS_SAVED);
-  s.has(title) ? s.delete(title) : s.add(title);
+  s.has(isbn) ? s.delete(isbn) : s.add(isbn);
   saveSet(LS_SAVED, s);
-  btn.classList.toggle('active', s.has(title));
+  btn.classList.toggle('active', s.has(isbn));
   if (filterSaved) render();
 }
 async function shareBook(btn) {
@@ -429,12 +431,12 @@ async function shareBook(btn) {
 }
 
 function toggleRead(btn) {
-  const title = btn.dataset.title;
+  const isbn = btn.dataset.isbn;
   const s = getSet(LS_READ);
-  s.has(title) ? s.delete(title) : s.add(title);
+  s.has(isbn) ? s.delete(isbn) : s.add(isbn);
   saveSet(LS_READ, s);
-  btn.classList.toggle('active', s.has(title));
-  btn.closest('.card').classList.toggle('card--read', s.has(title));
+  btn.classList.toggle('active', s.has(isbn));
+  btn.closest('.card').classList.toggle('card--read', s.has(isbn));
 }
 
 let DATA = null;
@@ -466,7 +468,7 @@ function render() {
   const saved  = getSet(LS_SAVED);
   const read   = getSet(LS_READ);
   let   books  = [...DATA.books];
-  if (filterSaved) books = books.filter(b => saved.has(b.title));
+  if (filterSaved) books = books.filter(b => saved.has(b.isbn));
 
   books.sort((a, b) => {
     if (sort === "avg")       return (b.avg_score ?? 0) - (a.avg_score ?? 0);
@@ -554,8 +556,8 @@ function render() {
     const cls   = scClass(avg);
     const sv    = saving(book);
     const spine   = SPINES[idx % SPINES.length];
-    const isSaved = saved.has(book.title);
-    const isRead  = read.has(book.title);
+    const isSaved = saved.has(book.isbn);
+    const isRead  = read.has(book.isbn);
 
     // 原文書名
     const origTitle = book.original_title
@@ -585,8 +587,8 @@ function render() {
 
     const markBtns = `
       <div class="card-actions">
-        <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-title="${esc(book.title)}">🔖 收藏</button>
-        <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-title="${esc(book.title)}">✅ 已讀</button>
+        <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-isbn="${esc(book.isbn||'')}">🔖 收藏</button>
+        <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-isbn="${esc(book.isbn||'')}">✅ 已讀</button>
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
@@ -597,7 +599,7 @@ function render() {
       </div>`;
 
     const coverHtml = book.cover_url
-      ? `<div class="cover-wrap"><img class="cover-img" src="${esc(book.cover_url)}" loading="lazy" alt="${esc(book.title)}" onerror="this.closest('.cover-wrap').remove()"></div>`
+      ? `<div class="cover-wrap"><img class="cover-img" src="${esc(book.cover_url)}" loading="lazy" alt="${esc(book.title)} — Kobo 電子書封面" onerror="this.closest('.cover-wrap').remove()"></div>`
       : '';
 
     return `
@@ -610,7 +612,7 @@ function render() {
           ${dateTag}
           ${markBtns}
         </div>
-        <div class="book-title">《${book.title}》</div>
+        <div class="book-title">《${esc(book.title)}》</div>
         ${origTitle}
         <div class="book-author">${book.author || ""}</div>
         <div class="ratings">${ratingsHtml}</div>
