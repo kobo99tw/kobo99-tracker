@@ -620,7 +620,7 @@ function render() {
           data-author="${esc(book.author||'')}"
           data-score="${avg ? avg.toFixed(2) : 'null'}"
           data-price="${esc(book.kobo_price||'')}"
-          data-url="${esc(cleanKoboUrl(book.kobo_url)||'')}">📤 分享</button>
+          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">📤 分享</button>
         <span class="score-badge ${cls}">${avg ? avg.toFixed(2) : "—"}</span>
       </div>`;
 
