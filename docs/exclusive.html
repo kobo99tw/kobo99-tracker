@@ -541,12 +541,21 @@ loadData();
       if (currentFile === t.file) {
         if (t.sale) window._themeSale = t.sale;
         window._themePromoCode = t.promo_code || '';
+        // 更新頁面標題與 header
+        const lm = t.label.match(/【([^】]*)】([\s\S]*)/);
+        const mainTitle = t.tabLabel || (lm ? lm[1].trim() : t.label.slice(0,20));
+        const subTitle  = lm ? lm[2].trim() : (t.sale || '');
+        document.title = mainTitle + ' | kobo99.com';
+        const h1 = document.querySelector('.site-name');
+        if (h1) h1.textContent = '🎁 ' + mainTitle;
+        const sub = document.querySelector('.site-sub');
+        if (sub) sub.textContent = subTitle;
+        // 折扣碼橫幅
         if (t.promo_code) {
           document.getElementById('promoCodeText').textContent   = t.promo_code;
           document.getElementById('promoperiodText').textContent = t.promo_period || '';
           document.getElementById('promoCodeBar').style.display  = '';
         }
-        // themes.json 比書單資料晚載入，需重新渲染卡片
         if (DATA) render();
       }
     }

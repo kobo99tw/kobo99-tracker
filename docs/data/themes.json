@@ -10,9 +10,10 @@
     "file": "theme_1779353467078.json",
     "key": "theme_1779353467078",
     "label": "【5/18-5/24精選書單】當語言與文明逐漸枯萎，唯有愛與記憶在黑暗中閃爍微光。",
-    "sale": "5/18-5/24折扣代碼：WKSelect0518",
-    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21",
     "promo_code": "WKSelect0518",
-    "promo_period": "5/18-5/24"
+    "promo_period": "5/18-5/24",
+    "sale": "5/18-5/24折扣代碼：WKSelect0518",
+    "tabLabel": "本週精選書單",
+    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21"
   }
 ]
