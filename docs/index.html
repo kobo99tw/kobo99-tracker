@@ -108,11 +108,15 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .sale-period{font-size:.72rem;color:#D4D4D4;margin-top:.45rem;letter-spacing:.04em}
 
 /* ── Theme tabs ── */
+.theme-tabs-wrap{position:relative;background:#fff}
+.theme-tabs-wrap::after{content:'';position:absolute;right:0;top:0;bottom:2px;width:2.5rem;background:linear-gradient(to right,transparent,#fff);pointer-events:none;transition:opacity .15s}
+.theme-tabs-wrap.tab-end::after{opacity:0}
 .theme-tabs{display:flex;gap:0;padding:0 1rem;background:#fff;border-bottom:2px solid var(--line);overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none}
 .theme-tabs::-webkit-scrollbar{display:none}
 .theme-tab{display:inline-flex;align-items:center;white-space:nowrap;text-decoration:none;font-size:.85rem;font-weight:600;padding:.65rem 1.1rem;border-bottom:3px solid transparent;margin-bottom:-2px;color:var(--ink2);transition:all .15s;flex-shrink:0;gap:.35rem}
 .theme-tab:hover{color:var(--ink);background:#F9F8F7}
 .theme-tab.active{color:#EA580C;border-bottom-color:#EA580C;background:#fff}
+@media(max-width:640px){.theme-tab{padding:.55rem .75rem;font-size:.8rem}}
 
 /* ── Toolbar ── */
 .toolbar{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;padding:.75rem 1.25rem;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10}
@@ -248,8 +252,10 @@ footer a{color:var(--teal);text-decoration:none}
   </div>
   <div id="salePeriod" class="sale-period"></div>
 </header>
+<div class="theme-tabs-wrap">
 <div class="theme-tabs" id="themeTabs">
   <a href="/" class="theme-tab active">📚 每週99</a>
+</div>
 </div>
 
 <div class="toolbar">
@@ -272,9 +278,8 @@ footer a{color:var(--teal);text-decoration:none}
 </div>
 
 <section class="seo-intro">
-  <h2>關於 Kobo 每週 99 書單</h2>
-  <p><strong>Kobo 每週 99 書單</strong>自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。</p>
-  <p>每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。</p>
+  <h2 id="seoIntroTitle">關於 Kobo 每週 99 書單</h2>
+  <p id="seoIntroDesc">Kobo 每週 99 書單自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。</p>
 </section>
 
 <footer>
@@ -670,6 +675,10 @@ loadData();
         const sub = document.querySelector('.site-sub');
         if (sub) sub.textContent = cfg.weekly99Subtitle;
       }
+      if (cfg.weekly99SeoDesc) {
+        const el = document.getElementById('seoIntroDesc');
+        if (el) el.textContent = cfg.weekly99SeoDesc;
+      }
     }
   } catch(e) {}
   try {
@@ -687,6 +696,11 @@ loadData();
       a.className = 'theme-tab';
       tabs.appendChild(a);
     }
+    // 漸層提示：右邊有更多內容時顯示，捲到底時隱藏
+    const wrap = tabs.parentElement;
+    const updateFade = () => wrap.classList.toggle('tab-end', tabs.scrollLeft + tabs.clientWidth >= tabs.scrollWidth - 4);
+    tabs.addEventListener('scroll', updateFade, {passive:true});
+    updateFade();
   } catch(e) {}
 })();
 </script>
