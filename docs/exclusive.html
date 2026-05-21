@@ -434,14 +434,20 @@ function render() {
         <span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="copyPromoCode()">↑ 複製折扣碼${/^\d+折$/.test(window._themeSale||'') ? '享'+esc(window._themeSale) : ''}</span>
       </div>`;
     } else {
-      const _sp = book.sale_price || '';
-      const _validSale = /^\s*NT\$\d/.test(_sp) || /^\d+折$/.test(_sp.trim());
-      const saleDisplay = saleAmt ? `NT$${saleAmt}` : (_validSale ? esc(_sp) : '');
-      priceInfo = `<div class="price-info">
-        <span class="price-sale">${saleDisplay}</span>
-        ${origAmt && origAmt !== saleAmt ? `<span class="price-original">NT$${origAmt}</span>` : ""}
-        ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
-      </div>`;
+      if (saleAmt && origAmt && origAmt > saleAmt) {
+        // 有折扣：顯示優惠價 + 畫線原價 + 省了多少
+        priceInfo = `<div class="price-info">
+          <span class="price-sale">NT$${saleAmt}</span>
+          <span class="price-original">NT$${origAmt}</span>
+          ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
+        </div>`;
+      } else {
+        // 無折扣：直接顯示原價，不畫橫線
+        const displayPrice = origAmt ? `NT$${origAmt}` : esc(book.kobo_price || '—');
+        priceInfo = `<div class="price-info">
+          <span class="price-sale">${displayPrice}</span>
+        </div>`;
+      }
     }
     const buyBtn = book.kobo_url
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
@@ -551,6 +557,9 @@ loadData();
         document.title = mainTitle + ' | kobo99.com';
         const h1 = document.querySelector('.site-name');
         if (h1) h1.textContent = emoji + ' ' + mainTitle;
+        // 預設排序
+        const sortSel = document.getElementById('sortSel');
+        if (sortSel && t.defaultSort) sortSel.value = t.defaultSort;
         const sub = document.querySelector('.site-sub');
         if (sub) sub.textContent = subTitle;
         // 更新 seo-intro

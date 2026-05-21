@@ -14,9 +14,17 @@
     "promo_code": "WKSelect0518",
     "promo_period": "5/18-5/24",
     "sale": "5/18-5/24折扣代碼：WKSelect0518",
-    "tabLabel": "本週精選書單",
     "tabEmoji": "✨",
-    "seoDesc": "整理 Kobo 每週精選超人氣書單，可輸入折扣碼享折扣，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值好書。",
+    "tabLabel": "本週精選書單",
     "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21"
+  },
+  {
+    "defaultSort": "order",
+    "file": "theme_1779378338324.json",
+    "headTitle": "《臺灣漫遊錄》",
+    "key": "theme_1779378338324",
+    "label": "《臺灣漫遊錄》獲國際布克獎",
+    "sale": "",
+    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
   }
 ]
