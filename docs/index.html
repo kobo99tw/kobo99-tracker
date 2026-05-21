@@ -108,11 +108,11 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .sale-period{font-size:.72rem;color:#D4D4D4;margin-top:.45rem;letter-spacing:.04em}
 
 /* ── Theme tabs ── */
-.theme-tabs{display:flex;gap:.4rem;padding:.5rem 1.25rem;background:#fff;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none}
+.theme-tabs{display:flex;gap:0;padding:0 1rem;background:#fff;border-bottom:2px solid var(--line);overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none}
 .theme-tabs::-webkit-scrollbar{display:none}
-.theme-tab{display:inline-flex;align-items:center;white-space:nowrap;text-decoration:none;font-size:.8rem;font-weight:600;padding:.3rem .85rem;border-radius:20px;border:1.5px solid transparent;color:var(--ink2);background:var(--cream);transition:all .15s;flex-shrink:0}
-.theme-tab:hover{color:var(--ink);border-color:var(--line)}
-.theme-tab.active{color:#EA580C;background:#FFF7ED;border-color:#EA580C}
+.theme-tab{display:inline-flex;align-items:center;white-space:nowrap;text-decoration:none;font-size:.85rem;font-weight:600;padding:.65rem 1.1rem;border-bottom:3px solid transparent;margin-bottom:-2px;color:var(--ink2);transition:all .15s;flex-shrink:0;gap:.35rem}
+.theme-tab:hover{color:var(--ink);background:#F9F8F7}
+.theme-tab.active{color:#EA580C;border-bottom-color:#EA580C;background:#fff}
 
 /* ── Toolbar ── */
 .toolbar{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;padding:.75rem 1.25rem;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10}
@@ -156,6 +156,8 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .book-original{font-size:.77rem;color:var(--ink3);font-style:italic;margin-bottom:.45rem;line-height:1.4;min-height:1.1rem}
 .book-meta{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;font-size:.78rem;color:var(--ink2);margin-bottom:.9rem;line-height:1.5}
 .book-pubdate{color:var(--ink3)}
+.book-desc{font-size:.78rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
+.book-desc.expanded{display:block;overflow:visible;cursor:default}
 
 /* 評分 */
 .ratings{flex:1;display:flex;flex-direction:column;gap:.5rem;margin-bottom:.9rem}
@@ -637,6 +639,7 @@ function render() {
           ${book.author ? `<span>作者：${esc(book.author)}</span>` : ""}
           ${book.publish_date ? `<span class="book-pubdate">出版：${fmtPubDate(book.publish_date)}</span>` : ""}
         </div>
+        ${book.description ? `<div class="book-desc" onclick="this.classList.toggle('expanded')" title="點擊展開/收合">${esc(book.description)}</div>` : ''}
         <div class="ratings">${ratingsHtml}</div>
         <div class="buy-row">${priceInfo}${buyBtn}</div>
       </div>
@@ -649,6 +652,17 @@ loadData();
 (async function() {
   const tabs = document.getElementById('themeTabs');
   if (!tabs) return;
+  // 讀 site.json 更新每週99 tab 名稱
+  try {
+    const sc = await fetch('data/site.json');
+    if (sc.ok) {
+      const cfg = await sc.json();
+      if (cfg.weekly99TabLabel) {
+        const w = tabs.querySelector('a:first-child');
+        if (w) w.textContent = '📚 ' + cfg.weekly99TabLabel;
+      }
+    }
+  } catch(e) {}
   try {
     const res = await fetch('data/themes.json');
     if (!res.ok) return;
@@ -657,7 +671,8 @@ loadData();
       const a = document.createElement('a');
       a.href = 'exclusive.html?file=' + encodeURIComponent(t.file);
       const m = t.label.match(/【([^】]{1,20})】/);
-      const short = m ? m[1].replace(/^Kobo\s*/i,'').trim().slice(0,10) : t.label.slice(0,10);
+      const auto = m ? m[1].replace(/^Kobo\s*/i,'').trim().slice(0,10) : t.label.slice(0,10);
+      const short = (t.tabLabel || auto).slice(0,15);
       a.textContent = '🎁 ' + short;
       a.className = 'theme-tab';
       tabs.appendChild(a);

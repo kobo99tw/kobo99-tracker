@@ -78,17 +78,24 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .sc-none{background:var(--line);color:var(--ink3);font-size:.75rem}
 
 /* ── Theme tabs ── */
-.theme-tabs{display:flex;gap:.4rem;padding:.5rem 1.25rem;background:#fff;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none}
+.theme-tabs{display:flex;gap:0;padding:0 1rem;background:#fff;border-bottom:2px solid var(--line);overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none}
 .theme-tabs::-webkit-scrollbar{display:none}
-.theme-tab{display:inline-flex;align-items:center;white-space:nowrap;text-decoration:none;font-size:.8rem;font-weight:600;padding:.3rem .85rem;border-radius:20px;border:1.5px solid transparent;color:var(--ink2);background:var(--cream);transition:all .15s;flex-shrink:0}
-.theme-tab:hover{color:var(--ink);border-color:var(--line)}
-.theme-tab.active{color:var(--teal);background:var(--teal-bg);border-color:var(--teal)}
+.theme-tab{display:inline-flex;align-items:center;white-space:nowrap;text-decoration:none;font-size:.85rem;font-weight:600;padding:.65rem 1.1rem;border-bottom:3px solid transparent;margin-bottom:-2px;color:var(--ink2);transition:all .15s;flex-shrink:0;gap:.35rem}
+.theme-tab:hover{color:var(--ink);background:#F9F8F7}
+.theme-tab.active{color:var(--teal);border-bottom-color:var(--teal);background:#fff}
 
-.promo-banner{font-size:.72rem;font-weight:600;color:var(--teal);background:var(--teal-bg);border-radius:6px;padding:.2rem .55rem;margin-bottom:.4rem;display:inline-block}
+.promo-code-bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;padding:.7rem 1.25rem;background:linear-gradient(135deg,#EFF6FF,#F0FDF4);border-bottom:1px solid #BFDBFE;font-size:.85rem;position:sticky;top:0;z-index:11}
+.promo-code-bar .label{color:var(--ink2);flex-shrink:0}
+.promo-code-bar .code{font-family:'Courier New',monospace;font-size:.95rem;font-weight:700;color:var(--teal);background:#fff;border:1.5px solid #BFDBFE;border-radius:6px;padding:.2rem .65rem;letter-spacing:.08em}
+.promo-code-bar .copy-btn{border:none;background:var(--teal);color:#fff;font-size:.8rem;font-weight:600;padding:.3rem .85rem;border-radius:6px;cursor:pointer;transition:all .15s;white-space:nowrap}
+.promo-code-bar .copy-btn:hover{background:var(--teal-hover)}
+.promo-code-bar .copy-btn.copied{background:#059669}
+.promo-banner{font-size:.82rem;font-weight:600;color:var(--teal);background:var(--teal-bg);border-radius:6px;padding:.25rem .65rem;margin-bottom:.5rem;display:inline-block}
 .promo-urgent{color:var(--red);background:var(--red-bg)}
 .book-title{font-family:'Noto Serif TC',serif;font-size:1.05rem;font-weight:600;line-height:1.6;margin-bottom:.2rem;min-height:3.36rem}
 .book-original{font-size:.77rem;color:var(--ink3);font-style:italic;margin-bottom:.45rem;line-height:1.4;min-height:1.1rem}
-.book-desc{font-size:.78rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem}
+.book-desc{font-size:.78rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
+.book-desc.expanded{display:block;overflow:visible;cursor:default}
 .book-meta{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;font-size:.78rem;color:var(--ink2);margin-bottom:.9rem;line-height:1.5}
 .book-pubdate{color:var(--ink3)}
 
@@ -154,6 +161,12 @@ footer a{color:var(--teal);text-decoration:none}
 
 <div class="theme-tabs" id="themeTabs">
   <a href="/" class="theme-tab">📚 每週99</a>
+</div>
+<div id="promoCodeBar" style="display:none" class="promo-code-bar">
+  <span class="label">🏷️ <span id="promoperiodText"></span> 折扣碼：</span>
+  <span class="code" id="promoCodeText"></span>
+  <button class="copy-btn" id="promoCopyBtn" onclick="copyPromoCode()">📋 複製</button>
+  <span style="font-size:.78rem;color:var(--ink3)">結帳時貼上套用折扣</span>
 </div>
 <div class="toolbar">
   <label>排序</label>
@@ -241,10 +254,15 @@ function parsePrices(book) {
     if (m) origAmt = parseInt(m[0].replace(",",""));
   }
   if (book.sale_price && /^\s*NT\$/.test(book.sale_price)) {
+    // 實際優惠價（如 NT$313）
     const m = book.sale_price.match(/[\d,]+/);
     if (m) saleAmt = parseInt(m[0].replace(",",""));
   } else {
-    const rm = (book.sale_price || '').match(/^(\d+)折$/);
+    // 折數（如 85折）：優先從 book.sale_price 取，找不到則用主題預設 _themeSale
+    const sp = (book.sale_price && /^\d+折$/.test(book.sale_price.trim()))
+      ? book.sale_price.trim()
+      : (window._themeSale || '');
+    const rm = sp.match(/^(\d+)折$/);
     if (rm && origAmt) saleAmt = Math.round(origAmt * parseInt(rm[1]) / 100);
   }
   return { saleAmt, origAmt };
@@ -407,12 +425,24 @@ function render() {
     const ratingsHtml = Object.keys(SRC_META).map(k => ratingRow(k, r[k])).join("");
 
     const { saleAmt, origAmt } = parsePrices(book);
-    const saleDisplay = saleAmt ? `NT$${saleAmt}` : esc(book.sale_price || '-');
-    const priceInfo = `<div class="price-info">
-      <span class="price-sale">${saleDisplay}</span>
-      ${origAmt && origAmt !== saleAmt ? `<span class="price-original">NT$${origAmt}</span>` : ""}
-      ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
-    </div>`;
+    const hasPromoCode = !!(window._themePromoCode);
+    let priceInfo;
+    if (hasPromoCode) {
+      // 折扣碼模式：顯示原價 + 提示複製折扣碼
+      priceInfo = `<div class="price-info" style="flex-direction:column;align-items:flex-start;gap:.2rem">
+        <span class="price-sale">${origAmt ? `NT$${origAmt}` : esc(book.kobo_price || '—')}</span>
+        <span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="copyPromoCode()">↑ 複製折扣碼${/^\d+折$/.test(window._themeSale||'') ? '享'+esc(window._themeSale) : ''}</span>
+      </div>`;
+    } else {
+      const _sp = book.sale_price || '';
+      const _validSale = /^\s*NT\$\d/.test(_sp) || /^\d+折$/.test(_sp.trim());
+      const saleDisplay = saleAmt ? `NT$${saleAmt}` : (_validSale ? esc(_sp) : '');
+      priceInfo = `<div class="price-info">
+        <span class="price-sale">${saleDisplay}</span>
+        ${origAmt && origAmt !== saleAmt ? `<span class="price-original">NT$${origAmt}</span>` : ""}
+        ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
+      </div>`;
+    }
     const buyBtn = book.kobo_url
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
@@ -453,12 +483,29 @@ function render() {
           ${book.author ? `<span>作者：${esc(book.author)}</span>` : ""}
           ${book.publish_date ? `<span class="book-pubdate">出版：${fmtPubDate(book.publish_date)}</span>` : ""}
         </div>
-        ${book.description ? `<div class="book-desc">${esc(book.description)}</div>` : ''}
+        ${book.description ? `<div class="book-desc" onclick="this.classList.toggle('expanded')" title="點擊展開/收合">${esc(book.description)}</div>` : ''}
         <div class="ratings">${ratingsHtml}</div>
         <div class="buy-row">${priceInfo}${buyBtn}</div>
       </div>
     </div>`;
   }).join("");
+}
+
+async function copyPromoCode() {
+  const code = document.getElementById('promoCodeText').textContent;
+  const btn  = document.getElementById('promoCopyBtn');
+  try {
+    await navigator.clipboard.writeText(code);
+    btn.textContent = '✓ 已複製！';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = '📋 複製'; btn.classList.remove('copied'); }, 2000);
+  } catch(e) {
+    // 降級：選取文字
+    const range = document.createRange();
+    range.selectNode(document.getElementById('promoCodeText'));
+    window.getSelection().removeAllRanges();
+    window.getSelection().addRange(range);
+  }
 }
 
 loadData();
@@ -467,6 +514,17 @@ loadData();
   const tabs = document.getElementById('themeTabs');
   if (!tabs) return;
   const currentFile = new URLSearchParams(location.search).get('file') || '';
+  // 讀 site.json 更新每週99 tab 名稱
+  try {
+    const sc = await fetch('data/site.json');
+    if (sc.ok) {
+      const cfg = await sc.json();
+      if (cfg.weekly99TabLabel) {
+        const w = tabs.querySelector('a:first-child');
+        if (w) w.textContent = '📚 ' + cfg.weekly99TabLabel;
+      }
+    }
+  } catch(e) {}
   try {
     const res = await fetch('data/themes.json');
     if (!res.ok) return;
@@ -475,10 +533,22 @@ loadData();
       const a = document.createElement('a');
       a.href = 'exclusive.html?file=' + encodeURIComponent(t.file);
       const m = t.label.match(/【([^】]{1,20})】/);
-      const short = m ? m[1].replace(/^Kobo\s*/i,'').trim().slice(0,10) : t.label.slice(0,10);
+      const auto = m ? m[1].replace(/^Kobo\s*/i,'').trim().slice(0,10) : t.label.slice(0,10);
+      const short = (t.tabLabel || auto).slice(0,15);
       a.textContent = '🎁 ' + short;
       a.className = 'theme-tab' + (currentFile === t.file ? ' active' : '');
       tabs.appendChild(a);
+      if (currentFile === t.file) {
+        if (t.sale) window._themeSale = t.sale;
+        window._themePromoCode = t.promo_code || '';
+        if (t.promo_code) {
+          document.getElementById('promoCodeText').textContent   = t.promo_code;
+          document.getElementById('promoperiodText').textContent = t.promo_period || '';
+          document.getElementById('promoCodeBar').style.display  = '';
+        }
+        // themes.json 比書單資料晚載入，需重新渲染卡片
+        if (DATA) render();
+      }
     }
   } catch(e) {}
 })();
