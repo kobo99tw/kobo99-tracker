@@ -1,129 +1,129 @@
 {
   "year": 2026,
-  "week": 20,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w20",
-  "sale_label": "NT$99 特價：5/14（四）～5/20（三）",
-  "sale_start": "2026-05-14",
-  "sale_end": "2026-05-20",
+  "week": 21,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w21",
+  "sale_label": "NT$99 特價：5/21（四）～5/27（三）",
+  "sale_start": "2026-05-21",
+  "sale_end": "2026-05-27",
   "on_sale": true,
-  "updated_at": "2026-05-14T14:48:56.323947+08:00",
+  "updated_at": "2026-05-21T09:47:31.538969+08:00",
   "books": [
     {
-      "title": "科特勒談新行銷：大師給企業的新世代行銷建議",
-      "author": "菲利浦．科特勒",
-      "original_title": "Entrepreneurial Marketing: Beyond Professionalism to Creativity, Leadership, and Sustainability",
-      "isbn": "9786263555082",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1ZNXJzgndDmsZ1zTWaaWGg?sid=27372e11-a61a-4720-ae6d-b0022d885830&ssid=N6MynOrybeCKSa3KTtVPM&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
-      "kobo_price": "NT$340",
-      "cover_url": "covers/1ZNXJzgndDmsZ1zTWaaWGg.jpg",
+      "title": "如何讓人改變想法：關於信念、觀點與說服技巧",
+      "author": "大衛·麥瑞尼",
+      "original_title": "How Minds Change: The Surprising Science of Belief, Opinion, and Persuasion",
+      "isbn": "9786263552258",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Krff2DZrTDSDQwlCpi2_OA?sid=b14a1f2e-721b-4083-8126-5be44674a476&ssid=DDa9M99KhHkAqZlAW7i9K&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521",
+      "kobo_price": "NT$250",
+      "cover_url": "covers/Krff2DZrTDSDQwlCpi2_OA.jpg",
       "sale_price": "NT$99",
-      "date": "5/14",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
+      "date": "5/21",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
       "on_sale": true,
       "publisher": "",
-      "publish_date": "2023年12月22日",
+      "publish_date": "2023年5月25日",
       "language": "中文",
       "description": "",
       "ratings": {
         "kobo": {
-          "score": 4.0,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/1ZNXJzgndDmsZ1zTWaaWGg?sid=27372e11-a61a-4720-ae6d-b0022d885830&ssid=N6MynOrybeCKSa3KTtVPM&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+          "score": 4.2,
+          "count": 15,
+          "url": "https://www.kobo.com/tw/zh/ebook/Krff2DZrTDSDQwlCpi2_OA?sid=b14a1f2e-721b-4083-8126-5be44674a476&ssid=DDa9M99KhHkAqZlAW7i9K&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521"
         },
         "books_com": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050194185"
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/E050162590"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 8,
-          "url": "https://readmoo.com/book/210305656000101"
+          "score": 4.5,
+          "count": 51,
+          "url": "https://readmoo.com/book/210273407000101"
         },
         "goodreads": {
-          "score": 3.18,
-          "count": 17,
-          "url": "https://www.goodreads.com/book/show/123247672-entrepreneurial-marketing?from_search=true&from_srp=true&qid=jWSDbDd24C&rank=1",
+          "score": 4.12,
+          "count": 4002,
+          "url": "https://www.goodreads.com/book/show/57933312-how-minds-change?from_search=true&from_srp=true&qid=j6LoDF9Av4&rank=1",
           "note": "title"
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 11,
-          "url": "https://www.amazon.com/-/zh_TW/Entrepreneurial-Marketing-Professionalism-Creativity-Sustainability/dp/1119835208/ref=sr_1_1"
+          "count": 617,
+          "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B094RJGCRH/ref=sr_1_1"
         }
       },
-      "avg_score": 3.77
+      "avg_score": 4.17
     },
     {
-      "title": "最佳結果：哥倫比亞大學人氣專題研討課程，8項練習洞察心理，掌握溝通技巧、化解衝突",
-      "author": "珍妮佛‧高曼－威茲勒博士 Jennifer Goldman-Wetzler",
-      "original_title": "Optimal Outcomes: Free Yourself from Conflict at Work, at Home, and in Life",
-      "isbn": "9786269765959",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/E9JKMSlZujuc_-2vsTZC0Q?sId=45faa55f-1fa4-4c8c-9837-595b611cab7e&ssId=zWTgjF8Cty6IqORUxW1mW&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/E9JKMSlZujuc_-2vsTZC0Q.jpg",
+      "title": "窮查理的智慧語錄",
+      "author": "大衛．克拉克（David Clark）",
+      "original_title": "Tao of Charlie Munger",
+      "isbn": "3090000030037",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/q_SfCc-aVTqD2qOeRKnF5w?sid=2ae60711-f06a-4857-9dbc-2bdc96e750aa&ssid=T7ytSXyQ3Dup-JBuw7TLj&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521",
+      "kobo_price": "NT$300",
+      "cover_url": "covers/q_SfCc-aVTqD2qOeRKnF5w.jpg",
       "sale_price": "NT$99",
-      "date": "5/15",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
+      "date": "5/22",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
       "on_sale": true,
-      "publisher": "星出版",
-      "publish_date": "2023年12月6日",
+      "publisher": "",
+      "publish_date": "2018年7月1日",
       "language": "中文",
       "description": "",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/E9JKMSlZujuc_-2vsTZC0Q?sId=45faa55f-1fa4-4c8c-9837-595b611cab7e&ssId=zWTgjF8Cty6IqORUxW1mW&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+          "score": 4.86,
+          "count": 7,
+          "url": "https://www.kobo.com/tw/zh/ebook/q_SfCc-aVTqD2qOeRKnF5w?sid=2ae60711-f06a-4857-9dbc-2bdc96e750aa&ssid=T7ytSXyQ3Dup-JBuw7TLj&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0010974062?srsltid=AfmBOorJJHvHMoz9mmm0BASB6gDCGD02M6EDiHQcyINXK2b16mh0rml1"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050030870"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210304330000101"
+          "url": ""
         },
         "goodreads": {
-          "score": 3.58,
-          "count": 110,
-          "url": "https://www.goodreads.com/book/isbn/9786269765959",
-          "note": "isbn"
+          "score": 4.11,
+          "count": 2498,
+          "url": "https://www.goodreads.com/book/show/29868590-tao-of-charlie-munger?from_search=true&from_srp=true&qid=7o67IvNfmc&rank=1",
+          "note": "title"
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 71,
-          "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B07YN2BS2D/ref=sr_1_1"
+          "score": 4.2,
+          "count": 162,
+          "url": "https://www.amazon.com/-/zh_TW/Art-Being-Rational-Charlie-Munger/dp/164633759X/ref=sr_1_4"
         }
       },
-      "avg_score": 4.06
+      "avg_score": 4.12
     },
     {
-      "title": "利率史（第4版）",
-      "author": "[美]悉尼·霍默",
-      "original_title": "A History of Interest Rates (Fourth Edition)",
-      "isbn": "7553508617497",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/IdfMIsVgOzCfJh_j4XE5tQ?sId=2c650f4a-780d-4e50-97f8-a515185fbb30&ssId=gKt_zhtPwIFU9Mq33RB-g&cPos=9&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
+      "title": "韧性时代：重新思考人类的发展与进化",
+      "author": "[美]杰里米 · 里夫金",
+      "original_title": "",
+      "isbn": "7553521746433",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8Vwuh9MCRjm2ACbqRyDx7w?sid=29ff897e-e890-4c52-8094-21e5851a990b&ssid=TL6WCEuLgHHllmSZbaXio&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521",
       "kobo_price": "NT$264",
-      "cover_url": "covers/IdfMIsVgOzCfJh_j4XE5tQ.jpg",
+      "cover_url": "covers/8Vwuh9MCRjm2ACbqRyDx7w.jpg",
       "sale_price": "NT$99",
-      "date": "5/15",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
+      "date": "5/22",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
       "on_sale": true,
       "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2010年2月1日",
+      "publish_date": "2022年12月1日",
       "language": "中文",
       "description": "",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/IdfMIsVgOzCfJh_j4XE5tQ?sId=2c650f4a-780d-4e50-97f8-a515185fbb30&ssId=gKt_zhtPwIFU9Mq33RB-g&cPos=9&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+          "url": "https://www.kobo.com/tw/zh/ebook/8Vwuh9MCRjm2ACbqRyDx7w?sid=29ff897e-e890-4c52-8094-21e5851a990b&ssid=TL6WCEuLgHHllmSZbaXio&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521"
         },
         "books_com": {
           "score": null,
@@ -136,253 +136,253 @@
           "url": ""
         },
         "goodreads": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/141782409-a-history-of-interest-rates-fourth-edition?from_search=true&from_srp=true&qid=pIj5yyKHuX&rank=1",
-          "note": "title"
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 56,
-          "url": "https://www.amazon.com/-/zh_TW/History-Interest-Rates-Sidney-Homer/dp/0471732834/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.42
+      "avg_score": null
     },
     {
-      "title": "蒼蠅效應：如何用最簡單的方法，操控最複雜的人心？揭開潛意識引導的底層邏輯",
-      "author": "伊娃．凡登布魯克",
-      "original_title": "HET BROMVLIEGEFFECT",
-      "isbn": "9786267181805",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/90C7ll3Pqzadl9BJRLLluA?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
-      "kobo_price": "NT$295",
-      "cover_url": "covers/90C7ll3Pqzadl9BJRLLluA.jpg",
+      "title": "惡林（黑暗邪典文學大師喬．蘭斯代爾怪誕溫柔之作）",
+      "author": "喬．蘭斯代爾",
+      "original_title": "The Thicket",
+      "isbn": "9786267520017",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/I5J-q75ooTimxAWnKAuX8A?sid=b90b40b2-1bff-40fd-9016-4b2957b839a6&ssid=eNPO_6ZGdbXVD5EshFWmq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521",
+      "kobo_price": "NT$322",
+      "cover_url": "covers/I5J-q75ooTimxAWnKAuX8A.jpg",
       "sale_price": "NT$99",
-      "date": "5/16",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
+      "date": "5/23",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
       "on_sale": true,
-      "publisher": "平安文化",
-      "publish_date": "2023年7月31日",
+      "publisher": "馬可孛羅",
+      "publish_date": "2024年8月1日",
       "language": "中文",
       "description": "",
       "ratings": {
         "kobo": {
-          "score": 4.09,
-          "count": 11,
-          "url": "https://www.kobo.com/tw/zh/ebook/90C7ll3Pqzadl9BJRLLluA?sId=09e61d3c-2bf6-4d53-88b5-7a13a541823b&ssId=9-a1K37hLdEjEM5_4N8Oj&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/I5J-q75ooTimxAWnKAuX8A?sid=b90b40b2-1bff-40fd-9016-4b2957b839a6&ssid=eNPO_6ZGdbXVD5EshFWmq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260521"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0010963423"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050228644"
         },
         "readmoo": {
           "score": 4.6,
           "count": 9,
-          "url": "https://readmoo.com/book/210283168000101"
+          "url": "https://readmoo.com/book/210341029000101"
         },
         "goodreads": {
-          "score": 3.78,
-          "count": 9,
-          "url": "https://www.goodreads.com/book/show/200705694-de-bromvliegmethode?from_search=true&from_srp=true&qid=m4wjR5kgh5&rank=2",
+          "score": 3.51,
+          "count": 20657,
+          "url": "https://www.goodreads.com/book/show/219539959-the-thicket?from_search=true&from_srp=true&qid=ItcrIYADlZ&rank=1",
           "note": "title"
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 3,
-          "url": "https://www.amazon.com/-/zh_TW/Het-bromvliegeffect-alledaagse-fenomenen-stiekem/dp/9000374391/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.21
+      "avg_score": 3.51
     },
     {
-      "title": "劉必榮的國際關係課：一本掌握看世界的方法，看懂全球大局",
-      "author": "劉必榮",
+      "title": "宇宙兄弟",
+      "author": "",
       "original_title": "",
-      "isbn": "9786269757763",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Oq0C-toUhj61pU7ZuOeAuQ?sid=0e2933ff-dd01-4671-a66d-1c8b20b97a18&ssid=LgBAj5ZabgMhGqfG52D53&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/Oq0C-toUhj61pU7ZuOeAuQ.jpg",
+      "isbn": null,
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/tuber-2?sid=d8ca6da7-e42a-480e-83d8-110fa1f4ad76&ssid=gq89PLufJtlbvoVgjB59r&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260524",
+      "kobo_price": null,
+      "cover_url": "",
       "sale_price": "NT$99",
-      "date": "5/17",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
+      "date": "5/24",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
       "on_sale": true,
-      "publisher": "明白文化",
-      "publish_date": "2023年8月30日",
-      "language": "中文",
-      "description": "",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/Oq0C-toUhj61pU7ZuOeAuQ?sid=0e2933ff-dd01-4671-a66d-1c8b20b97a18&ssid=LgBAj5ZabgMhGqfG52D53&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050175936"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 13,
-          "url": "https://readmoo.com/book/210288259000101"
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 3,
-          "url": "https://www.goodreads.com/book/isbn/9786269757763",
-          "note": "isbn"
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.amazon.com/dp/B0CGTDDHSN"
-        }
-      },
-      "avg_score": 4.5
-    },
-    {
-      "title": "薛丁格：我的人生，我的世界觀",
-      "author": "艾爾溫‧薛丁格",
-      "original_title": "Mein Leben, meine Weltansicht: Die Autobiographie und das philosophische Testament",
-      "isbn": "9786263187757",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3aDf6svCgDe2equJZuwdKg?sId=98a1ab3e-da79-486e-acfe-9da31a57d57c&ssId=VOExp7g4EBEX736syxEWi&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
-      "kobo_price": "NT$270",
-      "cover_url": "covers/3aDf6svCgDe2equJZuwdKg.jpg",
-      "sale_price": "NT$99",
-      "date": "5/18",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
-      "on_sale": true,
-      "publisher": "商周出版",
-      "publish_date": "2023年8月8日",
-      "language": "中文",
+      "publisher": "",
+      "publish_date": "",
+      "language": "",
       "description": "",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/3aDf6svCgDe2equJZuwdKg?sId=98a1ab3e-da79-486e-acfe-9da31a57d57c&ssId=VOExp7g4EBEX736syxEWi&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+          "url": "https://www.kobo.com/tw/zh/ebook/tuber-2?sid=d8ca6da7-e42a-480e-83d8-110fa1f4ad76&ssid=gq89PLufJtlbvoVgjB59r&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260524"
         },
         "books_com": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050175694"
-        },
-        "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210286316000101"
+          "url": "https://www.books.com.tw/products/E050241460"
+        },
+        "readmoo": {
+          "score": 4.9,
+          "count": 28,
+          "url": "https://readmoo.com/book/210351150000101"
         },
         "goodreads": {
-          "score": 3.85,
-          "count": 497,
-          "url": "https://www.goodreads.com/book/show/1157019.My_View_of_the_World",
+          "score": null,
+          "count": 0,
+          "url": "",
           "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.amazon.com/-/zh_TW/Artur-Schnabel/dp/3936000522/ref=sr_1_3"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 3.86
+      "avg_score": 4.9
     },
     {
-      "title": "腓尼基神話：影響希臘與羅馬神話，地中海紫紅之國的神祕傳說【世界神話系列7】",
-      "author": "龔琛",
+      "title": "沙發上的心理治療：圖繪治療師與個案的三階段療程故事，看見改變的發生",
+      "author": "菲莉帕．派瑞",
       "original_title": "",
-      "isbn": "9789864896240",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/NS3wWVRetjmY6DG8GCaQ7Q?sId=0649bf85-0591-4b63-8339-caf28a9f52f0&ssId=Jb1l7KjU01C63QJld5QiQ&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
-      "kobo_price": "NT$252",
-      "cover_url": "covers/NS3wWVRetjmY6DG8GCaQ7Q.jpg",
+      "isbn": "9786263584549",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/IoV7O6WGGTyYJGUJEJ6nww?sid=f5f2f5d0-d9cf-445f-b1d2-858bb8e286b0&ssid=-CJ8TQJWgPYttYwpEBQBd&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260525",
+      "kobo_price": "NT$360",
+      "cover_url": "covers/IoV7O6WGGTyYJGUJEJ6nww.jpg",
       "sale_price": "NT$99",
-      "date": "5/19",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
+      "date": "5/25",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
       "on_sale": true,
-      "publisher": "漫遊者文化",
-      "publish_date": "2022年5月9日",
+      "publisher": "三采文化",
+      "publish_date": "2024年8月30日",
       "language": "中文",
       "description": "",
       "ratings": {
         "kobo": {
-          "score": 4.5,
+          "score": 5.0,
           "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/NS3wWVRetjmY6DG8GCaQ7Q?sId=0649bf85-0591-4b63-8339-caf28a9f52f0&ssId=Jb1l7KjU01C63QJld5QiQ&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+          "url": "https://www.kobo.com/tw/zh/ebook/IoV7O6WGGTyYJGUJEJ6nww?sid=f5f2f5d0-d9cf-445f-b1d2-858bb8e286b0&ssid=-CJ8TQJWgPYttYwpEBQBd&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260525"
         },
         "books_com": {
           "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050131875"
+          "count": 5,
+          "url": "https://www.books.com.tw/products/E050232506"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 4,
-          "url": "https://readmoo.com/book/210228552000101"
+          "score": 4.7,
+          "count": 23,
+          "url": "https://readmoo.com/book/210346242000101"
         },
         "goodreads": {
-          "score": 4.33,
-          "count": 3,
-          "url": "https://www.goodreads.com/book/show/58513313-1?from_search=true&from_srp=true&qid=mRBA4hGHJ9&rank=1",
+          "score": 5.0,
+          "count": 0,
+          "url": "https://www.goodreads.com/book/show/216253181?from_search=true&from_srp=true&qid=s25pOgaNCu&rank=1",
           "note": "author"
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/dp/B0DQYMSTWS"
+          "url": ""
         }
       },
-      "avg_score": 4.62
+      "avg_score": 4.78
     },
     {
-      "title": "吃飯沒？：探訪全球中餐館，關於移民、飲食與文化認同的故事",
-      "author": "關卓中",
-      "original_title": "Have You Eaten Yet? : Stories from Chinese Restaurants Around the World",
-      "isbn": "9786267483039",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/T7mHfPqfoDOEcaipd5PpsA?sId=db29fa10-4f6f-4319-8aa8-af015ed02287&ssId=1pK39OA0Z3F998WYupKHX&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514",
-      "kobo_price": "NT$385",
-      "cover_url": "covers/T7mHfPqfoDOEcaipd5PpsA.jpg",
+      "title": "利馬古書商",
+      "author": "古斯塔沃．法夫隆—帕特里奧",
+      "original_title": "El Anticuario",
+      "isbn": "3119862726877",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2lj-KdZMQjKkTNhQ0yQASQ?sid=552be26a-47d9-493d-8bc1-90a25a33e25a&ssid=RlYxhRyGA10Zc_0Cz5NsB&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260526",
+      "kobo_price": "NT$180",
+      "cover_url": "covers/2lj-KdZMQjKkTNhQ0yQASQ.jpg",
       "sale_price": "NT$99",
-      "date": "5/20",
-      "sale_start": "2026-05-14",
-      "sale_end": "2026-05-20",
+      "date": "5/26",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
       "on_sale": true,
-      "publisher": "大塊文化",
-      "publish_date": "2024年5月1日",
+      "publisher": "商周出版",
+      "publish_date": "2014年11月28日",
       "language": "中文",
       "description": "",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/T7mHfPqfoDOEcaipd5PpsA?sId=db29fa10-4f6f-4319-8aa8-af015ed02287&ssId=1pK39OA0Z3F998WYupKHX&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260514"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/2lj-KdZMQjKkTNhQ0yQASQ?sid=552be26a-47d9-493d-8bc1-90a25a33e25a&ssid=RlYxhRyGA10Zc_0Cz5NsB&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260526"
         },
         "books_com": {
-          "score": 4.5,
+          "score": 0.5,
           "count": 1,
-          "url": "https://www.books.com.tw/products/E050214378"
+          "url": "https://www.books.com.tw/products/E050019569"
         },
         "readmoo": {
-          "score": 3.9,
-          "count": 7,
-          "url": "https://readmoo.com/book/210326669000101"
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "goodreads": {
-          "score": 3.58,
-          "count": 1293,
-          "url": "https://www.goodreads.com/book/show/211608763?from_search=true&from_srp=true&qid=9id1xv86HD&rank=1",
-          "note": "author"
+          "score": 3.51,
+          "count": 941,
+          "url": "https://www.goodreads.com/book/show/19218477-el-anticuario?from_search=true&from_srp=true&qid=7LZ070LifE&rank=2",
+          "note": "title"
         },
         "amazon_com": {
-          "score": 4.3,
-          "count": 68,
-          "url": "https://www.amazon.com/-/zh_TW/Have-You-Eaten-Yet-Restaurants/dp/1639365788/ref=sr_1_1"
+          "score": 4.0,
+          "count": 216,
+          "url": "https://www.amazon.com/-/zh_TW/Juli%C3%A1n-S%C3%A1nchez-ebook/dp/B00A0AFNMK/ref=sr_1_2"
         }
       },
-      "avg_score": 3.62
+      "avg_score": 3.6
+    },
+    {
+      "title": "月相生活指南：隨著月亮的盈缺，重回內在的自然節奏",
+      "author": "克絲蒂．蓋勒",
+      "original_title": "Lunar Living: Working with the Magic of the Moon Cycles",
+      "isbn": "9789864597161",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LhYTWmAwfDS5frH-u4r-7g?sid=53d9def2-4749-4461-b1be-8de7b77e8e00&ssid=mjAAs9FLI09M8llO6vPwV&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260527",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/LhYTWmAwfDS5frH-u4r-7g.jpg",
+      "sale_price": "NT$99",
+      "date": "5/27",
+      "sale_start": "2026-05-21",
+      "sale_end": "2026-05-27",
+      "on_sale": true,
+      "publisher": "積木文化",
+      "publish_date": "2025年12月4日",
+      "language": "中文",
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/LhYTWmAwfDS5frH-u4r-7g?sid=53d9def2-4749-4461-b1be-8de7b77e8e00&ssid=mjAAs9FLI09M8llO6vPwV&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260527"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050306239"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210436661000101"
+        },
+        "goodreads": {
+          "score": 3.99,
+          "count": 1591,
+          "url": "https://www.goodreads.com/book/show/51149582-lunar-living?from_search=true&from_srp=true&qid=2KUKicmZol&rank=1",
+          "note": "title"
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 2501,
+          "url": "https://www.amazon.com/-/zh_TW/Kirsty-Gallagher-ebook/dp/B088RJVV4G/ref=sr_1_2"
+        }
+      },
+      "avg_score": 4.42
     }
   ]
 }
