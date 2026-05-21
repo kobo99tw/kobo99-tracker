@@ -489,7 +489,7 @@ function render() {
           const cls = dl !== null && dl <= 3 ? 'promo-banner promo-urgent' : 'promo-banner';
           return `<div class="${cls}">🎁 ${esc(book.sale_end)} 前 Kobo 獨家優惠 ${countStr}</div>`;
         })()}
-        <div class="book-title">《${esc(book.title)}》</div>
+        <div class="book-title">《${esc(book.title)}》${book.format === 'audiobook' ? '<span style="font-size:.7rem;font-weight:600;color:#7C3AED;background:#F5F3FF;border:1px solid #DDD6FE;border-radius:4px;padding:.1rem .4rem;margin-left:.4rem;vertical-align:middle">🎧 有聲書</span>' : ''}</div>
         ${origTitle}
         <div class="book-meta">
           ${book.author ? `<span>作者：${esc(book.author)}</span>` : ""}
@@ -561,6 +561,8 @@ loadData();
         const mainTitle = t.headTitle || autoHead;
         const subTitle  = t.subtitle  || autoSub;
         document.title = mainTitle + ' | kobo99.com';
+        const canonical = document.querySelector('link[rel="canonical"]');
+        if (canonical) canonical.href = 'https://kobo99.com/exclusive.html?file=' + encodeURIComponent(t.file);
         const h1 = document.querySelector('.site-name');
         if (h1) h1.textContent = emoji + ' ' + mainTitle;
         // 預設排序
