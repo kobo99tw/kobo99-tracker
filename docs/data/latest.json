@@ -6,7 +6,7 @@
   "sale_start": "2026-05-21",
   "sale_end": "2026-05-27",
   "on_sale": true,
-  "updated_at": "2026-05-21T09:47:31.538969+08:00",
+  "updated_at": "2026-05-21T09:57:21.530053+08:00",
   "books": [
     {
       "title": "如何讓人改變想法：關於信念、觀點與說服技巧",
@@ -44,7 +44,7 @@
         "goodreads": {
           "score": 4.12,
           "count": 4002,
-          "url": "https://www.goodreads.com/book/show/57933312-how-minds-change?from_search=true&from_srp=true&qid=j6LoDF9Av4&rank=1",
+          "url": "https://www.goodreads.com/book/show/57933312-how-minds-change?from_search=true&from_srp=true&qid=zNYV1Fir0P&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -91,7 +91,7 @@
         "goodreads": {
           "score": 4.11,
           "count": 2498,
-          "url": "https://www.goodreads.com/book/show/29868590-tao-of-charlie-munger?from_search=true&from_srp=true&qid=7o67IvNfmc&rank=1",
+          "url": "https://www.goodreads.com/book/show/29868590-tao-of-charlie-munger?from_search=true&from_srp=true&qid=i434beqeBp&rank=1",
           "note": "title"
         },
         "amazon_com": {
@@ -142,12 +142,12 @@
           "note": "無原文資訊"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.6,
+          "count": 1246,
+          "url": "https://www.amazon.com/AUDIBLE/dp/B08MWRZ29T/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_1_1/135-2375725-5250830"
         }
       },
-      "avg_score": null
+      "avg_score": 4.6
     },
     {
       "title": "惡林（黑暗邪典文學大師喬．蘭斯代爾怪誕溫柔之作）",
@@ -185,33 +185,33 @@
         "goodreads": {
           "score": 3.51,
           "count": 20657,
-          "url": "https://www.goodreads.com/book/show/219539959-the-thicket?from_search=true&from_srp=true&qid=ItcrIYADlZ&rank=1",
+          "url": "https://www.goodreads.com/book/show/219539959-the-thicket?from_search=true&from_srp=true&qid=Lb9boAMSdT&rank=1",
           "note": "title"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 3.9,
+          "count": 9495,
+          "url": "https://www.amazon.com/-/zh_TW/Thicket-Thriller-Noelle-West-Ihli/dp/057894684X/ref=sr_1_1"
         }
       },
-      "avg_score": 3.51
+      "avg_score": 3.63
     },
     {
-      "title": "宇宙兄弟",
-      "author": "",
-      "original_title": "",
-      "isbn": null,
+      "title": "太空人都在做什麼？：人氣漫畫《宇宙兄弟》的太空人原型，首位自拍太空漫步的宇Tuber，野口聰一的太空任務精采紀錄",
+      "author": "野口聰一",
+      "original_title": "宇宙飛行士野口聡一の全仕事術",
+      "isbn": "9786263147256",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/tuber-2?sid=d8ca6da7-e42a-480e-83d8-110fa1f4ad76&ssid=gq89PLufJtlbvoVgjB59r&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260524",
-      "kobo_price": null,
-      "cover_url": "",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/tuber-2.jpg",
       "sale_price": "NT$99",
       "date": "5/24",
       "sale_start": "2026-05-21",
       "sale_end": "2026-05-27",
       "on_sale": true,
-      "publisher": "",
-      "publish_date": "",
-      "language": "",
+      "publisher": "木馬文化",
+      "publish_date": "2024年11月20日",
+      "language": "中文",
       "description": "",
       "ratings": {
         "kobo": {
@@ -225,23 +225,23 @@
           "url": "https://www.books.com.tw/products/E050241460"
         },
         "readmoo": {
-          "score": 4.9,
-          "count": 28,
-          "url": "https://readmoo.com/book/210351150000101"
+          "score": 4.6,
+          "count": 10,
+          "url": "https://readmoo.com/book/210357875000102"
         },
         "goodreads": {
-          "score": null,
+          "score": 5.0,
           "count": 0,
-          "url": "",
-          "note": "無原文資訊"
+          "url": "https://www.goodreads.com/book/isbn/9786263147256",
+          "note": "isbn"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.4,
+          "count": 119,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4418216022/ref=sr_1_1"
         }
       },
-      "avg_score": 4.9
+      "avg_score": 4.42
     },
     {
       "title": "沙發上的心理治療：圖繪治療師與個案的三階段療程故事，看見改變的發生",
@@ -279,16 +279,16 @@
         "goodreads": {
           "score": 5.0,
           "count": 0,
-          "url": "https://www.goodreads.com/book/show/216253181?from_search=true&from_srp=true&qid=s25pOgaNCu&rank=1",
+          "url": "https://www.goodreads.com/book/show/216253181?from_search=true&from_srp=true&qid=mKfFH2sHvz&rank=1",
           "note": "author"
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 3.9,
+          "count": 18541,
+          "url": "https://www.amazon.com/Room-Rent-Noelle-West-Ihli/dp/B0CJF5CD21/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_1_1/135-2375725-5250830"
         }
       },
-      "avg_score": 4.78
+      "avg_score": 3.9
     },
     {
       "title": "利馬古書商",
@@ -326,7 +326,7 @@
         "goodreads": {
           "score": 3.51,
           "count": 941,
-          "url": "https://www.goodreads.com/book/show/19218477-el-anticuario?from_search=true&from_srp=true&qid=7LZ070LifE&rank=2",
+          "url": "https://www.goodreads.com/book/show/19218477-el-anticuario?from_search=true&from_srp=true&qid=6cdaYiqpek&rank=2",
           "note": "title"
         },
         "amazon_com": {
@@ -373,7 +373,7 @@
         "goodreads": {
           "score": 3.99,
           "count": 1591,
-          "url": "https://www.goodreads.com/book/show/51149582-lunar-living?from_search=true&from_srp=true&qid=2KUKicmZol&rank=1",
+          "url": "https://www.goodreads.com/book/show/51149582-lunar-living?from_search=true&from_srp=true&qid=2ZyYAvutY4&rank=1",
           "note": "title"
         },
         "amazon_com": {
