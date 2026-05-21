@@ -661,6 +661,15 @@ loadData();
         const w = tabs.querySelector('a:first-child');
         if (w) w.textContent = '📚 ' + cfg.weekly99TabLabel;
       }
+      if (cfg.weekly99HeadTitle) {
+        const h1 = document.querySelector('.site-name');
+        if (h1) h1.textContent = (cfg.weekly99HeadTitle.codePointAt(0) || 0) > 0x2000 ? cfg.weekly99HeadTitle : '📚 ' + cfg.weekly99HeadTitle;
+        document.title = cfg.weekly99HeadTitle + ' | 博客來、讀墨、Goodreads 評分整合';
+      }
+      if (cfg.weekly99Subtitle) {
+        const sub = document.querySelector('.site-sub');
+        if (sub) sub.textContent = cfg.weekly99Subtitle;
+      }
     }
   } catch(e) {}
   try {
@@ -673,7 +682,8 @@ loadData();
       const m = t.label.match(/【([^】]{1,20})】/);
       const auto = m ? m[1].replace(/^Kobo\s*/i,'').trim().slice(0,10) : t.label.slice(0,10);
       const short = (t.tabLabel || auto).slice(0,15);
-      a.textContent = '🎁 ' + short;
+      const emoji = t.tabEmoji || '🎁';
+      a.textContent = emoji + ' ' + short;
       a.className = 'theme-tab';
       tabs.appendChild(a);
     }

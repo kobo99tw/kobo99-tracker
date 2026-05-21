@@ -4,6 +4,7 @@
     "key": "theme_1779336542191",
     "label": "【Kobo 獨家優惠】用閱讀豐富你我的人生（每週更新）",
     "sale": "新書限時特價",
+    "tabEmoji": "🎁",
     "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
   },
   {
@@ -14,6 +15,8 @@
     "promo_period": "5/18-5/24",
     "sale": "5/18-5/24折扣代碼：WKSelect0518",
     "tabLabel": "本週精選書單",
+    "tabEmoji": "✨",
+    "seoDesc": "整理 Kobo 每週精選超人氣書單，可輸入折扣碼享折扣，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值好書。",
     "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21"
   }
 ]

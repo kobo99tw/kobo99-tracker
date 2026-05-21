@@ -150,7 +150,7 @@ footer a{color:var(--teal);text-decoration:none}
 <body>
 
 <header>
-  <h1 class="site-name">🎁 Kobo 獨家優惠書單</h1>
+  <h1 class="site-name">Kobo 獨家優惠書單</h1>
   <div class="site-sub">近兩個月新書 85折 ｜ 整合博客來 × 讀墨 × Goodreads × Amazon 評分</div>
   <div class="header-row">
     <span class="week-badge" id="weekBadge">載入中...</span>
@@ -187,8 +187,8 @@ footer a{color:var(--teal);text-decoration:none}
 </div>
 
 <section class="seo-intro">
-  <h2>關於 Kobo 獨家優惠書單</h2>
-  <p><strong>Kobo 獨家優惠書單</strong>整理 Kobo 台灣近兩個月新書 85 折特惠，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值新書。</p>
+  <h2 id="seoIntroTitle">關於 Kobo 獨家優惠書單</h2>
+  <p id="seoIntroDesc"><strong id="seoIntroStrong">Kobo 獨家優惠書單</strong>整理 Kobo 台灣近兩個月新書 85 折特惠，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值新書。</p>
   <p>每本書附有折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。</p>
 </section>
 
@@ -535,7 +535,8 @@ loadData();
       const m = t.label.match(/【([^】]{1,20})】/);
       const auto = m ? m[1].replace(/^Kobo\s*/i,'').trim().slice(0,10) : t.label.slice(0,10);
       const short = (t.tabLabel || auto).slice(0,15);
-      a.textContent = '🎁 ' + short;
+      const emoji = t.tabEmoji || '🎁';
+      a.textContent = emoji + ' ' + short;
       a.className = 'theme-tab' + (currentFile === t.file ? ' active' : '');
       tabs.appendChild(a);
       if (currentFile === t.file) {
@@ -543,13 +544,22 @@ loadData();
         window._themePromoCode = t.promo_code || '';
         // 更新頁面標題與 header
         const lm = t.label.match(/【([^】]*)】([\s\S]*)/);
-        const mainTitle = t.tabLabel || (lm ? lm[1].trim() : t.label.slice(0,20));
-        const subTitle  = lm ? lm[2].trim() : (t.sale || '');
+        const autoHead = t.tabLabel || (lm ? lm[1].trim() : t.label.slice(0,20));
+        const autoSub  = lm ? lm[2].trim() : (t.sale || '');
+        const mainTitle = t.headTitle || autoHead;
+        const subTitle  = t.subtitle  || autoSub;
         document.title = mainTitle + ' | kobo99.com';
         const h1 = document.querySelector('.site-name');
-        if (h1) h1.textContent = '🎁 ' + mainTitle;
+        if (h1) h1.textContent = emoji + ' ' + mainTitle;
         const sub = document.querySelector('.site-sub');
         if (sub) sub.textContent = subTitle;
+        // 更新 seo-intro
+        const seoTitle = document.getElementById('seoIntroTitle');
+        const seoStrong = document.getElementById('seoIntroStrong');
+        const seoDesc = document.getElementById('seoIntroDesc');
+        if (seoTitle) seoTitle.textContent = '關於' + mainTitle;
+        if (seoStrong) seoStrong.textContent = mainTitle;
+        if (t.seoDesc && seoDesc) seoDesc.textContent = t.seoDesc;
         // 折扣碼橫幅
         if (t.promo_code) {
           document.getElementById('promoCodeText').textContent   = t.promo_code;
