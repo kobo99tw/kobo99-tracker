@@ -22,6 +22,9 @@ Thumbs.db
 
 # 打包檔
 *.zip
+*.docx
+*.xlsx
+*.pdf
 
 # Claude
 .claude/
