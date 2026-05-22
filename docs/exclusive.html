@@ -249,7 +249,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
 </div>
 <div class="toolbar">
   <label>排序</label>
-  <select id="sortSel" onchange="render()">
+  <select id="sortSel" onchange="onSortChange()">
     <option value="order" selected>書單順序</option>
     <option value="avg">綜合評分 ↓</option>
     <option value="expiry">折扣到期 ↑</option>
@@ -460,10 +460,15 @@ async function loadData() {
   }
 }
 
+function onSortChange() {
+  const sort = document.getElementById("sortSel").value;
+  try { localStorage.setItem('kobo99_sort_' + _CURRENT_FILE, sort); } catch(e) {}
+  render();
+}
+
 function render() {
   if (!DATA) return;
   const sort  = document.getElementById("sortSel").value;
-  try { localStorage.setItem('kobo99_sort_' + _CURRENT_FILE, sort); } catch(e) {}
   const saved = getSet(LS_SAVED);
   const read  = getSet(LS_READ);
   let books = [...DATA.books];
