@@ -1,11 +1,14 @@
 [
   {
     "file": "theme_1779336542191.json",
+    "headTitle": "Kobo 新書獨家優惠",
     "key": "theme_1779336542191",
     "label": "【Kobo 獨家優惠】用閱讀豐富你我的人生（每週更新）",
     "sale": "新書限時特價",
     "seoDesc": "Kobo 獨家優惠書單整理 Kobo 台灣近兩個月新書 85 折特惠，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值新書。每本書附有折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。",
+    "subtitle": "用閱讀豐富你我的人生（每週更新）",
     "tabEmoji": "🎁",
+    "tabLabel": "新書獨家優惠",
     "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
   },
   {
@@ -14,23 +17,25 @@
     "label": "【5/18-5/24精選書單】當語言與文明逐漸枯萎，唯有愛與記憶在黑暗中閃爍微光。",
     "promo_code": "WKSelect0518",
     "promo_period": "5/18-5/24",
-    "sale": "5/18-5/24折扣代碼：WKSelect0518",
+    "sale": "5/18-5/24 結帳打折扣碼",
     "seoDesc": "整理 Kobo 每週精選超人氣書單，可輸入折扣碼享折扣，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值好書。",
     "tabEmoji": "✨",
     "tabLabel": "本週精選書單",
-    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21"
+    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21",
+    "headTitle": "本週精選書單",
+    "subtitle": "當語言與文明逐漸枯萎，唯有愛與記憶在黑暗中閃爍微光。"
   },
   {
     "defaultSort": "order",
     "file": "theme_1779378338324.json",
-    "headTitle": "《臺灣漫遊錄》楊双子作品書單",
+    "headTitle": "《臺灣漫遊錄》楊双子作品集",
     "key": "theme_1779378338324",
     "label": "《臺灣漫遊錄》獲國際布克獎",
-    "sale": "",
+    "sale": "有聲書79折至6/30止",
     "seoDesc": "整理楊双子作品書單，包含電子書與有聲書。《臺灣漫遊錄》榮獲 2026 年國際布克獎，為首部獲此殊榮的臺灣文學作品，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較選購。",
     "subtitle": "首次有臺灣文學作品獲頒國際布克獎",
-    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue",
     "tabEmoji": "🏆",
-    "tabLabel": "《臺灣漫遊錄》"
+    "tabLabel": "《臺灣漫遊錄》",
+    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
   }
 ]

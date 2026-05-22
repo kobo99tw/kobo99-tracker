@@ -2,12 +2,12 @@
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8">
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Kobo 每週 99 特價書單 | 博客來、讀墨、Goodreads 評分整合</title>
-<meta name="description" content="每週自動更新 Kobo 99 元特價電子書書單，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，快速找到 CP 值最高的好書。">
-<meta property="og:title" content="Kobo 每週 99 特價好書">
-<meta property="og:description" content="整合博客來 × 讀墨 × Goodreads × Amazon 評分，每週自動更新。">
+<meta name="description" content="幫你整理 Kobo 每週 99 元特價書單，一站整合 Kobo、博客來、讀墨、Goodreads、Amazon 評分，另有獨家優惠與精選書單。">
+<meta property="og:title" content="Kobo 每週 99 書單｜五大平台評分整合">
+<meta property="og:description" content="整合 Kobo × 博客來 × 讀墨 × Goodreads × Amazon 評分，每週更新。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://kobo99.com/">
 <meta property="og:image" content="https://kobo99.com/og-image.png">
@@ -15,8 +15,8 @@
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="zh_TW">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kobo 每週 99 特價好書">
-<meta name="twitter:description" content="整合博客來 × 讀墨 × Goodreads × Amazon 評分，每週自動更新。">
+<meta name="twitter:title" content="Kobo 每週 99 書單｜五大平台評分整合">
+<meta name="twitter:description" content="整合 Kobo × 博客來 × 讀墨 × Goodreads × Amazon 評分，每週更新。">
 <meta name="twitter:image" content="https://kobo99.com/og-image.png">
 <link rel="canonical" href="https://kobo99.com/">
 <script type="application/ld+json">
@@ -26,7 +26,7 @@
   "name": "Kobo 每週 99 特價書單",
   "alternateName": ["Kobo每週99", "Kobo99書單", "Kobo99特價"],
   "url": "https://kobo99.com/",
-  "description": "每週自動更新 Kobo 99 元特價電子書書單，整合博客來、讀墨、Goodreads、Amazon 四大平台評分",
+  "description": "每週自動更新 Kobo 99 元特價電子書書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分",
   "inLanguage": "zh-TW",
   "publisher": {
     "@type": "Organization",
@@ -45,7 +45,7 @@
       "name": "Kobo 每週 99 書單是什麼？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kobo 每週 99 書單是自動整理 Kobo 台灣 99 元特價電子書的書單網站，每週四更新，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，幫助讀者快速找到 CP 值最高的好書。"
+        "text": "Kobo 每週 99 書單是自動整理 Kobo 台灣 99 元特價電子書的書單網站，每週四更新，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，幫助讀者快速找到 CP 值最高的好書。"
       }
     },
     {
@@ -72,7 +72,7 @@
 <link rel="apple-touch-icon" href="favicon-192.png">
 <link rel="manifest" href="manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600&family=Noto+Sans+TC:wght@400;500;700&display=swap&font-display=swap" rel="stylesheet">
 <style>
 :root {
   --cream:    #FAF7F2;
@@ -98,7 +98,7 @@ body{font-family:'Noto Sans TC',sans-serif;background:var(--cream);color:var(--i
 /* ── Header ── */
 header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align:center}
 .site-name{font-family:'Noto Serif TC',serif;font-size:clamp(1.4rem,4vw,2rem);font-weight:600;letter-spacing:.06em;margin-bottom:.35rem}
-.site-sub{font-size:.78rem;color:#A8A29E;letter-spacing:.06em}
+.site-sub{font-size:.82rem;color:#A8A29E;letter-spacing:.06em}
 .header-row{display:flex;justify-content:center;align-items:center;gap:.75rem;margin-top:.9rem;flex-wrap:wrap}
 .week-badge{background:var(--teal);color:#fff;font-size:.72rem;font-weight:500;padding:.25rem .85rem;border-radius:20px;letter-spacing:.04em}
 .kofi-btn{display:inline-flex;align-items:center;gap:.4rem;background:var(--kofi);color:#fff;font-size:.72rem;font-weight:600;padding:.28rem .85rem;border-radius:20px;text-decoration:none;transition:opacity .15s}
@@ -106,6 +106,36 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .feedback-btn{display:inline-flex;align-items:center;gap:.4rem;background:transparent;color:#fff;font-size:.72rem;font-weight:600;padding:.28rem .85rem;border-radius:20px;border:1px solid #fff;text-decoration:none;transition:background .15s}
 .feedback-btn:hover{background:rgba(255,255,255,.18)}
 .sale-period{font-size:.72rem;color:#D4D4D4;margin-top:.45rem;letter-spacing:.04em}
+
+/* ── 促銷公告橫條 ── */
+#promoBar,#promoBar2{display:none;align-items:center;justify-content:center;gap:.6rem;
+  padding:.45rem 1.25rem;font-size:.82rem;flex-wrap:wrap}
+#promoBar{background:#7C2D12;color:#FED7AA}
+#promoBar2{background:#1E3A5F;color:#BFDBFE}
+#promoBar .promo-text,#promoBar2 .promo-text{letter-spacing:.02em}
+#promoBar .promo-link,#promoBar .promo-btn{color:#FED7AA;background:rgba(255,255,255,.18)}
+#promoBar2 .promo-link,#promoBar2 .promo-btn{color:#BFDBFE;background:rgba(255,255,255,.18)}
+#promoBar .promo-link,#promoBar2 .promo-link,#promoBar .promo-btn,#promoBar2 .promo-btn{
+  font-weight:700;white-space:nowrap;padding:.18rem .65rem;border-radius:20px;
+  text-decoration:none;transition:background .15s;flex-shrink:0;border:none;cursor:pointer;font-size:.82rem}
+#promoBar .promo-link:hover,#promoBar2 .promo-link:hover,
+#promoBar .promo-btn:hover,#promoBar2 .promo-btn:hover{background:rgba(255,255,255,.3)}
+#promoBarClose{color:rgba(254,215,170,.65)}
+#promoBar2Close{color:rgba(191,219,254,.65)}
+#promoBarClose,#promoBar2Close{background:none;border:none;font-size:.95rem;cursor:pointer;
+  padding:.1rem .35rem;margin-left:.15rem;border-radius:4px;line-height:1;flex-shrink:0}
+#promoBarClose:hover{color:#FED7AA;background:rgba(255,255,255,.12)}
+#promoBar2Close:hover{color:#BFDBFE;background:rgba(255,255,255,.12)}
+.promo-btn{color:#FED7AA;font-weight:700;white-space:nowrap;background:rgba(255,255,255,.18);
+  padding:.18rem .65rem;border-radius:20px;border:none;cursor:pointer;font-size:.82rem;flex-shrink:0}
+.promo-btn:hover{background:rgba(255,255,255,.3)}
+#promoModal,#promoModal2{display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.45);align-items:center;justify-content:center}
+#promoModal.open,#promoModal2.open{display:flex}
+.promo-modal-box{background:#fff;border-radius:14px;padding:1.5rem 1.75rem;width:420px;max-width:92vw;max-height:80vh;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.2)}
+.promo-modal-title{font-size:.95rem;font-weight:700;color:#7C2D12;margin-bottom:.9rem}
+.promo-modal-body{font-size:.84rem;color:#44403C;line-height:1.85;white-space:pre-wrap}
+.promo-modal-close{display:block;margin-top:1.2rem;margin-left:auto;background:#7C2D12;color:#FED7AA;border:none;border-radius:8px;padding:.42rem 1.2rem;font-size:.85rem;font-weight:600;cursor:pointer}
+.promo-modal-close:hover{background:#6B2010}
 
 /* ── Theme tabs ── */
 .theme-tabs-wrap{position:relative;background:#fff}
@@ -120,8 +150,8 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 
 /* ── Toolbar ── */
 .toolbar{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;padding:.75rem 1.25rem;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10}
-.toolbar label{font-size:.78rem;color:var(--ink2);white-space:nowrap}
-.toolbar select{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink);cursor:pointer}
+.toolbar label{font-size:.82rem;color:var(--ink2);white-space:nowrap}
+.toolbar select{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink);cursor:pointer}
 .stat-chips{margin-left:auto;display:flex;gap:.4rem;flex-wrap:wrap}
 .chip{font-size:.7rem;padding:.18rem .6rem;border-radius:20px;border:1px solid var(--line);color:var(--ink2);background:var(--cream);white-space:nowrap}
 .chip b{color:var(--ink)}
@@ -138,7 +168,8 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 /* 日期小標籤 */
 .date-tag{font-size:.88rem;color:var(--ink2);font-weight:600}
 /* 今日特價橫幅 */
-.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.88rem;font-weight:700;padding:.42rem .5rem;border-radius:8px;letter-spacing:.04em;margin-bottom:.6rem}
+.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.88rem;font-weight:700;padding:.42rem .5rem;border-radius:8px;letter-spacing:.04em;margin-bottom:.6rem;animation:pulse-sale 2s ease-in-out infinite}
+@keyframes pulse-sale{0%,100%{box-shadow:0 0 0 0 rgba(249,115,22,.4)}60%{box-shadow:0 0 0 6px rgba(249,115,22,0)}}
 
 /* 書脊色條 */
 .spine{height:5px;flex-shrink:0}
@@ -158,15 +189,15 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 
 .book-title{font-family:'Noto Serif TC',serif;font-size:1.05rem;font-weight:600;line-height:1.6;margin-bottom:.2rem;min-height:3.36rem}
 .book-original{font-size:.77rem;color:var(--ink3);font-style:italic;margin-bottom:.45rem;line-height:1.4;min-height:1.1rem}
-.book-meta{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;font-size:.78rem;color:var(--ink2);margin-bottom:.9rem;line-height:1.5}
+.book-meta{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;font-size:.82rem;color:var(--ink2);margin-bottom:.9rem;line-height:1.5}
 .book-pubdate{color:var(--ink3)}
-.book-desc{font-size:.78rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
+.book-desc{font-size:.82rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
 .book-desc.expanded{display:block;overflow:visible;cursor:default}
 
 /* 評分 */
 .ratings{flex:1;display:flex;flex-direction:column;gap:.5rem;margin-bottom:.9rem}
 .r-row{display:flex;align-items:center;gap:7px}
-.r-src{font-size:.78rem;color:var(--ink2);width:76px;flex-shrink:0;white-space:nowrap}
+.r-src{font-size:.82rem;color:var(--ink2);width:76px;flex-shrink:0;white-space:nowrap}
 .r-bar-bg{flex:1;height:5px;background:var(--line);border-radius:3px;overflow:hidden}
 .r-bar{height:5px;border-radius:3px}
 .r-val{font-size:.82rem;font-weight:700;width:30px;text-align:right;flex-shrink:0}
@@ -180,7 +211,7 @@ a.r-link:hover{background:var(--line)}
 .buy-row{display:flex;align-items:center;justify-content:space-between;gap:.6rem;border-top:1px solid var(--line);padding-top:.75rem}
 .price-info{display:flex;align-items:baseline;gap:.45rem;flex-wrap:wrap}
 .price-sale{font-size:1.1rem;font-weight:700;color:var(--teal)}
-.price-original{font-size:.78rem;color:var(--ink3);text-decoration:line-through}
+.price-original{font-size:.82rem;color:var(--ink3);text-decoration:line-through}
 .price-saving{font-size:.68rem;font-weight:600;color:var(--kofi);background:#FFF1F0;padding:.12rem .45rem;border-radius:8px}
 .btn-buy{flex-shrink:0;text-align:center;text-decoration:none;font-size:.8rem;font-weight:600;padding:.5rem 1rem;border-radius:8px;transition:background .15s;white-space:nowrap;background:var(--teal);color:#fff}
 .btn-buy:hover{background:#0F766E}
@@ -188,13 +219,13 @@ a.r-link:hover{background:var(--line)}
 
 /* ── 收藏 / 已讀 ── */
 .card-actions{display:flex;align-items:center;gap:.35rem}
-.mark-btn{background:none;border:1px solid var(--line);border-radius:6px;padding:.15rem .42rem;font-size:.78rem;cursor:pointer;color:var(--ink3);transition:all .15s;line-height:1.3}
+.mark-btn{background:none;border:1px solid var(--line);border-radius:6px;padding:.15rem .42rem;font-size:.82rem;cursor:pointer;color:var(--ink3);transition:all .15s;line-height:1.3}
 .mark-btn:hover{border-color:var(--ink2);color:var(--ink)}
 .mark-btn.m-saved.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 .mark-btn.m-read.active{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
 .card--read{opacity:.5}
 .mark-btn.m-share:hover{border-color:#2563EB;color:#2563EB}
-.filter-btn{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
+.filter-btn{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .filter-btn.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 
 /* ── 日曆 Modal ── */
@@ -215,6 +246,10 @@ a.r-link:hover{background:var(--line)}
 /* ── Footer ── */
 footer{text-align:center;padding:1.75rem 1rem;font-size:.75rem;color:var(--ink3);border-top:1px solid var(--line);margin-top:.5rem;line-height:2}
 footer a{color:var(--teal);text-decoration:none}
+.footer-btns{display:flex;justify-content:center;align-items:center;gap:.65rem;flex-wrap:wrap;margin-top:.8rem;margin-bottom:.25rem}
+footer .kofi-btn{font-size:.75rem;padding:.24rem .75rem}
+footer .feedback-btn{color:var(--ink2);border-color:var(--line);font-size:.75rem;padding:.24rem .75rem}
+footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
 
 /* ── SEO 介紹 ── */
 .seo-intro{max-width:860px;margin:0 auto;padding:1.25rem 1.5rem;font-size:.82rem;color:var(--ink2);line-height:1.9;border-top:1px solid var(--line)}
@@ -229,6 +264,7 @@ footer a{color:var(--teal);text-decoration:none}
   .grid{grid-template-columns:1fr;padding:.85rem;gap:1rem}
   .stat-chips{display:none}
   .card-body{padding:.9rem 1rem 1rem}
+  .toolbar{padding:.5rem .85rem;gap:.4rem}
 }
 </style>
 </head>
@@ -237,21 +273,44 @@ footer a{color:var(--teal);text-decoration:none}
 <noscript>
   <div style="padding:2rem;text-align:center;font-family:sans-serif;max-width:600px;margin:0 auto">
     <h2>Kobo 每週 99 元特價書單</h2>
-    <p>整合博客來、讀墨、Goodreads、Amazon 四大平台評分，每週四自動更新 Kobo 99 元特價電子書書單，快速找到 CP 值最高的好書。</p>
-    <p>請開啟 JavaScript 以瀏覽完整書單。</p>
+    <p>整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，每週四更新 Kobo 99 元特價電子書書單，快速找到 CP 值最高的好書。</p>
   </div>
 </noscript>
 
 <header>
   <h1 class="site-name">📚 Kobo 每週 99 書單</h1>
-  <div class="site-sub">整合博客來 × 讀墨 × Goodreads × Amazon 評分 ｜ 每週自動更新</div>
+  <div class="site-sub">整合 Kobo × 博客來 × 讀墨 × Goodreads × Amazon 評分 ｜ 每週更新</div>
   <div class="header-row">
     <span class="week-badge" id="weekBadge">載入中...</span>
-    <a class="kofi-btn" href="https://ko-fi.com/kobo99tw" target="_blank">☕ 請我喝杯咖啡</a>
-    <a href="https://forms.gle/vq6FpsBhc1RZmq4A8" target="_blank" class="feedback-btn">📝 回報錯誤</a>
   </div>
   <div id="salePeriod" class="sale-period"></div>
 </header>
+<div id="promoBar">
+  <span class="promo-text" id="promoBarText"></span>
+  <a class="promo-link" id="promoBarLink" href="#" target="_blank" rel="noopener" style="display:none">詳情 →</a>
+  <button class="promo-btn" id="promoBarBtn" style="display:none" onclick="openPromoModal()">詳情 ▸</button>
+  <button id="promoBarClose" onclick="closePromoBar()" title="關閉">✕</button>
+</div>
+<div id="promoBar2">
+  <span class="promo-text" id="promoBar2Text"></span>
+  <a class="promo-link" id="promoBar2Link" href="#" target="_blank" rel="noopener" style="display:none">詳情 →</a>
+  <button class="promo-btn" id="promoBar2Btn" style="display:none" onclick="openPromoModal2()">詳情 ▸</button>
+  <button id="promoBar2Close" onclick="closePromoBar2()" title="關閉">✕</button>
+</div>
+<div id="promoModal2" onclick="if(event.target===this)closePromoModal2()">
+  <div class="promo-modal-box">
+    <div class="promo-modal-title" id="promoModal2Title"></div>
+    <div class="promo-modal-body" id="promoModal2Body"></div>
+    <button class="promo-modal-close" onclick="closePromoModal2()">關閉</button>
+  </div>
+</div>
+<div id="promoModal" onclick="if(event.target===this)closePromoModal()">
+  <div class="promo-modal-box">
+    <div class="promo-modal-title" id="promoModalTitle"></div>
+    <div class="promo-modal-body" id="promoModalBody"></div>
+    <button class="promo-modal-close" onclick="closePromoModal()">關閉</button>
+  </div>
+</div>
 <div class="theme-tabs-wrap">
 <div class="theme-tabs" id="themeTabs">
   <a href="/" class="theme-tab active">📚 每週99</a>
@@ -279,10 +338,14 @@ footer a{color:var(--teal);text-decoration:none}
 
 <section class="seo-intro">
   <h2 id="seoIntroTitle">關於 Kobo 每週 99 書單</h2>
-  <p id="seoIntroDesc">Kobo 每週 99 書單自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。</p>
+  <p id="seoIntroDesc">Kobo 每週 99 書單自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。</p>
 </section>
 
 <footer>
+  <div class="footer-btns">
+    <a class="kofi-btn" href="https://ko-fi.com/kobo99tw" target="_blank">☕ 請我喝杯咖啡</a>
+    <a href="https://forms.gle/vq6FpsBhc1RZmq4A8" target="_blank" class="feedback-btn">📝 回報問題</a>
+  </div>
   資料來源：
   <a href="https://www.kobo.com/zh/blog" target="_blank">Kobo 官方部落格</a>、
   <a href="https://www.books.com.tw" target="_blank">博客來</a>、
@@ -408,6 +471,26 @@ function dateVal(md) {
 const todayVal = dateVal(todayMD);
 
 function openCalModal()  { document.getElementById('calModal').classList.add('open'); }
+function autolinkText(txt) {
+  const esc = txt.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return esc.replace(/https?:\/\/\S+/g, u =>
+    `<a href="${u}" target="_blank" rel="noopener" style="color:#1E3A5F;word-break:break-all">${u}</a>`
+  ).replace(/\n/g,'<br>');
+}
+function openPromoModal()   { document.getElementById('promoModal').classList.add('open'); }
+function closePromoModal()  { document.getElementById('promoModal').classList.remove('open'); }
+function openPromoModal2()  { document.getElementById('promoModal2').classList.add('open'); }
+function closePromoModal2() { document.getElementById('promoModal2').classList.remove('open'); }
+function closePromoBar2() {
+  document.getElementById('promoBar2').style.display = 'none';
+  const key = 'promo2Closed_' + (_siteCfg.promo2End || 'x');
+  try { sessionStorage.setItem(key, '1'); } catch(e) {}
+}
+function closePromoBar() {
+  document.getElementById('promoBar').style.display = 'none';
+  const key = 'promoClosed_' + (_siteCfg.promoEnd || 'x');
+  try { sessionStorage.setItem(key, '1'); } catch(e) {}
+}
 function closeCalModal() { document.getElementById('calModal').classList.remove('open'); }
 
 const LS_SAVED = 'kobo99_saved';
@@ -467,6 +550,7 @@ function toggleRead(btn) {
 }
 
 let DATA = null;
+let _siteCfg = {};
 
 function cleanKoboUrl(url) {
   if (!url) return url;
@@ -520,15 +604,20 @@ function render() {
 
   // 週次 badge
   document.getElementById("weekBadge").textContent =
-    `第 ${DATA.week} 週 ｜ ${books.length} 本`;
+    (_siteCfg.weekBadgeOverride != null ? _siteCfg.weekBadgeOverride : `第 ${DATA.week} 週 ｜ ${books.length} 本`);
 
   // 特賣期間
   const sp = document.getElementById("salePeriod");
-  if (sp && DATA.sale_label) {
-    const tag = DATA.on_sale
-      ? `<span style="color:#4ADE80;margin-left:.4rem">✅ 特賣中</span>`
-      : `<span style="color:#6B7280;margin-left:.4rem">（已結束）</span>`;
-    sp.innerHTML = DATA.sale_label + tag;
+  if (sp) {
+    if (_siteCfg.saleLabelOverride != null) {
+      sp.textContent = _siteCfg.saleLabelOverride;
+      sp.style.display = _siteCfg.saleLabelOverride === '' ? 'none' : '';
+    } else if (DATA.sale_label) {
+      const tag = DATA.on_sale
+        ? `<span style="color:#4ADE80;margin-left:.4rem">✅ 特賣中</span>`
+        : `<span style="color:#6B7280;margin-left:.4rem">（已結束）</span>`;
+      sp.innerHTML = DATA.sale_label + tag;
+    }
   }
 
   // 統計 chips
@@ -662,6 +751,7 @@ loadData();
     const sc = await fetch('data/site.json');
     if (sc.ok) {
       const cfg = await sc.json();
+      _siteCfg = cfg;
       if (cfg.weekly99TabLabel) {
         const w = tabs.querySelector('a:first-child');
         if (w) w.textContent = '📚 ' + cfg.weekly99TabLabel;
@@ -678,6 +768,72 @@ loadData();
       if (cfg.weekly99SeoDesc) {
         const el = document.getElementById('seoIntroDesc');
         if (el) el.textContent = cfg.weekly99SeoDesc;
+      }
+      const kofiEl = document.querySelector('.kofi-btn');
+      if (kofiEl) {
+        if (cfg.kofiVisible === false) kofiEl.style.display = 'none';
+        if (cfg.kofiText) kofiEl.textContent = cfg.kofiText;
+        if (cfg.kofiUrl)  kofiEl.href = cfg.kofiUrl;
+      }
+      const fbEl = document.querySelector('.feedback-btn');
+      if (fbEl) {
+        if (cfg.feedbackVisible === false) fbEl.style.display = 'none';
+        if (cfg.feedbackText) fbEl.textContent = cfg.feedbackText;
+        if (cfg.feedbackUrl)  fbEl.href = cfg.feedbackUrl;
+      }
+      // override 在 render() 後才載入時補套用
+      if (cfg.weekBadgeOverride != null) {
+        const wb = document.getElementById('weekBadge');
+        if (wb) wb.textContent = cfg.weekBadgeOverride;
+      }
+      if (cfg.saleLabelOverride != null) {
+        const sp = document.getElementById('salePeriod');
+        if (sp) { sp.textContent = cfg.saleLabelOverride; sp.style.display = cfg.saleLabelOverride === '' ? 'none' : ''; }
+      }
+      // 促銷公告橫條
+      if (cfg.promoVisible !== false && cfg.promoText) {
+        const twnNow = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
+        const todayStr = twnNow.toISOString().slice(0,10);
+        const expired = cfg.promoEnd && todayStr > cfg.promoEnd;
+        const closedKey = 'promoClosed_' + (cfg.promoEnd || 'x');
+        const closed = (() => { try { return sessionStorage.getItem(closedKey); } catch(e) { return null; } })();
+        if (!expired && !closed) {
+          document.getElementById('promoBarText').textContent = cfg.promoText;
+          if (cfg.promoDesc) {
+            document.getElementById('promoModalTitle').textContent  = cfg.promoText;
+            document.getElementById('promoModalBody').innerHTML = autolinkText(cfg.promoDesc);
+            document.getElementById('promoBarBtn').style.display = '';
+          }
+          if (cfg.promoUrl) {
+            const lnk = document.getElementById('promoBarLink');
+            lnk.href = cfg.promoUrl;
+            lnk.textContent = '購買連結 →';
+            lnk.style.display = '';
+          }
+          document.getElementById('promoBar').style.display = 'flex';
+        }
+      }
+      // 促銷公告橫條 2
+      if (cfg.promo2Visible !== false && cfg.promo2Text) {
+        const twnNow2 = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
+        const todayStr2 = twnNow2.toISOString().slice(0,10);
+        const expired2 = cfg.promo2End && todayStr2 > cfg.promo2End;
+        const closed2 = (() => { try { return sessionStorage.getItem('promo2Closed_' + (cfg.promo2End||'x')); } catch(e) { return null; } })();
+        if (!expired2 && !closed2) {
+          document.getElementById('promoBar2Text').textContent = cfg.promo2Text;
+          if (cfg.promo2Desc) {
+            document.getElementById('promoModal2Title').textContent  = cfg.promo2Text;
+            document.getElementById('promoModal2Body').innerHTML = autolinkText(cfg.promo2Desc);
+            document.getElementById('promoBar2Btn').style.display = '';
+          }
+          if (cfg.promo2Url) {
+            const lnk2 = document.getElementById('promoBar2Link');
+            lnk2.href = cfg.promo2Url;
+            lnk2.textContent = '購買連結 →';
+            lnk2.style.display = '';
+          }
+          document.getElementById('promoBar2').style.display = 'flex';
+        }
       }
     }
   } catch(e) {}

@@ -16,12 +16,16 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kobo 精選書單 | kobo99.com">
 <meta name="twitter:image" content="https://kobo99.com/og-image.png">
-<link rel="canonical" href="https://kobo99.com/exclusive.html">
+<link rel="canonical" id="canonicalLink" href="https://kobo99.com/exclusive.html">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","name":"Kobo 精選書單","url":"https://kobo99.com/exclusive.html","inLanguage":"zh-TW","isPartOf":{"@type":"WebSite","name":"Kobo 每週 99 特價書單","url":"https://kobo99.com/"}}
+</script>
+<script>(function(){var f=new URLSearchParams(location.search).get('file');if(f)document.getElementById('canonicalLink').href='https://kobo99.com/exclusive.html?file='+encodeURIComponent(f);})();</script>
 <link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
 <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
 <link rel="apple-touch-icon" href="favicon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600&family=Noto+Sans+TC:wght@400;500;700&display=swap&font-display=swap" rel="stylesheet">
 <style>
 :root {
   --cream:    #FAF7F2;
@@ -29,33 +33,62 @@
   --ink2:     #57534E;
   --ink3:     #A8A29E;
   --line:     #E7E5E4;
-  --teal:     #2563EB;
-  --teal-bg:  #EFF6FF;
-  --teal-hover: #1D4ED8;
+  --teal:     #0D9488;
+  --teal-bg:  #F0FDFA;
+  --teal-hover: #0F766E;
   --amber:    #B45309;
   --amber-bg: #FFFBEB;
   --red:      #B91C1C;
   --red-bg:   #FEF2F2;
   --kofi:     #FF5E5B;
-  --sale:     #2563EB;
-  --sale-bg:  #EFF6FF;
+  --sale:     #F97316;
+  --sale-bg:  #FFF7ED;
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Noto Sans TC',sans-serif;background:var(--cream);color:var(--ink);min-height:100vh}
 
 header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align:center}
 .site-name{font-family:'Noto Serif TC',serif;font-size:clamp(1.4rem,4vw,2rem);font-weight:600;letter-spacing:.06em;margin-bottom:.35rem}
-.site-sub{font-size:.78rem;color:#A8A29E;letter-spacing:.06em}
+.site-sub{font-size:.82rem;color:#A8A29E;letter-spacing:.06em}
 .header-row{display:flex;justify-content:center;align-items:center;gap:.75rem;margin-top:.9rem;flex-wrap:wrap}
 .week-badge{background:var(--teal);color:#fff;font-size:.72rem;font-weight:500;padding:.25rem .85rem;border-radius:20px;letter-spacing:.04em}
 .kofi-btn{display:inline-flex;align-items:center;gap:.4rem;background:var(--kofi);color:#fff;font-size:.72rem;font-weight:600;padding:.28rem .85rem;border-radius:20px;text-decoration:none;transition:opacity .15s}
 .kofi-btn:hover{opacity:.88}
+/* ── 促銷公告橫條 ── */
+#promoBar,#promoBar2{display:none;align-items:center;justify-content:center;gap:.6rem;
+  padding:.45rem 1.25rem;font-size:.82rem;flex-wrap:wrap}
+#promoBar{background:#7C2D12;color:#FED7AA}
+#promoBar2{background:#1E3A5F;color:#BFDBFE}
+#promoBar .promo-text,#promoBar2 .promo-text{letter-spacing:.02em}
+#promoBar .promo-link,#promoBar .promo-btn{color:#FED7AA;background:rgba(255,255,255,.18)}
+#promoBar2 .promo-link,#promoBar2 .promo-btn{color:#BFDBFE;background:rgba(255,255,255,.18)}
+#promoBar .promo-link,#promoBar2 .promo-link,#promoBar .promo-btn,#promoBar2 .promo-btn{
+  font-weight:700;white-space:nowrap;padding:.18rem .65rem;border-radius:20px;
+  text-decoration:none;transition:background .15s;flex-shrink:0;border:none;cursor:pointer;font-size:.82rem}
+#promoBar .promo-link:hover,#promoBar2 .promo-link:hover,
+#promoBar .promo-btn:hover,#promoBar2 .promo-btn:hover{background:rgba(255,255,255,.3)}
+#promoBarClose{color:rgba(254,215,170,.65)}
+#promoBar2Close{color:rgba(191,219,254,.65)}
+#promoBarClose,#promoBar2Close{background:none;border:none;font-size:.95rem;cursor:pointer;
+  padding:.1rem .35rem;margin-left:.15rem;border-radius:4px;line-height:1;flex-shrink:0}
+#promoBarClose:hover{color:#FED7AA;background:rgba(255,255,255,.12)}
+#promoBar2Close:hover{color:#BFDBFE;background:rgba(255,255,255,.12)}
+.promo-btn{color:#FED7AA;font-weight:700;white-space:nowrap;background:rgba(255,255,255,.18);
+  padding:.18rem .65rem;border-radius:20px;border:none;cursor:pointer;font-size:.82rem;flex-shrink:0}
+.promo-btn:hover{background:rgba(255,255,255,.3)}
+#promoModal,#promoModal2{display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.45);align-items:center;justify-content:center}
+#promoModal.open,#promoModal2.open{display:flex}
+.promo-modal-box{background:#fff;border-radius:14px;padding:1.5rem 1.75rem;width:420px;max-width:92vw;max-height:80vh;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.2)}
+.promo-modal-title{font-size:.95rem;font-weight:700;color:#7C2D12;margin-bottom:.9rem}
+.promo-modal-body{font-size:.84rem;color:#44403C;line-height:1.85;white-space:pre-wrap}
+.promo-modal-close{display:block;margin-top:1.2rem;margin-left:auto;background:#7C2D12;color:#FED7AA;border:none;border-radius:8px;padding:.42rem 1.2rem;font-size:.85rem;font-weight:600;cursor:pointer}
+.promo-modal-close:hover{background:#6B2010}
 .nav-link{display:inline-flex;align-items:center;gap:.4rem;background:transparent;color:#fff;font-size:.72rem;font-weight:600;padding:.28rem .85rem;border-radius:20px;border:1px solid #fff;text-decoration:none;transition:background .15s}
 .nav-link:hover{background:rgba(255,255,255,.18)}
 
 .toolbar{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;padding:.75rem 1.25rem;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10}
-.toolbar label{font-size:.78rem;color:var(--ink2);white-space:nowrap}
-.toolbar select{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink);cursor:pointer}
+.toolbar label{font-size:.82rem;color:var(--ink2);white-space:nowrap}
+.toolbar select{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink);cursor:pointer}
 .stat-chips{margin-left:auto;display:flex;gap:.4rem;flex-wrap:wrap}
 .chip{font-size:.7rem;padding:.18rem .6rem;border-radius:20px;border:1px solid var(--line);color:var(--ink2);background:var(--cream);white-space:nowrap}
 .chip b{color:var(--ink)}
@@ -85,12 +118,12 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .theme-tabs::-webkit-scrollbar{display:none}
 .theme-tab{display:inline-flex;align-items:center;white-space:nowrap;text-decoration:none;font-size:.85rem;font-weight:600;padding:.65rem 1.1rem;border-bottom:3px solid transparent;margin-bottom:-2px;color:var(--ink2);transition:all .15s;flex-shrink:0;gap:.35rem}
 .theme-tab:hover{color:var(--ink);background:#F9F8F7}
-.theme-tab.active{color:var(--teal);border-bottom-color:var(--teal);background:#fff}
+.theme-tab.active{color:#EA580C;border-bottom-color:#EA580C;background:#fff}
 @media(max-width:640px){.theme-tab{padding:.55rem .75rem;font-size:.8rem}}
 
-.promo-code-bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;padding:.7rem 1.25rem;background:linear-gradient(135deg,#EFF6FF,#F0FDF4);border-bottom:1px solid #BFDBFE;font-size:.85rem;position:sticky;top:0;z-index:11}
+.promo-code-bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;padding:.7rem 1.25rem;background:linear-gradient(135deg,#F0FDFA,#FFFBEB);border-bottom:1px solid #99F6E4;font-size:.85rem;position:sticky;top:0;z-index:11}
 .promo-code-bar .label{color:var(--ink2);flex-shrink:0}
-.promo-code-bar .code{font-family:'Courier New',monospace;font-size:.95rem;font-weight:700;color:var(--teal);background:#fff;border:1.5px solid #BFDBFE;border-radius:6px;padding:.2rem .65rem;letter-spacing:.08em}
+.promo-code-bar .code{font-family:'Courier New',monospace;font-size:.95rem;font-weight:700;color:var(--teal);background:#fff;border:1.5px solid #99F6E4;border-radius:6px;padding:.2rem .65rem;letter-spacing:.08em}
 .promo-code-bar .copy-btn{border:none;background:var(--teal);color:#fff;font-size:.8rem;font-weight:600;padding:.3rem .85rem;border-radius:6px;cursor:pointer;transition:all .15s;white-space:nowrap}
 .promo-code-bar .copy-btn:hover{background:var(--teal-hover)}
 .promo-code-bar .copy-btn.copied{background:#059669}
@@ -98,14 +131,14 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .promo-urgent{color:var(--red);background:var(--red-bg)}
 .book-title{font-family:'Noto Serif TC',serif;font-size:1.05rem;font-weight:600;line-height:1.6;margin-bottom:.2rem;min-height:3.36rem}
 .book-original{font-size:.77rem;color:var(--ink3);font-style:italic;margin-bottom:.45rem;line-height:1.4;min-height:1.1rem}
-.book-desc{font-size:.78rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
+.book-desc{font-size:.82rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
 .book-desc.expanded{display:block;overflow:visible;cursor:default}
-.book-meta{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;font-size:.78rem;color:var(--ink2);margin-bottom:.9rem;line-height:1.5}
+.book-meta{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;font-size:.82rem;color:var(--ink2);margin-bottom:.9rem;line-height:1.5}
 .book-pubdate{color:var(--ink3)}
 
 .ratings{flex:1;display:flex;flex-direction:column;gap:.5rem;margin-bottom:.9rem}
 .r-row{display:flex;align-items:center;gap:7px}
-.r-src{font-size:.78rem;color:var(--ink2);width:76px;flex-shrink:0;white-space:nowrap}
+.r-src{font-size:.82rem;color:var(--ink2);width:76px;flex-shrink:0;white-space:nowrap}
 .r-bar-bg{flex:1;height:5px;background:var(--line);border-radius:3px;overflow:hidden}
 .r-bar{height:5px;border-radius:3px}
 .r-val{font-size:.82rem;font-weight:700;width:30px;text-align:right;flex-shrink:0}
@@ -118,25 +151,29 @@ a.r-link:hover{background:var(--line)}
 .buy-row{display:flex;align-items:center;justify-content:space-between;gap:.6rem;border-top:1px solid var(--line);padding-top:.75rem}
 .price-info{display:flex;align-items:baseline;gap:.45rem;flex-wrap:wrap}
 .price-sale{font-size:1.1rem;font-weight:700;color:var(--teal)}
-.price-original{font-size:.78rem;color:var(--ink3);text-decoration:line-through}
+.price-original{font-size:.82rem;color:var(--ink3);text-decoration:line-through}
 .price-saving{font-size:.68rem;font-weight:600;color:var(--kofi);background:#FFF1F0;padding:.12rem .45rem;border-radius:8px}
 .btn-buy{flex-shrink:0;text-align:center;text-decoration:none;font-size:.8rem;font-weight:600;padding:.5rem 1rem;border-radius:8px;transition:background .15s;white-space:nowrap;background:var(--teal);color:#fff}
 .btn-buy:hover{background:var(--teal-hover)}
 .btn-dis{flex-shrink:0;font-size:.8rem;padding:.5rem 1rem;border-radius:8px;opacity:.4;cursor:default;background:var(--cream);color:var(--ink3);border:1px solid var(--line)}
 
 .card-actions{display:flex;align-items:center;gap:.35rem}
-.mark-btn{background:none;border:1px solid var(--line);border-radius:6px;padding:.15rem .42rem;font-size:.78rem;cursor:pointer;color:var(--ink3);transition:all .15s;line-height:1.3}
+.mark-btn{background:none;border:1px solid var(--line);border-radius:6px;padding:.15rem .42rem;font-size:.82rem;cursor:pointer;color:var(--ink3);transition:all .15s;line-height:1.3}
 .mark-btn:hover{border-color:var(--ink2);color:var(--ink)}
 .mark-btn.m-saved.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 .mark-btn.m-read.active{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
 .mark-btn.m-share:hover{border-color:#2563EB;color:#2563EB}
-.filter-btn{font-size:.78rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
+.filter-btn{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .filter-btn.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 .card--read{opacity:.5}
 
 .empty{grid-column:1/-1;text-align:center;padding:4rem 1rem;color:var(--ink3);font-size:.9rem;line-height:2}
 footer{text-align:center;padding:1.75rem 1rem;font-size:.75rem;color:var(--ink3);border-top:1px solid var(--line);margin-top:.5rem;line-height:2}
 footer a{color:var(--teal);text-decoration:none}
+.footer-btns{display:flex;justify-content:center;align-items:center;gap:.65rem;flex-wrap:wrap;margin-top:.8rem;margin-bottom:.25rem}
+footer .kofi-btn{font-size:.75rem;padding:.24rem .75rem}
+footer .feedback-btn{color:var(--ink2);border-color:var(--line);font-size:.75rem;padding:.24rem .75rem}
+footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
 .seo-intro{max-width:860px;margin:0 auto;padding:1.25rem 1.5rem;font-size:.82rem;color:var(--ink2);line-height:1.9;border-top:1px solid var(--line)}
 .seo-intro h2{font-size:.9rem;font-weight:700;color:var(--ink);margin-bottom:.4rem}
 .seo-intro p{margin:.3rem 0}
@@ -158,11 +195,35 @@ footer a{color:var(--teal);text-decoration:none}
   <div class="site-sub">近兩個月新書 85折 ｜ 整合博客來 × 讀墨 × Goodreads × Amazon 評分</div>
   <div class="header-row">
     <span class="week-badge" id="weekBadge">載入中...</span>
-    <a class="nav-link" href="/">📚 每週 99 書單</a>
-    <a class="kofi-btn" href="https://ko-fi.com/kobo99tw" target="_blank">☕ 請我喝杯咖啡</a>
   </div>
+  <div class="sale-period" id="salePeriod">&nbsp;</div>
 </header>
-
+<div id="promoBar">
+  <span class="promo-text" id="promoBarText"></span>
+  <a class="promo-link" id="promoBarLink" href="#" target="_blank" rel="noopener" style="display:none">詳情 →</a>
+  <button class="promo-btn" id="promoBarBtn" style="display:none" onclick="openPromoModal()">詳情 ▸</button>
+  <button id="promoBarClose" onclick="closePromoBar()" title="關閉">✕</button>
+</div>
+<div id="promoBar2">
+  <span class="promo-text" id="promoBar2Text"></span>
+  <a class="promo-link" id="promoBar2Link" href="#" target="_blank" rel="noopener" style="display:none">詳情 →</a>
+  <button class="promo-btn" id="promoBar2Btn" style="display:none" onclick="openPromoModal2()">詳情 ▸</button>
+  <button id="promoBar2Close" onclick="closePromoBar2()" title="關閉">✕</button>
+</div>
+<div id="promoModal2" onclick="if(event.target===this)closePromoModal2()">
+  <div class="promo-modal-box">
+    <div class="promo-modal-title" id="promoModal2Title"></div>
+    <div class="promo-modal-body" id="promoModal2Body"></div>
+    <button class="promo-modal-close" onclick="closePromoModal2()">關閉</button>
+  </div>
+</div>
+<div id="promoModal" onclick="if(event.target===this)closePromoModal()">
+  <div class="promo-modal-box">
+    <div class="promo-modal-title" id="promoModalTitle"></div>
+    <div class="promo-modal-body" id="promoModalBody"></div>
+    <button class="promo-modal-close" onclick="closePromoModal()">關閉</button>
+  </div>
+</div>
 <div class="theme-tabs-wrap">
 <div class="theme-tabs" id="themeTabs">
   <a href="/" class="theme-tab">📚 每週99</a>
@@ -172,7 +233,7 @@ footer a{color:var(--teal);text-decoration:none}
   <span class="label">🏷️ <span id="promoperiodText"></span> 折扣碼：</span>
   <span class="code" id="promoCodeText"></span>
   <button class="copy-btn" id="promoCopyBtn" onclick="copyPromoCode()">📋 複製</button>
-  <span style="font-size:.78rem;color:var(--ink3)">結帳時貼上套用折扣</span>
+  <span style="font-size:.82rem;color:var(--ink3)">結帳時貼上套用折扣</span>
 </div>
 <div class="toolbar">
   <label>排序</label>
@@ -199,6 +260,10 @@ footer a{color:var(--teal);text-decoration:none}
 </section>
 
 <footer>
+  <div class="footer-btns">
+    <a class="kofi-btn" href="https://ko-fi.com/kobo99tw" target="_blank">☕ 請我喝杯咖啡</a>
+    <a href="https://forms.gle/vq6FpsBhc1RZmq4A8" target="_blank" class="feedback-btn">📝 回報問題</a>
+  </div>
   資料來源：
   <a href="https://www.kobo.com/zh/blog" target="_blank">Kobo 官方部落格</a>、
   <a href="https://www.books.com.tw" target="_blank">博客來</a>、
@@ -503,6 +568,27 @@ function render() {
   }).join("");
 }
 
+function autolinkText(txt) {
+  const esc = txt.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return esc.replace(/https?:\/\/\S+/g, u =>
+    `<a href="${u}" target="_blank" rel="noopener" style="color:#1E3A5F;word-break:break-all">${u}</a>`
+  ).replace(/\n/g,'<br>');
+}
+function openPromoModal()   { document.getElementById('promoModal').classList.add('open'); }
+function closePromoModal()  { document.getElementById('promoModal').classList.remove('open'); }
+function openPromoModal2()  { document.getElementById('promoModal2').classList.add('open'); }
+function closePromoModal2() { document.getElementById('promoModal2').classList.remove('open'); }
+function closePromoBar2() {
+  const bar = document.getElementById('promoBar2');
+  bar.style.display = 'none';
+  try { sessionStorage.setItem('promo2Closed_' + (bar.dataset.end||'x'), '1'); } catch(e) {}
+}
+function closePromoBar() {
+  const bar = document.getElementById('promoBar');
+  bar.style.display = 'none';
+  const key = 'promoClosed_' + (bar.dataset.end || 'x');
+  try { sessionStorage.setItem(key, '1'); } catch(e) {}
+}
 async function copyPromoCode() {
   const code = document.getElementById('promoCodeText').textContent;
   const btn  = document.getElementById('promoCopyBtn');
@@ -534,6 +620,54 @@ loadData();
       if (cfg.weekly99TabLabel) {
         const w = tabs.querySelector('a:first-child');
         if (w) w.textContent = '📚 ' + cfg.weekly99TabLabel;
+      }
+      // 促銷公告橫條
+      if (cfg.promoVisible !== false && cfg.promoText) {
+        const twnNow = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
+        const todayStr = twnNow.toISOString().slice(0,10);
+        const expired = cfg.promoEnd && todayStr > cfg.promoEnd;
+        const closedKey = 'promoClosed_' + (cfg.promoEnd || 'x');
+        const closed = (() => { try { return sessionStorage.getItem(closedKey); } catch(e) { return null; } })();
+        if (!expired && !closed) {
+          const bar = document.getElementById('promoBar');
+          bar.dataset.end = cfg.promoEnd || 'x';
+          document.getElementById('promoBarText').textContent = cfg.promoText;
+          if (cfg.promoDesc) {
+            document.getElementById('promoModalTitle').textContent  = cfg.promoText;
+            document.getElementById('promoModalBody').innerHTML = autolinkText(cfg.promoDesc);
+            document.getElementById('promoBarBtn').style.display = '';
+          }
+          if (cfg.promoUrl) {
+            const lnk = document.getElementById('promoBarLink');
+            lnk.href = cfg.promoUrl;
+            lnk.textContent = '購買連結 →';
+            lnk.style.display = '';
+          }
+          bar.style.display = 'flex';
+        }
+      }
+      if (cfg.promo2Visible !== false && cfg.promo2Text) {
+        const t2 = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
+        const d2 = t2.toISOString().slice(0,10);
+        const exp2 = cfg.promo2End && d2 > cfg.promo2End;
+        const cl2 = (() => { try { return sessionStorage.getItem('promo2Closed_' + (cfg.promo2End||'x')); } catch(e) { return null; } })();
+        if (!exp2 && !cl2) {
+          const bar2 = document.getElementById('promoBar2');
+          bar2.dataset.end = cfg.promo2End || 'x';
+          document.getElementById('promoBar2Text').textContent = cfg.promo2Text;
+          if (cfg.promo2Desc) {
+            document.getElementById('promoModal2Title').textContent  = cfg.promo2Text;
+            document.getElementById('promoModal2Body').innerHTML = autolinkText(cfg.promo2Desc);
+            document.getElementById('promoBar2Btn').style.display = '';
+          }
+          if (cfg.promo2Url) {
+            const l2 = document.getElementById('promoBar2Link');
+            l2.href = cfg.promo2Url;
+            l2.textContent = '購買連結 →';
+            l2.style.display = '';
+          }
+          bar2.style.display = 'flex';
+        }
       }
     }
   } catch(e) {}
@@ -581,6 +715,12 @@ loadData();
         if (sortSel && t.defaultSort) sortSel.value = t.defaultSort;
         const sub = document.querySelector('.site-sub');
         if (sub) sub.textContent = subTitle;
+        // sale period 行（saleNote 或 promo_code）
+        const spEl = document.getElementById('salePeriod');
+        if (spEl) {
+          const spText = t.saleNote || (t.promo_code ? '折扣碼：' + t.promo_code + (t.promo_period ? '（' + t.promo_period + '）' : '') : '');
+          spEl.textContent = spText || ' ';
+        }
         // 更新 seo-intro
         const seoTitle = document.getElementById('seoIntroTitle');
         const seoStrong = document.getElementById('seoIntroStrong');
