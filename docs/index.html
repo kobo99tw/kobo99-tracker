@@ -336,10 +336,9 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   <select id="sortSel" onchange="render()">
     <option value="order"    selected>書單順序</option>
     <option value="avg">綜合評分 ↓</option>
-    <option value="books_com">博客來 ↓</option>
-    <option value="goodreads">Goodreads ↓</option>
-    <option value="amazon">Amazon ↓</option>
     <option value="saving">折扣幅度 ↓</option>
+    <option value="readmoo">讀墨 ↓</option>
+    <option value="goodreads">Goodreads ↓</option>
   </select>
   <button id="filterSavedBtn" class="filter-btn" onclick="toggleFilterSaved()">🔖 只看收藏</button>
   <button class="filter-btn" onclick="openCalModal()">📅 日曆</button>
@@ -495,16 +494,8 @@ function openPromoModal()   { document.getElementById('promoModal').classList.ad
 function closePromoModal()  { document.getElementById('promoModal').classList.remove('open'); }
 function openPromoModal2()  { document.getElementById('promoModal2').classList.add('open'); }
 function closePromoModal2() { document.getElementById('promoModal2').classList.remove('open'); }
-function closePromoBar2() {
-  document.getElementById('promoBar2').style.display = 'none';
-  const key = 'promo2Closed_' + (_siteCfg.promo2End || 'x');
-  try { sessionStorage.setItem(key, '1'); } catch(e) {}
-}
-function closePromoBar() {
-  document.getElementById('promoBar').style.display = 'none';
-  const key = 'promoClosed_' + (_siteCfg.promoEnd || 'x');
-  try { sessionStorage.setItem(key, '1'); } catch(e) {}
-}
+function closePromoBar2() { document.getElementById('promoBar2').style.display = 'none'; }
+function closePromoBar()  { document.getElementById('promoBar').style.display  = 'none'; }
 function closeCalModal() { document.getElementById('calModal').classList.remove('open'); }
 
 const LS_SAVED = 'kobo99_saved';
@@ -597,9 +588,8 @@ function render() {
 
   books.sort((a, b) => {
     if (sort === "avg")       return (b.avg_score ?? 0) - (a.avg_score ?? 0);
-    if (sort === "books_com") return (b.ratings?.books_com?.score  ?? 0) - (a.ratings?.books_com?.score  ?? 0);
+    if (sort === "readmoo")   return (b.ratings?.readmoo?.score    ?? 0) - (a.ratings?.readmoo?.score    ?? 0);
     if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
-    if (sort === "amazon")    return (b.ratings?.amazon_com?.score ?? 0) - (a.ratings?.amazon_com?.score ?? 0);
     if (sort === "saving")    return saving(b) - saving(a);
     // 書單順序：今日 → 未來（時序）→ 過去（時序）
     const av = dateVal(a.date), bv = dateVal(b.date);
@@ -783,6 +773,10 @@ loadData();
         const el = document.getElementById('seoIntroDesc');
         if (el) el.textContent = cfg.weekly99SeoDesc;
       }
+      if (cfg.weekly99DefaultSort) {
+        const sel = document.getElementById('sortSel');
+        if (sel) { sel.value = cfg.weekly99DefaultSort; render(); }
+      }
       const kofiEl = document.querySelector('.kofi-btn');
       if (kofiEl) {
         if (cfg.kofiVisible === false) kofiEl.style.display = 'none';
@@ -809,9 +803,7 @@ loadData();
         const twnNow = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
         const todayStr = twnNow.toISOString().slice(0,10);
         const expired = cfg.promoEnd && todayStr > cfg.promoEnd;
-        const closedKey = 'promoClosed_' + (cfg.promoEnd || 'x');
-        const closed = (() => { try { return sessionStorage.getItem(closedKey); } catch(e) { return null; } })();
-        if (!expired && !closed) {
+        if (!expired) {
           document.getElementById('promoBarText').textContent = cfg.promoText;
           if (cfg.promoDesc) {
             document.getElementById('promoModalTitle').textContent  = cfg.promoText;
@@ -832,8 +824,7 @@ loadData();
         const twnNow2 = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
         const todayStr2 = twnNow2.toISOString().slice(0,10);
         const expired2 = cfg.promo2End && todayStr2 > cfg.promo2End;
-        const closed2 = (() => { try { return sessionStorage.getItem('promo2Closed_' + (cfg.promo2End||'x')); } catch(e) { return null; } })();
-        if (!expired2 && !closed2) {
+        if (!expired2) {
           document.getElementById('promoBar2Text').textContent = cfg.promo2Text;
           if (cfg.promo2Desc) {
             document.getElementById('promoModal2Title').textContent  = cfg.promo2Text;

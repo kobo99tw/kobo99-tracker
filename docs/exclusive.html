@@ -252,10 +252,10 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   <select id="sortSel" onchange="render()">
     <option value="avg" selected>綜合評分 ↓</option>
     <option value="order">書單順序</option>
-    <option value="books_com">博客來 ↓</option>
+    <option value="expiry">折扣到期 ↑</option>
+    <option value="saving">折扣幅度 ↓</option>
+    <option value="readmoo">讀墨 ↓</option>
     <option value="goodreads">Goodreads ↓</option>
-    <option value="amazon">Amazon ↓</option>
-    <option value="saving">折扣金額 ↓</option>
   </select>
   <button id="filterSavedBtn" class="filter-btn" onclick="toggleFilterSaved()">🔖 只看收藏</button>
   <div class="stat-chips" id="chips"></div>
@@ -268,7 +268,6 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
 <section class="seo-intro">
   <h2 id="seoIntroTitle">關於 Kobo 獨家優惠書單</h2>
   <p id="seoIntroDesc"><strong id="seoIntroStrong">Kobo 獨家優惠書單</strong>整理 Kobo 台灣近兩個月新書 85 折特惠，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值新書。</p>
-  <p>每本書附有折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。</p>
 </section>
 
 <footer>
@@ -320,7 +319,6 @@ function daysLeft(saleEnd) {
   if (!m || !d) return null;
   const today = new Date(); today.setHours(0,0,0,0);
   const end   = new Date(today.getFullYear(), m - 1, d);
-  if (end < today) end.setFullYear(end.getFullYear() + 1);
   return Math.round((end - today) / 86400000);
 }
 
@@ -445,9 +443,11 @@ function rakutenDeepLink(url) {
   return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=40380&murl=' + encodeURIComponent(cleanKoboUrl(url));
 }
 
+const _CURRENT_FILE = (() => { const p = new URLSearchParams(location.search); return p.get('file') || 'exclusive.json'; })();
+
 async function loadData() {
   const params   = new URLSearchParams(location.search);
-  const rawFile  = params.get('file') || 'exclusive.json';
+  const rawFile  = _CURRENT_FILE;
   const safeFile = /^[a-z0-9_]+\.json$/.test(rawFile) ? rawFile : 'exclusive.json';
   try {
     const res = await fetch("data/" + safeFile);
@@ -463,17 +463,23 @@ async function loadData() {
 function render() {
   if (!DATA) return;
   const sort  = document.getElementById("sortSel").value;
+  try { localStorage.setItem('kobo99_sort_' + _CURRENT_FILE, sort); } catch(e) {}
   const saved = getSet(LS_SAVED);
   const read  = getSet(LS_READ);
   let books = [...DATA.books];
   if (filterSaved) books = books.filter(b => saved.has(b.isbn));
 
   books.sort((a, b) => {
-    if (sort === "books_com") return (b.ratings?.books_com?.score  ?? 0) - (a.ratings?.books_com?.score  ?? 0);
+    if (sort === "readmoo")   return (b.ratings?.readmoo?.score    ?? 0) - (a.ratings?.readmoo?.score    ?? 0);
     if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
-    if (sort === "amazon")    return (b.ratings?.amazon_com?.score ?? 0) - (a.ratings?.amazon_com?.score ?? 0);
     if (sort === "saving")    return saving(b) - saving(a);
     if (sort === "avg")       return (b.avg_score ?? 0) - (a.avg_score ?? 0);
+    if (sort === "expiry") {
+      const da = daysLeft(a.sale_end), db = daysLeft(b.sale_end);
+      const va = (da === null || da < 0) ? 99999 : da;
+      const vb = (db === null || db < 0) ? 99999 : db;
+      return va - vb;
+    }
     return 0; // 書單順序
   });
 
@@ -590,17 +596,8 @@ function openPromoModal()   { document.getElementById('promoModal').classList.ad
 function closePromoModal()  { document.getElementById('promoModal').classList.remove('open'); }
 function openPromoModal2()  { document.getElementById('promoModal2').classList.add('open'); }
 function closePromoModal2() { document.getElementById('promoModal2').classList.remove('open'); }
-function closePromoBar2() {
-  const bar = document.getElementById('promoBar2');
-  bar.style.display = 'none';
-  try { sessionStorage.setItem('promo2Closed_' + (bar.dataset.end||'x'), '1'); } catch(e) {}
-}
-function closePromoBar() {
-  const bar = document.getElementById('promoBar');
-  bar.style.display = 'none';
-  const key = 'promoClosed_' + (bar.dataset.end || 'x');
-  try { sessionStorage.setItem(key, '1'); } catch(e) {}
-}
+function closePromoBar2() { document.getElementById('promoBar2').style.display = 'none'; }
+function closePromoBar()  { document.getElementById('promoBar').style.display  = 'none'; }
 async function copyPromoCode() {
   const code = document.getElementById('promoCodeText').textContent;
   const btn  = document.getElementById('promoCopyBtn');
@@ -638,9 +635,7 @@ loadData();
         const twnNow = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
         const todayStr = twnNow.toISOString().slice(0,10);
         const expired = cfg.promoEnd && todayStr > cfg.promoEnd;
-        const closedKey = 'promoClosed_' + (cfg.promoEnd || 'x');
-        const closed = (() => { try { return sessionStorage.getItem(closedKey); } catch(e) { return null; } })();
-        if (!expired && !closed) {
+        if (!expired) {
           const bar = document.getElementById('promoBar');
           bar.dataset.end = cfg.promoEnd || 'x';
           document.getElementById('promoBarText').textContent = cfg.promoText;
@@ -662,8 +657,7 @@ loadData();
         const t2 = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
         const d2 = t2.toISOString().slice(0,10);
         const exp2 = cfg.promo2End && d2 > cfg.promo2End;
-        const cl2 = (() => { try { return sessionStorage.getItem('promo2Closed_' + (cfg.promo2End||'x')); } catch(e) { return null; } })();
-        if (!exp2 && !cl2) {
+        if (!exp2) {
           const bar2 = document.getElementById('promoBar2');
           bar2.dataset.end = cfg.promo2End || 'x';
           document.getElementById('promoBar2Text').textContent = cfg.promo2Text;
@@ -724,7 +718,7 @@ loadData();
         if (h1) h1.textContent = emoji + ' ' + mainTitle;
         // 預設排序
         const sortSel = document.getElementById('sortSel');
-        if (sortSel && t.defaultSort) sortSel.value = t.defaultSort;
+        if (sortSel) sortSel.value = t.defaultSort || 'order';
         const sub = document.querySelector('.site-sub');
         if (sub) sub.textContent = subTitle;
         // sale period 行（saleNote 或 promo_code）
