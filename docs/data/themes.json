@@ -12,6 +12,20 @@
     "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
   },
   {
+    "defaultSort": "order",
+    "file": "theme_1779378338324.json",
+    "headTitle": "《臺灣漫遊錄》楊双子作品集",
+    "key": "theme_1779378338324",
+    "label": "《臺灣漫遊錄》獲國際布克獎",
+    "sale": "有聲書79折至6/30止",
+    "seoDesc": "整理楊双子作品書單，包含電子書與有聲書。《臺灣漫遊錄》榮獲 2026 年國際布克獎，為首部獲此殊榮的臺灣文學作品，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較選購。",
+    "subtitle": "首次有臺灣文學作品獲頒國際布克獎",
+    "tabEmoji": "🏆",
+    "tabLabel": "《臺灣漫遊錄》",
+    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
+  },
+  {
+    "defaultSort": "avg",
     "file": "theme_1779353467078.json",
     "headTitle": "本週精選書單",
     "key": "theme_1779353467078",
@@ -24,18 +38,5 @@
     "tabEmoji": "✨",
     "tabLabel": "本週精選",
     "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21"
-  },
-  {
-    "defaultSort": "order",
-    "file": "theme_1779378338324.json",
-    "headTitle": "《臺灣漫遊錄》楊双子作品集",
-    "key": "theme_1779378338324",
-    "label": "《臺灣漫遊錄》獲國際布克獎",
-    "sale": "有聲書79折至6/30止",
-    "seoDesc": "整理楊双子作品書單，包含電子書與有聲書。《臺灣漫遊錄》榮獲 2026 年國際布克獎，為首部獲此殊榮的臺灣文學作品，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較選購。",
-    "subtitle": "首次有臺灣文學作品獲頒國際布克獎",
-    "tabEmoji": "🏆",
-    "tabLabel": "《臺灣漫遊錄》",
-    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
   }
 ]
