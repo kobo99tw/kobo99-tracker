@@ -8,22 +8,22 @@
     "seoDesc": "Kobo 獨家優惠書單整理 Kobo 台灣近兩個月新書 85 折特惠，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值新書。每本書附有折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。",
     "subtitle": "用閱讀豐富你我的人生（每週更新）",
     "tabEmoji": "🎁",
-    "tabLabel": "新書獨家優惠",
+    "tabLabel": "新書優惠",
     "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
   },
   {
     "file": "theme_1779353467078.json",
+    "headTitle": "本週精選書單",
     "key": "theme_1779353467078",
     "label": "【5/18-5/24精選書單】當語言與文明逐漸枯萎，唯有愛與記憶在黑暗中閃爍微光。",
     "promo_code": "WKSelect0518",
     "promo_period": "5/18-5/24",
     "sale": "5/18-5/24 結帳打折扣碼",
     "seoDesc": "整理 Kobo 每週精選超人氣書單，可輸入折扣碼享折扣，整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選高 CP 值好書。",
+    "subtitle": "當語言與文明逐漸枯萎，唯有愛與記憶在黑暗中閃爍微光。",
     "tabEmoji": "✨",
-    "tabLabel": "本週精選書單",
-    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21",
-    "headTitle": "本週精選書單",
-    "subtitle": "當語言與文明逐漸枯萎，唯有愛與記憶在黑暗中閃爍微光。"
+    "tabLabel": "本週精選",
+    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w21"
   },
   {
     "defaultSort": "order",
