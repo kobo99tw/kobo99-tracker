@@ -1,15 +1,15 @@
 {
   "weekly99TabLabel": "每日99",
-  "weekly99HeadTitle": "每日99書單",
+  "weekly99HeadTitle": "📚 每週99書單",
   "weekly99Subtitle": "整合 Kobo × 博客來 × 讀墨 × Goodreads × Amazon 評分 ｜ 每週更新",
-  "weekly99SeoDesc": "Kobo 每週 99 書單自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合博客來、讀墨、Goodreads、Amazon 四大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、博客來評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。",
+  "weekly99SeoDesc": "Kobo 每週 99 書單自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、讀墨評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。",
   "promoText": "5/22～5/24 單筆滿 $555 送 111 樂天點數",
   "promoEnd": "2026-05-24",
   "promoUrl": null,
   "promoDesc": "活動期間：5/22（五）～5/24（日）\n單筆滿 $555 送 111 樂天點數\n單筆滿 $888 加碼抽桃猿 VIP 門票\n活動規則及抽獎登記表單：https://forms.office.com/r/5mcMGDtrtX。\n※點數於 6/18 給點，有效至 7/30",
   "promoVisible": true,
   "promo2Text": "Kobo 閱讀器 6/1 起漲價，5/31 前購買省最多!",
-  "promo2End": "2026-05-30",
+  "promo2End": "2026-05-31",
   "promo2Url": "https://r10.to/h5H5TI",
   "promo2LinkLabel": null,
   "promo2Desc": "kobo 官方FB內容連結 https://reurl.cc/yOaDXy\n自2026年6月1日起，台灣售價調整如下：\n樂天Kobo Libra Colour 7吋彩色電子書閱讀器：\n由TWD 7,699 調整為 TWD 8,799\n樂天Kobo Clara Colour 6吋彩色電子書閱讀器：\n由TWD 5,599 調整為 TWD 6,299\n樂天Kobo Clara BW 6吋電子書閱讀器：\n由TWD 4,899 調整為 TWD 5,599",
@@ -21,5 +21,6 @@
   "kofiVisible": true,
   "feedbackText": "📝 回報錯誤",
   "feedbackUrl": "https://forms.gle/vq6FpsBhc1RZmq4A8",
-  "feedbackVisible": true
+  "feedbackVisible": true,
+  "weekly99DefaultSort": null
 }
