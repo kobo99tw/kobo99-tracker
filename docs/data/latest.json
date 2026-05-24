@@ -92,17 +92,18 @@
         "goodreads": {
           "score": 4.11,
           "count": 2498,
-          "url": "https://www.goodreads.com/book/show/29868590-tao-of-charlie-munger?from_search=true&from_srp=true&qid=i434beqeBp&rank=1",
-          "note": "title"
+          "url": "https://www.goodreads.com/book/show/52209270?from_search=true&from_srp=true&qid=LMur3nuuqg&rank=1",
+          "note": "zh-title+author"
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 162,
-          "url": "https://www.amazon.com/-/zh_TW/Art-Being-Rational-Charlie-Munger/dp/164633759X/ref=sr_1_4"
+          "score": 4.7,
+          "count": 26,
+          "url": "https://www.amazon.com/-/zh_TW/%E5%A4%A7%E8%A1%9B%E2%80%A7%E5%85%8B%E6%8B%89%E5%85%8B-David-Clark-ebook/dp/B07W7RB72Q/ref=sr_1_1"
         }
       },
       "avg_score": 4.12,
-      "short_affiliate_url": "https://reurl.cc/Wbod79"
+      "short_affiliate_url": "https://reurl.cc/Wbod79",
+      "original_author": "Mary Buffett"
     },
     {
       "title": "韧性时代：重新思考人类的发展与进化",
@@ -189,7 +190,8 @@
           "score": 4.16,
           "count": 6483,
           "url": "https://www.goodreads.com/book/show/20706257-the-thicket",
-          "note": "title"
+          "note": "title+author",
+          "amazon_url": ""
         },
         "amazon_com": {
           "score": 4.5,
@@ -198,7 +200,8 @@
         }
       },
       "avg_score": 4.26,
-      "short_affiliate_url": "https://reurl.cc/Q2odxM"
+      "short_affiliate_url": "https://reurl.cc/Q2odxM",
+      "original_author": "Joe R. Lansdale"
     },
     {
       "title": "太空人都在做什麼？：人氣漫畫《宇宙兄弟》的太空人原型，首位自拍太空漫步的宇Tuber，野口聰一的太空任務精采紀錄",
@@ -282,19 +285,20 @@
           "url": "https://readmoo.com/book/210346242000101"
         },
         "goodreads": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/216253181?from_search=true&from_srp=true&qid=mKfFH2sHvz&rank=1",
+          "score": 3.99,
+          "count": 1677,
+          "url": "https://www.goodreads.com/book/show/8131147-couch-fiction",
           "note": "author"
         },
         "amazon_com": {
-          "score": 3.9,
-          "count": 18541,
-          "url": "https://www.amazon.com/Room-Rent-Noelle-West-Ihli/dp/B0CJF5CD21/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_1_1/135-2375725-5250830"
+          "score": 4.6,
+          "count": 369,
+          "url": "https://a.co/d/09ZPHPBA"
         }
       },
-      "avg_score": 3.9,
-      "short_affiliate_url": "https://reurl.cc/N2oj9k"
+      "avg_score": 4.11,
+      "short_affiliate_url": "https://reurl.cc/N2oj9k",
+      "original_author": "菲莉帕‧派瑞"
     },
     {
       "title": "利馬古書商",
@@ -325,24 +329,26 @@
           "url": "https://www.books.com.tw/products/E050019569"
         },
         "readmoo": {
+          "score": 3.9,
+          "count": 16,
+          "url": "https://readmoo.com/book/210026148000101"
+        },
+        "goodreads": {
+          "score": 3.24,
+          "count": 815,
+          "url": "https://www.goodreads.com/book/show/26081192?from_search=true&from_srp=true&qid=ExeKDovbM5&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": ""
+        },
+        "amazon_com": {
           "score": null,
           "count": 0,
           "url": ""
-        },
-        "goodreads": {
-          "score": 3.51,
-          "count": 941,
-          "url": "https://www.goodreads.com/book/show/19218477-el-anticuario?from_search=true&from_srp=true&qid=6cdaYiqpek&rank=2",
-          "note": "title"
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 216,
-          "url": "https://www.amazon.com/-/zh_TW/Juli%C3%A1n-S%C3%A1nchez-ebook/dp/B00A0AFNMK/ref=sr_1_2"
         }
       },
-      "avg_score": 3.6,
-      "short_affiliate_url": "https://reurl.cc/R2o4mx"
+      "avg_score": 3.25,
+      "short_affiliate_url": "https://reurl.cc/R2o4mx",
+      "original_author": "Gustavo Faverón Patriau"
     },
     {
       "title": "月相生活指南：隨著月亮的盈缺，重回內在的自然節奏",
@@ -379,9 +385,10 @@
         },
         "goodreads": {
           "score": 3.99,
-          "count": 1591,
-          "url": "https://www.goodreads.com/book/show/51149582-lunar-living?from_search=true&from_srp=true&qid=2ZyYAvutY4&rank=1",
-          "note": "title"
+          "count": 1593,
+          "url": "https://www.goodreads.com/book/show/51149582-lunar-living?from_search=true&from_srp=true&qid=0UrDH0GbSv&rank=1",
+          "note": "title",
+          "amazon_url": ""
         },
         "amazon_com": {
           "score": 4.7,
@@ -390,7 +397,8 @@
         }
       },
       "avg_score": 4.42,
-      "short_affiliate_url": "https://reurl.cc/qpqd6y"
+      "short_affiliate_url": "https://reurl.cc/qpqd6y",
+      "original_author": "Kirsty  Gallagher"
     }
   ]
 }

@@ -33,10 +33,11 @@
           "url": "https://readmoo.com/book/210468794000101"
         },
         "goodreads": {
-          "score": 4.2,
-          "count": 5,
-          "url": "https://www.goodreads.com/book/show/35647370?from_search=true&from_srp=true&qid=neTpMK8wTV&rank=1",
-          "note": "author"
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/isbn/9786267713969",
+          "note": "isbn",
+          "amazon_url": ""
         },
         "amazon_com": {
           "score": null,
@@ -44,7 +45,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.67,
+      "avg_score": 4.79,
       "short_affiliate_url": "https://reurl.cc/lpOV29"
     },
     {
@@ -90,7 +91,8 @@
         }
       },
       "avg_score": 4.39,
-      "short_affiliate_url": "https://reurl.cc/7EqXND"
+      "short_affiliate_url": "https://reurl.cc/7EqXND",
+      "original_author": "Merlin Sheldrake"
     },
     {
       "title": "搞定人心需要的一切，貓都教會我了：貓是最好的談判教練，隨心所欲打動人心的優雅說服術，不翻臉也能達成目的",
@@ -124,14 +126,15 @@
         },
         "goodreads": {
           "score": 3.39,
-          "count": 1792,
-          "url": "https://www.goodreads.com/book/isbn/9786267871232",
-          "note": "isbn"
+          "count": 1793,
+          "url": "https://www.goodreads.com/book/show/251097752?from_search=true&from_srp=true&qid=Gbh9bm9Uou&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0GX7N1K7Q/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.5,
           "count": 755,
-          "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B07DJZFSLY/ref=sr_1_1"
+          "url": "https://www.amazon.com/-/zh_TW/Jay-Heinrichs-ebook/dp/B07BVDDVZ2/ref=sr_1_1"
         }
       },
       "avg_score": 3.72,
@@ -168,18 +171,19 @@
           "url": "https://readmoo.com/book/210457997000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊"
+          "score": 4.0,
+          "count": 17,
+          "url": "https://www.goodreads.com/book/show/228443401-collaborating-with-the-enemy-second-edition?from_search=true&from_srp=true&qid=MM7aUTiQzj&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FGPCNMKH/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.3,
-          "count": 419,
-          "url": "https://www.amazon.com/-/zh_TW/Collaborating-Enemy-Second-People-Agree/dp/B0DYHQKRGB/ref=sr_1_1"
+          "count": 421,
+          "url": "https://www.amazon.com/gp/product/B0FGPCNMKH/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.3,
+      "avg_score": 4.29,
       "short_affiliate_url": "https://reurl.cc/ppRd2Z"
     },
     {
@@ -214,9 +218,10 @@
         },
         "goodreads": {
           "score": 5.0,
-          "count": 0,
-          "url": "https://www.goodreads.com/book/isbn/9789570879902",
-          "note": "isbn"
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/250778085?from_search=true&from_srp=true&qid=DVgFLjdWa0&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FM8WY2BL/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": null,
@@ -230,7 +235,7 @@
     {
       "title": "埃及史：神祕與驚奇的古國",
       "author": "張倩紅",
-      "original_title": "The Ancient Land of Mysteries and Wonders: A History of Egypt",
+      "original_title": "",
       "isbn": "9786264381093",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/KCN85nY80Tuiw5p7l4BSJg?sid=cfde1164-971c-408c-a4c1-a9fda40079dc&ssid=WUoXW9_mPuk1Fb86yhgk0&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260518",
       "kobo_price": "NT$211",
@@ -259,18 +264,19 @@
         },
         "goodreads": {
           "score": 4.0,
-          "count": 0,
-          "url": "https://www.goodreads.com/book/show/60291717-3000?from_search=true&from_srp=true&qid=P5HcTkcU0Q&rank=1",
-          "note": "author"
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/116967255",
+          "note": "台灣本地書"
         },
         "amazon_com": {
-          "score": 4.9,
-          "count": 31,
-          "url": "https://www.amazon.com/-/zh_TW/Lorna-Oakes/dp/0754815021/ref=sr_1_3"
+          "score": null,
+          "count": 0,
+          "url": "https://www.goodreads.com/book/show/116967255"
         }
       },
-      "avg_score": 4.87,
-      "short_affiliate_url": "https://reurl.cc/Z2oOgW"
+      "avg_score": 4.0,
+      "short_affiliate_url": "https://reurl.cc/Z2oOgW",
+      "book_type": "台灣本地書"
     },
     {
       "title": "古生物學家在幹嘛【電子書獨有贈品_恐龍手機桌布2款】",
@@ -305,8 +311,9 @@
         "goodreads": {
           "score": 4.5,
           "count": 2,
-          "url": "https://www.goodreads.com/book/isbn/9786267813409",
-          "note": "isbn"
+          "url": "https://www.goodreads.com/book/show/247963777-2?from_search=true&from_srp=true&qid=ilpjC5BOr8&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0GN8T5GVL/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": null,
@@ -348,18 +355,19 @@
           "url": "https://readmoo.com/book/210457009000101"
         },
         "goodreads": {
-          "score": 3.91,
-          "count": 122,
-          "url": "https://www.goodreads.com/book/show/55564298-peak-40?from_search=true&from_srp=true&qid=H2t1jlw32n&rank=1",
-          "note": "title"
+          "score": 3.9,
+          "count": 123,
+          "url": "https://www.goodreads.com/book/show/55564298-peak-40?from_search=true&from_srp=true&qid=4yzlVPFZmi&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B095CH57XM/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.3,
           "count": 104,
-          "url": "https://www.amazon.com/-/zh_TW/AUDIBLE/dp/B0924YTLJH/ref=sr_1_1"
+          "url": "https://www.amazon.com/gp/product/B095CH57XM/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.09,
+      "avg_score": 4.08,
       "short_affiliate_url": "https://reurl.cc/r0Vx2r"
     },
     {
@@ -395,13 +403,14 @@
         "goodreads": {
           "score": 3.78,
           "count": 23,
-          "url": "https://www.goodreads.com/book/show/225642104-you-to-the-power-of-two?from_search=true&from_srp=true&qid=sOVnJfGqqj&rank=1",
-          "note": "title"
+          "url": "https://www.goodreads.com/book/show/247899235-ai?from_search=true&from_srp=true&qid=VGGcmxD4Qq&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D2FF98Y4/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.5,
           "count": 16,
-          "url": "https://www.amazon.com/-/zh_TW/You-Power-Two-Redefining-Potential/dp/1637747845/ref=sr_1_1"
+          "url": "https://www.amazon.com/gp/product/B0D2FF98Y4/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.0,
@@ -440,13 +449,14 @@
         "goodreads": {
           "score": 3.97,
           "count": 5195,
-          "url": "https://www.goodreads.com/book/show/124432.White_Mughals?from_search=true&from_srp=true&qid=b6By0hMOJZ&rank=1",
-          "note": "title"
+          "url": "https://www.goodreads.com/book/show/124432.White_Mughals?from_search=true&from_srp=true&qid=U88gV2gGMT&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B002ENBLUO/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.5,
           "count": 1037,
-          "url": "https://www.amazon.com/-/zh_TW/William-Dalrymple-ebook/dp/B002ENBLUO/ref=sr_1_1"
+          "url": "https://www.amazon.com/gp/product/B002ENBLUO/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.06,

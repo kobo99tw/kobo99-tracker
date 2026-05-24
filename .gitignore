@@ -35,6 +35,8 @@ CLAUDE.md
 CHANGELOG.md
 SITE_BUILD_GUIDE.md
 DESIGN_SYSTEM.md
+SCRAPER_RULES.md
+REFACTOR_METHOD.md
 
 # 書單存檔與 Admin 暫存（只需本機）
 docs/data/books-*.json
