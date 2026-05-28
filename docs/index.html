@@ -112,29 +112,34 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .sale-period{font-size:.72rem;color:#D4D4D4;margin-top:.45rem;letter-spacing:.04em}
 
 /* ── 促銷公告橫條 ── */
-#promoBar,#promoBar2{display:none;align-items:center;justify-content:center;gap:.6rem;
+#promoBar,#promoBar2,#promoBar3{display:none;align-items:center;justify-content:center;gap:.6rem;
   padding:.45rem 1.25rem;font-size:.82rem;flex-wrap:wrap}
 #promoBar{background:#7C2D12;color:#FED7AA}
 #promoBar2{background:#1E3A5F;color:#BFDBFE}
-#promoBar .promo-text,#promoBar2 .promo-text{letter-spacing:.02em}
+#promoBar3{background:#14532D;color:#BBF7D0}
+#promoBar .promo-text,#promoBar2 .promo-text,#promoBar3 .promo-text{letter-spacing:.02em}
 #promoBar .promo-link,#promoBar .promo-btn{color:#FED7AA;background:rgba(255,255,255,.18)}
 #promoBar2 .promo-link,#promoBar2 .promo-btn{color:#BFDBFE;background:rgba(255,255,255,.18)}
-#promoBar .promo-link,#promoBar2 .promo-link,#promoBar .promo-btn,#promoBar2 .promo-btn{
+#promoBar3 .promo-link,#promoBar3 .promo-btn{color:#BBF7D0;background:rgba(255,255,255,.18)}
+#promoBar .promo-link,#promoBar2 .promo-link,#promoBar3 .promo-link,
+#promoBar .promo-btn,#promoBar2 .promo-btn,#promoBar3 .promo-btn{
   font-weight:700;white-space:nowrap;padding:.18rem .65rem;border-radius:20px;
   text-decoration:none;transition:background .15s;flex-shrink:0;border:none;cursor:pointer;font-size:.82rem}
-#promoBar .promo-link:hover,#promoBar2 .promo-link:hover,
-#promoBar .promo-btn:hover,#promoBar2 .promo-btn:hover{background:rgba(255,255,255,.3)}
+#promoBar .promo-link:hover,#promoBar2 .promo-link:hover,#promoBar3 .promo-link:hover,
+#promoBar .promo-btn:hover,#promoBar2 .promo-btn:hover,#promoBar3 .promo-btn:hover{background:rgba(255,255,255,.3)}
 #promoBarClose{color:rgba(254,215,170,.65)}
 #promoBar2Close{color:rgba(191,219,254,.65)}
-#promoBarClose,#promoBar2Close{background:none;border:none;font-size:.95rem;cursor:pointer;
+#promoBar3Close{color:rgba(187,247,208,.65)}
+#promoBarClose,#promoBar2Close,#promoBar3Close{background:none;border:none;font-size:.95rem;cursor:pointer;
   padding:.1rem .35rem;margin-left:.15rem;border-radius:4px;line-height:1;flex-shrink:0}
 #promoBarClose:hover{color:#FED7AA;background:rgba(255,255,255,.12)}
 #promoBar2Close:hover{color:#BFDBFE;background:rgba(255,255,255,.12)}
+#promoBar3Close:hover{color:#BBF7D0;background:rgba(255,255,255,.12)}
 .promo-btn{color:#FED7AA;font-weight:700;white-space:nowrap;background:rgba(255,255,255,.18);
   padding:.18rem .65rem;border-radius:20px;border:none;cursor:pointer;font-size:.82rem;flex-shrink:0}
 .promo-btn:hover{background:rgba(255,255,255,.3)}
-#promoModal,#promoModal2{display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.45);align-items:center;justify-content:center}
-#promoModal.open,#promoModal2.open{display:flex}
+#promoModal,#promoModal2,#promoModal3{display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.45);align-items:center;justify-content:center}
+#promoModal.open,#promoModal2.open,#promoModal3.open{display:flex}
 .promo-modal-box{background:#fff;border-radius:14px;padding:1.5rem 1.75rem;width:420px;max-width:92vw;max-height:80vh;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.2)}
 .promo-modal-title{font-size:.95rem;font-weight:700;color:#7C2D12;margin-bottom:.9rem}
 .promo-modal-body{font-size:.84rem;color:#44403C;line-height:1.85;white-space:pre-wrap}
@@ -310,6 +315,19 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   <a class="promo-link" id="promoBar2Link" href="#" target="_blank" rel="noopener" style="display:none">詳情 →</a>
   <button class="promo-btn" id="promoBar2Btn" style="display:none" onclick="openPromoModal2()">詳情 ▸</button>
   <button id="promoBar2Close" onclick="closePromoBar2()" title="關閉">✕</button>
+</div>
+<div id="promoBar3">
+  <span class="promo-text" id="promoBar3Text"></span>
+  <a class="promo-link" id="promoBar3Link" href="#" target="_blank" rel="noopener" style="display:none">詳情 →</a>
+  <button class="promo-btn" id="promoBar3Btn" style="display:none" onclick="openPromoModal3()">詳情 ▸</button>
+  <button id="promoBar3Close" onclick="closePromoBar3()" title="關閉">✕</button>
+</div>
+<div id="promoModal3" onclick="if(event.target===this)closePromoModal3()">
+  <div class="promo-modal-box">
+    <div class="promo-modal-title" id="promoModal3Title"></div>
+    <div class="promo-modal-body" id="promoModal3Body"></div>
+    <button class="promo-modal-close" onclick="closePromoModal3()">關閉</button>
+  </div>
 </div>
 <div id="promoModal2" onclick="if(event.target===this)closePromoModal2()">
   <div class="promo-modal-box">
@@ -494,8 +512,11 @@ function openPromoModal()   { document.getElementById('promoModal').classList.ad
 function closePromoModal()  { document.getElementById('promoModal').classList.remove('open'); }
 function openPromoModal2()  { document.getElementById('promoModal2').classList.add('open'); }
 function closePromoModal2() { document.getElementById('promoModal2').classList.remove('open'); }
+function closePromoBar3() { document.getElementById('promoBar3').style.display = 'none'; }
 function closePromoBar2() { document.getElementById('promoBar2').style.display = 'none'; }
 function closePromoBar()  { document.getElementById('promoBar').style.display  = 'none'; }
+function openPromoModal3()  { document.getElementById('promoModal3').classList.add('open'); }
+function closePromoModal3() { document.getElementById('promoModal3').classList.remove('open'); }
 function closeCalModal() { document.getElementById('calModal').classList.remove('open'); }
 
 const LS_SAVED = 'kobo99_saved';
@@ -838,6 +859,27 @@ loadData();
             lnk2.style.display = '';
           }
           document.getElementById('promoBar2').style.display = 'flex';
+        }
+      }
+      // 促銷公告橫條 3
+      if (cfg.promo3Visible !== false && cfg.promo3Text) {
+        const twnNow3 = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
+        const todayStr3 = twnNow3.toISOString().slice(0,10);
+        const expired3 = cfg.promo3End && todayStr3 > cfg.promo3End;
+        if (!expired3) {
+          document.getElementById('promoBar3Text').textContent = cfg.promo3Text;
+          if (cfg.promo3Desc) {
+            document.getElementById('promoModal3Title').textContent = cfg.promo3Text;
+            document.getElementById('promoModal3Body').innerHTML = autolinkText(cfg.promo3Desc);
+            document.getElementById('promoBar3Btn').style.display = '';
+          }
+          if (cfg.promo3Url) {
+            const lnk3 = document.getElementById('promoBar3Link');
+            lnk3.href = cfg.promo3Url;
+            lnk3.textContent = '購買連結 →';
+            lnk3.style.display = '';
+          }
+          document.getElementById('promoBar3').style.display = 'flex';
         }
       }
     }
