@@ -7,89 +7,89 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:《如何讓人改變想法：關於信念、觀點與說服技巧
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:《卡住你的不是人生，是選擇：跳出5種心理困境，
+ 活出自在人生》
+DESCRIPTION:特價 NT$99｜原價 NT$225\nhttps://reurl.cc/L2zMlK\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/L2zMlK
+UID:kobo99-2026-w22-01@kobo99-tracker
+DTSTAMP:20260528T031110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:《退休後，錢從哪裡來？：掌握兩大養老現金流，
+ 搭配「4%比例」花費原則，打敗未來高齡化又高通膨的
+ 財務計畫》
+DESCRIPTION:特價 NT$99｜原價 NT$280\nhttps://reurl.cc/DxQ3l5\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/DxQ3l5
+UID:kobo99-2026-w22-02@kobo99-tracker
+DTSTAMP:20260528T031110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:《消失的真实：现代社会的思想困境》
+DESCRIPTION:特價 NT$99｜原價 NT$294\nhttps://reurl.cc/bdjEYv\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/bdjEYv
+UID:kobo99-2026-w22-03@kobo99-tracker
+DTSTAMP:20260528T031110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:《鄰家女孩（2022年新版）》
+DESCRIPTION:特價 NT$99｜原價 NT$294\nhttps://reurl.cc/4l7pdK\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/4l7pdK
+UID:kobo99-2026-w22-04@kobo99-tracker
+DTSTAMP:20260528T031110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:《不流淚的統計學：寫給所有人的零基礎統計學入
+ 門》
+DESCRIPTION:特價 NT$99｜原價 NT$266\nhttps://reurl.cc/3klY40\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/3klY40
+UID:kobo99-2026-w22-05@kobo99-tracker
+DTSTAMP:20260528T031110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:《記憶力:最強的商業技能！：教你做好「記憶管理
+ 」:精進學習力、理解力:讓工作和學習更高效》
+DESCRIPTION:特價 NT$99｜原價 NT$270\nhttps://reurl.cc/ep4Oyj\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/ep4Oyj
+UID:kobo99-2026-w22-06@kobo99-tracker
+DTSTAMP:20260528T031110Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:《超越「二」的智慧：《心經》、《金剛經》解讀
  》
-DESCRIPTION:特價 NT$99｜原價 NT$250\nhttps://reurl.cc/epoxAK\n查看
+DESCRIPTION:特價 NT$99｜原價 NT$280\nhttps://reurl.cc/Q2kb5p\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/epoxAK
-UID:kobo99-2026-w21-01@kobo99-tracker
-DTSTAMP:20260524T100311Z
+URL:https://reurl.cc/Q2kb5p
+UID:kobo99-2026-w22-07@kobo99-tracker
+DTSTAMP:20260528T031110Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:《窮查理的智慧語錄》
-DESCRIPTION:特價 NT$99｜原價 NT$300\nhttps://reurl.cc/Wbod79\n查看
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:《痠痛拉筋解剖書【升級增訂版】》
+DESCRIPTION:特價 NT$99｜原價 NT$199\nhttps://reurl.cc/M2xN6v\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Wbod79
-UID:kobo99-2026-w21-02@kobo99-tracker
-DTSTAMP:20260524T100311Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:《韧性时代：重新思考人类的发展与进化》
-DESCRIPTION:特價 NT$99｜原價 NT$264\nhttps://reurl.cc/O6o1ny\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/O6o1ny
-UID:kobo99-2026-w21-03@kobo99-tracker
-DTSTAMP:20260524T100311Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:《惡林（黑暗邪典文學大師喬．蘭斯代爾怪誕溫柔
- 之作）》
-DESCRIPTION:特價 NT$99｜原價 NT$322\nhttps://reurl.cc/Q2odxM\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Q2odxM
-UID:kobo99-2026-w21-04@kobo99-tracker
-DTSTAMP:20260524T100311Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:《太空人都在做什麼？：人氣漫畫《宇宙兄弟》的
- 太空人原型，首位自拍太空漫步的宇Tuber，野口聰一的
- 太空任務精采紀錄》
-DESCRIPTION:特價 NT$99｜原價 NT$294\nhttps://reurl.cc/M2ovVp\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/M2ovVp
-UID:kobo99-2026-w21-05@kobo99-tracker
-DTSTAMP:20260524T100311Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-SUMMARY:《沙發上的心理治療：圖繪治療師與個案的三階段
- 療程故事，看見改變的發生》
-DESCRIPTION:特價 NT$99｜原價 NT$360\nhttps://reurl.cc/N2oj9k\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/N2oj9k
-UID:kobo99-2026-w21-06@kobo99-tracker
-DTSTAMP:20260524T100311Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-SUMMARY:《利馬古書商》
-DESCRIPTION:特價 NT$99｜原價 NT$180\nhttps://reurl.cc/R2o4mx\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/R2o4mx
-UID:kobo99-2026-w21-07@kobo99-tracker
-DTSTAMP:20260524T100311Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260528
-SUMMARY:《月相生活指南：隨著月亮的盈缺，重回內在的自
- 然節奏》
-DESCRIPTION:特價 NT$99｜原價 NT$315\nhttps://reurl.cc/qpqd6y\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qpqd6y
-UID:kobo99-2026-w21-08@kobo99-tracker
-DTSTAMP:20260524T100311Z
+URL:https://reurl.cc/M2xN6v
+UID:kobo99-2026-w22-08@kobo99-tracker
+DTSTAMP:20260528T031110Z
 END:VEVENT
 END:VCALENDAR
