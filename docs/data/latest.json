@@ -407,9 +407,9 @@
           "url": "https://readmoo.com/book/210312722000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 4.21,
+          "count": 541,
+          "url": "https://www.goodreads.com/book/show/880835.The_Anatomy_of_Stretching",
           "note": "無原文資訊",
           "amazon_url": "",
           "confidence": 20,
@@ -421,7 +421,7 @@
           "url": "https://www.amazon.com/Anatomy-Stretching-Second-Illustrated-Rehabilitation/dp/1583943714/ref=sr_1_1"
         }
       },
-      "avg_score": 4.7,
+      "avg_score": 4.6,
       "short_affiliate_url": "https://reurl.cc/M2xN6v"
     }
   ]
