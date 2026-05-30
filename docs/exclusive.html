@@ -107,8 +107,9 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .card:hover{box-shadow:0 4px 20px rgba(0,0,0,.09);transform:translateY(-2px)}
 
 .spine{height:5px;flex-shrink:0}
-.cover-wrap{width:100%;background:#f0ede8;overflow:hidden;flex-shrink:0;max-height:220px;display:flex;align-items:center;justify-content:center}
-.cover-img{width:100%;height:100%;object-fit:contain;object-position:center;display:block;max-height:220px}
+.cover-wrap{width:100%;overflow:hidden;flex-shrink:0;max-height:250px;display:flex;align-items:center;justify-content:center;position:relative}
+.cover-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:blur(14px) saturate(1.3) brightness(.75);transform:scale(1.15);z-index:0}
+.cover-img{width:100%;height:100%;object-fit:contain;object-position:center;display:block;max-height:250px;position:relative;z-index:1;filter:drop-shadow(0 2px 8px rgba(0,0,0,.5)) drop-shadow(0 0 5px rgba(255,255,255,.4))}
 .card-body{padding:1rem 1.15rem 1.1rem;flex:1;display:flex;flex-direction:column}
 
 .card-top{display:flex;justify-content:flex-end;align-items:center;margin-bottom:.55rem}
@@ -142,7 +143,8 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .book-desc{font-size:.82rem;color:var(--ink2);line-height:1.6;margin-bottom:.65rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
 .book-desc.expanded{display:block;overflow:visible;cursor:default}
 .book-meta{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;font-size:.82rem;color:var(--ink2);margin-bottom:.9rem;line-height:1.5}
-.book-pubdate{color:var(--ink3)}
+.book-meta>span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.book-pubdate{color:var(--ink3);white-space:nowrap;flex-shrink:0}
 
 .ratings{flex:1;display:flex;flex-direction:column;gap:.5rem;margin-bottom:.9rem}
 .r-row{display:flex;align-items:center;gap:7px}
@@ -190,18 +192,27 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   html{font-size:17.5px}
 }
 @media(min-width:1024px){
-  .cover-wrap{max-height:130px}
-  .cover-img{max-height:130px}
-  .card-body{padding:.75rem 1rem .85rem}
+  .cover-wrap{max-height:150px}
+  .cover-img{max-height:150px}
+  .grid{padding:.75rem 1.25rem}
+  .card-body{padding:.75rem 1rem .6rem}
   .book-desc{-webkit-line-clamp:2}
-  .ratings{gap:.25rem;margin-bottom:.55rem}
-  .book-meta{margin-bottom:.55rem}
-  .book-original{margin-bottom:.25rem}
+  .ratings{gap:.2rem;margin-bottom:.45rem}
+  .book-meta{margin-bottom:.45rem}
+  .book-original{margin-bottom:.2rem}
 }
 @media(max-width:640px){
   .grid{padding:.85rem;gap:.85rem}
   .stat-chips{display:none}
   .card-body{padding:.9rem 1rem 1rem}
+  .cover-wrap{max-height:160px}
+  .cover-img{max-height:160px}
+  .ratings{gap:.35rem;margin-bottom:.6rem}
+}
+@media(min-width:641px) and (max-width:1023px){
+  .cover-wrap{max-height:190px}
+  .cover-img{max-height:190px}
+  .ratings{gap:.3rem;margin-bottom:.5rem}
 }
 </style>
 </head>
@@ -579,7 +590,7 @@ function render() {
       </div>`;
 
     const coverHtml = book.cover_url
-      ? `<div class="cover-wrap"><img class="cover-img" src="${esc(book.cover_url)}" loading="lazy" alt="${esc(book.title)} — Kobo 電子書封面" onerror="this.closest('.cover-wrap').remove()"></div>`
+      ? `<div class="cover-wrap"><img class="cover-bg" src="${esc(book.cover_url)}" loading="lazy" aria-hidden="true"><img class="cover-img" src="${esc(book.cover_url)}" loading="lazy" alt="${esc(book.title)} — Kobo 電子書封面" onerror="this.closest('.cover-wrap').remove()"></div>`
       : '';
 
     return `
