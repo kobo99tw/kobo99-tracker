@@ -702,8 +702,9 @@ function render() {
   document.head.appendChild(ldScript);
 
   document.getElementById("grid").innerHTML = books.map((book, idx) => {
-    const r     = book.ratings ?? {};
-    const avg   = book.avg_score;
+    const r        = book.ratings ?? {};
+    const avg      = book.avg_score;
+    const avgCount = Object.values(r).reduce((s, v) => s + (v?.score && v?.count ? v.count : 0), 0);
     const cls   = scClass(avg);
     const sv    = saving(book);
     const spine   = SPINES[idx % SPINES.length];
@@ -745,7 +746,7 @@ function render() {
           data-score="${avg ? avg.toFixed(2) : 'null'}"
           data-price="${esc(book.kobo_price||'')}"
           data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">📤 分享</button>
-        <span class="score-badge ${cls}">${avg ? avg.toFixed(2) : "—"}</span>
+        <span class="score-badge ${cls}"${avg && avgCount < 30 ? ` title="評分人數較少（${avgCount}人），僅供參考"` : ''}>${avg ? avg.toFixed(2) : "—"}${avg && avgCount < 30 ? '<span style="font-size:.75em;opacity:.75"> ⚠</span>' : ''}</span>
       </div>`;
 
     const coverHtml = book.cover_url
