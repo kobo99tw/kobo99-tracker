@@ -472,10 +472,9 @@ function fmtN(n) {
 function ratingRow(srcKey, obj) {
   const { label, color } = SRC_META[srcKey] || { label: srcKey, color: "#888" };
   if (!obj || !obj.score) {
-    return `<div class="r-row">
-      <span class="r-src">${label}</span>
-      <span class="r-na">暫無評分</span>
-    </div>`;
+    const naInner = `<span class="r-src">${label}</span><span class="r-na">暫無評分</span>`;
+    if (obj?.url) return `<a class="r-row r-link" href="${obj.url}" target="_blank">${naInner}</a>`;
+    return `<div class="r-row">${naInner}</div>`;
   }
   const pct  = Math.round((obj.score / 5) * 100);
   const warn = obj.count && obj.count < 10

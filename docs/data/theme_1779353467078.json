@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w23",
-  "updated_at": "2026-06-01T10:10:30.113711+08:00",
+  "updated_at": "2026-06-01T11:51:28.604755+08:00",
   "books": [
     {
       "title": "無限機器：Gemini推手哈薩比斯的超級智慧長征",
@@ -10,7 +10,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/gemini-114?sid=3b20550c-02b9-4235-bad2-1a4b2de6c644&ssid=3zrIcALpKwJA9ilxbotP7&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$415",
       "cover_url": "covers/gemini-114.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "掌握Google大腦的諾貝爾獎得主，本書深入剖析科技先驅德米斯‧哈薩比斯催生Gemini的實際過程。記錄了技術突破、安全爭議以及與OpenAI等競爭者的激烈角力，帶你深刻解析AI的精采發展歷程。",
       "publish_date": "2026年4月27日",
@@ -31,20 +31,23 @@
           "url": "https://readmoo.com/book/210468591000101"
         },
         "goodreads": {
-          "score": 4.47,
-          "count": 1139,
-          "url": "https://www.goodreads.com/book/show/241434373-the-infinity-machine",
-          "note": "無原文資訊",
-          "amazon_url": ""
+          "score": 4.48,
+          "count": 1142,
+          "url": "https://www.goodreads.com/book/show/241434373-the-infinity-machine?from_search=true&from_srp=true&qid=l7Mo2EKUxh&rank=1",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FQGPMD79/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": 4.7,
           "count": 384,
-          "url": "https://www.amazon.com/-/zh_TW/Sebastian-Mallaby-ebook/dp/B0FQGPMD79/ref=sr_1_1"
+          "url": "https://www.amazon.com/gp/product/B0FQGPMD79/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.53,
-      "short_affiliate_url": "https://reurl.cc/X2MZ4R"
+      "avg_score": 4.54,
+      "short_affiliate_url": "https://reurl.cc/kpYoRr",
+      "original_author": "Sebastian Mallaby"
     },
     {
       "title": "藝術療癒悲傷：啟發創意、將悲傷練習應用於實務的50個表達性藝術活動",
@@ -52,9 +55,9 @@
       "original_title": "Artful Grieving: 50 Expressive Arts Directives to Creatively Inspire Your Practice with Grief and Bereavement",
       "isbn": "9786263909038",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/sqILBF9W9DqOHCETvaQt-A?sid=dfba8630-31e0-45f4-b1f8-ff889368efe7&ssid=n7kicXOEHsGpcG9y5Xft2&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$340",
+      "kobo_price": null,
       "cover_url": "covers/sqILBF9W9DqOHCETvaQt-A.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "當言語無法承載傷痛，讓藝術成為靈魂的出口。面對失去摯愛、健康或夢想的痛苦，言語往往難以表達我們的失落。本書作者結合自身經歷與藝術治療專業，提供50個具體可行的創作指引，幫助你接住那些「隱形悲傷」。",
       "publish_date": "2026年3月12日",
@@ -77,9 +80,11 @@
         "goodreads": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.goodreads.com/book/show/219278808-artful-grieving?from_search=true&from_srp=true&qid=tR83ZSDoPR&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DH1NXGMC/ref=x_gr_bb_kindle"
+          "url": "https://www.goodreads.com/book/show/219278808-artful-grieving?from_search=true&from_srp=true&qid=x6RAvcYZbF&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DH1NXGMC/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": 5.0,
@@ -88,7 +93,7 @@
         }
       },
       "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/bd83k3"
+      "short_affiliate_url": "https://reurl.cc/lprYqQ"
     },
     {
       "title": "海鯤破浪：台灣潛艦發展史與國防自主之路",
@@ -98,7 +103,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/ByaQSJhsEDayv8cTu3KX7g?sid=0ce9550a-e2db-4127-9dff-952f5f9ed839&ssid=Fxh7wXdYOb3nniGhkUYXh&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$425",
       "cover_url": "covers/ByaQSJhsEDayv8cTu3KX7g.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "首次揭露潛艦國造從啟蒙走向自立。李志德累積多年採訪成果，從關鍵計畫參與者的口述中挖掘隱藏多年的事實，綜合官方檔案與公開資料，終於完成這本國防自主的報導文學，也是至今最完整的一部台灣潛艦國造歷史紀錄。",
       "publish_date": "2026年5月13日",
@@ -119,20 +124,22 @@
           "url": "https://readmoo.com/book/210472038000101"
         },
         "goodreads": {
-          "score": 4.07,
-          "count": 153,
-          "url": "https://www.goodreads.com/book/show/8430238-the-silent-service?from_search=true&from_srp=true&qid=9wb4l52Bvl&rank=2",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0010Y9RBI/ref=x_gr_bb_amazon"
+          "score": null,
+          "count": 0,
+          "url": "https://www.goodreads.com/book/show/252198375",
+          "note": "手動確認",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 84,
-          "url": "https://www.amazon.com/-/zh_TW/H-Jay-Riker/dp/0060524391/ref=sr_1_3"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.amazon.com/dp/B0GX3CMDR9"
         }
       },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/4le64L"
+      "avg_score": 5.0,
+      "short_affiliate_url": "https://reurl.cc/7EQVgd"
     },
     {
       "title": "被偷走的驕傲：從失落、羞恥到奪回尊嚴，揭開激化美國政治對立的真相【2024年歐巴馬最愛圖書】",
@@ -142,7 +149,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/gOzGfdFZjTebiH7OGF3jLg?sid=0eb878ec-a825-47d7-a83b-9ae5d9db1124&ssid=WWbWe3IUGtSOUZH7eUQ64&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$383",
       "cover_url": "covers/gOzGfdFZjTebiH7OGF3jLg.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "深入美國白人比例最高的選區，揭開羞辱感引發報復性政治選擇的真相。礦業退場，從嚴重失業到毒品危機，川普的出現宛如出手救世的上帝使者。從過去的立場溫和到一面倒投給川普，派克維爾居民內心究竟掀起了甚麼風暴？",
       "publish_date": "2026年5月6日",
@@ -165,18 +172,20 @@
         "goodreads": {
           "score": 4.02,
           "count": 1574,
-          "url": "https://www.goodreads.com/book/show/206303798-stolen-pride",
-          "note": "無原文資訊",
-          "amazon_url": ""
+          "url": "https://www.goodreads.com/book/show/206303798-stolen-pride?from_search=true&from_srp=true&qid=xzDTgTIVhs&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CTNV4XS1/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
           "count": 218,
-          "url": "https://a.co/d/0fMFDhr3"
+          "url": "https://www.amazon.com/gp/product/B0CTNV4XS1/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.08,
-      "short_affiliate_url": "https://reurl.cc/3kE6jM"
+      "short_affiliate_url": "https://reurl.cc/pp0Yza"
     },
     {
       "title": "聚焦Palantir：【最全面的商業模式與技術護城河解析】從軍工神祕獨角獸到AI軟體霸主，帕蘭泰爾Palantir如何用AI顛覆五角大廈與華爾街，重塑全球權力與商業格局",
@@ -186,7 +195,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/palantir-ai-palantirai?sid=36c4c1e7-e51b-4622-8994-f0594a02f5f3&ssid=NGzM5nV-ECvnLRfojqQM_&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$319",
       "cover_url": "covers/palantir-ai-palantirai.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "帕蘭泰爾究竟如何從軍工神祕獨角獸，躍升為AI軟體霸主？最值得關注的AI顛覆者．最另類的管理哲學．最精彩的跨界革命。想要了解這家神祕的科技巨頭，看懂軍事、科技與地緣政治之間的交鋒，這本書，就是解答。",
       "publish_date": "2026年4月15日",
@@ -211,7 +220,9 @@
           "count": 0,
           "url": "",
           "note": "無原文資訊",
-          "amazon_url": ""
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": null,
@@ -220,7 +231,7 @@
         }
       },
       "avg_score": 4.33,
-      "short_affiliate_url": "https://reurl.cc/Gay5oG"
+      "short_affiliate_url": "https://reurl.cc/Z23N0l"
     },
     {
       "title": "可能內容不實：在「後真相」的世界裡，我們如何扭轉偏誤？",
@@ -228,9 +239,9 @@
       "original_title": "May Contain Lies",
       "isbn": "9786267859247",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/2b5YWwSyGj-rz9-5e5la-Q?sid=d31d388d-a627-4a02-a85e-51d7895bd38c&ssid=kSucyXOwXZ3gApyWBWkpl&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$370",
+      "kobo_price": null,
       "cover_url": "covers/2b5YWwSyGj-rz9-5e5la-Q.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "你知道報章大肆宣傳的研究成果，或許根本不存在嗎？想在充斥錯誤的世界保持清醒，有這本書就可以做到。從認識自己的偏誤開始，到透過案例分析周遭的世界，書中收錄作者設計解說的檢查清單，幫助你練習逐一解析資訊。",
       "publish_date": "2026年5月4日",
@@ -253,9 +264,11 @@
         "goodreads": {
           "score": 4.1,
           "count": 1007,
-          "url": "https://www.goodreads.com/book/show/195037194-may-contain-lies?from_search=true&from_srp=true&qid=NeDL6oAecG&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CVNPB4JR/ref=x_gr_bb_kindle"
+          "url": "https://www.goodreads.com/book/show/195037194-may-contain-lies?from_search=true&from_srp=true&qid=SbYIOLJVOO&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CVNPB4JR/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
@@ -264,7 +277,7 @@
         }
       },
       "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/WbQAky"
+      "short_affiliate_url": "https://reurl.cc/YDN32D"
     },
     {
       "title": "純度100%的休息（國際知名獲獎作家朴相映，抒壓旅行散文）",
@@ -274,7 +287,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ki0UHVSFPTC_-U8aiTj7eA?sid=595705db-e750-4a66-aff7-5841ebffc6b9&ssid=YtR-6dDA2QfQTwDlme4yG&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$250",
       "cover_url": "covers/Ki0UHVSFPTC_-U8aiTj7eA.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "出版社：聯經出版查看電子書（HK）",
       "publish_date": "2026年5月7日",
@@ -297,9 +310,11 @@
         "goodreads": {
           "score": 3.77,
           "count": 13,
-          "url": "https://www.goodreads.com/book/show/182849684-100?from_search=true&from_srp=true&qid=6SsrNvngpv&rank=1",
+          "url": "https://www.goodreads.com/book/show/182849684-100?from_search=true&from_srp=true&qid=pBwpsQjDpo&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CBGKNG64/ref=x_gr_bb_amazon"
+          "amazon_url": "https://www.amazon.com/gp/product/B0CBGKNG64/ref=x_gr_bb_amazon",
+          "confidence": 30,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": null,
@@ -308,7 +323,7 @@
         }
       },
       "avg_score": 3.77,
-      "short_affiliate_url": "https://reurl.cc/O635pD"
+      "short_affiliate_url": "https://reurl.cc/r0GYmk"
     },
     {
       "title": "賣瓜的人【文壇年度耀眼新星】（電子書特別收錄「與素玉aka洪倪媽媽的哈哈對話」）",
@@ -318,14 +333,14 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/aka-7?sid=badd60db-d0df-4dd2-aa3f-02d795c74e34&ssid=wo9zRBJWrc9zgvWrj1nTZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$300",
       "cover_url": "covers/aka-7.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "只有把自己誠實剖開，才知道是甜、是苦澀，還是偽裝堅強。哈哈台主持人傑尼書寫的首部散文作品，出身彰化海線芳苑，記述在那個看似「什麼都沒有」的偏鄉漁村，這不只是一部成長紀實錄，更是世代青年掙扎為生的切片。",
       "publish_date": "2026年5月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 4.5,
+          "count": 10,
           "url": "https://www.kobo.com/tw/zh/ebook/aka-7?sid=badd60db-d0df-4dd2-aa3f-02d795c74e34&ssid=wo9zRBJWrc9zgvWrj1nTZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
         },
         "books_com": {
@@ -343,7 +358,9 @@
           "count": 0,
           "url": "",
           "note": "無原文資訊",
-          "amazon_url": ""
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": null,
@@ -351,8 +368,8 @@
           "url": ""
         }
       },
-      "avg_score": 4.81,
-      "short_affiliate_url": "https://reurl.cc/M256bL"
+      "avg_score": 4.79,
+      "short_affiliate_url": "https://reurl.cc/53WR6V"
     },
     {
       "title": "織網者（獨力出版熱銷引爆奇幻圈，累計破十萬讀者好評，上千位書評主齊聲推薦）",
@@ -362,7 +379,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/M0JN7PC4Pj6z-nQrDUypXw?sid=8c617279-891e-452a-852e-09ea4e7bba80&ssid=IlWW1d8PgX4LlSl60Ao-z&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$407",
       "cover_url": "covers/M0JN7PC4Pj6z-nQrDUypXw.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "只有把自己誠實剖開，才知道是甜、是苦澀，還是偽裝堅強。哈哈台主持人傑尼書寫的首部散文作品，出身彰化海線芳苑，記述在那個看似「什麼都沒有」的偏鄉漁村，這不只是一部成長紀實錄，更是世代青年掙扎為生的切片。",
       "publish_date": "2026年4月30日",
@@ -384,19 +401,21 @@
         },
         "goodreads": {
           "score": 4.31,
-          "count": 158303,
-          "url": "https://www.goodreads.com/book/show/208430658-blood-over-bright-haven?from_search=true&from_srp=true&qid=71SGTOxOsY&rank=1",
+          "count": 158314,
+          "url": "https://www.goodreads.com/book/show/208430658-blood-over-bright-haven?from_search=true&from_srp=true&qid=DJGN9soSGY&rank=1",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CVLFJMV2/ref=x_gr_bb_kindle"
+          "amazon_url": "https://www.amazon.com/gp/product/B0CVLFJMV2/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 13369,
+          "count": 13370,
           "url": "https://www.amazon.com/gp/product/B0CVLFJMV2/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.32,
-      "short_affiliate_url": "https://reurl.cc/N2dbp9"
+      "short_affiliate_url": "https://reurl.cc/dpkaE8"
     },
     {
       "title": "愛你一萬年：最後一幕哭到發抖！比《國寶》更瘋魔，故事大師吉田修一一直想寫的故事。",
@@ -406,7 +425,7 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/ABxzsJ_40j-3IEWRaR5ipg?sid=44e120bc-d5db-4a86-b0fa-a44bae4e087d&ssid=5UQeYnRB-ZKVvhjyQoZo-&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
       "kobo_price": "NT$238",
       "cover_url": "covers/ABxzsJ_40j-3IEWRaR5ipg.jpg",
-      "sale_price": "5/25-5/31 結帳折扣碼",
+      "sale_price": "6/01-6/07 結帳折扣碼",
       "sale_end": "",
       "description": "如果可以一起變幸福，一萬年，或許不是太長的時間。吉田修一一直想寫的故事。曾叱吒商場的創業家梅田壯吾，最近在尋找一顆名叫「愛你一萬年」的寶石，但沒人知道寶石是否真實存在。深刻描寫關於愛的最狂野與最瘋狂。",
       "publish_date": "2026年4月27日",
@@ -431,7 +450,9 @@
           "count": 0,
           "url": "",
           "note": "無原文資訊",
-          "amazon_url": ""
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.1,
@@ -440,7 +461,7 @@
         }
       },
       "avg_score": 4.31,
-      "short_affiliate_url": "https://reurl.cc/qpAnOq"
+      "short_affiliate_url": "https://reurl.cc/2aGQ2v"
     }
   ]
 }
