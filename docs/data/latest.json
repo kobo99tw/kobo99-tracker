@@ -1,358 +1,306 @@
 {
   "year": 2026,
-  "week": 22,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w22",
-  "sale_label": "NT$99 特價：5/28（四）～6/3（三）",
-  "sale_start": "2026-05-28",
-  "sale_end": "2026-06-03",
+  "week": 23,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w23",
+  "sale_label": "NT$99 特價：6/4（四）～6/10（三）",
+  "sale_start": "2026-06-04",
+  "sale_end": "2026-06-10",
   "on_sale": true,
-  "updated_at": "2026-05-28T11:03:21.239445+08:00",
+  "updated_at": "2026-06-04T09:57:02.267331+08:00",
   "books": [
     {
-      "title": "卡住你的不是人生，是選擇：跳出5種心理困境，活出自在人生",
-      "author": "蘇菲．莫特博士",
-      "original_title": "（UN）STUCK： Five Steps to Break Bad Habits and Get Out of Your Own Way",
-      "isbn": "9786263557659",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/9hURkGzgcjGbGd2F654Wag?sId=22fb5b2f-0ca2-44ec-baa7-d607bcbf0851&ssId=omxyxhFtpCBevinSys-d7&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$225",
-      "cover_url": "covers/9hURkGzgcjGbGd2F654Wag.jpg",
+      "title": "謝謝敵人造就我：從難民到億萬創業家，利用敵人讓自己更成功的12堂課",
+      "author": "派崔克．貝大衛",
+      "original_title": "Choose Your Enemies Wisely: Business Planning for the Audacious Few",
+      "isbn": "9786267366875",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ni9CZXGnTTGPpHekBL5cnQ?sid=217a6b39-6f76-485f-8c22-e28d307440f9&ssid=79VNhn8BenEl4cHCFyHbp&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$326",
+      "cover_url": "covers/ni9CZXGnTTGPpHekBL5cnQ.jpg",
       "sale_price": "NT$99",
-      "date": "5/28",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
+      "date": "6/4",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
       "on_sale": true,
-      "publisher": "",
-      "publish_date": "2024年5月31日",
+      "publisher": "商業周刊",
+      "publish_date": "2024年6月6日",
       "language": "中文",
-      "original_author": "Dr. Sophie Mort",
-      "description": "找出讓人生卡住的癥結，有意識的做出你想要的選擇。英國治療女王為所有讀者提取五種常見的心理困境，提供擺脫困境的務實方法。只要你願意跟隨書中的練習，就可避免從錯誤的地方找答案，重啟卡住的人生。",
+      "original_author": "Patrick Bet-David",
+      "description": "",
       "ratings": {
         "kobo": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/9hURkGzgcjGbGd2F654Wag?sId=22fb5b2f-0ca2-44ec-baa7-d607bcbf0851&ssId=omxyxhFtpCBevinSys-d7&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/ni9CZXGnTTGPpHekBL5cnQ?sid=217a6b39-6f76-485f-8c22-e28d307440f9&ssid=79VNhn8BenEl4cHCFyHbp&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050218129"
+          "url": "https://www.books.com.tw/products/E050219923"
         },
         "readmoo": {
-          "score": 3.7,
-          "count": 6,
-          "url": "https://readmoo.com/book/210329738000101"
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210331563000101"
         },
         "goodreads": {
-          "score": 3.92,
-          "count": 142,
-          "url": "https://www.goodreads.com/book/show/229330272-un-stuck?from_search=true&from_srp=true&qid=JVFDNGkgCj&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BL1KT8XF/ref=x_gr_bb_kindle",
-          "confidence": 70,
-          "cross_validated": true
-        },
-        "amazon_com": {
           "score": 4.3,
-          "count": 56,
-          "url": "https://www.amazon.com/gp/product/B0BL1KT8XF/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.02,
-      "short_affiliate_url": "https://reurl.cc/L2zMlK"
-    },
-    {
-      "title": "退休後，錢從哪裡來？：掌握兩大養老現金流，搭配「4%比例」花費原則，打敗未來高齡化又高通膨的財務計畫",
-      "author": "嫺人",
-      "original_title": "",
-      "isbn": "9786267532058",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8Uy5TeoHQz254c7ejd49hg?sid=bd4faaa1-49b9-4ad2-a03f-7c7deba3a996&ssid=atNsn-OP7tk2xgbWUi3Hg&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$280",
-      "cover_url": "covers/8Uy5TeoHQz254c7ejd49hg.jpg",
-      "sale_price": "NT$99",
-      "date": "5/29",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
-      "on_sale": true,
-      "publisher": "幸福文化",
-      "publish_date": "2024年8月14日",
-      "language": "中文",
-      "original_author": null,
-      "description": "給不是富二代、又沒中樂透的普通人，一堂餘生有錢花、人生有目標的退休理財課。退休教練嫺人分享踩過的雷、流過的淚，提早準備很好、但理財晚鳥也不遲，打造可以實踐的退休金計畫，安排自己想要的退休時程。",
-      "ratings": {
-        "kobo": {
-          "score": 4.6,
-          "count": 10,
-          "url": "https://www.kobo.com/tw/zh/ebook/8Uy5TeoHQz254c7ejd49hg?sid=bd4faaa1-49b9-4ad2-a03f-7c7deba3a996&ssid=atNsn-OP7tk2xgbWUi3Hg&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 14,
-          "url": "https://www.books.com.tw/products/E050229847"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 33,
-          "url": "https://readmoo.com/book/210346450000101"
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/219617088-4?from_search=true&from_srp=true&qid=WKY4PyzVaU&rank=2",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DJ2W1LVF/ref=x_gr_bb_amazon",
-          "confidence": 60,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.57,
-      "short_affiliate_url": "https://reurl.cc/DxQ3l5"
-    },
-    {
-      "title": "消失的真实：现代社会的思想困境",
-      "author": "金观涛",
-      "original_title": "",
-      "isbn": "7553521735611",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/folLxiAZgz-9qTP1OTxz8w?sId=d7ea0947-0e0c-4ba2-9886-ee36dae1beec&ssId=nKYOV9Ny9UTn6mu_yTsbw&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/folLxiAZgz-9qTP1OTxz8w.jpg",
-      "sale_price": "NT$99",
-      "date": "5/29",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
-      "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2022年3月1日",
-      "language": "中文",
-      "original_author": null,
-      "description": "大量的資訊湧動于普通現代人的日常生活，我們沉醉於虛擬體驗，為了回應這一問題，本書提出了真實性哲學的概念，詳細剖解了20世紀的三場革命，嘗試從歷史的角度分析技術發達的現代社會如何陷入了今天的困境。",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/folLxiAZgz-9qTP1OTxz8w?sId=d7ea0947-0e0c-4ba2-9886-ee36dae1beec&ssId=nKYOV9Ny9UTn6mu_yTsbw&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/84283455?from_search=true&from_srp=true&qid=W76rVQKCgS&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09Y7MRCN3/ref=x_gr_bb_kindle",
-          "confidence": 60,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.0,
-      "short_affiliate_url": "https://reurl.cc/bdjEYv"
-    },
-    {
-      "title": "鄰家女孩（2022年新版）",
-      "author": "傑克．凱堔（Jack Ketchum）",
-      "original_title": "The Girl Next Door",
-      "isbn": "9789869763066",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/J_ud6Kxtjz-kdd90ElSA_A?sid=fec41bd0-7445-480f-b706-312e78fcdc61&ssid=ueQ5JdKtOYPiLuCxQctfu&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/J_ud6Kxtjz-kdd90ElSA_A.jpg",
-      "sale_price": "NT$99",
-      "date": "5/30",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
-      "on_sale": true,
-      "publisher": "大塊文化",
-      "publish_date": "2022年3月31日",
-      "language": "中文",
-      "original_author": "傑克．凱堔（Jack Ketchum）",
-      "description": "被史蒂芬．金喻為「全美最恐怖的傢伙」。我曾自問，到底是什麼時候開始的？而我總把一切歸結到那一瞬間。如果邪惡有面貌，會是什麼樣子？是出手虐打孩童的錢德勒一家，還是對暴行充耳不聞的冷漠旁人？",
-      "ratings": {
-        "kobo": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/J_ud6Kxtjz-kdd90ElSA_A?sid=fec41bd0-7445-480f-b706-312e78fcdc61&ssid=ueQ5JdKtOYPiLuCxQctfu&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
-        },
-        "books_com": {
-          "score": 2.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050128173"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 14,
-          "url": "https://readmoo.com/book/210223055000101"
-        },
-        "goodreads": {
-          "score": 3.91,
-          "count": 57984,
-          "url": "https://www.goodreads.com/book/show/179735.The_Girl_Next_Door?from_search=true&from_srp=true&qid=zXkcgYaLQe&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B003IHC34I/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 7549,
-          "url": "https://www.amazon.com/gp/product/B003IHC34I/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.94,
-      "short_affiliate_url": "https://reurl.cc/4l7pdK"
-    },
-    {
-      "title": "不流淚的統計學：寫給所有人的零基礎統計學入門",
-      "author": "德瑞克．朗奇",
-      "original_title": "Statistics without Tears: An Introduction for Non-Mathematicians",
-      "isbn": "9786263154513",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/kDe3zTw96j6hT98EYWW2UA?sid=db1f9f2f-914b-482d-b5ac-2ba545ddea12&ssid=hXEk7Z5XGUhwwv6GpN6Dq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/kDe3zTw96j6hT98EYWW2UA.jpg",
-      "sale_price": "NT$99",
-      "date": "5/31",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
-      "on_sale": true,
-      "publisher": "臉譜出版",
-      "publish_date": "2024年3月5日",
-      "language": "中文",
-      "original_author": "Derek Rowntree",
-      "description": "出版逾40年長銷不墜。毋須算數，從零開始的統計學入門聖經。本書將摒棄一板一眼的教學模式，以平易近人、貼近生活的例子，搭配一目了然的圖表和最明瞭的公式，為你演示各類統計檢定和分析法。",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/kDe3zTw96j6hT98EYWW2UA?sid=db1f9f2f-914b-482d-b5ac-2ba545ddea12&ssid=hXEk7Z5XGUhwwv6GpN6Dq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050204639"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://readmoo.com/book/210316536000101"
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 751,
-          "url": "https://www.goodreads.com/book/show/578667.Statistics_Without_Tears?from_search=true&from_srp=true&qid=YyJcqmfAWG&rank=1",
+          "count": 1158,
+          "url": "https://www.goodreads.com/book/show/125094495-choose-your-enemies-wisely?from_search=true&from_srp=true&qid=HAJp2SKACw&rank=1",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B07S3M97R8/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BXS5L251/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.5,
-          "count": 1066,
-          "url": "https://www.amazon.com/gp/product/B07S3M97R8/ref=x_gr_bb_kindle"
+          "score": 4.8,
+          "count": 1106,
+          "url": "https://www.amazon.com/gp/product/B0BXS5L251/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.3,
-      "short_affiliate_url": "https://reurl.cc/3klY40"
+      "avg_score": 4.54,
+      "short_affiliate_url": "https://reurl.cc/O6N8e7"
     },
     {
-      "title": "記憶力:最強的商業技能！：教你做好「記憶管理」:精進學習力、理解力:讓工作和學習更高效",
-      "author": "宇都出 雅巳",
-      "original_title": "記憶力が最強のビジネススキルである",
-      "isbn": "9786267195772",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/_h39tQvWMDWyq-1pKp4UTA?sid=0c6f53af-7955-4322-9ce4-f164f9c36574&ssid=1QukcwU54nQQT-Kic7-x3&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$270",
-      "cover_url": "covers/_h39tQvWMDWyq-1pKp4UTA.jpg",
+      "title": "我的金錢之旅：30個財務自由真實故事，你也做得到",
+      "author": "喬納森‧克雷蒙",
+      "original_title": "My Money Journey: How 30 people found financial freedom - and you can too",
+      "isbn": "9786267589090",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LcIpZBabKT-joZZA1-Viww?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/LcIpZBabKT-joZZA1-Viww.jpg",
       "sale_price": "NT$99",
-      "date": "6/1",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
+      "date": "6/5",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
       "on_sale": true,
-      "publisher": "經濟新潮社",
-      "publish_date": "2024年10月8日",
+      "publisher": "今周刊出版社",
+      "publish_date": "2025年1月16日",
       "language": "中文",
       "original_author": null,
-      "description": "記憶力，是最強大的商業技能，最能在工作上幫助你的超能力。只要懂得善用記憶，就能創造驚人的工作成果。記憶決定了人的思考，而思考會導致一連串的行動，因此，有意識地管理記憶，才能朝向理想的道路前進。",
+      "description": "",
       "ratings": {
         "kobo": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/_h39tQvWMDWyq-1pKp4UTA?sid=0c6f53af-7955-4322-9ce4-f164f9c36574&ssid=1QukcwU54nQQT-Kic7-x3&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
+          "url": "https://www.kobo.com/tw/zh/ebook/LcIpZBabKT-joZZA1-Viww?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050237172"
+          "score": 2.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050248377"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://readmoo.com/book/210354859000101"
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210366202000101"
         },
         "goodreads": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/68738330?from_search=true&from_srp=true&qid=SCApfP3vh0&rank=1",
+          "score": 3.9,
+          "count": 148,
+          "url": "https://www.goodreads.com/book/show/60784524-my-money-journey?from_search=true&from_srp=true&qid=lqQnlzQW6L&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/4761272422/ref=x_gr_bb_amazon",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B4SZFX5T/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.0,
-          "count": 24,
-          "url": "https://www.amazon.com/gp/product/4761272422/ref=x_gr_bb_amazon"
+          "score": 4.6,
+          "count": 83,
+          "url": "https://www.amazon.com/gp/product/B0B4SZFX5T/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.07,
-      "short_affiliate_url": "https://reurl.cc/ep4Oyj"
+      "avg_score": 4.13,
+      "short_affiliate_url": "https://reurl.cc/Q2qkOp"
     },
     {
-      "title": "超越「二」的智慧：《心經》、《金剛經》解讀",
-      "author": "濟群法師",
+      "title": "考古有意思：秦始皇的兵与城",
+      "author": "许卫红",
       "original_title": "",
-      "isbn": "9786263188846",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/gOjlgWECFzGxJ2xDx7E8cA?sid=f0cc10e1-0e94-489e-af5b-dbd207910de6&ssid=PGOI_d91nzUXVwbvjM4yG&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$280",
-      "cover_url": "covers/gOjlgWECFzGxJ2xDx7E8cA.jpg",
+      "isbn": "7553521721171",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lP41t3f7Tz6AjUyQNg688g?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$309",
+      "cover_url": "covers/lP41t3f7Tz6AjUyQNg688g.jpg",
       "sale_price": "NT$99",
-      "date": "6/2",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
+      "date": "6/5",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
       "on_sale": true,
-      "publisher": "商周出版",
-      "publish_date": "2023年12月12日",
+      "publisher": "中信出版集团股份有限公司",
+      "publish_date": "2020年11月1日",
       "language": "中文",
       "original_author": null,
-      "description": "生命都有覺醒的潛質，也就是內心本自具足的般若智慧。中觀的見地是讓我們看清，一切現象都是條件關係的假相，其中是沒有自性的。當我們認識到無自性，也就能進一步，從每個現象的當下體認空性。",
+      "description": "",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/gOjlgWECFzGxJ2xDx7E8cA?sid=f0cc10e1-0e94-489e-af5b-dbd207910de6&ssid=PGOI_d91nzUXVwbvjM4yG&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
+          "url": "https://www.kobo.com/tw/zh/ebook/lP41t3f7Tz6AjUyQNg688g?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050200801"
+          "url": ""
         },
         "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 3.33,
+          "count": 3,
+          "url": "https://www.goodreads.com/book/show/58755987?from_search=true&from_srp=true&qid=pqcUmjwN0J&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0995QQTCP/ref=x_gr_bb_amazon",
+          "confidence": 30,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.33,
+      "short_affiliate_url": "https://reurl.cc/N2MmE6"
+    },
+    {
+      "title": "八尺門的辯護人(鏡文學百萬影視小說大獎首獎）",
+      "author": "唐福睿",
+      "original_title": "",
+      "isbn": "9786267054161",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ly95ciEt1z6ZjvIqlXzorw?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$199",
+      "cover_url": "covers/ly95ciEt1z6ZjvIqlXzorw.jpg",
+      "sale_price": "NT$99",
+      "date": "6/6",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
+      "on_sale": true,
+      "publisher": "鏡文學",
+      "publish_date": "2021年12月10日",
+      "language": "中文",
+      "original_author": null,
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 4.71,
+          "count": 80,
+          "url": "https://www.kobo.com/tw/zh/ebook/ly95ciEt1z6ZjvIqlXzorw?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
+        },
+        "books_com": {
           "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210312931000101"
+          "count": 18,
+          "url": "https://www.books.com.tw/products/E050116251"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210209020000101"
+        },
+        "goodreads": {
+          "score": 4.57,
+          "count": 131,
+          "url": "https://www.goodreads.com/book/show/205992081-mf?from_search=true&from_srp=true&qid=EVnk1Dsrw7&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CTCCRK27/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 3,
+          "url": "https://www.amazon.com/gp/product/B0CTCCRK27/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.65,
+      "short_affiliate_url": "https://reurl.cc/R2VlQ6"
+    },
+    {
+      "title": "怪咖人類學（二版）：用五大學科冷知識，破解22件人類暗黑史",
+      "author": "眠眠",
+      "original_title": "",
+      "isbn": "9786267382554",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FAhaj6gp-j-zXMTxyi2KTQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$199",
+      "cover_url": "covers/FAhaj6gp-j-zXMTxyi2KTQ.jpg",
+      "sale_price": "NT$99",
+      "date": "6/7",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
+      "on_sale": true,
+      "publisher": "日出出版",
+      "publish_date": "2024年1月22日",
+      "language": "中文",
+      "original_author": null,
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/FAhaj6gp-j-zXMTxyi2KTQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050200432"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210312721000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.amazon.com/-/zh_TW/%E7%9C%A0%E7%9C%A0-ebook/dp/B07RN8HZ29/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.0,
+      "short_affiliate_url": "https://reurl.cc/qpRj3g"
+    },
+    {
+      "title": "超專注力對策：科學實證47項立即有感的心智集中法",
+      "author": "伊庭正康",
+      "original_title": "",
+      "isbn": "9786263793934",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FCmuIo2GtT6DNFFDTL6gaQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/FCmuIo2GtT6DNFFDTL6gaQ.jpg",
+      "sale_price": "NT$99",
+      "date": "6/8",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
+      "on_sale": true,
+      "publisher": "",
+      "publish_date": "2024年5月24日",
+      "language": "中文",
+      "original_author": null,
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/FCmuIo2GtT6DNFFDTL6gaQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050218338"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210329992000101"
         },
         "goodreads": {
           "score": null,
@@ -369,60 +317,112 @@
           "url": ""
         }
       },
-      "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/Q2kb5p"
+      "avg_score": 4.5,
+      "short_affiliate_url": "https://reurl.cc/9WkYQO"
     },
     {
-      "title": "痠痛拉筋解剖書【升級增訂版】",
-      "author": "布萊德．華克",
-      "original_title": "The Anatomy of Stretching, second Edition：Your Illustrated Guide to Flexibility and Injury Rehabilit",
-      "isbn": "9786267313886",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SNCOBoRAsji6oozEQXZkyA?sid=f32a909b-09ec-4617-ba22-f7258ad5232f&ssid=toX45wWoO1-9fuVQmMwLw&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528",
-      "kobo_price": "NT$199",
-      "cover_url": "covers/SNCOBoRAsji6oozEQXZkyA.jpg",
+      "title": "你以為你在談戀愛，其實你在越級打怪：戀上病態人格者的自救與療癒之路",
+      "author": "森女慈慈",
+      "original_title": "",
+      "isbn": "9789863574309",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/4Vsh6miHejSPfnvyCB2W8A?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/4Vsh6miHejSPfnvyCB2W8A.jpg",
       "sale_price": "NT$99",
-      "date": "6/3",
-      "sale_start": "2026-05-28",
-      "sale_end": "2026-06-03",
+      "date": "6/9",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
       "on_sale": true,
-      "publisher": "橡實文化",
-      "publish_date": "2024年1月22日",
+      "publisher": "心靈工坊",
+      "publish_date": "2025年1月24日",
       "language": "中文",
       "original_author": null,
-      "description": "暢銷10餘年，大幅增修升級版！找出疼痛源頭，5分鐘舒通關鍵肌群，徹底擺脫惱人的痠痛問題。不管是運動傷害的痼疾，辦公久坐的勞損，不良姿勢造成的肌筋膜疼痛，都能針對你的痛處，選擇你需要的拉筋操當成日常保健。",
+      "description": "",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/SNCOBoRAsji6oozEQXZkyA?sid=f32a909b-09ec-4617-ba22-f7258ad5232f&ssid=toX45wWoO1-9fuVQmMwLw&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260528"
+          "url": "https://www.kobo.com/tw/zh/ebook/4Vsh6miHejSPfnvyCB2W8A?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050200429"
+          "score": 4.5,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050254929"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://readmoo.com/book/210312722000101"
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210375486000101"
         },
         "goodreads": {
-          "score": 4.21,
-          "count": 541,
-          "url": "https://www.goodreads.com/book/show/880835.The_Anatomy_of_Stretching",
+          "score": null,
+          "count": 0,
+          "url": "",
           "note": "無原文資訊",
           "amazon_url": "",
           "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 2063,
-          "url": "https://www.amazon.com/Anatomy-Stretching-Second-Illustrated-Rehabilitation/dp/1583943714/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E6%A3%AE%E5%A5%B3%E6%85%88%E6%85%88-ebook/dp/B0DZXBTP8P/ref=sr_1_1"
         }
       },
-      "avg_score": 4.6,
-      "short_affiliate_url": "https://reurl.cc/M2xN6v"
+      "avg_score": 4.5,
+      "short_affiliate_url": "https://reurl.cc/np3jR1"
+    },
+    {
+      "title": "星火：中國地下歷史學家與他們的未來之戰",
+      "author": "張彥",
+      "original_title": "Sparks: China’s Underground Historians and their Battle for the Future",
+      "isbn": "9786267234921",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/iJ34BPc2fzG3WsG2zn7JPA?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
+      "kobo_price": "NT$392",
+      "cover_url": "covers/iJ34BPc2fzG3WsG2zn7JPA.jpg",
+      "sale_price": "NT$99",
+      "date": "6/10",
+      "sale_start": "2026-06-04",
+      "sale_end": "2026-06-10",
+      "on_sale": true,
+      "publisher": "八旗文化",
+      "publish_date": "2024年6月5日",
+      "language": "中文",
+      "original_author": null,
+      "description": "",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/iJ34BPc2fzG3WsG2zn7JPA?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050218630"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210331560000101"
+        },
+        "goodreads": {
+          "score": 4.36,
+          "count": 672,
+          "url": "https://www.goodreads.com/book/show/123199472-sparks?from_search=true&from_srp=true&qid=sRVAtXHMmU&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CCJXQTH7/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 189,
+          "url": "https://www.amazon.com/gp/product/B0CCJXQTH7/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.46,
+      "short_affiliate_url": "https://reurl.cc/zQaj7N"
     }
   ]
 }
