@@ -38,8 +38,8 @@
           "url": "https://www.books.com.tw/products/E050219923"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
+          "score": 5.0,
+          "count": 4,
           "url": "https://readmoo.com/book/210331563000101"
         },
         "goodreads": {
@@ -57,7 +57,7 @@
           "url": "https://www.amazon.com/gp/product/B0BXS5L251/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.54,
+      "avg_score": 4.55,
       "short_affiliate_url": "https://reurl.cc/O6N8e7"
     },
     {
@@ -90,8 +90,8 @@
           "url": "https://www.books.com.tw/products/E050248377"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
+          "score": 4.6,
+          "count": 54,
           "url": "https://readmoo.com/book/210366202000101"
         },
         "goodreads": {
@@ -109,7 +109,7 @@
           "url": "https://www.amazon.com/gp/product/B0B4SZFX5T/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.13,
+      "avg_score": 4.22,
       "short_affiliate_url": "https://reurl.cc/Q2qkOp"
     },
     {
@@ -194,8 +194,8 @@
           "url": "https://www.books.com.tw/products/E050116251"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
+          "score": 4.9,
+          "count": 1310,
           "url": "https://readmoo.com/book/210209020000101"
         },
         "goodreads": {
@@ -213,7 +213,7 @@
           "url": "https://www.amazon.com/gp/product/B0CTCCRK27/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.65,
+      "avg_score": 4.86,
       "short_affiliate_url": "https://reurl.cc/R2VlQ6"
     },
     {
@@ -251,9 +251,9 @@
           "url": "https://readmoo.com/book/210312721000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 3.22,
+          "count": 9,
+          "url": "https://www.goodreads.com/book/show/49851679-22",
           "note": "無原文資訊",
           "amazon_url": "",
           "confidence": 20,
@@ -265,7 +265,7 @@
           "url": "https://www.amazon.com/-/zh_TW/%E7%9C%A0%E7%9C%A0-ebook/dp/B07RN8HZ29/ref=sr_1_1"
         }
       },
-      "avg_score": 4.0,
+      "avg_score": 3.42,
       "short_affiliate_url": "https://reurl.cc/qpRj3g"
     },
     {
@@ -298,8 +298,8 @@
           "url": "https://www.books.com.tw/products/E050218338"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
+          "score": 4.6,
+          "count": 25,
           "url": "https://readmoo.com/book/210329992000101"
         },
         "goodreads": {
@@ -312,12 +312,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.0,
+          "count": 54,
+          "url": "https://amzn.asia/d/01uUjTKO"
         }
       },
-      "avg_score": 4.5,
+      "avg_score": 4.2,
       "short_affiliate_url": "https://reurl.cc/9WkYQO"
     },
     {
@@ -350,8 +350,8 @@
           "url": "https://www.books.com.tw/products/E050254929"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
+          "score": 4.0,
+          "count": 3,
           "url": "https://readmoo.com/book/210375486000101"
         },
         "goodreads": {
@@ -369,7 +369,7 @@
           "url": "https://www.amazon.com/-/zh_TW/%E6%A3%AE%E5%A5%B3%E6%85%88%E6%85%88-ebook/dp/B0DZXBTP8P/ref=sr_1_1"
         }
       },
-      "avg_score": 4.5,
+      "avg_score": 4.12,
       "short_affiliate_url": "https://reurl.cc/np3jR1"
     },
     {
@@ -402,8 +402,8 @@
           "url": "https://www.books.com.tw/products/E050218630"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
+          "score": 4.9,
+          "count": 16,
           "url": "https://readmoo.com/book/210331560000101"
         },
         "goodreads": {
@@ -421,7 +421,7 @@
           "url": "https://www.amazon.com/gp/product/B0CCJXQTH7/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.46,
+      "avg_score": 4.47,
       "short_affiliate_url": "https://reurl.cc/zQaj7N"
     }
   ]
