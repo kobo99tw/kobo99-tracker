@@ -670,8 +670,7 @@ loadData();
       }
       // 促銷公告橫條
       if (cfg.promoVisible !== false && cfg.promoText) {
-        const twnNow = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
-        const todayStr = twnNow.toISOString().slice(0,10);
+        const todayStr = new Intl.DateTimeFormat('sv', {timeZone: 'Asia/Taipei'}).format(new Date());
         const expired = cfg.promoEnd && todayStr > cfg.promoEnd;
         if (!expired) {
           const bar = document.getElementById('promoBar');
@@ -692,8 +691,7 @@ loadData();
         }
       }
       if (cfg.promo2Visible !== false && cfg.promo2Text) {
-        const t2 = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
-        const d2 = t2.toISOString().slice(0,10);
+        const d2 = new Intl.DateTimeFormat('sv', {timeZone: 'Asia/Taipei'}).format(new Date());
         const exp2 = cfg.promo2End && d2 > cfg.promo2End;
         if (!exp2) {
           const bar2 = document.getElementById('promoBar2');
@@ -714,8 +712,7 @@ loadData();
         }
       }
       if (cfg.promo3Visible !== false && cfg.promo3Text) {
-        const t3 = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Taipei'}));
-        const d3 = t3.toISOString().slice(0,10);
+        const d3 = new Intl.DateTimeFormat('sv', {timeZone: 'Asia/Taipei'}).format(new Date());
         const exp3 = cfg.promo3End && d3 > cfg.promo3End;
         if (!exp3) {
           const bar3 = document.getElementById('promoBar3');
