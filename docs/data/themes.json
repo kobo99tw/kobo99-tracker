@@ -1,5 +1,17 @@
 [
   {
+    "file": "theme_tccc_finance.json",
+    "headTitle": "天下文化 財富人生投資理財展",
+    "key": "theme_tccc_finance",
+    "label": "【天下文化】有底氣的財富人生，投資理財展，單本88折，至6/30止",
+    "sale": "單本88折至6/30止",
+    "seoDesc": "整理天下文化財富人生投資理財展書單，單本88折優惠至6/30止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購理財投資好書。",
+    "subtitle": "天下文化精選投資理財書，單本88折優惠至6/30",
+    "tabEmoji": "💰",
+    "tabLabel": "財富人生",
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/NleusCTP2ckiDwjet7Faxw"
+  },
+  {
     "defaultSort": "avg",
     "file": "theme_1779353467078.json",
     "headTitle": "本週精選書單",
@@ -39,18 +51,5 @@
     "tabEmoji": "🏆",
     "tabLabel": "《臺灣漫遊錄》",
     "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
-  }
-  ,{
-    "defaultSort": "avg",
-    "file": "theme_tccc_finance.json",
-    "headTitle": "天下文化 財富人生投資理財展",
-    "key": "theme_tccc_finance",
-    "label": "【天下文化】有底氣的財富人生，投資理財展，單本88折，至6/30止",
-    "sale": "單本88折至6/30止",
-    "seoDesc": "整理天下文化財富人生投資理財展書單，單本88折優惠至6/30止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購理財投資好書。",
-    "subtitle": "天下文化精選投資理財書，單本88折優惠至6/30",
-    "tabEmoji": "💰",
-    "tabLabel": "財富人生",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/NleusCTP2ckiDwjet7Faxw"
   }
 ]
