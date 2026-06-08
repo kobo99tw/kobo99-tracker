@@ -1,357 +1,34 @@
 {
-  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w23",
-  "updated_at": "2026-06-01T11:51:28.604755+08:00",
+  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w24",
+  "updated_at": "2026-06-08T09:43:48.431618+08:00",
   "books": [
     {
-      "title": "無限機器：Gemini推手哈薩比斯的超級智慧長征",
-      "author": "塞巴斯蒂安‧馬拉比",
-      "original_title": "The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence",
-      "isbn": "9786264179119",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/gemini-114?sid=3b20550c-02b9-4235-bad2-1a4b2de6c644&ssid=3zrIcALpKwJA9ilxbotP7&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$415",
-      "cover_url": "covers/gemini-114.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "掌握Google大腦的諾貝爾獎得主，本書深入剖析科技先驅德米斯‧哈薩比斯催生Gemini的實際過程。記錄了技術突破、安全爭議以及與OpenAI等競爭者的激烈角力，帶你深刻解析AI的精采發展歷程。",
-      "publish_date": "2026年4月27日",
-      "ratings": {
-        "kobo": {
-          "score": 3.67,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/gemini-114?sid=3b20550c-02b9-4235-bad2-1a4b2de6c644&ssid=3zrIcALpKwJA9ilxbotP7&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 5,
-          "url": "https://www.books.com.tw/products/E050329444"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 17,
-          "url": "https://readmoo.com/book/210468591000101"
-        },
-        "goodreads": {
-          "score": 4.48,
-          "count": 1142,
-          "url": "https://www.goodreads.com/book/show/241434373-the-infinity-machine?from_search=true&from_srp=true&qid=l7Mo2EKUxh&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FQGPMD79/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 384,
-          "url": "https://www.amazon.com/gp/product/B0FQGPMD79/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.54,
-      "short_affiliate_url": "https://reurl.cc/kpYoRr",
-      "original_author": "Sebastian Mallaby"
-    },
-    {
-      "title": "藝術療癒悲傷：啟發創意、將悲傷練習應用於實務的50個表達性藝術活動",
-      "author": "艾莉西亞・西摩",
-      "original_title": "Artful Grieving: 50 Expressive Arts Directives to Creatively Inspire Your Practice with Grief and Bereavement",
-      "isbn": "9786263909038",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sqILBF9W9DqOHCETvaQt-A?sid=dfba8630-31e0-45f4-b1f8-ff889368efe7&ssid=n7kicXOEHsGpcG9y5Xft2&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": null,
-      "cover_url": "covers/sqILBF9W9DqOHCETvaQt-A.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "當言語無法承載傷痛，讓藝術成為靈魂的出口。面對失去摯愛、健康或夢想的痛苦，言語往往難以表達我們的失落。本書作者結合自身經歷與藝術治療專業，提供50個具體可行的創作指引，幫助你接住那些「隱形悲傷」。",
-      "publish_date": "2026年3月12日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/sqILBF9W9DqOHCETvaQt-A?sid=dfba8630-31e0-45f4-b1f8-ff889368efe7&ssid=n7kicXOEHsGpcG9y5Xft2&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050324693"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210459748000101"
-        },
-        "goodreads": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/219278808-artful-grieving?from_search=true&from_srp=true&qid=x6RAvcYZbF&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DH1NXGMC/ref=x_gr_bb_kindle",
-          "confidence": 60,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 5.0,
-          "count": 12,
-          "url": "https://www.amazon.com/gp/product/B0DH1NXGMC/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/lprYqQ"
-    },
-    {
-      "title": "海鯤破浪：台灣潛艦發展史與國防自主之路",
-      "author": "李志德",
-      "original_title": "The Silent Service: Taiwan’s Path to IDS Program",
-      "isbn": "9786269304820",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ByaQSJhsEDayv8cTu3KX7g?sid=0ce9550a-e2db-4127-9dff-952f5f9ed839&ssid=Fxh7wXdYOb3nniGhkUYXh&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$425",
-      "cover_url": "covers/ByaQSJhsEDayv8cTu3KX7g.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "首次揭露潛艦國造從啟蒙走向自立。李志德累積多年採訪成果，從關鍵計畫參與者的口述中挖掘隱藏多年的事實，綜合官方檔案與公開資料，終於完成這本國防自主的報導文學，也是至今最完整的一部台灣潛艦國造歷史紀錄。",
-      "publish_date": "2026年5月13日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ByaQSJhsEDayv8cTu3KX7g?sid=0ce9550a-e2db-4127-9dff-952f5f9ed839&ssid=Fxh7wXdYOb3nniGhkUYXh&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/E050332211"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 5,
-          "url": "https://readmoo.com/book/210472038000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.goodreads.com/book/show/252198375",
-          "note": "手動確認",
-          "amazon_url": "",
-          "confidence": 0,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.amazon.com/dp/B0GX3CMDR9"
-        }
-      },
-      "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/7EQVgd"
-    },
-    {
-      "title": "被偷走的驕傲：從失落、羞恥到奪回尊嚴，揭開激化美國政治對立的真相【2024年歐巴馬最愛圖書】",
-      "author": "亞莉．霍希爾德",
-      "original_title": "Stolen Pride: Loss, Shame, and the Rise of the Right",
-      "isbn": "9786267891100",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/gOzGfdFZjTebiH7OGF3jLg?sid=0eb878ec-a825-47d7-a83b-9ae5d9db1124&ssid=WWbWe3IUGtSOUZH7eUQ64&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$383",
-      "cover_url": "covers/gOzGfdFZjTebiH7OGF3jLg.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "深入美國白人比例最高的選區，揭開羞辱感引發報復性政治選擇的真相。礦業退場，從嚴重失業到毒品危機，川普的出現宛如出手救世的上帝使者。從過去的立場溫和到一面倒投給川普，派克維爾居民內心究竟掀起了甚麼風暴？",
-      "publish_date": "2026年5月6日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/gOzGfdFZjTebiH7OGF3jLg?sid=0eb878ec-a825-47d7-a83b-9ae5d9db1124&ssid=WWbWe3IUGtSOUZH7eUQ64&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050331001"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210470080000101"
-        },
-        "goodreads": {
-          "score": 4.02,
-          "count": 1574,
-          "url": "https://www.goodreads.com/book/show/206303798-stolen-pride?from_search=true&from_srp=true&qid=xzDTgTIVhs&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CTNV4XS1/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 218,
-          "url": "https://www.amazon.com/gp/product/B0CTNV4XS1/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.08,
-      "short_affiliate_url": "https://reurl.cc/pp0Yza"
-    },
-    {
-      "title": "聚焦Palantir：【最全面的商業模式與技術護城河解析】從軍工神祕獨角獸到AI軟體霸主，帕蘭泰爾Palantir如何用AI顛覆五角大廈與華爾街，重塑全球權力與商業格局",
-      "author": "安有錫",
-      "original_title": "팔란티어에 주목하라",
-      "isbn": "9786267871324",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/palantir-ai-palantirai?sid=36c4c1e7-e51b-4622-8994-f0594a02f5f3&ssid=NGzM5nV-ECvnLRfojqQM_&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$319",
-      "cover_url": "covers/palantir-ai-palantirai.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "帕蘭泰爾究竟如何從軍工神祕獨角獸，躍升為AI軟體霸主？最值得關注的AI顛覆者．最另類的管理哲學．最精彩的跨界革命。想要了解這家神祕的科技巨頭，看懂軍事、科技與地緣政治之間的交鋒，這本書，就是解答。",
-      "publish_date": "2026年4月15日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/palantir-ai-palantirai?sid=36c4c1e7-e51b-4622-8994-f0594a02f5f3&ssid=NGzM5nV-ECvnLRfojqQM_&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 8,
-          "url": "https://www.books.com.tw/products/E050327399"
-        },
-        "readmoo": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210461923000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.33,
-      "short_affiliate_url": "https://reurl.cc/Z23N0l"
-    },
-    {
-      "title": "可能內容不實：在「後真相」的世界裡，我們如何扭轉偏誤？",
-      "author": "艾力克斯．艾德曼斯",
-      "original_title": "May Contain Lies",
-      "isbn": "9786267859247",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2b5YWwSyGj-rz9-5e5la-Q?sid=d31d388d-a627-4a02-a85e-51d7895bd38c&ssid=kSucyXOwXZ3gApyWBWkpl&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": null,
-      "cover_url": "covers/2b5YWwSyGj-rz9-5e5la-Q.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "你知道報章大肆宣傳的研究成果，或許根本不存在嗎？想在充斥錯誤的世界保持清醒，有這本書就可以做到。從認識自己的偏誤開始，到透過案例分析周遭的世界，書中收錄作者設計解說的檢查清單，幫助你練習逐一解析資訊。",
-      "publish_date": "2026年5月4日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/2b5YWwSyGj-rz9-5e5la-Q?sid=d31d388d-a627-4a02-a85e-51d7895bd38c&ssid=kSucyXOwXZ3gApyWBWkpl&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050330724"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210469760000101"
-        },
-        "goodreads": {
-          "score": 4.1,
-          "count": 1007,
-          "url": "https://www.goodreads.com/book/show/195037194-may-contain-lies?from_search=true&from_srp=true&qid=SbYIOLJVOO&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CVNPB4JR/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 257,
-          "url": "https://www.amazon.com/gp/product/B0CVNPB4JR/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/YDN32D"
-    },
-    {
-      "title": "純度100%的休息（國際知名獲獎作家朴相映，抒壓旅行散文）",
-      "author": "朴相映（박상영）",
-      "original_title": "순도 100퍼센트의 휴식",
-      "isbn": "9789570880243",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ki0UHVSFPTC_-U8aiTj7eA?sid=595705db-e750-4a66-aff7-5841ebffc6b9&ssid=YtR-6dDA2QfQTwDlme4yG&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$250",
-      "cover_url": "covers/Ki0UHVSFPTC_-U8aiTj7eA.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "出版社：聯經出版查看電子書（HK）",
-      "publish_date": "2026年5月7日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Ki0UHVSFPTC_-U8aiTj7eA?sid=595705db-e750-4a66-aff7-5841ebffc6b9&ssid=YtR-6dDA2QfQTwDlme4yG&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050332132"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 3.77,
-          "count": 13,
-          "url": "https://www.goodreads.com/book/show/182849684-100?from_search=true&from_srp=true&qid=pBwpsQjDpo&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CBGKNG64/ref=x_gr_bb_amazon",
-          "confidence": 30,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 3.77,
-      "short_affiliate_url": "https://reurl.cc/r0GYmk"
-    },
-    {
-      "title": "賣瓜的人【文壇年度耀眼新星】（電子書特別收錄「與素玉aka洪倪媽媽的哈哈對話」）",
-      "author": "洪倪",
+      "title": "穀倉效應【暢銷十週年紀念版】：為什麼分工反而造成企業崩壞、政府無能、經濟失控？",
+      "author": "吉蓮．邰蒂",
       "original_title": "",
-      "isbn": "9786264186445",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/aka-7?sid=badd60db-d0df-4dd2-aa3f-02d795c74e34&ssid=wo9zRBJWrc9zgvWrj1nTZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$300",
-      "cover_url": "covers/aka-7.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
+      "isbn": "9786263588936",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3J3NZkvzuT6oHOawncMDWg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=7&utm_source=koboblog",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/3J3NZkvzuT6oHOawncMDWg.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
       "sale_end": "",
-      "description": "只有把自己誠實剖開，才知道是甜、是苦澀，還是偽裝堅強。哈哈台主持人傑尼書寫的首部散文作品，出身彰化海線芳苑，記述在那個看似「什麼都沒有」的偏鄉漁村，這不只是一部成長紀實錄，更是世代青年掙扎為生的切片。",
-      "publish_date": "2026年5月1日",
+      "description": "CNN等國際媒體推薦選讀！金融風暴、SONY衰退的共通點。組織擴大規模時必定迎來過度分工，穀倉的形式使世界井然有序。但當大家都活在小圈圈時，危機便潛伏而來。本書提供6大原則，教你破除穀倉效應、駕馭穀倉！",
+      "publish_date": "2026年3月6日",
       "ratings": {
         "kobo": {
-          "score": 4.5,
-          "count": 10,
-          "url": "https://www.kobo.com/tw/zh/ebook/aka-7?sid=badd60db-d0df-4dd2-aa3f-02d795c74e34&ssid=wo9zRBJWrc9zgvWrj1nTZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/3J3NZkvzuT6oHOawncMDWg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=7&utm_source=koboblog"
         },
         "books_com": {
-          "score": 5.0,
-          "count": 7,
-          "url": "https://www.books.com.tw/products/E050330987"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050320513"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 105,
-          "url": "https://readmoo.com/book/210468011000101"
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210456884000101"
         },
         "goodreads": {
           "score": null,
@@ -368,82 +45,36 @@
           "url": ""
         }
       },
-      "avg_score": 4.79,
-      "short_affiliate_url": "https://reurl.cc/53WR6V"
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/539evR"
     },
     {
-      "title": "織網者（獨力出版熱銷引爆奇幻圈，累計破十萬讀者好評，上千位書評主齊聲推薦）",
-      "author": "汪明路",
-      "original_title": "Blood Over Bright Haven",
-      "isbn": "9786267749647",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/M0JN7PC4Pj6z-nQrDUypXw?sid=8c617279-891e-452a-852e-09ea4e7bba80&ssid=IlWW1d8PgX4LlSl60Ao-z&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$407",
-      "cover_url": "covers/M0JN7PC4Pj6z-nQrDUypXw.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
+      "title": "大人為什麼要繼續學習？：跟著日本全民啟蒙導師池上彰，一起探索「如何為自己的生命尋找答案」",
+      "author": "池上彰",
+      "original_title": "",
+      "isbn": "9786264064934",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/J_sKh5y5Cj6LQc_lRDvYSg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$255",
+      "cover_url": "covers/J_sKh5y5Cj6LQc_lRDvYSg.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
       "sale_end": "",
-      "description": "只有把自己誠實剖開，才知道是甜、是苦澀，還是偽裝堅強。哈哈台主持人傑尼書寫的首部散文作品，出身彰化海線芳苑，記述在那個看似「什麼都沒有」的偏鄉漁村，這不只是一部成長紀實錄，更是世代青年掙扎為生的切片。",
+      "description": "面臨人生意義的叩問，如何免除迷惘？成熟大人必讀的人生下半場寶典。被譽為日本全民啟蒙導師的池上彰發現了找到「生命答案」的處方。這本書獻給每一位渴求、探索心之所向的成熟大人，一起來趟知性的探索與冒險！",
       "publish_date": "2026年4月30日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/M0JN7PC4Pj6z-nQrDUypXw?sid=8c617279-891e-452a-852e-09ea4e7bba80&ssid=IlWW1d8PgX4LlSl60Ao-z&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
+          "url": "https://www.kobo.com/tw/zh/ebook/J_sKh5y5Cj6LQc_lRDvYSg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
         },
         "books_com": {
           "score": 5.0,
-          "count": 19,
-          "url": "https://www.books.com.tw/products/E050329629"
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050330667"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 4.31,
-          "count": 158314,
-          "url": "https://www.goodreads.com/book/show/208430658-blood-over-bright-haven?from_search=true&from_srp=true&qid=DJGN9soSGY&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CVLFJMV2/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 13370,
-          "url": "https://www.amazon.com/gp/product/B0CVLFJMV2/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.32,
-      "short_affiliate_url": "https://reurl.cc/dpkaE8"
-    },
-    {
-      "title": "愛你一萬年：最後一幕哭到發抖！比《國寶》更瘋魔，故事大師吉田修一一直想寫的故事。",
-      "author": "吉田修一",
-      "original_title": "罪名、一万年愛す",
-      "isbn": "9789573344216",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ABxzsJ_40j-3IEWRaR5ipg?sid=44e120bc-d5db-4a86-b0fa-a44bae4e087d&ssid=5UQeYnRB-ZKVvhjyQoZo-&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601",
-      "kobo_price": "NT$238",
-      "cover_url": "covers/ABxzsJ_40j-3IEWRaR5ipg.jpg",
-      "sale_price": "6/01-6/07 結帳折扣碼",
-      "sale_end": "",
-      "description": "如果可以一起變幸福，一萬年，或許不是太長的時間。吉田修一一直想寫的故事。曾叱吒商場的創業家梅田壯吾，最近在尋找一顆名叫「愛你一萬年」的寶石，但沒人知道寶石是否真實存在。深刻描寫關於愛的最狂野與最瘋狂。",
-      "publish_date": "2026年4月27日",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/ABxzsJ_40j-3IEWRaR5ipg?sid=44e120bc-d5db-4a86-b0fa-a44bae4e087d&ssid=5UQeYnRB-ZKVvhjyQoZo-&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260601"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050329437"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 78,
-          "url": "https://readmoo.com/book/210465684000101"
+          "score": 4.7,
+          "count": 3,
+          "url": "https://readmoo.com/book/210468145000101"
         },
         "goodreads": {
           "score": null,
@@ -455,13 +86,381 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.1,
-          "count": 79,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4041150302/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.31,
-      "short_affiliate_url": "https://reurl.cc/2aGQ2v"
+      "avg_score": 4.87,
+      "short_affiliate_url": "https://reurl.cc/0mMLvk"
+    },
+    {
+      "title": "百年困局：中國與印度崛起的歷史死結",
+      "author": "陳牧民",
+      "original_title": "",
+      "isbn": "9786267891032",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LHZDLStDJDG9B4sy4lukQA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$319",
+      "cover_url": "covers/LHZDLStDJDG9B4sy4lukQA.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "面臨人生意義的叩問，如何免除迷惘？成熟大人必讀的人生下半場寶典。被譽為日本全民啟蒙導師的池上彰發現了找到「生命答案」的處方。這本書獻給每一位渴求、探索心之所向的成熟大人，一起來趟知性的探索與冒險！",
+      "publish_date": "2026年5月6日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/LHZDLStDJDG9B4sy4lukQA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050330999"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210470078000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/%E7%99%BE%E5%B9%B4%E5%9B%B0%E5%B1%80-%E4%B8%AD%E5%9C%8B%E8%88%87%E5%8D%B0%E5%BA%A6%E5%B4%9B%E8%B5%B7%E7%9A%84%E6%AD%B7%E5%8F%B2%E6%AD%BB%E7%B5%90-%E5%85%AB%E6%97%97%E5%9C%8B%E9%9A%9B-Traditional-Chinese-ebook/dp/B0GX32NNYG/ref=sr_1_1"
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/18NDvp"
+    },
+    {
+      "title": "優雅開戰（三版）：聰明選戰場、精準控情緒的建設性衝突策略",
+      "author": "喬恩．塔弗",
+      "original_title": "The power of conflict : speak your mind and get the results you want",
+      "isbn": "9786267767245",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/-3_6o0C8hz-hxSd7ByUxtg?sId=5d8bfe1a-a0c7-419d-84a0-a42437838c74&ssId=jk8Uiw4InfPUso1ZYJoG5&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$274",
+      "cover_url": "covers/-3_6o0C8hz-hxSd7ByUxtg.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "出版社：方舟文化查看電子書（HK）",
+      "publish_date": "2026年3月11日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/-3_6o0C8hz-hxSd7ByUxtg?sId=5d8bfe1a-a0c7-419d-84a0-a42437838c74&ssId=jk8Uiw4InfPUso1ZYJoG5&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050320541"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210457114000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 352,
+          "url": "https://www.amazon.com/Power-Conflict-Speak-Your-Results/dp/B09L57W3QS/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.7,
+      "short_affiliate_url": "https://reurl.cc/K21ZeR"
+    },
+    {
+      "title": "健忘，是大腦在求救？——從自覺記憶衰退到失智前兆，神經科醫師帶你辨識大腦的真訊號，找回對記憶的掌控力",
+      "author": "邱銘章",
+      "original_title": "",
+      "isbn": "9786267813768",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SEC4if46oTKzRxBuWd7N2w?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/SEC4if46oTKzRxBuWd7N2w.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "台灣失智症權威醫師邱銘章，數十年臨床研究精華，不只談疾病，更談我們如何與大腦共處、如何面對記憶的流逝與保存。本書同步說明「正常老化」與「病理性退化」之間的差別，揭開記憶失誤、錯誤記憶、虛談現象的奧祕。",
+      "publish_date": "2026年3月31日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/SEC4if46oTKzRxBuWd7N2w?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050327990"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/ovElR3"
+    },
+    {
+      "title": "世界激變，如何投資：即將來臨的未來，傳奇投資大師吉姆．羅傑斯預判：牛市即將結束、放空股票，買黃金白銀大宗商品，中國奪回產業霸權……。",
+      "author": "吉姆‧羅傑斯",
+      "original_title": "世界大激変：混乱する世界をどう読むか",
+      "isbn": "9786267817674",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/x1gWG4rgpDOdITEQK_yjsA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$275",
+      "cover_url": "covers/x1gWG4rgpDOdITEQK_yjsA.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "投資界的傳奇人物吉姆．羅傑斯在2025年準確預言委內瑞拉、伊朗將產生劇變以及白銀會大漲別賣。現在，他又看到甚麼樣的未來？下一個投資方向又在哪呢？你是否該買股票還是黃金？本書將揭露羅傑斯對未來的斷言。",
+      "publish_date": "2026年3月31日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/x1gWG4rgpDOdITEQK_yjsA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://readmoo.com/book/210460417000101"
+        },
+        "goodreads": {
+          "score": 4.07,
+          "count": 1592,
+          "url": "https://www.goodreads.com/book/show/86189.Investment_Biker?from_search=true&from_srp=true&qid=MGOANbZZe5&rank=1",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0061C1LWM/ref=x_gr_bb_kindle",
+          "confidence": 70,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 431,
+          "url": "https://www.amazon.com/gp/product/B0061C1LWM/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/L2KYWx"
+    },
+    {
+      "title": "旅途結束時，你就在那裡：《在無人車站等你》後，再次逼哭讀者的奇蹟之作！",
+      "author": "戌淳",
+      "original_title": "旅の終わりに君がいた",
+      "isbn": "9789573344230",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/9C9ajcHp5T2XfW-hdYT15Q?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$285",
+      "cover_url": "covers/9C9ajcHp5T2XfW-hdYT15Q.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "當季俁埜乃痛失雙親、走向絕望時，一輛神秘餐車出現在她眼前。這是專為亡者而開的餐車，沒有菜單，只有為告別特製的限定套餐。本該結束人生旅程的她卻成為第一個再次回到餐車的人，並在邀請下加入了送行者的行列……",
+      "publish_date": "2026年5月11日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/9C9ajcHp5T2XfW-hdYT15Q?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 25,
+          "url": "https://www.books.com.tw/products/E050332134"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210470996000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 17,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4408558753/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.73,
+      "short_affiliate_url": "https://reurl.cc/X2KoGM"
+    },
+    {
+      "title": "人為什麼要自殺？：從真實遺書、臨床案例到心理剖析，拆解絕望背後的行為邏輯",
+      "author": "春日武彥",
+      "original_title": "",
+      "isbn": "9786264186285",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Hi_R7wEtajyFfI9ojki6OA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$282",
+      "cover_url": "covers/Hi_R7wEtajyFfI9ojki6OA.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "在那轉身後的心理黑盒中，究竟發生了什麼？作者結合多年臨床經驗、真實遺書、新聞報導，並剖析文學與電影中的死亡意象，歸納出自殺的七種型態。本書誠實揭露出掩蓋在悲傷下的無能為力，邀請你一同試圖理解人性深淵。",
+      "publish_date": "2026年5月1日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Hi_R7wEtajyFfI9ojki6OA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050330990"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210469814000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/4lVErV"
+    },
+    {
+      "title": "小瘤球遊記：一位鼻咽癌患者的療癒旅程",
+      "author": "火星爺爺",
+      "original_title": "",
+      "isbn": "9786267603697",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/X_oQV0GMBzicRVvYT9Z8yQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$269",
+      "cover_url": "covers/X_oQV0GMBzicRVvYT9Z8yQ.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "出版社：有鹿文化事業有限公司查看電子書（HK）",
+      "publish_date": "2026年5月15日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/X_oQV0GMBzicRVvYT9Z8yQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/E050334136"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210472992000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 5.0,
+      "short_affiliate_url": "https://reurl.cc/Ga27j3"
+    },
+    {
+      "title": "狼之時【奈斯博獨立作，跨越人性善惡的邊界，直視殘破變形的心靈】",
+      "author": "尤．奈斯博",
+      "original_title": "Minnesota",
+      "isbn": "9786264092227",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/9abQa-ex1DWa-d2HwEOnFQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
+      "kobo_price": "NT$292",
+      "cover_url": "covers/9abQa-ex1DWa-d2HwEOnFQ.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "北歐犯罪小說天王尤．奈斯博最新作。一名如幽靈般的狙擊手正四處獵殺著目標們，而線索皆指向一名自稱「狼」的黑幫殺手。酗酒警探奧茲在人生低谷意外接手案件後，逐步揭開三十年前的血案，也在追查中與凶手產生共鳴！",
+      "publish_date": "2026年5月4日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/9abQa-ex1DWa-d2HwEOnFQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 17,
+          "url": "https://www.books.com.tw/products/E050330457"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 5,
+          "url": "https://readmoo.com/book/210469168000101"
+        },
+        "goodreads": {
+          "score": 4.01,
+          "count": 8763,
+          "url": "https://www.goodreads.com/book/show/222620980-minnesota?from_search=true&from_srp=true&qid=XjAaszaJ59&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F7G41C7Z/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 5053,
+          "url": "https://www.amazon.com/gp/product/B0F7G41C7Z/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.15,
+      "short_affiliate_url": "https://reurl.cc/Em5kjA"
     }
   ]
 }
