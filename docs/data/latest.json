@@ -1,140 +1,140 @@
 {
   "year": 2026,
-  "week": 23,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w23",
-  "sale_label": "NT$99 特價：6/4（四）～6/10（三）",
-  "sale_start": "2026-06-04",
-  "sale_end": "2026-06-10",
+  "week": 24,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w24",
+  "sale_label": "NT$99 特價：6/11（四）～6/17（三）",
+  "sale_start": "2026-06-11",
+  "sale_end": "2026-06-17",
   "on_sale": true,
-  "updated_at": "2026-06-04T09:57:02.267331+08:00",
+  "updated_at": "2026-06-11T10:05:26.545798+08:00",
   "books": [
     {
-      "title": "謝謝敵人造就我：從難民到億萬創業家，利用敵人讓自己更成功的12堂課",
-      "author": "派崔克．貝大衛",
-      "original_title": "Choose Your Enemies Wisely: Business Planning for the Audacious Few",
-      "isbn": "9786267366875",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ni9CZXGnTTGPpHekBL5cnQ?sid=217a6b39-6f76-485f-8c22-e28d307440f9&ssid=79VNhn8BenEl4cHCFyHbp&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$326",
-      "cover_url": "covers/ni9CZXGnTTGPpHekBL5cnQ.jpg",
+      "title": "你不知道的權力的二十種面貌：權力不只是政治人物的事 也和商業社會裡每一個上班族有關",
+      "author": "詹姆斯．希爾曼",
+      "original_title": "Kinds of Power: A Guide to its Intelligent Uses",
+      "isbn": "9786267063699",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/JflrQhMFYTyLR2bhreiovA?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/JflrQhMFYTyLR2bhreiovA.jpg",
       "sale_price": "NT$99",
-      "date": "6/4",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
+      "date": "6/11",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
       "on_sale": true,
-      "publisher": "商業周刊",
-      "publish_date": "2024年6月6日",
+      "publisher": "網路與書",
+      "publish_date": "2024年3月31日",
       "language": "中文",
-      "original_author": "Patrick Bet-David",
-      "description": "以前的他出身伊朗難民，本書將告訴你如何運用貝大衛15年來的精粹經營智慧，堪比電影的人生成果，都來自於敵人的造就。\n敵人，帶來痛苦，也造就不凡，獻給我過去、現在與未來的敵人們，感謝你的再造之恩！",
+      "original_author": "James Hillman",
+      "description": "榮格大師長銷經典之作將顛覆你對權力的想像。在本書中，希爾曼首次著墨於商業人士會興趣的主題，剖析權力的二十四種樣貌，將為你揭示權力的真正含義，讓你洞悉這個由商業主宰的世界。",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ni9CZXGnTTGPpHekBL5cnQ?sid=217a6b39-6f76-485f-8c22-e28d307440f9&ssid=79VNhn8BenEl4cHCFyHbp&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
+          "url": "https://www.kobo.com/tw/zh/ebook/JflrQhMFYTyLR2bhreiovA?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050219923"
+          "url": ""
         },
         "readmoo": {
-          "score": 5.0,
+          "score": 4.3,
           "count": 4,
-          "url": "https://readmoo.com/book/210331563000101"
+          "url": "https://readmoo.com/book/210321209000101"
         },
         "goodreads": {
-          "score": 4.3,
-          "count": 1158,
-          "url": "https://www.goodreads.com/book/show/125094495-choose-your-enemies-wisely?from_search=true&from_srp=true&qid=HAJp2SKACw&rank=1",
+          "score": 4.0,
+          "count": 184,
+          "url": "https://www.goodreads.com/book/show/1250021.Kinds_of_Power?from_search=true&from_srp=true&qid=TIBuklADV4&rank=1",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BXS5L251/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B009UBJQN2/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 1106,
-          "url": "https://www.amazon.com/gp/product/B0BXS5L251/ref=x_gr_bb_kindle"
+          "score": 4.5,
+          "count": 43,
+          "url": "https://www.amazon.com/gp/product/B009UBJQN2/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.1,
+      "short_affiliate_url": "https://reurl.cc/8eg5ao"
+    },
+    {
+      "title": "麻省理工全能表達課：人工智慧先驅40年熱門課，掌握基本功，凸顯優勢，預測群眾心理，從激發創意到寫作簡報，縮小溝通落差，享受豐厚回報",
+      "author": "派屈克．亨利．溫斯頓(Patrick Henry Winston)",
+      "original_title": "Make It Clear:Speak and Write to Persuade and Inform",
+      "isbn": "9789863989769",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/h3no5_A9EDW0HW-5azrOEg?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/h3no5_A9EDW0HW-5azrOEg.jpg",
+      "sale_price": "NT$99",
+      "date": "6/12",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
+      "on_sale": true,
+      "publisher": "天下雜誌",
+      "publish_date": "2023年4月30日",
+      "language": "中文",
+      "original_author": "派屈克．亨利．溫斯頓(Patrick Henry Winston)",
+      "description": "MIT學生終身受用的自我加值課，精進你的溝通和寫作能力、思考品質，投入時間學習表達技巧，回報將遠超過你在其他方面的投資。即使只應用本書的一種方法，也可以改變人生，讓你獲得理想工作、贏得訂單。",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/h3no5_A9EDW0HW-5azrOEg?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050214098"
+        },
+        "readmoo": {
+          "score": 3.8,
+          "count": 10,
+          "url": "https://readmoo.com/book/210328027000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 172,
+          "url": "https://www.amazon.com/-/zh_TW/Patrick-Henry-Winston-ebook/dp/B084V84PM7/ref=sr_1_1"
         }
       },
       "avg_score": 4.55,
-      "short_affiliate_url": "https://reurl.cc/O6N8e7"
+      "short_affiliate_url": "https://reurl.cc/kpzqeq"
     },
     {
-      "title": "我的金錢之旅：30個財務自由真實故事，你也做得到",
-      "author": "喬納森‧克雷蒙",
-      "original_title": "My Money Journey: How 30 people found financial freedom - and you can too",
-      "isbn": "9786267589090",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LcIpZBabKT-joZZA1-Viww?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/LcIpZBabKT-joZZA1-Viww.jpg",
-      "sale_price": "NT$99",
-      "date": "6/5",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
-      "on_sale": true,
-      "publisher": "今周刊出版社",
-      "publish_date": "2025年1月16日",
-      "language": "中文",
-      "original_author": null,
-      "description": "實現財務自由似乎是一趟不可能的旅程，這本書以30個來自不同背景和職業的真實故事，揭示這些像我們一樣的普通人如何穿越起伏與挫折，最終成功掌握財務自由的祕訣，翻轉你的金錢觀，走向財務自由豐盛人生。",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/LcIpZBabKT-joZZA1-Viww?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
-        },
-        "books_com": {
-          "score": 2.5,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/E050248377"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 54,
-          "url": "https://readmoo.com/book/210366202000101"
-        },
-        "goodreads": {
-          "score": 3.9,
-          "count": 148,
-          "url": "https://www.goodreads.com/book/show/60784524-my-money-journey?from_search=true&from_srp=true&qid=lqQnlzQW6L&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0B4SZFX5T/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 83,
-          "url": "https://www.amazon.com/gp/product/B0B4SZFX5T/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.22,
-      "short_affiliate_url": "https://reurl.cc/Q2qkOp"
-    },
-    {
-      "title": "考古有意思：秦始皇的兵与城",
-      "author": "许卫红",
+      "title": "鸽翼【詹姆斯小说艺术巅峰之作】",
+      "author": "亨利·詹姆斯",
       "original_title": "",
-      "isbn": "7553521721171",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lP41t3f7Tz6AjUyQNg688g?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$309",
-      "cover_url": "covers/lP41t3f7Tz6AjUyQNg688g.jpg",
+      "isbn": "7574532786336",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wWZxSzs1lDuxSWDxkizJmg?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611",
+      "kobo_price": "NT$1054",
+      "cover_url": "covers/wWZxSzs1lDuxSWDxkizJmg.jpg",
       "sale_price": "NT$99",
-      "date": "6/5",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
+      "date": "6/12",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
       "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2020年11月1日",
+      "publisher": "上海译文出版社",
+      "publish_date": "2021年10月1日",
       "language": "中文",
       "original_author": null,
-      "description": "在博物館柔和燈光下展出的是國寶，而不被人注意的爛土，考古從來不是為了探寶，而是透物見人，與古人對話。\n無論是展出的精美文物，還是無法移動的遺址遺跡，考古人都親手撫摸過，喚醒他們內在的生命力和鮮活的故事。",
+      "description": "屹立歐美文學之巔的小說藝術大師亨利·詹姆斯代表作。一對為了攫取財富不擇手段的苦命鴛鴦，一個家財萬貫、重病纏身的清純女孩，一段畸形的三角戀。當民主的美國遇上墮落的歐洲，兩種文化將生出怎樣的矛盾。",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/lP41t3f7Tz6AjUyQNg688g?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
+          "url": "https://www.kobo.com/tw/zh/ebook/wWZxSzs1lDuxSWDxkizJmg?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611"
         },
         "books_com": {
           "score": null,
@@ -147,12 +147,12 @@
           "url": ""
         },
         "goodreads": {
-          "score": 3.33,
-          "count": 3,
-          "url": "https://www.goodreads.com/book/show/58755987?from_search=true&from_srp=true&qid=pqcUmjwN0J&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0995QQTCP/ref=x_gr_bb_amazon",
-          "confidence": 30,
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
@@ -161,268 +161,268 @@
           "url": ""
         }
       },
-      "avg_score": 3.33,
-      "short_affiliate_url": "https://reurl.cc/N2MmE6"
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/lpxZWv"
     },
     {
-      "title": "八尺門的辯護人(鏡文學百萬影視小說大獎首獎）",
-      "author": "唐福睿",
-      "original_title": "",
-      "isbn": "9786267054161",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ly95ciEt1z6ZjvIqlXzorw?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$301",
-      "cover_url": "covers/ly95ciEt1z6ZjvIqlXzorw.jpg",
+      "title": "莫斯科紳士",
+      "author": "亞莫爾．托歐斯(Amor Towles)",
+      "original_title": "A Gentleman in Moscow",
+      "isbn": "9786264091169",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/eDL3sWtM9TGDCPG1cvfbCA?sid=4105b6bf-82e3-4532-b72c-30e2cc51c49f&ssid=YqBAY_7GCH4B5mlrdDON1&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611",
+      "kobo_price": "NT$349",
+      "cover_url": "covers/eDL3sWtM9TGDCPG1cvfbCA.jpg",
       "sale_price": "NT$99",
-      "date": "6/6",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
+      "date": "6/13",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
       "on_sale": true,
-      "publisher": "鏡文學",
-      "publish_date": "2021年12月10日",
+      "publisher": "漫遊者文化",
+      "publish_date": "2025年7月2日",
       "language": "中文",
       "original_author": null,
-      "description": "在博物館柔和燈光下展出的是國寶，而不被人注意的爛土，考古從來不是為了探寶，而是透物見人，與古人對話。\n無論是展出的精美文物，還是無法移動的遺址遺跡，考古人都親手撫摸過，喚醒他們內在的生命力和鮮活的故事。",
+      "description": "歐巴馬選書推薦。一個終身不能離開豪華飯店的貴族，卻活出了精彩優雅的一生！書中慧黠的對話、令人印象深刻的諸多角色，以及輪番上演的精緻劇碼，描繪出莫斯科那段最紛亂、動盪卻也最迷人的光景。",
       "ratings": {
         "kobo": {
-          "score": 4.71,
-          "count": 80,
-          "url": "https://www.kobo.com/tw/zh/ebook/ly95ciEt1z6ZjvIqlXzorw?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 18,
-          "url": "https://www.books.com.tw/products/E050116251"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 1310,
-          "url": "https://readmoo.com/book/210209020000101"
-        },
-        "goodreads": {
-          "score": 4.57,
-          "count": 131,
-          "url": "https://www.goodreads.com/book/show/205992081-mf?from_search=true&from_srp=true&qid=EVnk1Dsrw7&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CTCCRK27/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 3,
-          "url": "https://www.amazon.com/gp/product/B0CTCCRK27/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.86,
-      "short_affiliate_url": "https://reurl.cc/R2VlQ6"
-    },
-    {
-      "title": "怪咖人類學（二版）：用五大學科冷知識，破解22件人類暗黑史",
-      "author": "眠眠",
-      "original_title": "",
-      "isbn": "9786267382554",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FAhaj6gp-j-zXMTxyi2KTQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/FAhaj6gp-j-zXMTxyi2KTQ.jpg",
-      "sale_price": "NT$99",
-      "date": "6/7",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
-      "on_sale": true,
-      "publisher": "日出出版",
-      "publish_date": "2024年1月22日",
-      "language": "中文",
-      "original_author": null,
-      "description": "真實又精彩離奇的人類黑歷史與冷知識，從原始基因到宇宙生命，翻出被錯漏的人類篇章，透視人類骨子裡的殘酷與黑暗，同時訴說人性的溫暖與良善。\n深夜級成人專屬科普故事，一場場驚異叫絕的體驗。",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/FAhaj6gp-j-zXMTxyi2KTQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050200432"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210312721000101"
-        },
-        "goodreads": {
-          "score": 3.22,
+          "score": 4.33,
           "count": 9,
-          "url": "https://www.goodreads.com/book/show/49851679-22",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 3,
-          "url": "https://www.amazon.com/-/zh_TW/%E7%9C%A0%E7%9C%A0-ebook/dp/B07RN8HZ29/ref=sr_1_1"
-        }
-      },
-      "avg_score": 3.42,
-      "short_affiliate_url": "https://reurl.cc/qpRj3g"
-    },
-    {
-      "title": "超專注力對策：科學實證47項立即有感的心智集中法",
-      "author": "伊庭正康",
-      "original_title": "",
-      "isbn": "9786263793934",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FCmuIo2GtT6DNFFDTL6gaQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$238",
-      "cover_url": "covers/FCmuIo2GtT6DNFFDTL6gaQ.jpg",
-      "sale_price": "NT$99",
-      "date": "6/8",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
-      "on_sale": true,
-      "publisher": "",
-      "publish_date": "2024年5月24日",
-      "language": "中文",
-      "original_author": null,
-      "description": "只要提升專注力，原本8小時的工作就能在2小時完成，幫助擺脫分心、做不完加班，本書的內容是基於各式各樣的研究成果與心理學理論，集結大大小小有助於立刻提高專注力的方法，介紹47種能幫助提高專注力的密技。",
-      "ratings": {
-        "kobo": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/FCmuIo2GtT6DNFFDTL6gaQ?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
+          "url": "https://www.kobo.com/tw/zh/ebook/eDL3sWtM9TGDCPG1cvfbCA?sid=4105b6bf-82e3-4532-b72c-30e2cc51c49f&ssid=YqBAY_7GCH4B5mlrdDON1&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050218338"
+          "url": "https://www.books.com.tw/products/E070000563"
         },
         "readmoo": {
-          "score": 4.6,
-          "count": 25,
-          "url": "https://readmoo.com/book/210329992000101"
+          "score": 4.8,
+          "count": 27,
+          "url": "https://readmoo.com/book/210396810000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 54,
-          "url": "https://amzn.asia/d/01uUjTKO"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/9WkYQO"
-    },
-    {
-      "title": "你以為你在談戀愛，其實你在越級打怪：戀上病態人格者的自救與療癒之路",
-      "author": "森女慈慈",
-      "original_title": "",
-      "isbn": "9789863574309",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/4Vsh6miHejSPfnvyCB2W8A?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/4Vsh6miHejSPfnvyCB2W8A.jpg",
-      "sale_price": "NT$99",
-      "date": "6/9",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
-      "on_sale": true,
-      "publisher": "心靈工坊",
-      "publish_date": "2025年1月24日",
-      "language": "中文",
-      "original_author": null,
-      "description": "甜美愛情成了越級打怪的戰局，戰況不斷升級，直到一息尚存，她才辨識出男友是病態人格者，渣戀受傷的妳不孤單，教育心理博士最真實的自我揭露，和最暖心的療癒陪伴，與病態人格渣戀的情傷自訴與療癒自救書。",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/4Vsh6miHejSPfnvyCB2W8A?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050254929"
-        },
-        "readmoo": {
-          "score": 4.0,
-          "count": 3,
-          "url": "https://readmoo.com/book/210375486000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A3%AE%E5%A5%B3%E6%85%88%E6%85%88-ebook/dp/B0DZXBTP8P/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.12,
-      "short_affiliate_url": "https://reurl.cc/np3jR1"
-    },
-    {
-      "title": "星火：中國地下歷史學家與他們的未來之戰",
-      "author": "張彥",
-      "original_title": "Sparks: China’s Underground Historians and their Battle for the Future",
-      "isbn": "9786267234921",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/iJ34BPc2fzG3WsG2zn7JPA?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604",
-      "kobo_price": "NT$392",
-      "cover_url": "covers/iJ34BPc2fzG3WsG2zn7JPA.jpg",
-      "sale_price": "NT$99",
-      "date": "6/10",
-      "sale_start": "2026-06-04",
-      "sale_end": "2026-06-10",
-      "on_sale": true,
-      "publisher": "八旗文化",
-      "publish_date": "2024年6月5日",
-      "language": "中文",
-      "original_author": null,
-      "description": "普立茲得主、《中國的靈魂》作者張彥力作。「星火」事件是中國統治下的悲劇，已塵封超過半世紀，但有群不畏強權、不懼險阻的地下歷史學家，努力拼湊被中共掩蓋的故事，要將自由的星火傳遞出去。",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/iJ34BPc2fzG3WsG2zn7JPA?sid=db0e846f-e913-4e98-9b9b-9c1b08331cb3&ssid=Rl3qZ8keoJIZgzT0QlXNl&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260604"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050218630"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 16,
-          "url": "https://readmoo.com/book/210331560000101"
-        },
-        "goodreads": {
-          "score": 4.36,
-          "count": 672,
-          "url": "https://www.goodreads.com/book/show/123199472-sparks?from_search=true&from_srp=true&qid=sRVAtXHMmU&rank=1",
+          "score": 4.31,
+          "count": 689992,
+          "url": "https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow?from_search=true&from_srp=true&qid=QJE2gPQC3m&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CCJXQTH7/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B01COJUEZ0/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 189,
-          "url": "https://www.amazon.com/gp/product/B0CCJXQTH7/ref=x_gr_bb_kindle"
+          "score": 4.6,
+          "count": 143533,
+          "url": "https://www.amazon.com/gp/product/B01COJUEZ0/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.47,
-      "short_affiliate_url": "https://reurl.cc/zQaj7N"
+      "avg_score": 4.36,
+      "short_affiliate_url": "https://reurl.cc/yO3m86"
+    },
+    {
+      "title": "隱藏的宇宙：生物多樣性，關於物種、基因、演化、功能和生態系統的驚奇故事",
+      "author": "亞歷山卓．安東內利",
+      "original_title": "THE HIDDEN UNIVERSE: ADVENTURES IN BIODIVERSITY",
+      "isbn": "9786267074749",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/-_NwLQnsITiblaOCKJCz8w?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=5&utm_source=koboblog",
+      "kobo_price": "NT$364",
+      "cover_url": "covers/-_NwLQnsITiblaOCKJCz8w.jpg",
+      "sale_price": "NT$99",
+      "date": "6/14",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
+      "on_sale": true,
+      "publisher": "本事出版",
+      "publish_date": "2024年1月29日",
+      "language": "中文",
+      "original_author": null,
+      "description": "想守護生物多樣性，就得先全盤了解它究竟是什麼？一本由英國皇家植物園科學主任撰寫的人文科普書，結合充滿啟發性的故事和最新科學研究，為我們展示生物多樣性的奇蹟，守護我們息息相關的隱藏的宇宙。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/-_NwLQnsITiblaOCKJCz8w?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=5&utm_source=koboblog"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050201223"
+        },
+        "readmoo": {
+          "score": 3.9,
+          "count": 8,
+          "url": "https://readmoo.com/book/210314006000101"
+        },
+        "goodreads": {
+          "score": 3.89,
+          "count": 332,
+          "url": "https://www.goodreads.com/book/show/56669607-the-hidden-universe?from_search=true&from_srp=true&qid=AuWiMGWsCZ&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B09Z74WM8S/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 40,
+          "url": "https://www.amazon.com/gp/product/B09Z74WM8S/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.96,
+      "short_affiliate_url": "https://reurl.cc/vEZmza"
+    },
+    {
+      "title": "擁抱人生10大無解：馴服生命自帶的難題，轉化為享受生活的智慧",
+      "author": "安娜・馬瑟",
+      "original_title": "The Uncomfortable Truth: Change Your Life by Taming 10 of Your Mind’s Greatest Fears",
+      "isbn": "9786269295814",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/nM-mWgtx8DCfh8tDihYKAQ?sid=8a9bdba6-d448-479f-b268-63b87f281767&ssid=Q29tCqFQKjWChNBHhadys&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611",
+      "kobo_price": "NT$332",
+      "cover_url": "covers/nM-mWgtx8DCfh8tDihYKAQ.jpg",
+      "sale_price": "NT$99",
+      "date": "6/15",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
+      "on_sale": true,
+      "publisher": "真文化",
+      "publish_date": "2026年3月18日",
+      "language": "中文",
+      "original_author": null,
+      "description": "與其想要全面控制人生，不如坦然擁抱自己的無力。既然無法逃避，何不從我們的內心，深刻理解這十大無解的由來。當你體會人生就是自帶這些無解，它們就無法影響你的心境，讓你更有意識和更享受當下的生活。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/nM-mWgtx8DCfh8tDihYKAQ?sid=8a9bdba6-d448-479f-b268-63b87f281767&ssid=Q29tCqFQKjWChNBHhadys&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050321925"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://readmoo.com/book/210458148000101"
+        },
+        "goodreads": {
+          "score": 4.06,
+          "count": 161,
+          "url": "https://www.goodreads.com/book/show/205788252-the-uncomfortable-truth?from_search=true&from_srp=true&qid=lzRKTeb5pc&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CSW9SBN7/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 67,
+          "url": "https://www.amazon.com/gp/product/B0CSW9SBN7/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/Z261kV"
+    },
+    {
+      "title": "帶來好運的家：有錢人的家都這樣整理！幫超過10,000人重整生活的空間規劃術，當家成為喜歡的樣子，人生就會是理想的樣子",
+      "author": "鄭熙淑",
+      "original_title": "잘되는 집들의 비밀 부와 운을 부르는 공간과 삶에 관한 이야기",
+      "isbn": "9786267532423",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/JEeoyVVCwjixT-onoKVRhA?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611",
+      "kobo_price": "NT$280",
+      "cover_url": "covers/JEeoyVVCwjixT-onoKVRhA.jpg",
+      "sale_price": "NT$99",
+      "date": "6/16",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
+      "on_sale": true,
+      "publisher": "幸福文化",
+      "publish_date": "2024年11月6日",
+      "language": "中文",
+      "original_author": null,
+      "description": "幫10,000人找回清爽的生活。不裝潢、不搬家，讓人生和居家空間翻新升級的整理提案。順手又好維持的習慣養成，逐步打造喜歡又順眼的空間，整理，是不再委屈自己的決心。當生活順了、財富和運氣就來了！",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/JEeoyVVCwjixT-onoKVRhA?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 6,
+          "url": "https://www.books.com.tw/products/E050239977"
+        },
+        "readmoo": {
+          "score": 3.9,
+          "count": 14,
+          "url": "https://readmoo.com/book/210355332000101"
+        },
+        "goodreads": {
+          "score": 3.67,
+          "count": 3,
+          "url": "https://www.goodreads.com/book/isbn/9786267532423",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DQ3PS1C7/ref=x_gr_bb_kindle",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/dpMe3q"
+    },
+    {
+      "title": "我的朋友安娜：德國假名媛的幕後真相",
+      "author": "瑞秋．德洛奇．威廉斯",
+      "original_title": "",
+      "isbn": "9786269539680",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DR0tUsCVnjW2A5ORGqK9hw?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611",
+      "kobo_price": "NT$273",
+      "cover_url": "covers/DR0tUsCVnjW2A5ORGqK9hw.jpg",
+      "sale_price": "NT$99",
+      "date": "6/17",
+      "sale_start": "2026-06-11",
+      "sale_end": "2026-06-17",
+      "on_sale": true,
+      "publisher": "一起來出版",
+      "publish_date": "2022年4月13日",
+      "language": "中文",
+      "original_author": null,
+      "description": "與其想要全面控制人生，不如坦然擁抱自己的無力。既然無法逃避，何不從我們的內心，深刻理解這十大無解的由來。當你體會人生就是自帶這些無解，它們就無法影響你的心境，讓你更有意識和更享受當下的生活。",
+      "ratings": {
+        "kobo": {
+          "score": 4.4,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/DR0tUsCVnjW2A5ORGqK9hw?sid=ddbb61f3-1dec-4cd7-8cac-bac2b51fc194&ssid=cAVUpDy-TfHfmKaVPu_Sf&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin_20260611"
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050129032"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 32,
+          "url": "https://readmoo.com/book/210224248000101"
+        },
+        "goodreads": {
+          "score": 3.48,
+          "count": 35594,
+          "url": "https://www.goodreads.com/book/show/61201717?from_search=true&from_srp=true&qid=oSYsLnXQlm&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B07ND3TRVX/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 6446,
+          "url": "https://www.amazon.com/gp/product/B07ND3TRVX/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.59,
+      "short_affiliate_url": "https://reurl.cc/0mr6qk"
     }
   ]
 }

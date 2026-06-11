@@ -7,89 +7,90 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-SUMMARY:《謝謝敵人造就我：從難民到億萬創業家，利用敵
- 人讓自己更成功的12堂課》
-DESCRIPTION:特價 NT$99｜原價 NT$326\nhttps://reurl.cc/O6N8e7\n查看
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:《你不知道的權力的二十種面貌：權力不只是政治
+ 人物的事 也和商業社會裡每一個上班族有關》
+DESCRIPTION:特價 NT$99｜原價 NT$336\nhttps://reurl.cc/8eg5ao\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/O6N8e7
-UID:kobo99-2026-w23-01@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/8eg5ao
+UID:kobo99-2026-w24-01@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:《我的金錢之旅：30個財務自由真實故事，你也做
- 得到》
-DESCRIPTION:特價 NT$99｜原價 NT$336\nhttps://reurl.cc/Q2qkOp\n查看
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:《麻省理工全能表達課：人工智慧先驅40年熱門課
+ ，掌握基本功，凸顯優勢，預測群眾心理，從激發創意
+ 到寫作簡報，縮小溝通落差，享受豐厚回報》
+DESCRIPTION:特價 NT$99｜原價 NT$315\nhttps://reurl.cc/kpzqeq\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Q2qkOp
-UID:kobo99-2026-w23-02@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/kpzqeq
+UID:kobo99-2026-w24-02@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:《考古有意思：秦始皇的兵与城》
-DESCRIPTION:特價 NT$99｜原價 NT$309\nhttps://reurl.cc/N2MmE6\n查看
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:《鸽翼【詹姆斯小说艺术巅峰之作】》
+DESCRIPTION:特價 NT$99｜原價 NT$1054\nhttps://reurl.cc/lpxZWv\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/N2MmE6
-UID:kobo99-2026-w23-03@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/lpxZWv
+UID:kobo99-2026-w24-03@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:《八尺門的辯護人(鏡文學百萬影視小說大獎首獎）
- 》
-DESCRIPTION:特價 NT$99｜原價 NT$199\nhttps://reurl.cc/R2VlQ6\n查看
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:《莫斯科紳士》
+DESCRIPTION:特價 NT$99｜原價 NT$349\nhttps://reurl.cc/yO3m86\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/R2VlQ6
-UID:kobo99-2026-w23-04@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/yO3m86
+UID:kobo99-2026-w24-04@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:《怪咖人類學（二版）：用五大學科冷知識，破解2
- 2件人類暗黑史》
-DESCRIPTION:特價 NT$99｜原價 NT$199\nhttps://reurl.cc/qpRj3g\n查看
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:《隱藏的宇宙：生物多樣性，關於物種、基因、演
+ 化、功能和生態系統的驚奇故事》
+DESCRIPTION:特價 NT$99｜原價 NT$364\nhttps://reurl.cc/vEZmza\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qpRj3g
-UID:kobo99-2026-w23-05@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/vEZmza
+UID:kobo99-2026-w24-05@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
-SUMMARY:《超專注力對策：科學實證47項立即有感的心智集
- 中法》
-DESCRIPTION:特價 NT$99｜原價 NT$238\nhttps://reurl.cc/9WkYQO\n查看
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:《擁抱人生10大無解：馴服生命自帶的難題，轉化
+ 為享受生活的智慧》
+DESCRIPTION:特價 NT$99｜原價 NT$332\nhttps://reurl.cc/Z261kV\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/9WkYQO
-UID:kobo99-2026-w23-06@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/Z261kV
+UID:kobo99-2026-w24-06@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-SUMMARY:《你以為你在談戀愛，其實你在越級打怪：戀上病
- 態人格者的自救與療癒之路》
-DESCRIPTION:特價 NT$99｜原價 NT$266\nhttps://reurl.cc/np3jR1\n查看
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:《帶來好運的家：有錢人的家都這樣整理！幫超過1
+ 0\,000人重整生活的空間規劃術，當家成為喜歡的樣子，
+ 人生就會是理想的樣子》
+DESCRIPTION:特價 NT$99｜原價 NT$280\nhttps://reurl.cc/dpMe3q\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/np3jR1
-UID:kobo99-2026-w23-07@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/dpMe3q
+UID:kobo99-2026-w24-07@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:《星火：中國地下歷史學家與他們的未來之戰》
-DESCRIPTION:特價 NT$99｜原價 NT$392\nhttps://reurl.cc/zQaj7N\n查看
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:《我的朋友安娜：德國假名媛的幕後真相》
+DESCRIPTION:特價 NT$99｜原價 NT$273\nhttps://reurl.cc/0mr6qk\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/zQaj7N
-UID:kobo99-2026-w23-08@kobo99-tracker
-DTSTAMP:20260604T023200Z
+URL:https://reurl.cc/0mr6qk
+UID:kobo99-2026-w24-08@kobo99-tracker
+DTSTAMP:20260611T021534Z
 END:VEVENT
 END:VCALENDAR
