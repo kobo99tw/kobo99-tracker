@@ -266,6 +266,8 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
 .seo-intro{max-width:860px;margin:0 auto;padding:1.25rem 1.5rem;font-size:.82rem;color:var(--ink2);line-height:1.9;border-top:1px solid var(--line)}
 .seo-intro h2{font-size:.9rem;font-weight:700;color:var(--ink);margin-bottom:.4rem}
 .seo-intro p{margin:.3rem 0}
+.seo-intro ul{margin:.3rem 0;padding-left:1.4rem;list-style:disc}
+.seo-intro li{margin:.25rem 0}
 
 /* 桌機字體放大（手機維持 16px，桌機 17.5px，等比縮放所有 rem 值） */
 @media(min-width:641px){
@@ -380,7 +382,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
 
 <section class="seo-intro">
   <h2 id="seoIntroTitle">關於 Kobo 每週 99 書單</h2>
-  <p id="seoIntroDesc">Kobo 每週 99 書單自動整理 Kobo 台灣每週 99 元特價電子書，每週四更新。書單整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較、挑選 CP 值最高的 Kobo 99 特價好書。每本書附有特價日期、折扣幅度與各平台評分連結，支援依綜合評分、讀墨評分、Goodreads 評分排序。訂閱 .ics 日曆可在特價當天收到提醒。</p>
+  <p id="seoIntroDesc">Kobo 每週 99 書單整理台灣 99 元特價電子書，每週四更新，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，幫你找到心目中的好書，訂閱 .ics 日曆掌握特價時間。</p>
 </section>
 
 <footer>
@@ -804,7 +806,13 @@ loadData();
       }
       if (cfg.weekly99SeoDesc) {
         const el = document.getElementById('seoIntroDesc');
-        if (el) el.textContent = cfg.weekly99SeoDesc;
+        if (el) {
+          if (Array.isArray(cfg.weekly99SeoDesc)) {
+            el.innerHTML = cfg.weekly99SeoDesc.map(s => `<li>${s}</li>`).join('');
+          } else {
+            el.textContent = cfg.weekly99SeoDesc;
+          }
+        }
       }
       if (cfg.weekly99DefaultSort) {
         const sel = document.getElementById('sortSel');
