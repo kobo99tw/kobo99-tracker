@@ -1,126 +1,402 @@
 {
-  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w24",
-  "updated_at": "2026-06-08T09:43:48.431618+08:00",
+  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w25",
+  "updated_at": "2026-06-15T10:04:54.976790+08:00",
   "books": [
     {
-      "title": "穀倉效應【暢銷十週年紀念版】：為什麼分工反而造成企業崩壞、政府無能、經濟失控？",
-      "author": "吉蓮．邰蒂",
-      "original_title": "",
-      "isbn": "9786263588936",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3J3NZkvzuT6oHOawncMDWg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=7&utm_source=koboblog",
-      "kobo_price": "NT$268",
-      "cover_url": "covers/3J3NZkvzuT6oHOawncMDWg.jpg",
+      "title": "不要努力快樂：你越想振作，為什麼越痛苦？全球熱議最深刻著作！在正向成癮的時代，尋得快樂的真實解藥",
+      "author": "奧利佛．柏克曼",
+      "original_title": "The Antidote: Happiness for People Who Can't Stand Positive Thinking",
+      "isbn": "9786267874066",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fQmIlTXLRz6a_t0FHF2WMw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$287",
+      "cover_url": "covers/fQmIlTXLRz6a_t0FHF2WMw.jpg",
       "sale_price": "6/08-6/14 結帳折扣碼",
       "sale_end": "",
-      "description": "CNN等國際媒體推薦選讀！金融風暴、SONY衰退的共通點。組織擴大規模時必定迎來過度分工，穀倉的形式使世界井然有序。但當大家都活在小圈圈時，危機便潛伏而來。本書提供6大原則，教你破除穀倉效應、駕馭穀倉！",
-      "publish_date": "2026年3月6日",
+      "description": "如果追求快樂，本身就是問題的一部分呢？一本寫給焦慮世代的「逆向幸福學」解藥。走訪世界各地、與各界專家交談並親身經歷那些視為失敗的狀態後，作者發現所謂通往幸福的路徑，也許就是去做那些「不合邏輯」的事！",
+      "publish_date": "2026年3月18日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/3J3NZkvzuT6oHOawncMDWg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=7&utm_source=koboblog"
+          "url": "https://www.kobo.com/tw/zh/ebook/fQmIlTXLRz6a_t0FHF2WMw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050320513"
+          "url": "https://www.books.com.tw/products/E050321919"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210456884000101"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210457974000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
+          "score": 4.04,
+          "count": 16860,
+          "url": "https://www.goodreads.com/book/show/13721709-the-antidote?from_search=true&from_srp=true&qid=ykVq23WxKz&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0080K3G4O/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 2967,
+          "url": "https://www.amazon.com/gp/product/B0080K3G4O/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/539evR"
+      "avg_score": 4.11,
+      "short_affiliate_url": "https://reurl.cc/EmAV1K"
     },
     {
-      "title": "大人為什麼要繼續學習？：跟著日本全民啟蒙導師池上彰，一起探索「如何為自己的生命尋找答案」",
-      "author": "池上彰",
-      "original_title": "",
-      "isbn": "9786264064934",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/J_sKh5y5Cj6LQc_lRDvYSg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$255",
-      "cover_url": "covers/J_sKh5y5Cj6LQc_lRDvYSg.jpg",
+      "title": "庫瑪翁的食人虎：不在老虎食物鏈的人類，為何成為老虎的食物？（追捕殺了436人食人虎的紀實經典）",
+      "author": "吉姆.科比特",
+      "original_title": "Man-Eaters of Kumaon",
+      "isbn": "9786267850213",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1fprcjb54j-yTMRCBzlKWw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$340",
+      "cover_url": "covers/1fprcjb54j-yTMRCBzlKWw.jpg",
       "sale_price": "6/08-6/14 結帳折扣碼",
       "sale_end": "",
-      "description": "面臨人生意義的叩問，如何免除迷惘？成熟大人必讀的人生下半場寶典。被譽為日本全民啟蒙導師的池上彰發現了找到「生命答案」的處方。這本書獻給每一位渴求、探索心之所向的成熟大人，一起來趟知性的探索與冒險！",
-      "publish_date": "2026年4月30日",
+      "description": "若日本熊襲事件是噩夢，二十世紀初的印度食人虎則是將整座叢林變成地獄的恐怖統治。本書為野外觀察家科比特長達三十二年與食人虎對峙的心靈告白，寫下當自然秩序遭人類破壞後，某些動物何以被迫成為「怪物」的故事。",
+      "publish_date": "2026年3月25日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/J_sKh5y5Cj6LQc_lRDvYSg?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+          "url": "https://www.kobo.com/tw/zh/ebook/1fprcjb54j-yTMRCBzlKWw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/E050323626"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210458421000101"
+        },
+        "goodreads": {
+          "score": 4.31,
+          "count": 6383,
+          "url": "https://www.goodreads.com/book/show/475245.Man_Eaters_of_Kumaon?from_search=true&from_srp=true&qid=UFK9wz2In1&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B01MR4MEME/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 3121,
+          "url": "https://www.amazon.com/gp/product/B01MR4MEME/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.41,
+      "short_affiliate_url": "https://reurl.cc/Wbn0vL"
+    },
+    {
+      "title": "腸腦悖論：揭開腸道如何左右你的情緒、記憶與行為",
+      "author": "史蒂芬．R．岡德里",
+      "original_title": "THE GUT-BRAIN PARADOX: Improve Your Mood, Clear Brain Fog, and Reverse Disease by Healing Your Microbiome",
+      "isbn": "9786267813799",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/7j-hb2pz0D-JeN0zsPDIxw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$313",
+      "cover_url": "covers/7j-hb2pz0D-JeN0zsPDIxw.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "若日本熊襲事件是噩夢，二十世紀初的印度食人虎則是將整座叢林變成地獄的恐怖統治。本書為野外觀察家科比特長達三十二年與食人虎對峙的心靈告白，寫下當自然秩序遭人類破壞後，某些動物何以被迫成為「怪物」的故事。",
+      "publish_date": "2026年5月8日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/7j-hb2pz0D-JeN0zsPDIxw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
+        },
+        "books_com": {
+          "score": 1.5,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050333320"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 3,
+          "url": "https://readmoo.com/book/210471120000101"
+        },
+        "goodreads": {
+          "score": 3.25,
+          "count": 573,
+          "url": "https://www.goodreads.com/book/show/228447494-the-gut-brain-paradox?from_search=true&from_srp=true&qid=WmggesLsJl&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D9H7J3C7/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 336,
+          "url": "https://www.amazon.com/gp/product/B0D9H7J3C7/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.75,
+      "short_affiliate_url": "https://reurl.cc/O6OYjX"
+    },
+    {
+      "title": "Rucking負重行走：風靡全歐美！比走路多燃燒3倍熱量，強化肌力、改善心肺、增強骨骼的訓練法",
+      "author": "麥可．伊斯特",
+      "original_title": "Walk with Weight: The Definitive Guide to Rucking",
+      "isbn": "9786263909229",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/rucking-3?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=7&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$208",
+      "cover_url": "covers/rucking-3.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "最低門檻、最高成效，一次完成有氧與重訓，最權威實用的負重行走全方位指南！本書完整公開你需要知道的一切。從世界頂尖軍隊開始到今日連長者都能運用自如的運動，一起打造不受傷、更健康的身體，就從背起背包開始！",
+      "publish_date": "2026年4月7日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/rucking-3?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=7&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
         },
         "books_com": {
           "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050326833"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 13,
+          "url": "https://readmoo.com/book/210466694000101"
+        },
+        "goodreads": {
+          "score": 4.23,
+          "count": 40150,
+          "url": "https://www.goodreads.com/book/show/55120630-the-comfort-crisis?from_search=true&from_srp=true&qid=1OxkxGMiKR&rank=1",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B08FZLLPJX/ref=x_gr_bb_kindle",
+          "confidence": 70,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 9459,
+          "url": "https://www.amazon.com/gp/product/B08FZLLPJX/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.32,
+      "short_affiliate_url": "https://reurl.cc/Q2MYZ9"
+    },
+    {
+      "title": "製造狂熱：看穿玫瑰色眼鏡下的「躁狂」，識破心靈課程與宗教體驗的心理操控術",
+      "author": "約翰．亞歷山大．亨特博士",
+      "original_title": "Manufacturing Mania: The Dopamine Hypothesis of Religious Experience",
+      "isbn": "9786264331838",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/YNB2TRvdKTKxtDmnq10sYg?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$262",
+      "cover_url": "covers/YNB2TRvdKTKxtDmnq10sYg.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "別讓你的大腦，成為他人操控的玩物！結合神經科學、心理學，研究專家亨特博士的警世之作！本書既有學理證據，更收錄了大量「傷亡者」的現身說法，警覺情緒操控等潛在危害，才能避免在狂熱之後，失去心靈的平靜。",
+      "publish_date": "2026年3月31日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/YNB2TRvdKTKxtDmnq10sYg?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 3.4,
+          "count": 5,
+          "url": "https://readmoo.com/book/210459571000101"
+        },
+        "goodreads": {
+          "score": 3.25,
           "count": 4,
-          "url": "https://www.books.com.tw/products/E050330667"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 3,
-          "url": "https://readmoo.com/book/210468145000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
+          "url": "https://www.goodreads.com/book/show/221431084-manufacturing-mania?from_search=true&from_srp=true&qid=BFH4HbYrK8&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DMPXLSM1/ref=x_gr_bb_amazon",
+          "confidence": 60,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 10,
+          "url": "https://www.amazon.com/gp/product/B0DMPXLSM1/ref=x_gr_bb_amazon"
         }
       },
-      "avg_score": 4.87,
-      "short_affiliate_url": "https://reurl.cc/0mMLvk"
+      "avg_score": 4.0,
+      "short_affiliate_url": "https://reurl.cc/M2e3yk"
     },
     {
-      "title": "百年困局：中國與印度崛起的歷史死結",
-      "author": "陳牧民",
-      "original_title": "",
-      "isbn": "9786267891032",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LHZDLStDJDG9B4sy4lukQA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$319",
-      "cover_url": "covers/LHZDLStDJDG9B4sy4lukQA.jpg",
+      "title": "生命中不可錯過的智慧：那些我在幼兒園學過的不凡洞見",
+      "author": "羅勃．傅剛（Robert Fulghum）",
+      "original_title": "All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things",
+      "isbn": "9789861345734",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/rOvAtJu8KzafNJohhbIGoA?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/rOvAtJu8KzafNJohhbIGoA.jpg",
       "sale_price": "6/08-6/14 結帳折扣碼",
       "sale_end": "",
-      "description": "面臨人生意義的叩問，如何免除迷惘？成熟大人必讀的人生下半場寶典。被譽為日本全民啟蒙導師的池上彰發現了找到「生命答案」的處方。這本書獻給每一位渴求、探索心之所向的成熟大人，一起來趟知性的探索與冒險！",
-      "publish_date": "2026年5月6日",
+      "description": "美國、韓國國會引用，擄獲全球千萬人心靈的經典鉅作。原來人生的答案，從來不在象牙塔頂端，而是藏在幼兒園的沙坑中：不能打人、物歸原位、自己弄亂的自己收拾……簡單的小道理，是你我對抗恐懼與動盪的終極解答。",
+      "publish_date": "2026年5月1日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/LHZDLStDJDG9B4sy4lukQA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+          "url": "https://www.kobo.com/tw/zh/ebook/rOvAtJu8KzafNJohhbIGoA?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050330999"
+          "url": "https://www.books.com.tw/products/E050329310"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210470078000101"
+          "url": "https://readmoo.com/book/210468637000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 24821,
+          "url": "https://www.goodreads.com/book/show/93672.All_I_Really_Need_to_Know_I_Learned_in_Kindergarten?from_search=true&from_srp=true&qid=tnBhFB2Fp4&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B000FC1LRY/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 1643,
+          "url": "https://www.amazon.com/gp/product/B000FC1LRY/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.04,
+      "short_affiliate_url": "https://reurl.cc/N2WYyp"
+    },
+    {
+      "title": "50+人生問題解決對策",
+      "author": "横手彰太",
+      "original_title": "老後の年表 人生後半 50 年でいつ、何が起きるの …? で、私はどうすればいいの ??",
+      "isbn": "9789864597093",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/bmXonALOkTaP0FZghIi3mg?sid=8859e0a4-ca58-4fda-b604-3a1350b8a661&ssid=X9EXDPMaE1qFkIQIGSVbA&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$293",
+      "cover_url": "covers/bmXonALOkTaP0FZghIi3mg.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "50+人生的風險解決指南。老後問題解決專家橫手彰太，以最貼近現場的視角，帶你看清高齡人生的真實樣貌。結合醫師與法律專家的解說，搭配真實案例，教你盤點自己的風險與資源，並提出「現在就能行動」的具體對策。",
+      "publish_date": "2026年1月30日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/bmXonALOkTaP0FZghIi3mg?sid=8859e0a4-ca58-4fda-b604-3a1350b8a661&ssid=X9EXDPMaE1qFkIQIGSVbA&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050315466"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210451819000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 3.8,
+          "count": 72,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4761275391/ref=sr_1_1"
+        }
+      },
+      "avg_score": 3.83,
+      "short_affiliate_url": "https://reurl.cc/qpEG0N"
+    },
+    {
+      "title": "宜弒宜家：「愛倫坡獎」得主最瘋狂的作品！海外版權狂銷12國！",
+      "author": "大衛・艾利斯",
+      "original_title": "Look Closer",
+      "isbn": "9789573344193",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/F2TpJu9odjWsWilneUXOAg?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$374",
+      "cover_url": "covers/F2TpJu9odjWsWilneUXOAg.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "50+人生的風險解決指南。老後問題解決專家橫手彰太，以最貼近現場的視角，帶你看清高齡人生的真實樣貌。結合醫師與法律專家的解說，搭配真實案例，教你盤點自己的風險與資源，並提出「現在就能行動」的具體對策。",
+      "publish_date": "2026年4月27日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/F2TpJu9odjWsWilneUXOAg?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 30,
+          "url": "https://www.books.com.tw/products/E050329438"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 45,
+          "url": "https://readmoo.com/book/210467630000101"
+        },
+        "goodreads": {
+          "score": 4.14,
+          "count": 175844,
+          "url": "https://www.goodreads.com/book/show/59316367-look-closer?from_search=true&from_srp=true&qid=S0qcDf5B7L&rank=2",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09HT42QXS/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 20434,
+          "url": "https://www.amazon.com/gp/product/B09HT42QXS/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/V29Y4R"
+    },
+    {
+      "title": "脈的禮讚（10周年紀念版）：許中華醫師的12堂脈學課，解五臟疾病與癌症之謎",
+      "author": "許中華",
+      "original_title": "",
+      "isbn": "9786267792223",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vX7DcoMnGjWq0RwpsgarjA?sid=bb9b935c-6260-4439-9e6b-9937d4d921b4&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=15&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$286",
+      "cover_url": "covers/vX7DcoMnGjWq0RwpsgarjA.jpg",
+      "sale_price": "6/08-6/14 結帳折扣碼",
+      "sale_end": "",
+      "description": "50+人生的風險解決指南。老後問題解決專家橫手彰太，以最貼近現場的視角，帶你看清高齡人生的真實樣貌。結合醫師與法律專家的解說，搭配真實案例，教你盤點自己的風險與資源，並提出「現在就能行動」的具體對策。",
+      "publish_date": "2026年4月15日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/vX7DcoMnGjWq0RwpsgarjA?sid=bb9b935c-6260-4439-9e6b-9937d4d921b4&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=15&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210467027000101"
         },
         "goodreads": {
           "score": null,
@@ -134,121 +410,29 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/%E7%99%BE%E5%B9%B4%E5%9B%B0%E5%B1%80-%E4%B8%AD%E5%9C%8B%E8%88%87%E5%8D%B0%E5%BA%A6%E5%B4%9B%E8%B5%B7%E7%9A%84%E6%AD%B7%E5%8F%B2%E6%AD%BB%E7%B5%90-%E5%85%AB%E6%97%97%E5%9C%8B%E9%9A%9B-Traditional-Chinese-ebook/dp/B0GX32NNYG/ref=sr_1_1"
+          "url": "https://www.amazon.com/-/zh_TW/%E8%A8%B1%E4%B8%AD%E8%8F%AF-ebook/dp/B0GX35RDXP/ref=sr_1_1"
         }
       },
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/18NDvp"
+      "short_affiliate_url": "https://reurl.cc/xWRN6L"
     },
     {
-      "title": "優雅開戰（三版）：聰明選戰場、精準控情緒的建設性衝突策略",
-      "author": "喬恩．塔弗",
-      "original_title": "The power of conflict : speak your mind and get the results you want",
-      "isbn": "9786267767245",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/-3_6o0C8hz-hxSd7ByUxtg?sId=5d8bfe1a-a0c7-419d-84a0-a42437838c74&ssId=jk8Uiw4InfPUso1ZYJoG5&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$274",
-      "cover_url": "covers/-3_6o0C8hz-hxSd7ByUxtg.jpg",
-      "sale_price": "6/08-6/14 結帳折扣碼",
-      "sale_end": "",
-      "description": "出版社：方舟文化查看電子書（HK）",
-      "publish_date": "2026年3月11日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/-3_6o0C8hz-hxSd7ByUxtg?sId=5d8bfe1a-a0c7-419d-84a0-a42437838c74&ssId=jk8Uiw4InfPUso1ZYJoG5&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050320541"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210457114000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 352,
-          "url": "https://www.amazon.com/Power-Conflict-Speak-Your-Results/dp/B09L57W3QS/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.7,
-      "short_affiliate_url": "https://reurl.cc/K21ZeR"
-    },
-    {
-      "title": "健忘，是大腦在求救？——從自覺記憶衰退到失智前兆，神經科醫師帶你辨識大腦的真訊號，找回對記憶的掌控力",
-      "author": "邱銘章",
+      "title": "屍體在說話（暢銷紀念）",
+      "author": "上野正彥",
       "original_title": "",
-      "isbn": "9786267813768",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SEC4if46oTKzRxBuWd7N2w?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$268",
-      "cover_url": "covers/SEC4if46oTKzRxBuWd7N2w.jpg",
+      "isbn": "9786267845509",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3bD6Yx9o0zGns6iOQZlMSw?sid=bb9b935c-6260-4439-9e6b-9937d4d921b4&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=19&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
+      "kobo_price": "NT$339",
+      "cover_url": "covers/3bD6Yx9o0zGns6iOQZlMSw.jpg",
       "sale_price": "6/08-6/14 結帳折扣碼",
       "sale_end": "",
-      "description": "台灣失智症權威醫師邱銘章，數十年臨床研究精華，不只談疾病，更談我們如何與大腦共處、如何面對記憶的流逝與保存。本書同步說明「正常老化」與「病理性退化」之間的差別，揭開記憶失誤、錯誤記憶、虛談現象的奧祕。",
-      "publish_date": "2026年3月31日",
+      "description": "50+人生的風險解決指南。老後問題解決專家橫手彰太，以最貼近現場的視角，帶你看清高齡人生的真實樣貌。結合醫師與法律專家的解說，搭配真實案例，教你盤點自己的風險與資源，並提出「現在就能行動」的具體對策。",
+      "publish_date": "2026年4月26日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/SEC4if46oTKzRxBuWd7N2w?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050327990"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/ovElR3"
-    },
-    {
-      "title": "世界激變，如何投資：即將來臨的未來，傳奇投資大師吉姆．羅傑斯預判：牛市即將結束、放空股票，買黃金白銀大宗商品，中國奪回產業霸權……。",
-      "author": "吉姆‧羅傑斯",
-      "original_title": "世界大激変：混乱する世界をどう読むか",
-      "isbn": "9786267817674",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/x1gWG4rgpDOdITEQK_yjsA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$275",
-      "cover_url": "covers/x1gWG4rgpDOdITEQK_yjsA.jpg",
-      "sale_price": "6/08-6/14 結帳折扣碼",
-      "sale_end": "",
-      "description": "投資界的傳奇人物吉姆．羅傑斯在2025年準確預言委內瑞拉、伊朗將產生劇變以及白銀會大漲別賣。現在，他又看到甚麼樣的未來？下一個投資方向又在哪呢？你是否該買股票還是黃金？本書將揭露羅傑斯對未來的斷言。",
-      "publish_date": "2026年3月31日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/x1gWG4rgpDOdITEQK_yjsA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
+          "url": "https://www.kobo.com/tw/zh/ebook/3bD6Yx9o0zGns6iOQZlMSw?sid=bb9b935c-6260-4439-9e6b-9937d4d921b4&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=19&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
         },
         "books_com": {
           "score": null,
@@ -258,99 +442,7 @@
         "readmoo": {
           "score": 4.0,
           "count": 2,
-          "url": "https://readmoo.com/book/210460417000101"
-        },
-        "goodreads": {
-          "score": 4.07,
-          "count": 1592,
-          "url": "https://www.goodreads.com/book/show/86189.Investment_Biker?from_search=true&from_srp=true&qid=MGOANbZZe5&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0061C1LWM/ref=x_gr_bb_kindle",
-          "confidence": 70,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 431,
-          "url": "https://www.amazon.com/gp/product/B0061C1LWM/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.16,
-      "short_affiliate_url": "https://reurl.cc/L2KYWx"
-    },
-    {
-      "title": "旅途結束時，你就在那裡：《在無人車站等你》後，再次逼哭讀者的奇蹟之作！",
-      "author": "戌淳",
-      "original_title": "旅の終わりに君がいた",
-      "isbn": "9789573344230",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/9C9ajcHp5T2XfW-hdYT15Q?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$285",
-      "cover_url": "covers/9C9ajcHp5T2XfW-hdYT15Q.jpg",
-      "sale_price": "6/08-6/14 結帳折扣碼",
-      "sale_end": "",
-      "description": "當季俁埜乃痛失雙親、走向絕望時，一輛神秘餐車出現在她眼前。這是專為亡者而開的餐車，沒有菜單，只有為告別特製的限定套餐。本該結束人生旅程的她卻成為第一個再次回到餐車的人，並在邀請下加入了送行者的行列……",
-      "publish_date": "2026年5月11日",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/9C9ajcHp5T2XfW-hdYT15Q?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 25,
-          "url": "https://www.books.com.tw/products/E050332134"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210470996000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 17,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4408558753/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.73,
-      "short_affiliate_url": "https://reurl.cc/X2KoGM"
-    },
-    {
-      "title": "人為什麼要自殺？：從真實遺書、臨床案例到心理剖析，拆解絕望背後的行為邏輯",
-      "author": "春日武彥",
-      "original_title": "",
-      "isbn": "9786264186285",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Hi_R7wEtajyFfI9ojki6OA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$282",
-      "cover_url": "covers/Hi_R7wEtajyFfI9ojki6OA.jpg",
-      "sale_price": "6/08-6/14 結帳折扣碼",
-      "sale_end": "",
-      "description": "在那轉身後的心理黑盒中，究竟發生了什麼？作者結合多年臨床經驗、真實遺書、新聞報導，並剖析文學與電影中的死亡意象，歸納出自殺的七種型態。本書誠實揭露出掩蓋在悲傷下的無能為力，邀請你一同試圖理解人性深淵。",
-      "publish_date": "2026年5月1日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Hi_R7wEtajyFfI9ojki6OA?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050330990"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210469814000101"
+          "url": "https://readmoo.com/book/210468830000101"
         },
         "goodreads": {
           "score": null,
@@ -364,103 +456,11 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/-/zh_TW/%E4%B8%8A%E9%87%8E%E6%AD%A3%E5%BD%A5-ebook/dp/B0GZZXG5RG/ref=sr_1_1"
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/4lVErV"
-    },
-    {
-      "title": "小瘤球遊記：一位鼻咽癌患者的療癒旅程",
-      "author": "火星爺爺",
-      "original_title": "",
-      "isbn": "9786267603697",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/X_oQV0GMBzicRVvYT9Z8yQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$269",
-      "cover_url": "covers/X_oQV0GMBzicRVvYT9Z8yQ.jpg",
-      "sale_price": "6/08-6/14 結帳折扣碼",
-      "sale_end": "",
-      "description": "出版社：有鹿文化事業有限公司查看電子書（HK）",
-      "publish_date": "2026年5月15日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/X_oQV0GMBzicRVvYT9Z8yQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050334136"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210472992000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/Ga27j3"
-    },
-    {
-      "title": "狼之時【奈斯博獨立作，跨越人性善惡的邊界，直視殘破變形的心靈】",
-      "author": "尤．奈斯博",
-      "original_title": "Minnesota",
-      "isbn": "9786264092227",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/9abQa-ex1DWa-d2HwEOnFQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608",
-      "kobo_price": "NT$292",
-      "cover_url": "covers/9abQa-ex1DWa-d2HwEOnFQ.jpg",
-      "sale_price": "6/08-6/14 結帳折扣碼",
-      "sale_end": "",
-      "description": "北歐犯罪小說天王尤．奈斯博最新作。一名如幽靈般的狙擊手正四處獵殺著目標們，而線索皆指向一名自稱「狼」的黑幫殺手。酗酒警探奧茲在人生低谷意外接手案件後，逐步揭開三十年前的血案，也在追查中與凶手產生共鳴！",
-      "publish_date": "2026年5月4日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/9abQa-ex1DWa-d2HwEOnFQ?sid=8c080516-af75-4267-af80-aa9ee7551ceb&ssid=hVTkT5VqaclcDhqtGLaCV&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260608"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 17,
-          "url": "https://www.books.com.tw/products/E050330457"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 5,
-          "url": "https://readmoo.com/book/210469168000101"
-        },
-        "goodreads": {
-          "score": 4.01,
-          "count": 8763,
-          "url": "https://www.goodreads.com/book/show/222620980-minnesota?from_search=true&from_srp=true&qid=XjAaszaJ59&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F7G41C7Z/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 5053,
-          "url": "https://www.amazon.com/gp/product/B0F7G41C7Z/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/Em5kjA"
+      "avg_score": 4.0,
+      "short_affiliate_url": "https://reurl.cc/8ekDNX"
     }
   ]
 }
