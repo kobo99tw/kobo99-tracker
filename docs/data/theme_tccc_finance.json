@@ -21,13 +21,13 @@
           "url": "https://www.kobo.com/tw/zh/ebook/V1hRN6TkYj6K5p9PnIhShg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
+          "score": 5.0,
+          "count": 3,
           "url": "https://www.books.com.tw/products/E050335371"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
+          "score": 4.7,
+          "count": 6,
           "url": "https://readmoo.com/book/210475154000101"
         },
         "goodreads": {
@@ -45,7 +45,7 @@
           "url": ""
         }
       },
-      "avg_score": 5.0,
+      "avg_score": 4.8,
       "short_affiliate_url": "https://reurl.cc/kpRRDL",
       "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FV1hRN6TkYj6K5p9PnIhShg"
     },
@@ -70,7 +70,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050335369"
+          "url": "https://www.books.com.tw/products/0011052563"
         },
         "readmoo": {
           "score": 5.0,
@@ -116,32 +116,33 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 10,
+          "count": 11,
           "url": "https://www.books.com.tw/products/E050314150"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 24,
+          "score": 4.7,
+          "count": 31,
           "url": "https://readmoo.com/book/210450247000101"
         },
         "goodreads": {
           "score": 4.28,
-          "count": 346442,
+          "count": 349041,
           "url": "https://www.goodreads.com/book/show/41881472-the-psychology-of-money?from_search=true&from_srp=true&qid=I4H51RPqT5&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B084HJSJJ2/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 71818,
+          "count": 72165,
           "url": "https://www.amazon.com/gp/product/B084HJSJJ2/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.35,
       "short_affiliate_url": "https://reurl.cc/7Egg5D",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FLfbj1LAHrDuXIjUC7apSVQ"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FLfbj1LAHrDuXIjUC7apSVQ",
+      "original_author": "Morgan Housel"
     },
     {
       "title": "邏輯投資：散戶贏過大盤的機會",
@@ -181,12 +182,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.amazon.com/-/zh_TW/%E7%B4%84%E7%BF%B0%E2%80%A7%E8%89%BE%E5%80%AB%E2%80%A7%E4%BF%9D%E7%BE%85%E6%96%AF-ebook/dp/B0BN53Q7SF/ref=sr_1_2"
         }
       },
-      "avg_score": 4.57,
+      "avg_score": 4.61,
       "short_affiliate_url": "https://reurl.cc/yOppzM",
       "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F5ZyNC6SdRzyjiakIsMlhUw"
     },
@@ -214,8 +215,8 @@
           "url": "https://www.books.com.tw/products/E050314151"
         },
         "readmoo": {
-          "score": 4.2,
-          "count": 16,
+          "score": 4.3,
+          "count": 22,
           "url": "https://readmoo.com/book/210453198000101"
         },
         "goodreads": {
@@ -269,20 +270,21 @@
           "score": 4.49,
           "count": 45,
           "url": "https://www.goodreads.com/book/show/56678858-the-journalist?from_search=true&from_srp=true&qid=lKOyPe463v&rank=1",
-          "note": "author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/164599144X/ref=x_gr_bb_amazon",
-          "confidence": 70,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.2,
-          "count": 38,
+          "count": 37,
           "url": "https://www.amazon.com/gp/product/164599144X/ref=x_gr_bb_amazon"
         }
       },
       "avg_score": 4.38,
       "short_affiliate_url": "https://reurl.cc/vEllVk",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FMFrn2vdeXzaP5ZW_mrEXZg"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FMFrn2vdeXzaP5ZW_mrEXZg",
+      "original_author": "David    Gardner"
     },
     {
       "title": "財富自由心理學【電子書獨家：作者親聲導讀‧實戰計畫】：療癒金錢焦慮，修練致富心態",
@@ -298,8 +300,8 @@
       "publish_date": "2026年1月27日",
       "ratings": {
         "kobo": {
-          "score": 4.0,
-          "count": 5,
+          "score": 4.17,
+          "count": 6,
           "url": "https://www.kobo.com/tw/zh/ebook/j6poxpbcnTGYQWgF-CAX8g"
         },
         "books_com": {
@@ -308,8 +310,8 @@
           "url": "https://www.books.com.tw/products/E050312783"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 45,
+          "score": 4.9,
+          "count": 55,
           "url": "https://readmoo.com/book/210449720000101"
         },
         "goodreads": {
@@ -327,7 +329,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.76,
+      "avg_score": 4.85,
       "short_affiliate_url": "https://reurl.cc/Z200pW",
       "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fj6poxpbcnTGYQWgF-CAX8g"
     },
@@ -355,28 +357,29 @@
           "url": "https://www.books.com.tw/products/E050300377"
         },
         "readmoo": {
-          "score": 4.5,
-          "count": 2,
+          "score": 4.7,
+          "count": 3,
           "url": "https://readmoo.com/book/210431626000101"
         },
         "goodreads": {
           "score": 4.16,
-          "count": 54878,
+          "count": 54938,
           "url": "https://www.goodreads.com/book/show/2054761.The_Snowball?from_search=true&from_srp=true&qid=sTvq7rquzw&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B009MYD9F8/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 4953,
+          "count": 4962,
           "url": "https://www.amazon.com/gp/product/B009MYD9F8/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.2,
       "short_affiliate_url": "https://reurl.cc/YD22y0",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRCSGDvI-uziFyLwZ6Gbe_A"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRCSGDvI-uziFyLwZ6Gbe_A",
+      "original_author": "Alice Schroeder"
     },
     {
       "title": "金錢心理學（暢銷增訂版）：打破你對金錢的迷思，學會聰明花費",
@@ -408,22 +411,23 @@
         },
         "goodreads": {
           "score": 3.78,
-          "count": 5850,
+          "count": 5862,
           "url": "https://www.goodreads.com/book/show/34323010-dollars-and-sense?from_search=true&from_srp=true&qid=PDt53WfXMe&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B06WGP2DWL/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 818,
+          "count": 819,
           "url": "https://www.amazon.com/gp/product/B06WGP2DWL/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 3.86,
       "short_affiliate_url": "https://reurl.cc/r0mmMr",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0I1ZF6SpfTOtSSDebSdS1w"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0I1ZF6SpfTOtSSDebSdS1w",
+      "original_author": "Dan Ariely"
     },
     {
       "title": "有錢到老後：讓錢活得比你久，嫺人用三桶金計畫打造不怕老、不怕窮的退休理財指南",
@@ -501,23 +505,24 @@
           "url": "https://readmoo.com/book/210391892000101"
         },
         "goodreads": {
-          "score": 4.1,
-          "count": 170,
+          "score": 4.12,
+          "count": 213,
           "url": "https://www.goodreads.com/book/show/203579235-the-soul-of-wealth?from_search=true&from_srp=true&qid=zqrwnnH0zH&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/1804090441/ref=x_gr_bb_amazon",
-          "confidence": 90,
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F4KM49VT/ref=x_gr_bb_kindle",
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 151,
-          "url": "https://www.amazon.com/gp/product/1804090441/ref=x_gr_bb_amazon"
+          "count": 2,
+          "url": "https://www.amazon.com/gp/product/B0F4KM49VT/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.27,
+      "avg_score": 4.1,
       "short_affiliate_url": "https://reurl.cc/dpEE6y",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fhj7BCOwctDyGyRHHutAA2A"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fhj7BCOwctDyGyRHHutAA2A",
+      "original_author": "Daniel Crosby"
     },
     {
       "title": "快思慢想理財法：善用心理學打造不再為錢煩惱的富足人生",
@@ -543,28 +548,29 @@
           "url": "https://www.books.com.tw/products/E050256487"
         },
         "readmoo": {
-          "score": 4.3,
-          "count": 7,
+          "score": 4.4,
+          "count": 8,
           "url": "https://readmoo.com/book/210379448000101"
         },
         "goodreads": {
           "score": 3.0,
           "count": 7,
           "url": "https://www.goodreads.com/book/show/201894223-spending-fast-and-slow?from_search=true&from_srp=true&qid=JqKsiQgDc3&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0FDJ2X534/ref=x_gr_bb_kindle",
-          "confidence": 80,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 5.0,
-          "count": 3,
+          "count": 4,
           "url": "https://www.amazon.com/gp/product/B0FDJ2X534/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 3.84,
+      "avg_score": 3.96,
       "short_affiliate_url": "https://reurl.cc/0m557K",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FN8IgbX8EPzuKYgMKKUNLgw"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FN8IgbX8EPzuKYgMKKUNLgw",
+      "original_author": "Max Phelps"
     },
     {
       "title": "投資的底層邏輯：高人氣EMBA財富管理課，帶你精準抓對全球趨勢",
@@ -598,9 +604,9 @@
           "score": 2.5,
           "count": 2,
           "url": "https://www.goodreads.com/book/show/228727433?from_search=true&from_srp=true&qid=unSRtDdRtn&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0DZBBHQ44/ref=x_gr_bb_kindle",
-          "confidence": 45,
+          "confidence": 75,
           "cross_validated": true
         },
         "amazon_com": {
@@ -611,7 +617,8 @@
       },
       "avg_score": 3.59,
       "short_affiliate_url": "https://reurl.cc/A9QQo3",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Femba-2"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Femba-2",
+      "original_author": "陳超"
     },
     {
       "title": "財務自由的人生：跟著首席分析師楊應超學華爾街的投資技巧和工作效率，40歲就過FIRE的優質生活",
@@ -645,9 +652,9 @@
           "score": 4.12,
           "count": 76,
           "url": "https://www.goodreads.com/book/show/48726122?from_search=true&from_srp=true&qid=JykW7oQhzP&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B07ZVMCS4F/ref=x_gr_bb_amazon",
-          "confidence": 60,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
@@ -658,7 +665,8 @@
       },
       "avg_score": 4.1,
       "short_affiliate_url": "https://reurl.cc/6G11rb",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F40fire"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F40fire",
+      "original_author": "楊應超(KIRK YANG)"
     },
     {
       "title": "投資的底氣（Kobo獨家簽名版）：選股策略X心理素質決定你的財富上限",
@@ -679,14 +687,14 @@
           "url": "https://www.kobo.com/tw/zh/ebook/kobo-x"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 16,
+          "url": "https://www.books.com.tw/products/E050231946?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050231946"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.6,
+          "count": 47,
+          "url": "https://readmoo.com/book/210346658000101"
         },
         "goodreads": {
           "score": null,
@@ -703,7 +711,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.31,
+      "avg_score": 4.62,
       "short_affiliate_url": "https://reurl.cc/K2mmNq",
       "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fkobo-x"
     },
@@ -726,9 +734,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/t6OqDqrtfDude_TmTUGbaQ"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 5,
+          "url": "https://www.books.com.tw/products/0010990281"
         },
         "readmoo": {
           "score": 4.1,
@@ -739,9 +747,9 @@
           "score": 1.0,
           "count": 1,
           "url": "https://www.goodreads.com/book/show/230364226-49?from_search=true&from_srp=true&qid=in9BxMnkIV&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0F2HNB9QN/ref=x_gr_bb_amazon",
-          "confidence": 30,
+          "confidence": 60,
           "cross_validated": null
         },
         "amazon_com": {
@@ -750,9 +758,10 @@
           "url": ""
         }
       },
-      "avg_score": 3.52,
+      "avg_score": 3.74,
       "short_affiliate_url": "https://reurl.cc/j6NNLp",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Ft6OqDqrtfDude_TmTUGbaQ"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Ft6OqDqrtfDude_TmTUGbaQ",
+      "original_author": "林峰丕"
     },
     {
       "title": "12個經濟指標，讓你投資無往不利",
@@ -773,9 +782,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/1mD-0lDOPjy3Y6RDbENyJQ"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 5,
+          "url": "https://www.books.com.tw/products/0010987749"
         },
         "readmoo": {
           "score": 4.5,
@@ -786,9 +795,9 @@
           "score": 4.0,
           "count": 2,
           "url": "https://www.goodreads.com/book/show/230364051-12?from_search=true&from_srp=true&qid=zuRRueq5vY&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0F2HLK7ZW/ref=x_gr_bb_amazon",
-          "confidence": 30,
+          "confidence": 60,
           "cross_validated": false
         },
         "amazon_com": {
@@ -799,7 +808,8 @@
       },
       "avg_score": 4.41,
       "short_affiliate_url": "https://reurl.cc/L288RL",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F1mD-0lDOPjy3Y6RDbENyJQ"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F1mD-0lDOPjy3Y6RDbENyJQ",
+      "original_author": "艾敏‧尤爾馬茲"
     },
     {
       "title": "黑天鵝投資大師們：洞悉極端事件的本質，在混沌時局發現投資機會的那群人",
@@ -820,9 +830,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/AwOdDMsu1jqgeHSXRPKBWQ"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0010982310"
         },
         "readmoo": {
           "score": 4.3,
@@ -831,11 +841,11 @@
         },
         "goodreads": {
           "score": 3.73,
-          "count": 1186,
+          "count": 1190,
           "url": "https://www.goodreads.com/book/show/62918551-chaos-kings?from_search=true&from_srp=true&qid=d2aMj8dZJN&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0BHTLBG1Q/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -846,7 +856,8 @@
       },
       "avg_score": 3.84,
       "short_affiliate_url": "https://reurl.cc/DxRRGE",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FAwOdDMsu1jqgeHSXRPKBWQ"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FAwOdDMsu1jqgeHSXRPKBWQ",
+      "original_author": "Scott Patterson"
     },
     {
       "title": "太空商業時代 ：馬斯克引發的太空經濟革命",
@@ -867,22 +878,22 @@
           "url": "https://www.kobo.com/tw/zh/ebook/TRkMTBrAmj-ik8ly6bhQ_Q"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 3.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0010980811"
         },
         "readmoo": {
           "score": 4.8,
-          "count": 15,
+          "count": 17,
           "url": "https://readmoo.com/book/210313773000101"
         },
         "goodreads": {
           "score": 4.24,
-          "count": 2317,
+          "count": 2329,
           "url": "https://www.goodreads.com/book/show/62050244-when-the-heavens-went-on-sale?from_search=true&from_srp=true&qid=ID80fUwBQK&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0B9SLZX9M/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -893,7 +904,8 @@
       },
       "avg_score": 4.29,
       "short_affiliate_url": "https://reurl.cc/X2dd7g",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTRkMTBrAmj-ik8ly6bhQ_Q"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTRkMTBrAmj-ik8ly6bhQ_Q",
+      "original_author": "Ashlee Vance"
     },
     {
       "title": "贏在特別股",
@@ -914,9 +926,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/OttPKOEOVjql44No7Mq8Og"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/E050197492"
         },
         "readmoo": {
           "score": null,
@@ -938,7 +950,7 @@
           "url": ""
         }
       },
-      "avg_score": null,
+      "avg_score": 4.5,
       "short_affiliate_url": "https://reurl.cc/4lAAZD",
       "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FOttPKOEOVjql44No7Mq8Og"
     },
@@ -961,33 +973,34 @@
           "url": "https://www.kobo.com/tw/zh/ebook/pkOkAvwhazG2pepi6d9iag"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0010975803?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010975803"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.6,
+          "count": 21,
+          "url": "https://readmoo.com/book/210304605000101"
         },
         "goodreads": {
           "score": 4.39,
-          "count": 18783,
+          "count": 18886,
           "url": "https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack?from_search=true&from_srp=true&qid=Th2by1l5eZ&rank=1",
-          "note": "author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle",
-          "confidence": 70,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 3780,
+          "count": 3811,
           "url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.42,
+      "avg_score": 4.43,
       "short_affiliate_url": "https://reurl.cc/3k00vl",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FpkOkAvwhazG2pepi6d9iag"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FpkOkAvwhazG2pepi6d9iag",
+      "original_author": "Charles T. Munger"
     },
     {
       "title": "運氣心理學：掌握1%致富契機的人，都在默默實踐的6種心理技巧",
@@ -1008,9 +1021,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/TsEeMncUDDefYqLgxV4mgA"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050181878?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050181878"
         },
         "readmoo": {
           "score": 4.1,
@@ -1021,9 +1034,9 @@
           "score": 3.4,
           "count": 5,
           "url": "https://www.goodreads.com/book/show/237690816?from_search=true&from_srp=true&qid=5K7X4GyHCG&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0FSJD4NLN/ref=x_gr_bb_amazon",
-          "confidence": 30,
+          "confidence": 80,
           "cross_validated": null
         },
         "amazon_com": {
@@ -1032,9 +1045,10 @@
           "url": ""
         }
       },
-      "avg_score": 3.84,
+      "avg_score": 3.92,
       "short_affiliate_url": "https://reurl.cc/Ga99Wy",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTsEeMncUDDefYqLgxV4mgA"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTsEeMncUDDefYqLgxV4mgA",
+      "original_author": "Yu Min Ji"
     },
     {
       "title": "蒙格之道：關於投資、閱讀、工作與幸福的普通常識",
@@ -1055,33 +1069,34 @@
           "url": "https://www.kobo.com/tw/zh/ebook/yAMpgsyouT2WnZLsLQCHlg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 32,
+          "url": "https://www.books.com.tw/products/0010966227?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010966227"
         },
         "readmoo": {
           "score": 4.7,
-          "count": 186,
+          "count": 187,
           "url": "https://readmoo.com/book/210287274000101"
         },
         "goodreads": {
           "score": 4.39,
-          "count": 18783,
+          "count": 18886,
           "url": "https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack?from_search=true&from_srp=true&qid=F8fiMNlkFH&rank=1",
-          "note": "author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle",
-          "confidence": 70,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 3780,
+          "count": 3811,
           "url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.43,
       "short_affiliate_url": "https://reurl.cc/Em33E0",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FyAMpgsyouT2WnZLsLQCHlg"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FyAMpgsyouT2WnZLsLQCHlg",
+      "original_author": "Charles T. Munger"
     },
     {
       "title": "一生金錢無虞平衡理財法",
@@ -1102,9 +1117,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/0LuZklbNYzWou9tH9IRe8Q"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.0,
+          "count": 6,
+          "url": "https://www.books.com.tw/products/0010958244?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010958244"
         },
         "readmoo": {
           "score": 3.9,
@@ -1126,7 +1141,7 @@
           "url": ""
         }
       },
-      "avg_score": 3.76,
+      "avg_score": 3.82,
       "short_affiliate_url": "https://reurl.cc/Wb55l9",
       "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0LuZklbNYzWou9tH9IRe8Q"
     },
@@ -1144,38 +1159,39 @@
       "publish_date": "2023年4月28日",
       "ratings": {
         "kobo": {
-          "score": 4.72,
-          "count": 54,
+          "score": 4.73,
+          "count": 55,
           "url": "https://www.kobo.com/tw/zh/ebook/0JvbxJQqATKBEU6vj3nUKA"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 30,
+          "url": "https://www.books.com.tw/products/0010955845?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010955845"
         },
         "readmoo": {
           "score": 4.7,
-          "count": 123,
+          "count": 125,
           "url": "https://readmoo.com/book/210270630000101"
         },
         "goodreads": {
           "score": 4.14,
-          "count": 41560,
+          "count": 41646,
           "url": "https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street?from_search=true&from_srp=true&qid=SyQ6UcT8nn&rank=1",
-          "note": "author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B07DP6YGVX/ref=x_gr_bb_kindle",
-          "confidence": 70,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 4206,
+          "count": 4212,
           "url": "https://www.amazon.com/gp/product/B07DP6YGVX/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.19,
       "short_affiliate_url": "https://reurl.cc/Q2yyzM",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0JvbxJQqATKBEU6vj3nUKA"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0JvbxJQqATKBEU6vj3nUKA",
+      "original_author": "Burton G. Malkiel"
     },
     {
       "title": "精準選股：華爾街傳奇科技分析師的10堂投資課",
@@ -1196,9 +1212,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/Lwrp3zbaPjOC297Z4L5hXQ"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 2.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0010925769?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010925769"
         },
         "readmoo": {
           "score": 4.5,
@@ -1209,9 +1225,9 @@
           "score": 3.78,
           "count": 230,
           "url": "https://www.goodreads.com/book/show/58151348-nothing-but-net?from_search=true&from_srp=true&qid=ICqFcRzKQi&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B09889SCSY/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -1220,9 +1236,10 @@
           "url": "https://www.amazon.com/gp/product/B09889SCSY/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.09,
+      "avg_score": 4.08,
       "short_affiliate_url": "https://reurl.cc/M2aaqp",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FLwrp3zbaPjOC297Z4L5hXQ"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FLwrp3zbaPjOC297Z4L5hXQ",
+      "original_author": "Mark Mahaney"
     },
     {
       "title": "灰階思考",
@@ -1239,7 +1256,7 @@
       "ratings": {
         "kobo": {
           "score": 4.56,
-          "count": 431,
+          "count": 433,
           "url": "https://www.kobo.com/tw/zh/ebook/6qH-2GVPZTOvvptgjM-UsA"
         },
         "books_com": {
@@ -1249,27 +1266,28 @@
         },
         "readmoo": {
           "score": 4.6,
-          "count": 1241,
+          "count": 1254,
           "url": "https://readmoo.com/book/210177050000101"
         },
         "goodreads": {
           "score": 4.19,
-          "count": 153,
+          "count": 154,
           "url": "https://www.goodreads.com/book/show/58267589?from_search=true&from_srp=true&qid=idiHUU33zR&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B094CXN6BK/ref=x_gr_bb_amazon",
-          "confidence": 60,
-          "cross_validated": null
+          "confidence": 90,
+          "cross_validated": false
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 3.0,
+          "count": 2,
+          "url": "https://www.amazon.com/-/zh_TW/%E6%9D%8E%E5%A4%A9%E5%91%BD-ebook/dp/B07JYGR7KP/ref=sr_1_1"
         }
       },
       "avg_score": 4.54,
       "short_affiliate_url": "https://reurl.cc/N2kkVk",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F6qH-2GVPZTOvvptgjM-UsA"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F6qH-2GVPZTOvvptgjM-UsA",
+      "original_author": "謝孟恭"
     },
     {
       "title": "會走路的錢",
@@ -1303,9 +1321,9 @@
           "score": 4.57,
           "count": 288,
           "url": "https://www.goodreads.com/book/show/50914453-money-walks?from_search=true&from_srp=true&qid=VcNOhor7eM&rank=2",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 40,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
@@ -1316,7 +1334,8 @@
       },
       "avg_score": 4.57,
       "short_affiliate_url": "https://reurl.cc/R2ppxx",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Feud_u55QcDCef9pA9JInhg"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Feud_u55QcDCef9pA9JInhg",
+      "original_author": "Bayfamily"
     },
     {
       "title": "洞悉市場的人：量化交易之父吉姆‧西蒙斯與文藝復興公司的故事",
@@ -1348,22 +1367,23 @@
         },
         "goodreads": {
           "score": 4.04,
-          "count": 17929,
+          "count": 17980,
           "url": "https://www.goodreads.com/book/show/43889703-the-man-who-solved-the-market?from_search=true&from_srp=true&qid=SldJqKmVsN&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B07P1NNTSD/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 5272,
+          "count": 5281,
           "url": "https://www.amazon.com/gp/product/B07P1NNTSD/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.15,
       "short_affiliate_url": "https://reurl.cc/qpxxQy",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F3vLx0R6z3TuCSWCA19W1cg"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F3vLx0R6z3TuCSWCA19W1cg",
+      "original_author": "Gregory Zuckerman"
     },
     {
       "title": "零基礎的佛系理財術：只要一招，安心穩穩賺",
@@ -1397,9 +1417,9 @@
           "score": 4.06,
           "count": 36,
           "url": "https://www.goodreads.com/book/show/50905851?from_search=true&from_srp=true&qid=6zt4bJebMm&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B07Q5SDWMP/ref=x_gr_bb_amazon",
-          "confidence": 60,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
@@ -1410,7 +1430,8 @@
       },
       "avg_score": 4.41,
       "short_affiliate_url": "https://reurl.cc/V2rrky",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FYpEmc6qyED-svRyAFlTkTg"
+      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FYpEmc6qyED-svRyAFlTkTg",
+      "original_author": "施昇輝"
     }
   ]
 }
