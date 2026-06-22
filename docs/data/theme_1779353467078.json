@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w26",
-  "updated_at": "2026-06-22T12:54:05.567512+08:00",
+  "updated_at": "2026-06-22T18:54:10.812823+08:00",
   "books": [
     {
       "title": "波浪下的數位命脈：看不見的科技與國安戰線，海底電纜與我們的生活",
@@ -12,7 +12,7 @@
       "cover_url": "covers/2Dethf60Mjix7ymnxA9Y_g.jpg",
       "sale_price": "6/22-6/28 結帳折扣碼",
       "sale_end": "",
-      "description": "出版社：貓頭鷹出版查看電子書（HK）",
+      "description": "《經濟學人》2025年度最佳書籍。滑手機、刷卡消費，我們的生活幾乎離不開網路，而這些「無形」的連線，其實建立在一龐大而脆弱的「實體」基礎建設之上：海底電纜，也是維繫現代社會的數位生命線！",
       "publish_date": "2026年5月12日",
       "ratings": {
         "kobo": {
@@ -33,10 +33,10 @@
         "goodreads": {
           "score": 3.85,
           "count": 263,
-          "url": "https://www.goodreads.com/book/show/228457397-the-web-beneath-the-waves?from_search=true&from_srp=true&qid=H3bWX8kqIc&rank=1",
-          "note": "re-fetch",
+          "url": "https://www.goodreads.com/book/show/228457397-the-web-beneath-the-waves?from_search=true&from_srp=true&qid=RBeJ4P0NZL&rank=1",
+          "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0DY44Z5NL/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
@@ -46,8 +46,7 @@
         }
       },
       "avg_score": 3.93,
-      "short_affiliate_url": "https://reurl.cc/V2ro6Z",
-      "original_author": "Samanth Subramanian"
+      "short_affiliate_url": "https://reurl.cc/eperLm"
     },
     {
       "title": "專注：環境神經學家解密自然如何增進大腦機能，銳化專注度、提升認知能力並改善身心健康",
@@ -80,11 +79,11 @@
         "goodreads": {
           "score": 3.84,
           "count": 246,
-          "url": "https://www.goodreads.com/book/show/228567714-nature-and-the-mind?from_search=true&from_srp=true&qid=VUNVVI8oHi&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
+          "url": "https://www.goodreads.com/book/show/228567714-nature-and-the-mind?from_search=true&from_srp=true&qid=8k7EsO0yqe&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DHX93BXL/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
@@ -93,11 +92,10 @@
         }
       },
       "avg_score": 3.99,
-      "short_affiliate_url": "https://reurl.cc/np9Mzd",
-      "original_author": "Marc Berman"
+      "short_affiliate_url": "https://reurl.cc/O6lOGA"
     },
     {
-      "title": "迷因：基因和迷因共謀的人類心智和文化演化史（全新修訂本）",
+      "title": "迷因：基因和迷因共謀的人類心智和文化演化史",
       "author": "蘇珊．布拉克莫",
       "original_title": "The Meme Machine",
       "isbn": "9786267759219",
@@ -127,10 +125,10 @@
         "goodreads": {
           "score": 3.86,
           "count": 4271,
-          "url": "https://www.goodreads.com/book/show/254502.The_Meme_Machine?from_search=true&from_srp=true&qid=Ish5c8WsrA&rank=1",
-          "note": "re-fetch",
+          "url": "https://www.goodreads.com/book/show/254502.The_Meme_Machine?from_search=true&from_srp=true&qid=9S49XjeRFU&rank=1",
+          "note": "title",
           "amazon_url": "",
-          "confidence": 90,
+          "confidence": 40,
           "cross_validated": null
         },
         "amazon_com": {
@@ -140,11 +138,10 @@
         }
       },
       "avg_score": 3.9,
-      "short_affiliate_url": "https://reurl.cc/zQvk8a",
-      "original_author": "Susan Blackmore"
+      "short_affiliate_url": "https://reurl.cc/Q2yMeb"
     },
     {
-      "title": "美食的素養：一個耶魯高材生的foodie（美食愛好者）養成之旅，「世界第一美食家」教你豐富人生的美食思考法",
+      "title": "美食的素養",
       "author": "濱田岳文",
       "original_title": "美食の教養 世界一の美食家が知っていること",
       "isbn": "9786267871393",
@@ -174,11 +171,11 @@
         "goodreads": {
           "score": 3.0,
           "count": 1,
-          "url": "https://www.goodreads.com/book/show/251330283?from_search=true&from_srp=true&qid=rE6Uaknwux&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 60,
-          "cross_validated": null
+          "url": "https://www.goodreads.com/book/show/251330283?from_search=true&from_srp=true&qid=6YVjOVjoEn&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0GY3YWBSN/ref=x_gr_bb_kindle",
+          "confidence": 30,
+          "cross_validated": false
         },
         "amazon_com": {
           "score": 4.2,
@@ -187,11 +184,10 @@
         }
       },
       "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/xWy8ZV",
-      "original_author": "濱田岳文"
+      "short_affiliate_url": "https://reurl.cc/M2ae4X"
     },
     {
-      "title": "極簡《易經》入門：只靠一本書絕對讀不懂《易經》，但你需要第一本。用最淺白文字說明卦象，順勢而為、戰勝未知的焦慮。",
+      "title": "極簡〈易經〉入門",
       "author": "姜其進",
       "original_title": "삶이 불안할 땐 주역 공부를 시작합니다",
       "isbn": "9786267802205",
@@ -200,7 +196,7 @@
       "cover_url": "covers/BMDZZzUHhTiIKPLBdaRaXA.jpg",
       "sale_price": "6/22-6/28 結帳折扣碼",
       "sale_end": "",
-      "description": "出版社：任性出版查看電子書（HK）",
+      "description": "《易經》這麼厚要怎麼讀？作者用最淺白的文字帶你探索《易經》的64個範疇，並精心挑選出跟人生最有相關、最容易理解的幾個卦象，帶領讀者學著找到最高效且最正確的道路，一起戰勝對未知的焦慮。",
       "publish_date": "2026年4月28日",
       "ratings": {
         "kobo": {
@@ -211,7 +207,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050330882"
+          "url": ""
         },
         "readmoo": {
           "score": null,
@@ -234,10 +230,10 @@
         }
       },
       "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/mpVQn1"
+      "short_affiliate_url": "https://reurl.cc/R2pNWz"
     },
     {
-      "title": "放心，不放任：從覺察到同步，找回教養的彈性與可能",
+      "title": "放心，不放任",
       "author": "許恆嘉",
       "original_title": "",
       "isbn": "9786267589908",
@@ -246,7 +242,7 @@
       "cover_url": "covers/xWnFj0sw3TK6Go46eO3ssg.jpg",
       "sale_price": "6/22-6/28 結帳折扣碼",
       "sale_end": "",
-      "description": "出版社：今周刊出版社查看電子書（HK）",
+      "description": "親子輔導領域逾30年，作者許恆嘉延續前作《放手，不放養》。教養的關鍵從來不在於給予正確答案，而是親子間要能「狀態同步」：只要覺察子女的心正處於什麼「狀態」，就能徹底改變視角，脫離問題導向的窮忙教養。",
       "publish_date": "2026年4月28日",
       "ratings": {
         "kobo": {
@@ -280,10 +276,10 @@
         }
       },
       "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/8eKVGg"
+      "short_affiliate_url": "https://reurl.cc/qpxEr0"
     },
     {
-      "title": "幸運大師的祕密會議：不安，是命運向你遞出的好意",
+      "title": "幸運大師的祕密會議",
       "author": "李叙玧　이서윤、洪宙姸　홍주연",
       "original_title": "운명이 건네는 호의, Favor：불안을 통해 운의 흐름을 타는 방법",
       "isbn": "9789861375151",
@@ -326,7 +322,7 @@
         }
       },
       "avg_score": 4.0,
-      "short_affiliate_url": "https://reurl.cc/aXoDr3"
+      "short_affiliate_url": "https://reurl.cc/V2r9NN"
     },
     {
       "title": "撒哈拉的故事",
@@ -360,9 +356,9 @@
           "score": 4.45,
           "count": 3721,
           "url": "https://www.goodreads.com/book/show/1207884._?from_search=true&from_srp=true&qid=o53nYVdwtN&rank=1",
-          "note": "re-fetch",
+          "note": "zh-title",
           "amazon_url": "https://www.amazon.com/gp/product/B07SJHD8BT/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "confidence": 65,
           "cross_validated": true
         },
         "amazon_com": {
@@ -372,13 +368,10 @@
         }
       },
       "avg_score": 4.46,
-      "short_affiliate_url": "https://reurl.cc/kpRWdx",
-      "original_author": "San Mao",
-      "publisher": "皇冠文化",
-      "language": "中文"
+      "short_affiliate_url": "https://reurl.cc/9Wjl7v"
     },
     {
-      "title": "最有人味的服務【暢銷經典版】：麗池卡登飯店的極致服務哲學",
+      "title": "最有人味的服務",
       "author": "約瑟夫．米其里博士 Dr. Joseph Michelli",
       "original_title": "The New Gold Standar : 5 Leadership Principles for Creating a Legendary Customer Experience Courtesy of the Ritz-Carlton Hotel Company",
       "isbn": "9786267862209",
@@ -421,10 +414,10 @@
         }
       },
       "avg_score": 4.7,
-      "short_affiliate_url": "https://reurl.cc/7EgqX5"
+      "short_affiliate_url": "https://reurl.cc/zQvVlp"
     },
     {
-      "title": "為什麼愈溝通愈受傷：告別情緒崩壞，擺脫慣性溝通，解開扭曲關係的51個對話練習",
+      "title": "為什麼愈溝通愈受傷",
       "author": "朴宰蓮",
       "original_title": "나는 왜 네 말이 힘들까",
       "isbn": "9786264092128",
@@ -454,10 +447,10 @@
         "goodreads": {
           "score": 4.5,
           "count": 4,
-          "url": "https://www.goodreads.com/book/show/61825931?from_search=true&from_srp=true&qid=WRKpk5Fkqm&rank=1",
-          "note": "re-fetch",
+          "url": "https://www.goodreads.com/book/show/61825931?from_search=true&from_srp=true&qid=YVCHnJQPW0&rank=1",
+          "note": "title",
           "amazon_url": "https://www.amazon.com/gp/product/B0DMKB8419/ref=x_gr_bb_amazon",
-          "confidence": 60,
+          "confidence": 10,
           "cross_validated": null
         },
         "amazon_com": {
@@ -467,8 +460,7 @@
         }
       },
       "avg_score": 4.5,
-      "short_affiliate_url": "https://reurl.cc/yOpaZ2",
-      "original_author": "박재연"
+      "short_affiliate_url": "https://reurl.cc/xWyRLN"
     }
   ]
 }
