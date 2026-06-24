@@ -1,436 +1,428 @@
 {
   "year": 2026,
-  "week": 25,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w25",
-  "sale_label": "NT$99 特價：6/18（四）～6/24（三）",
-  "sale_start": "2026-06-18",
-  "sale_end": "2026-06-24",
+  "week": 26,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w26",
+  "sale_label": "NT$99 特價：6/25（四）～7/1（三）",
+  "sale_start": "2026-06-25",
+  "sale_end": "2026-07-01",
   "on_sale": true,
-  "updated_at": "2026-06-18T08:50:25.145692+08:00",
+  "updated_at": "2026-06-25T05:08:20.335438+08:00",
   "books": [
     {
-      "title": "七個習慣打造幸福家庭",
-      "author": "史蒂芬．柯維",
-      "original_title": "The 7 Habits of Highly Effective Families",
-      "isbn": "9786263553248",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Rbo4ZszF7jiBcxYYy6qO8w?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/Rbo4ZszF7jiBcxYYy6qO8w.jpg",
+      "title": "美好人生",
+      "author": "羅伯特‧沃丁格(Robert Waldinger",
+      "original_title": "THE GOOD LIFE: Lessons from the World’s Longest Scientific Study of Happiness",
+      "isbn": "9789863989028",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/GRSC_CCnmTymjj_3Cl0Szw?sId=6d1364d7-2c29-420b-b075-ae74189d9512&ssId=0JdB7z6hlZuA37E4PUZb_&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$250",
+      "cover_url": "covers/GRSC_CCnmTymjj_3Cl0Szw.jpg",
       "sale_price": "NT$99",
-      "date": "6/18",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
+      "date": "6/25",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
       "on_sale": true,
-      "publisher": "天下文化",
-      "publish_date": "2023年10月31日",
+      "publisher": "天下雜誌",
+      "publish_date": "2023年6月28日",
       "language": "中文",
-      "original_author": "Stephen R. Covey",
+      "original_author": "羅伯特‧沃丁格(Robert Waldinger",
+      "description": "史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵 我們最不擅長的，就是經營自己的人生。每個人的心中，都有個理想人生的圖像，但再怎麼努力，總有一步之遙，總是領悟太遲。知名的哈佛跨世代人生研究，穿越上千人的一生，窺見人生終局的祕密，讓你別再錯過。",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Rbo4ZszF7jiBcxYYy6qO8w?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/GRSC_CCnmTymjj_3Cl0Szw?sId=6d1364d7-2c29-420b-b075-ae74189d9512&ssId=0JdB7z6hlZuA37E4PUZb_&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
         },
         "books_com": {
           "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/E050185183"
+          "count": 6,
+          "url": "https://www.books.com.tw/products/0010960497"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210297511000101"
+          "score": 4.5,
+          "count": 19,
+          "url": "https://readmoo.com/book/210278757000101"
         },
         "goodreads": {
-          "score": 4.13,
-          "count": 11613,
-          "url": "https://www.goodreads.com/book/show/783128.The_7_Habits_of_Highly_Effective_Families?from_search=true&from_srp=true&qid=1AZpkiMCAb&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09NJ4LKPR/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "score": 4.14,
+          "count": 12886,
+          "url": "https://www.goodreads.com/book/show/61272271-the-good-life?from_search=true&from_srp=true&qid=BAhDidFy9g&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B3Y7J6PN/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 278,
-          "url": "https://www.amazon.com/gp/product/B09NJ4LKPR/ref=x_gr_bb_kindle"
+          "score": 4.6,
+          "count": 2407,
+          "url": "https://www.amazon.com/-/zh_TW/Robert-J-Waldinger-ebook/dp/B0B3Y7J6PN/ref=sr_1_1"
         }
       },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/V2rrry",
-      "description": "成功學大師史蒂芬．柯維以7個習慣指引你建立美好的家庭願景。家庭是社會的基石，更是個人內心充實的最大源頭。本書就是讓你在理智和情感兩方面，都把保有希望視為第一要務，幫助你培養不致偏離軌道的三種能力。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRbo4ZszF7jiBcxYYy6qO8w"
+      "avg_score": 4.21,
+      "short_affiliate_url": "https://reurl.cc/grKjV4"
     },
     {
-      "title": "箱型時間：高速時代的15分鐘深度專注力",
-      "author": "馬克‧曹–桑德斯",
-      "original_title": "",
-      "isbn": "9786263585294",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xYm-g6kyzza5cWxbDDKd-g?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$360",
-      "cover_url": "covers/xYm-g6kyzza5cWxbDDKd-g.jpg",
+      "title": "解決問題的人",
+      "author": "丹尼．沃謝",
+      "original_title": "See, Solve, Scale: How Anyone Can Turn an Unsolved Problem into a Breakthrough Success",
+      "isbn": "9786267181775",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/oge6PqZqezuhdrtrqF1Bxw?sid=64433927-d04d-43bc-b904-680ee1302cf0&ssid=H-L-yzVNUhzWdFEmkq6qb&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$365",
+      "cover_url": "covers/oge6PqZqezuhdrtrqF1Bxw.jpg",
       "sale_price": "NT$99",
-      "date": "6/19",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
+      "date": "6/26",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
       "on_sale": true,
-      "publisher": "三采文化",
-      "publish_date": "2025年1月17日",
+      "publisher": "平安文化",
+      "publish_date": "2023年7月24日",
       "language": "中文",
-      "original_author": null,
+      "original_author": "Danny Warshay",
+      "description": "布朗大學改變世界的商業思考 文科生也能成為賈伯斯！只要掌握解決問題的方法，任何人都可以取得突破性的成功。本書不僅透過海量的經營案例，分享沃謝教授的獨特商業思維，更打破每個人對於自身條件的迷思，運用這套方法實現夢想。",
       "ratings": {
         "kobo": {
           "score": 4.0,
           "count": 4,
-          "url": "https://www.kobo.com/tw/zh/ebook/xYm-g6kyzza5cWxbDDKd-g?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050247932"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 20,
-          "url": "https://readmoo.com/book/210365442000101"
-        },
-        "goodreads": {
-          "score": 3.54,
-          "count": 442,
-          "url": "https://www.goodreads.com/book/show/223718261?from_search=true&from_srp=true&qid=crjlw010YA&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DT99KGPF/ref=x_gr_bb_kindle",
-          "confidence": 65,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%A6%AC%E5%85%8B-%E6%9B%B9-%E6%A1%91%E5%BE%B7%E6%96%AF-ebook/dp/B0DT99KGPF/ref=sr_1_1"
-        }
-      },
-      "avg_score": 3.58,
-      "short_affiliate_url": "https://reurl.cc/9Wjjjd",
-      "description": "馬斯克1年完成8年工作的時間祕密。這是第一本全面介紹「箱型時間」的使用指南，從如何選擇任務、設定開始、結束時間、關注當下任務，並在該時間範圍內有效完成，箱型時間是解救你混亂生活的最佳指引。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FxYm-g6kyzza5cWxbDDKd-g"
-    },
-    {
-      "title": "长江文明",
-      "author": "冯天瑜",
-      "original_title": "",
-      "isbn": "7553521725735",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/RyKx2UWCTTioC30rFp7Ltw?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$264",
-      "cover_url": "covers/RyKx2UWCTTioC30rFp7Ltw.jpg",
-      "sale_price": "NT$99",
-      "date": "6/19",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
-      "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2021年8月26日",
-      "language": "中文",
-      "original_author": "冯天瑜; 马志亮; 丁援\tFeng Tianyu; Ma Zhiliang; Ding Yuan",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/RyKx2UWCTTioC30rFp7Ltw?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/59451464-yangtze-river-civilization?from_search=true&from_srp=true&qid=4ph8fiiZX6&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/7521725735/ref=x_gr_bb_amazon",
-          "confidence": 60,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 5,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A5%8A%E6%B5%B7%E8%8B%B1-ebook/dp/B07VRPGJW9/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.42,
-      "short_affiliate_url": "https://reurl.cc/np99e6",
-      "description": "人類文明是江河的贈禮。長江流域與黃河流域同為中華文明的發祥地，這是史學界的共識。本書縱覽古今，綜合介紹了長江文明得天獨厚的自然條件，文化記憶與遺存將更成體系，喚起對長江流域歷史與將來的更多關注。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRyKx2UWCTTioC30rFp7Ltw"
-    },
-    {
-      "title": "瘋狂與深情：艾倫．瑞克曼日記絮語（「石內卜教授」唯一私人日記出版！一窺其螢光幕後最真實的日常）",
-      "author": "艾倫．瑞克曼",
-      "original_title": "Madly: Deeply: The Diaries of Alan Rickman",
-      "isbn": "9786267282069",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/zKVm2ep8ijqEObPU8QClDA?sId=e74f8375-b9a9-4c28-abd4-9bf078af698e&ssId=Dycea7E0wZGBg8WkPKmtV&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$524",
-      "cover_url": "covers/zKVm2ep8ijqEObPU8QClDA.jpg",
-      "sale_price": "NT$99",
-      "date": "6/20",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
-      "on_sale": true,
-      "publisher": "春光出版",
-      "publish_date": "2023年5月30日",
-      "language": "中文",
-      "original_author": "Alan Rickman",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/zKVm2ep8ijqEObPU8QClDA?sId=e74f8375-b9a9-4c28-abd4-9bf078af698e&ssId=Dycea7E0wZGBg8WkPKmtV&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050178779"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 18,
-          "url": "https://readmoo.com/book/210288919000101"
-        },
-        "goodreads": {
-          "score": 3.58,
-          "count": 16977,
-          "url": "https://www.goodreads.com/book/show/59808451-madly-deeply?from_search=true&from_srp=true&qid=jnnkHqZe3y&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B09NTK2HF1/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 4400,
-          "url": "https://www.amazon.com/gp/product/B09NTK2HF1/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.77,
-      "short_affiliate_url": "https://reurl.cc/zQvvxy",
-      "description": "最狂熾又摯情的人生絮語，深受無數影迷喜愛的石內卜教授，唯一親筆出版的私人日記集結。本書收錄艾倫過世前不到一個月的私人日記，他對戲劇的熱愛、對生活的堅持，在這橫跨四十多年的字裡行間栩栩如生。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FzKVm2ep8ijqEObPU8QClDA"
-    },
-    {
-      "title": "遠東冰原的貓頭鷹",
-      "author": "強納森．斯萊特（Jonathan C. Slaght）",
-      "original_title": "",
-      "isbn": "9786269896271",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/o1ijUQ7MXDSHDeoev1k5Ww?sId=9ff43887-52c8-419f-9e3e-2548183702dc&ssId=wt70BdJ1btyw5tQC4fGvo&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$385",
-      "cover_url": "covers/o1ijUQ7MXDSHDeoev1k5Ww.jpg",
-      "sale_price": "NT$99",
-      "date": "6/21",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
-      "on_sale": true,
-      "publisher": "知田出版",
-      "publish_date": "2025年1月14日",
-      "language": "中文",
-      "original_author": "強納森．斯萊特（Jonathan C. Slaght）",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/o1ijUQ7MXDSHDeoev1k5Ww?sId=9ff43887-52c8-419f-9e3e-2548183702dc&ssId=wt70BdJ1btyw5tQC4fGvo&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
+          "url": "https://www.kobo.com/tw/zh/ebook/oge6PqZqezuhdrtrqF1Bxw?sid=64433927-d04d-43bc-b904-680ee1302cf0&ssid=H-L-yzVNUhzWdFEmkq6qb&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
         },
         "books_com": {
           "score": 4.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050247312"
+          "count": 8,
+          "url": "https://www.books.com.tw/products/0010962657"
         },
         "readmoo": {
-          "score": 4.4,
-          "count": 13,
-          "url": "https://readmoo.com/book/210365242000101"
+          "score": 4.5,
+          "count": 6,
+          "url": "https://readmoo.com/book/210282481000101"
+        },
+        "goodreads": {
+          "score": 4.15,
+          "count": 170,
+          "url": "https://www.goodreads.com/book/show/56269212-see-solve-scale?from_search=true&from_srp=true&qid=Mi0a6ZjcIh&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B08R2JKPBY/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 71,
+          "url": "https://www.amazon.com/gp/product/B08R2JKPBY/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.32,
+      "short_affiliate_url": "https://reurl.cc/K2Nn7e"
+    },
+    {
+      "title": "没有个性的人",
+      "author": "罗伯特·穆齐尔",
+      "original_title": "",
+      "isbn": "7574532787685",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/JxxXCXemDja1UHmWUX65eg?sId=5cf674df-3249-4b7d-b707-242b948aa059&ssId=MDmjU48FyGCSyvrOcNe8O&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$1976",
+      "cover_url": "covers/JxxXCXemDja1UHmWUX65eg.jpg",
+      "sale_price": "NT$99",
+      "date": "6/26",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
+      "on_sale": true,
+      "publisher": "上海译文出版社",
+      "publish_date": "2021年8月1日",
+      "language": "中文",
+      "original_author": null,
+      "description": "二十世紀長篇小說巔峰之作。與卡夫卡齊名的現代文學拓荒者。本書通過小說裡的微型世界，勾畫了從啟蒙理性塑造的上層市民社會到現代大眾社會的過渡，展示了其時代人物的蠟像館，在二十世紀文學中佔有重要地位。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/JxxXCXemDja1UHmWUX65eg?sId=5cf674df-3249-4b7d-b707-242b948aa059&ssId=MDmjU48FyGCSyvrOcNe8O&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/CN11240584"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "goodreads": {
           "score": 4.19,
-          "count": 6543,
-          "url": "https://www.goodreads.com/book/show/223605927?from_search=true&from_srp=true&qid=DVeHstpj5N&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DS5NHTJ4/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E5%BC%B7%E7%B4%8D%E6%A3%AE%EF%BC%8E%E6%96%AF%E8%90%8A%E7%89%B9%EF%BC%88Jonathan-C-Slaght%EF%BC%89-ebook/dp/B0DS5NHTJ4/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/xWyynZ",
-      "description": "在人類文明邊緣的地方，展開一段精彩的旅程，尋找與拯救世界上最大的貓頭鷹。作者以自然生動的筆調，帶領讀者深入其境，宛如置身於荒野冰原上，不僅描繪出毛腿魚鴞的樣貌和生活圖景，也一觀當地人土風情。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fo1ijUQ7MXDSHDeoev1k5Ww"
-    },
-    {
-      "title": "為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅",
-      "author": "露露．米勒",
-      "original_title": "Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life",
-      "isbn": "9786263495920",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/qoPV9--qdTa9PJA4mjKgkA?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/qoPV9--qdTa9PJA4mjKgkA.jpg",
-      "sale_price": "NT$99",
-      "date": "6/22",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
-      "on_sale": true,
-      "publisher": "采實文化",
-      "publish_date": "2024年3月7日",
-      "language": "中文",
-      "original_author": "Lulu Miller",
-      "ratings": {
-        "kobo": {
-          "score": 4.25,
-          "count": 8,
-          "url": "https://www.kobo.com/tw/zh/ebook/qoPV9--qdTa9PJA4mjKgkA?sid=808af632-eed5-4a81-9a48-d9051299ee83&ssid=KyP0CoAotS_EOHNDpNo1I&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/E050205615"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 68,
-          "url": "https://readmoo.com/book/210317237000101"
-        },
-        "goodreads": {
-          "score": 4.13,
-          "count": 60492,
-          "url": "https://www.goodreads.com/book/show/50887097-why-fish-don-t-exist?from_search=true&from_srp=true&qid=GbCIQYyA3v&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B07THBZ4VD/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 3780,
-          "url": "https://www.amazon.com/gp/product/B07THBZ4VD/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/mpVVE9",
-      "description": "關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅 科學記者露露．米勒震撼國際媒體的處女作，關於人生的真相，以及對科學的驚奇執著，一本感動人心的奇書。當你也正經歷低潮，甚至不再相信自己，這本書都能幫助你，以截然不同的寬廣角度看待所處的這個世界。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FqoPV9--qdTa9PJA4mjKgkA"
-    },
-    {
-      "title": "達文西：科學第一人",
-      "author": "麥可．懷特",
-      "original_title": "Leonardo: The First Scientist",
-      "isbn": "9789862626801",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/V1WBbBj_6TaQksPcYcLmTQ?sId=f55e89f0-e78c-46a1-b558-213feec68bd8&ssId=AjeHJNhEVgO5FW-yckKr5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/V1WBbBj_6TaQksPcYcLmTQ.jpg",
-      "sale_price": "NT$99",
-      "date": "6/23",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
-      "on_sale": true,
-      "publisher": "貓頭鷹出版",
-      "publish_date": "2024年12月5日",
-      "language": "中文",
-      "original_author": "Michael White",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/V1WBbBj_6TaQksPcYcLmTQ?sId=f55e89f0-e78c-46a1-b558-213feec68bd8&ssId=AjeHJNhEVgO5FW-yckKr5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050243453"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210360982000101"
-        },
-        "goodreads": {
-          "score": 3.75,
-          "count": 839,
-          "url": "https://www.goodreads.com/book/show/222248024?from_search=true&from_srp=true&qid=BVBJGwi279&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DPL7VJHY/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "count": 7570,
+          "url": "https://www.goodreads.com/book/show/52232474?from_search=true&from_srp=true&qid=ht05odIMa4&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B01EY0DOAY/ref=x_gr_bb_kindle",
+          "confidence": 50,
           "cross_validated": false
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 38,
-          "url": "https://www.amazon.com/-/zh_TW/Leonardo-First-Scientist-Michael-White/dp/0312203330/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E7%A9%86%E9%BD%90%E5%B0%94-Robert-Musil-ebook/dp/B072L21J81/ref=sr_1_1"
         }
       },
-      "avg_score": 3.77,
-      "short_affiliate_url": "https://reurl.cc/8eKKdy",
-      "description": "唯一從科學角度導覽，帶你看懂達文西的藝術鉅作。透過達文西的親筆手稿，以全新角度解讀達文西一生的創作歷程，將達文西背後更為複雜的歷史背景和科學成就編織在一起，勾勒出現代科學史第一位天才的真正肖像。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FV1WBbBj_6TaQksPcYcLmTQ"
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/j6Ljzy"
     },
     {
-      "title": "外國代理人：美國公關遊說業如何威脅全球民主",
-      "author": "凱西‧米歇爾",
-      "original_title": "Foreign Agents: How American Lobbyists and Lawmakers Threaten Democracy Around the World",
-      "isbn": "9786269932962",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/HP9f96GHHjmncXO4uCDXiw?sid=452498e6-2fa4-4f32-89c5-9980348dfb4c&ssid=rghw_gN2Mf2gMTD5o1X7e&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618",
-      "kobo_price": "NT$455",
-      "cover_url": "covers/HP9f96GHHjmncXO4uCDXiw.jpg",
+      "title": "伊甸園東",
+      "author": "約翰．史坦貝克",
+      "original_title": "East of Eden",
+      "isbn": "9786269764051",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/j5A4Liv7Ij6B_o4qhpJJgQ?sId=6d1364d7-2c29-420b-b075-ae74189d9512&ssId=0JdB7z6hlZuA37E4PUZb_&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$520",
+      "cover_url": "covers/j5A4Liv7Ij6B_o4qhpJJgQ.jpg",
       "sale_price": "NT$99",
-      "date": "6/24",
-      "sale_start": "2026-06-18",
-      "sale_end": "2026-06-24",
+      "date": "6/27",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
       "on_sale": true,
-      "publisher": "明白文化",
-      "publish_date": "2025年4月1日",
+      "publisher": "一念出版社",
+      "publish_date": "2025年2月24日",
       "language": "中文",
-      "original_author": "Casey Michel",
+      "original_author": "John Steinbeck",
+      "description": "1962年諾貝爾文學獎得主。兩個家族，三個世代，在善與惡、愛與恨之間掙扎，叩問一個亙古不變的命題，你能不能選擇自己的人生？嫉妒和罪惡考驗了人類的祖先該隱和亞伯，也同樣考驗著故事中的特拉斯克家族。",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/HP9f96GHHjmncXO4uCDXiw?sid=452498e6-2fa4-4f32-89c5-9980348dfb4c&ssid=rghw_gN2Mf2gMTD5o1X7e&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260618"
+          "url": "https://www.kobo.com/tw/zh/ebook/j5A4Liv7Ij6B_o4qhpJJgQ?sId=6d1364d7-2c29-420b-b075-ae74189d9512&ssId=0JdB7z6hlZuA37E4PUZb_&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
         },
         "books_com": {
-          "score": 5.0,
+          "score": 4.0,
           "count": 1,
-          "url": "https://www.books.com.tw/products/E050257501"
+          "url": "https://www.books.com.tw/products/E050251594"
         },
         "readmoo": {
-          "score": 3.8,
-          "count": 4,
-          "url": "https://readmoo.com/book/210380132000101"
+          "score": 3.5,
+          "count": 2,
+          "url": "https://readmoo.com/book/210367016000101"
         },
         "goodreads": {
-          "score": 4.08,
-          "count": 365,
-          "url": "https://www.goodreads.com/book/show/195790855-foreign-agents?from_search=true&from_srp=true&qid=2s1lrCCeJo&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CH72L14B/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "score": 4.45,
+          "count": 684629,
+          "url": "https://www.goodreads.com/book/show/4406.East_of_Eden?from_search=true&from_srp=true&qid=A6VXfBp35u&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B001BC5HXG/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 26178,
+          "url": "https://www.amazon.com/gp/product/B001BC5HXG/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.46,
+      "short_affiliate_url": "https://reurl.cc/ovWokV"
+    },
+    {
+      "title": "世界冠軍紙飛機",
+      "author": "約翰‧柯林斯",
+      "original_title": "The New World Champion Paper Airplane Book: Featuring the World Record-Breaking Design, with Tear-Out Planes to Fold and Fly",
+      "isbn": "9789865562427",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Xd_FrZRDBTyXp2x3jlIp1g?sId=cdff8247-1b52-4800-8ea0-caa8168e02f6&ssId=pq7PuhEnDgPBqmJw3Uy46&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$280",
+      "cover_url": "covers/Xd_FrZRDBTyXp2x3jlIp1g.jpg",
+      "sale_price": "NT$99",
+      "date": "6/28",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
+      "on_sale": true,
+      "publisher": "大家",
+      "publish_date": "2022年6月22日",
+      "language": "中文",
+      "original_author": null,
+      "description": "打破世界紀錄的紙飛機設計、飛行原理及調校技巧 玩紙飛機就是做科學，每一次起飛，就是一場科學實驗，輕鬆認識各種作用力的意義及調整的依據，你的紙飛機不但能飛，還能挑戰衝高、變速、轉彎和滯空飛行。當今世界紀錄保持人的設計、技法大公開。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Xd_FrZRDBTyXp2x3jlIp1g?sId=cdff8247-1b52-4800-8ea0-caa8168e02f6&ssId=pq7PuhEnDgPBqmJw3Uy46&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0010773599"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://readmoo.com/book/210232785000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/161517596-by-john-m-collins-the-new-world-champion-paper-airplane-book?from_search=true&from_srp=true&qid=THHrCDXVya&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B00N4EL4G8/ref=x_gr_bb_amazon",
+          "confidence": 45,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 1244,
+          "url": "https://www.amazon.com/-/zh_TW/John-M-Collins-ebook/dp/B009C78VC6/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.5,
+      "short_affiliate_url": "https://reurl.cc/L2Rzya"
+    },
+    {
+      "title": "我們想要什麼？",
+      "author": "夏洛特．福斯．韋伯",
+      "original_title": "What We Want",
+      "isbn": "9786263497726",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/S-ECZgV1oDe8AfojfVW4IQ?sId=6d1364d7-2c29-420b-b075-ae74189d9512&ssId=0JdB7z6hlZuA37E4PUZb_&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/S-ECZgV1oDe8AfojfVW4IQ.jpg",
+      "sale_price": "NT$99",
+      "date": "6/29",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
+      "on_sale": true,
+      "publisher": "采實文化",
+      "publish_date": "2024年8月29日",
+      "language": "中文",
+      "original_author": "Charlotte Fox Weber",
+      "description": "一個心理師與促成改變的十二場談話，看見內在渴望，擺脫失序人生 為了工作付出一切，才能證明自我價值？我們之所以痛苦，是因為想要的太多，卻不知道自己真正想要的是什麼。走進諮商室，是為了理解和接受原本的自己，本書讓我們看見一個心理師如何引導人們走出困境。",
+      "ratings": {
+        "kobo": {
+          "score": 4.5,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/S-ECZgV1oDe8AfojfVW4IQ?sId=6d1364d7-2c29-420b-b075-ae74189d9512&ssId=0JdB7z6hlZuA37E4PUZb_&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/CN11853343"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210346414000101"
+        },
+        "goodreads": {
+          "score": 3.92,
+          "count": 1018,
+          "url": "https://www.goodreads.com/book/show/61058727-what-we-want?from_search=true&from_srp=true&qid=R9dwobQcQC&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09RX2QWZT/ref=x_gr_bb_kindle",
+          "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 33,
-          "url": "https://www.amazon.com/gp/product/B0CH72L14B/ref=x_gr_bb_kindle"
+          "count": 16,
+          "url": "https://www.amazon.com/gp/product/B09RX2QWZT/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.11,
-      "short_affiliate_url": "https://reurl.cc/aXoo29",
-      "description": "從柯林頓基金會，到川普的通俄門，公關遊說業逐漸黑化成外國代理人，點滴侵蝕全球民主制度，全球第一本，揭開公關遊說產業動搖國本的秘密，一窺遊說團體如何進入國會，與議員接觸，成為外國獨裁者的代理人。",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FHP9f96GHHjmncXO4uCDXiw"
+      "avg_score": 3.93,
+      "short_affiliate_url": "https://reurl.cc/DxGQzO"
+    },
+    {
+      "title": "查泰萊夫人的情人",
+      "author": "D．H．勞倫斯",
+      "original_title": "Lady Chatterley’s Lover",
+      "isbn": "9786263905214",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZJ0PfChczjaCzEhWCEQvnw?sId=b267f661-1622-46d7-a919-ab2ea351376b&ssId=lWcKB37quYHDBr5I18Wq-&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$300",
+      "cover_url": "covers/ZJ0PfChczjaCzEhWCEQvnw.jpg",
+      "sale_price": "NT$99",
+      "date": "6/30",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
+      "on_sale": true,
+      "publisher": "商周出版",
+      "publish_date": "2025年5月8日",
+      "language": "中文",
+      "original_author": "D. H. Lawrence",
+      "description": "美國三大禁書之一。跨越階級的不倫愛戀，靈與肉之間的掙扎與覺醒，看作者對愛與人際關係的深刻探索。這段肯定遭世人鄙夷的禁忌戀情，最終是否能夠開花結果？",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/ZJ0PfChczjaCzEhWCEQvnw?sId=b267f661-1622-46d7-a919-ab2ea351376b&ssId=lWcKB37quYHDBr5I18Wq-&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011012158"
+        },
+        "readmoo": {
+          "score": 3.9,
+          "count": 7,
+          "url": "https://readmoo.com/book/210189908000101"
+        },
+        "goodreads": {
+          "score": 3.5,
+          "count": 140785,
+          "url": "https://www.goodreads.com/book/show/32049.Lady_Chatterley_s_Lover?from_search=true&from_srp=true&qid=6w6742P0gy&rank=1",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 218,
+          "url": "https://www.amazon.com/-/zh_TW/Lady-Chatterleys-Lover-D-H-Lawrence/dp/1847494080/ref=sr_1_5"
+        }
+      },
+      "avg_score": 3.5,
+      "short_affiliate_url": "https://reurl.cc/X27Y1a"
+    },
+    {
+      "title": "萬事皆美好",
+      "author": "史戴凡諾斯•詹內奇斯（Stefanos Xenakis）",
+      "original_title": "The Gift",
+      "isbn": "9789861338033",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/XdoFPpDrzjy_Z8NRDS4eYA?sId=d598ca2a-c449-43e8-9780-5d10f251d625&ssId=rbuWfCAl4MJlVYLa-SE5G&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625",
+      "kobo_price": "NT$184",
+      "cover_url": "covers/XdoFPpDrzjy_Z8NRDS4eYA.jpg",
+      "sale_price": "NT$99",
+      "date": "7/1",
+      "sale_start": "2026-06-25",
+      "sale_end": "2026-07-01",
+      "on_sale": true,
+      "publisher": "圓神",
+      "publish_date": "2021年12月1日",
+      "language": "中文",
+      "original_author": "史戴凡諾斯•詹內奇斯（Stefanos Xenakis）",
+      "description": "讓無數希臘人感受幸福的禮物書 每一個看似平凡的生活點滴，都能成為改變生命的魔幻時刻，並用心獻給你，99個在逆境中帶給你希望和力量的無價心靈禮物。本書傳遞的即是這份改變人生的生活魔法，拯救並激勵了無數陷在困境中的讀者。",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/XdoFPpDrzjy_Z8NRDS4eYA?sId=d598ca2a-c449-43e8-9780-5d10f251d625&ssId=rbuWfCAl4MJlVYLa-SE5G&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260625"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0010909077"
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 6,
+          "url": "https://readmoo.com/book/210207160000101"
+        },
+        "goodreads": {
+          "score": 3.31,
+          "count": 2852,
+          "url": "https://www.goodreads.com/book/show/59794618-the-simplest-gift",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 43,
+          "url": "https://a.co/d/04dV9hjU"
+        }
+      },
+      "avg_score": 3.33,
+      "short_affiliate_url": "https://reurl.cc/bd0jQd"
     }
   ]
 }
