@@ -10,80 +10,80 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:《美好人生》
-DESCRIPTION:特價 NT$99｜原價 NT$250\nhttps://reurl.cc/grKjV4\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$250｜4.2分\nhttps://reurl.cc/grKjV4\
+ n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/grKjV4
 UID:kobo99-2026-w26-01@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:《解決問題的人》
-DESCRIPTION:特價 NT$99｜原價 NT$365\nhttps://reurl.cc/K2Nn7e\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$365｜4.3分\nhttps://reurl.cc/K2Nn7e\
+ n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/K2Nn7e
 UID:kobo99-2026-w26-02@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:《没有个性的人》
-DESCRIPTION:特價 NT$99｜原價 NT$1976\nhttps://reurl.cc/j6Ljzy\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$1976｜4.2分\nhttps://reurl.cc/j6Ljzy
+ \n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/j6Ljzy
 UID:kobo99-2026-w26-03@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:《伊甸園東》
-DESCRIPTION:特價 NT$99｜原價 NT$520\nhttps://reurl.cc/ovWokV\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$520｜4.5分\nhttps://reurl.cc/ovWokV\
+ n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/ovWokV
 UID:kobo99-2026-w26-04@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:《世界冠軍紙飛機》
-DESCRIPTION:特價 NT$99｜原價 NT$280\nhttps://reurl.cc/L2Rzya\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$280｜4.5分\nhttps://reurl.cc/L2Rzya\
+ n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/L2Rzya
 UID:kobo99-2026-w26-05@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:《我們想要什麼？》
-DESCRIPTION:特價 NT$99｜原價 NT$336\nhttps://reurl.cc/DxGQzO\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$336｜3.9分\nhttps://reurl.cc/DxGQzO\
+ n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/DxGQzO
 UID:kobo99-2026-w26-06@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:《查泰萊夫人的情人》
-DESCRIPTION:特價 NT$99｜原價 NT$300\nhttps://reurl.cc/X27Y1a\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$300｜3.5分\nhttps://reurl.cc/X27Y1a\
+ n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/X27Y1a
 UID:kobo99-2026-w26-07@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:《萬事皆美好》
-DESCRIPTION:特價 NT$99｜原價 NT$184\nhttps://reurl.cc/bd0jQd\n查看
- 當週各書評價: https://kobo99.com/
+DESCRIPTION:特價 NT$99｜原價 NT$184｜3.3分\nhttps://reurl.cc/bd0jQd\
+ n查看當週各書評價: https://kobo99.com/
 URL:https://reurl.cc/bd0jQd
 UID:kobo99-2026-w26-08@kobo99-tracker
-DTSTAMP:20260624T213829Z
+DTSTAMP:20260624T220439Z
 END:VEVENT
 END:VCALENDAR
