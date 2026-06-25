@@ -438,6 +438,7 @@ const WD = ["日","一","二","三","四","五","六"];
 function fmtDate(mSlashD) {
   if (!mSlashD) return "";
   const [m, d] = mSlashD.split("/").map(Number);
+  if (isNaN(m) || isNaN(d)) return mSlashD;
   const twYear = parseInt(new Intl.DateTimeFormat("en", {
     timeZone: "Asia/Taipei", year: "numeric"
   }).format(new Date()));
@@ -509,6 +510,7 @@ const todayMD = (() => {
 function dateVal(md) {
   if (!md) return 0;
   const [m, d] = md.split("/").map(Number);
+  if (isNaN(m) || isNaN(d)) return 9999;
   return m * 100 + d;
 }
 const todayVal = dateVal(todayMD);
