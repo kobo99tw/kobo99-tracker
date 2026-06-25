@@ -626,10 +626,11 @@ function render() {
     if (sort === "readmoo")   return (b.ratings?.readmoo?.score    ?? 0) - (a.ratings?.readmoo?.score    ?? 0);
     if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
     if (sort === "saving")    return saving(b) - saving(a);
-    // 書單順序：今日 → 未來（時序）→ 過去（時序）
+    // 書單順序：今日 → pinned → 未來（時序）→ 過去（時序）
     const av = dateVal(a.date), bv = dateVal(b.date);
     const aToday = av === todayVal, bToday = bv === todayVal;
     if (aToday !== bToday) return aToday ? -1 : 1;
+    if (!aToday && !bToday) { const ap = !!a.pinned, bp = !!b.pinned; if (ap !== bp) return ap ? -1 : 1; }
     const aFuture = av > todayVal,  bFuture = bv > todayVal;
     if (aFuture !== bFuture) return aFuture ? -1 : 1;
     return av - bv;
