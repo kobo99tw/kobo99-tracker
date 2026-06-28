@@ -461,52 +461,6 @@
       },
       "avg_score": 5.0,
       "short_affiliate_url": "https://reurl.cc/gr95RN"
-    },
-    {
-      "title": "心律不整",
-      "author": "清水涉",
-      "original_title": "",
-      "isbn": "9786267872031",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/CsYTXw_0qjqGQ_As1LjKDA?sId=ea295b65-1930-4840-9d94-225ecdff15ec&ssId=NxCw3qinF632taWze3Vzz&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$256",
-      "cover_url": "covers/CsYTXw_0qjqGQ_As1LjKDA.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "由 清水涉, 石川恭三, 栗田康生, 山下武志, 山根禎一, 妹尾惠太郎, 杉薰, 青沼和隆, 坂田隆夫＠著",
-      "publish_date": "2026年3月24日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/CsYTXw_0qjqGQ_As1LjKDA?sId=ea295b65-1930-4840-9d94-225ecdff15ec&ssId=NxCw3qinF632taWze3Vzz&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011046951"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://readmoo.com/book/210468827000101"
-        },
-        "goodreads": {
-          "score": 4.29,
-          "count": 51,
-          "url": "https://www.goodreads.com/book/show/223100078-1?from_search=true&from_srp=true&qid=wzwskwA3pp&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/6263585145/ref=x_gr_bb_amazon",
-          "confidence": 50,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 3.8,
-          "count": 190,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%B8%85%E6%B0%B4%E6%B8%89-ebook/dp/B08KHBL899/ref=sr_1_2"
-        }
-      },
-      "avg_score": 3.91,
-      "short_affiliate_url": "https://reurl.cc/K2Zg8q"
     }
   ]
 }
