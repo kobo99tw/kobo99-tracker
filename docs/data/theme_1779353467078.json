@@ -1,24 +1,24 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w27",
-  "updated_at": "2026-06-29T05:08:03.007367+08:00",
+  "updated_at": "2026-06-29T05:25:57.086534+08:00",
   "books": [
     {
       "title": "心律不整",
-      "author": "奧利佛．柏克曼",
+      "author": "清水涉, 石川恭三, 栗田康生, 山下武志, 山根禎一, 妹尾惠太郎, 杉薰, 青沼和隆, 坂田隆夫",
       "original_title": "The Antidote: Happiness for People Who Can't Stand Positive Thinking",
       "isbn": "9786267874066",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/fQmIlTXLRz6a_t0FHF2WMw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615",
-      "kobo_price": "NT$338",
+      "kobo_price": "NT$256",
       "cover_url": "covers/fQmIlTXLRz6a_t0FHF2WMw.jpg",
       "sale_price": "6/29-7/5 結帳折扣碼",
       "sale_end": "",
       "description": "當醫師告訴你「心跳不太規則」時，很多人腦中立刻浮現的問題包括：這嚴重嗎？會不會突然猝死？本書以問答方式整理出132個在門診最常被問到的問題，一步步說明不同型態代表的意義，並幫助讀者擺脫模糊的恐懼。",
-      "publish_date": "2026年3月18日",
+      "publish_date": "2026年3月24日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/fQmIlTXLRz6a_t0FHF2WMw?sid=6d01d34e-36f7-4947-8620-0e4d40e57a25&ssid=odIGn1zYR5HJ1qaXwz_hy&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260615"
+          "url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FCsYTXw_0qjqGQ_As1LjKDA"
         },
         "books_com": {
           "score": null,
@@ -31,22 +31,22 @@
           "url": "https://readmoo.com/book/210468827000101"
         },
         "goodreads": {
-          "score": 4.04,
-          "count": 16894,
-          "url": "https://www.goodreads.com/book/show/13721709-the-antidote?from_search=true&from_srp=true&qid=Ofk1znlQCJ&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0080K3G4O/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/6263585145/ref=x_gr_bb_amazon",
+          "confidence": 50,
+          "cross_validated": false
         },
         "amazon_com": {
-          "score": 4.5,
-          "count": 2974,
-          "url": "https://www.amazon.com/gp/product/B0080K3G4O/ref=x_gr_bb_kindle"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.11,
-      "short_affiliate_url": "https://reurl.cc/YDLzY0"
+      "avg_score": 4.5,
+      "short_affiliate_url": "https://reurl.cc/M2rEzp"
     },
     {
       "title": "遊戲淘金攻略",
@@ -92,7 +92,7 @@
         }
       },
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/r0pWEr"
+      "short_affiliate_url": "https://reurl.cc/N23exk"
     },
     {
       "title": "最強感謝腦",
@@ -125,7 +125,7 @@
         "goodreads": {
           "score": 3.5,
           "count": 2,
-          "url": "https://www.goodreads.com/book/show/251838663?from_search=true&from_srp=true&qid=Gj6Kr3iyr5&rank=2",
+          "url": "https://www.goodreads.com/book/show/251838663?from_search=true&from_srp=true&qid=bAkQ7rPtFX&rank=2",
           "note": "zh-title+author",
           "amazon_url": "https://www.amazon.com/gp/product/6267880389/ref=x_gr_bb_amazon",
           "confidence": 30,
@@ -138,7 +138,7 @@
         }
       },
       "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/53enKv"
+      "short_affiliate_url": "https://reurl.cc/R2AMkx"
     },
     {
       "title": "取捨法則",
@@ -171,7 +171,7 @@
         "goodreads": {
           "score": 3.61,
           "count": 481,
-          "url": "https://www.goodreads.com/book/show/213395500-what-we-value?from_search=true&from_srp=true&qid=KlcK3trW5D&rank=1",
+          "url": "https://www.goodreads.com/book/show/213395500-what-we-value?from_search=true&from_srp=true&qid=hKNuB0yU1k&rank=1",
           "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0D8R65BG2/ref=x_gr_bb_kindle",
           "confidence": 90,
@@ -184,7 +184,7 @@
         }
       },
       "avg_score": 3.7,
-      "short_affiliate_url": "https://reurl.cc/dpRZQy"
+      "short_affiliate_url": "https://reurl.cc/qpyeYy"
     },
     {
       "title": "蘋果之道",
@@ -192,7 +192,7 @@
       "original_title": "Apple: The First 50 Years",
       "isbn": "9786264178303",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/lrtUe8LYODqNWvD_4fvHhQ?sId=1cbe6cbc-3b32-462f-8b33-29f19268e753&ssId=3uYVPTuBr9InoDmHfS37B&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$797",
+      "kobo_price": "NT$286",
       "cover_url": "covers/lrtUe8LYODqNWvD_4fvHhQ.jpg",
       "sale_price": "6/29-7/5 結帳折扣碼",
       "sale_end": "",
@@ -200,8 +200,8 @@
       "publish_date": "2026年3月31日",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 3,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/lrtUe8LYODqNWvD_4fvHhQ?sId=1cbe6cbc-3b32-462f-8b33-29f19268e753&ssId=3uYVPTuBr9InoDmHfS37B&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
         },
         "books_com": {
@@ -217,7 +217,7 @@
         "goodreads": {
           "score": 4.54,
           "count": 825,
-          "url": "https://www.goodreads.com/book/show/239495879-apple?from_search=true&from_srp=true&qid=3oO0gym6vC&rank=1",
+          "url": "https://www.goodreads.com/book/show/239495879-apple?from_search=true&from_srp=true&qid=RGD2EtVQK6&rank=1",
           "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0FKHF7MWP/ref=x_gr_bb_kindle",
           "confidence": 90,
@@ -230,7 +230,7 @@
         }
       },
       "avg_score": 4.62,
-      "short_affiliate_url": "https://reurl.cc/2aXqK6"
+      "short_affiliate_url": "https://reurl.cc/V2KVWy"
     },
     {
       "title": "社恐",
@@ -263,7 +263,7 @@
         "goodreads": {
           "score": 3.74,
           "count": 254,
-          "url": "https://www.goodreads.com/book/show/75446882-la-nouvelle-peur-des-autres?from_search=true&from_srp=true&qid=f3lOONY8N0&rank=1",
+          "url": "https://www.goodreads.com/book/show/75446882-la-nouvelle-peur-des-autres?from_search=true&from_srp=true&qid=owGN4uUTQx&rank=1",
           "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0BPFBGVP8/ref=x_gr_bb_kindle",
           "confidence": 90,
@@ -276,7 +276,7 @@
         }
       },
       "avg_score": 3.84,
-      "short_affiliate_url": "https://reurl.cc/0mLNKK"
+      "short_affiliate_url": "https://reurl.cc/9WM8nd"
     },
     {
       "title": "飛吧，鴻！母親、我與中國",
@@ -309,10 +309,10 @@
         "goodreads": {
           "score": 3.9,
           "count": 2040,
-          "url": "https://www.goodreads.com/book/show/232055181-fly-wild-swans?from_search=true&from_srp=true&qid=vCmHg2j7gI&rank=1",
-          "note": "title",
+          "url": "https://www.goodreads.com/book/show/232055181-fly-wild-swans?from_search=true&from_srp=true&qid=u2e0nnR25Z&rank=1",
+          "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0F6JND3L7/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
@@ -322,7 +322,7 @@
         }
       },
       "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/A9xZM3"
+      "short_affiliate_url": "https://reurl.cc/Ga70GZ"
     },
     {
       "title": "試錯策略",
@@ -368,7 +368,7 @@
         }
       },
       "avg_score": 3.5,
-      "short_affiliate_url": "https://reurl.cc/6GWzKb"
+      "short_affiliate_url": "https://reurl.cc/EmkdbK"
     },
     {
       "title": "超犀利大腦",
@@ -401,7 +401,7 @@
         "goodreads": {
           "score": 4.13,
           "count": 119,
-          "url": "https://www.goodreads.com/book/show/215500773-sharp?from_search=true&from_srp=true&qid=prMG3AZvzO&rank=1",
+          "url": "https://www.goodreads.com/book/show/215500773-sharp?from_search=true&from_srp=true&qid=18yF29Rzwc&rank=1",
           "note": "title",
           "amazon_url": "https://www.amazon.com/gp/product/B0DHL3L18V/ref=x_gr_bb_kindle",
           "confidence": 55,
@@ -414,7 +414,7 @@
         }
       },
       "avg_score": 4.27,
-      "short_affiliate_url": "https://reurl.cc/18DRK8"
+      "short_affiliate_url": "https://reurl.cc/epqYVx"
     },
     {
       "title": "以為長大了，我就會沒事",
@@ -460,7 +460,7 @@
         }
       },
       "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/gr95RN"
+      "short_affiliate_url": "https://reurl.cc/O6dWRX"
     }
   ]
 }
