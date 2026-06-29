@@ -42,6 +42,7 @@ REFACTOR_METHOD.md
 docs/data/books-*.json
 docs/data/*-prev.json
 docs/data/corrections.json
+docs/data/theme_*-20*.json
 
 # 本機開發工具（不上傳）
 scraper/preview.py
