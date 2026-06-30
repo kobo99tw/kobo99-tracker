@@ -123,21 +123,21 @@
           "url": "https://readmoo.com/book/210431643000101"
         },
         "goodreads": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/244527666?from_search=true&from_srp=true&qid=eS3D1Xv7WF&rank=1",
+          "score": 4.54,
+          "count": 340,
+          "url": "https://www.goodreads.com/book/show/221303769-buffett-and-munger-unscripted",
           "note": "zh-title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0G4CM9SLB/ref=x_gr_bb_kindle",
           "confidence": 45,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%8F%AF%E5%80%AB%EF%BC%8E%E5%B7%B4%E8%8F%B2%E7%89%B9%EF%BC%88Warren-Buffett-ebook/dp/B0G4CM9SLB/ref=sr_1_1"
+          "score": 4.8,
+          "count": 251,
+          "url": "https://a.co/d/0eSkaLwR"
         }
       },
-      "avg_score": 4.74,
+      "avg_score": 4.65,
       "short_affiliate_url": "https://reurl.cc/GaMO5D"
     },
     {
