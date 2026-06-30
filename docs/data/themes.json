@@ -1,15 +1,17 @@
 [
   {
+    "defaultSort": "avg",
     "file": "theme_tccc_finance.json",
-    "headTitle": "天下文化 財富人生投資理財展",
+    "headTitle": "有底氣的財富人生",
+    "hide_after": "2026-07-31",
     "key": "theme_tccc_finance",
-    "label": "【天下文化】有底氣的財富人生，投資理財展，單本88折，至6/30止",
-    "sale": "單本88折至6/30止",
-    "seoDesc": "整理天下文化財富人生投資理財展書單，單本88折優惠至6/30止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購理財投資好書。",
-    "subtitle": "天下文化精選投資理財書，單本88折優惠至6/30",
+    "label": "【投資理財】有底氣的財富人生",
+    "sale": "單本85折至7/31止",
+    "seoDesc": "整理財富人生投資理財展書單，單本85折優惠至7/31止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購理財投資好書。",
+    "subtitle": "單本85折至7/31止",
     "tabEmoji": "💰",
     "tabLabel": "財富人生",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/NleusCTP2ckiDwjet7Faxw"
+    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA"
   },
   {
     "file": "theme_1779353467078.json",
@@ -30,6 +32,7 @@
     "defaultSort": "expiry",
     "file": "theme_1779336542191.json",
     "headTitle": "Kobo 新書獨家優惠",
+    "hidden": true,
     "key": "theme_1779336542191",
     "label": "【Kobo 獨家優惠】用閱讀豐富你我的人生（每週更新）",
     "sale": "新書限時特價",
@@ -44,7 +47,7 @@
     "headTitle": "《臺灣漫遊錄》楊双子作品集",
     "key": "theme_1779378338324",
     "label": "《臺灣漫遊錄》楊双子獲國際布克獎：當台灣故事被世界看見",
-    "sale": "有聲書79折至6/30止",
+    "sale": "",
     "seoDesc": "整理楊双子作品書單，包含電子書與有聲書。《臺灣漫遊錄》榮獲 2026 年國際布克獎，為首部獲此殊榮的臺灣文學作品，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購。",
     "subtitle": "首次有臺灣文學作品獲頒國際布克獎",
     "tabEmoji": "🏆",

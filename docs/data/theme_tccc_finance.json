@@ -1,42 +1,88 @@
 {
-  "source_url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/NleusCTP2ckiDwjet7Faxw",
-  "updated_at": "2026-06-07T18:35:06.832645+08:00",
+  "source_url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA",
+  "updated_at": "2026-07-01T01:58:07.896302+08:00",
   "books": [
     {
-      "title": "花錢有道：懂得花、捨得花、值得花，郝哥的39個富思維【電子書獨家收錄郝哥親聲導讀】",
-      "author": "郝旭烈",
-      "original_title": "",
-      "isbn": "9786264179591",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/V1hRN6TkYj6K5p9PnIhShg",
-      "kobo_price": "NT$297",
-      "cover_url": "covers/V1hRN6TkYj6K5p9PnIhShg.jpg",
-      "sale_price": "88折至6/30",
+      "title": "財富階梯：資料科學家為你打造，適用人生各階段的致富策略",
+      "author": "尼克．馬朱利 Nick Maggiulli",
+      "original_title": "The Wealth Ladder: Proven Strategies for Every Step of Your Financial Life",
+      "isbn": "9786267862315",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/h6ViOkg2YTuGFcNwSKOObA",
+      "kobo_price": "NT$250",
+      "cover_url": "covers/h6ViOkg2YTuGFcNwSKOObA.jpg",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
-      "description": "普通人存錢，富人用錢學會做金錢的主人，才是致富之道企業知名財務顧問郝旭烈的用錢智慧讓你的錢，愈花愈增值~為什麼，有些人賺得不多，感覺卻像財富自由？有些人收入不低，感覺錢總不夠用？真正關鍵不在所得多寡，在於「你怎麼花」。",
-      "publish_date": "2026年5月29日",
+      "description": "全球暢銷書《持續買進》作者最新續作！6大階層完整布局、一生受用的「財富階梯」你的理財方法，適合現在的人生階段和口袋深度嗎？",
+      "publish_date": "2026年5月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/V1hRN6TkYj6K5p9PnIhShg"
+          "score": 4.78,
+          "count": 18,
+          "url": "https://www.kobo.com/tw/zh/ebook/h6ViOkg2YTuGFcNwSKOObA"
         },
         "books_com": {
           "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/E050335371"
+          "count": 24,
+          "url": "https://www.books.com.tw/products/0011050390"
         },
         "readmoo": {
           "score": 4.7,
+          "count": 172,
+          "url": "https://readmoo.com/book/210469260000101"
+        },
+        "goodreads": {
+          "score": 3.99,
+          "count": 2519,
+          "url": "https://www.goodreads.com/book/show/220687901-the-wealth-ladder?from_search=true&from_srp=true&qid=2yHJ1WVtwi&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DKMPFTR3/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 936,
+          "url": "https://www.amazon.com/gp/product/B0DKMPFTR3/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.14,
+      "short_affiliate_url": "https://reurl.cc/4l2n6Y"
+    },
+    {
+      "title": "財富自由心理學：療癒金錢焦慮，修練致富心態",
+      "author": "蔡宇哲",
+      "original_title": "",
+      "isbn": "9786264177924",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/j6poxpbcnTGYQWgF-CAX8g",
+      "kobo_price": "NT$287",
+      "cover_url": "covers/j6poxpbcnTGYQWgF-CAX8g.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "財務專家與心理學博士帶你重塑金錢三觀 真正的財富自由，在於擁有人生的選擇權。很多人嚮往財富自由，卻不清楚財富自由的真實意義與目標。\n心理學博士蔡宇哲與企業知名財務顧問郝旭烈跨界對談，結合心理洞察與財務管理，深入探討金錢觀、理財觀與投資觀的底層邏輯。",
+      "publish_date": "2026年1月27日",
+      "ratings": {
+        "kobo": {
+          "score": 4.17,
           "count": 6,
-          "url": "https://readmoo.com/book/210475154000101"
+          "url": "https://www.kobo.com/tw/zh/ebook/j6poxpbcnTGYQWgF-CAX8g"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 9,
+          "url": "https://www.books.com.tw/products/E050312783"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 59,
+          "url": "https://readmoo.com/book/210449720000101"
         },
         "goodreads": {
           "score": null,
           "count": 0,
           "url": "",
-          "note": "無原文資訊",
+          "note": "",
           "amazon_url": "",
-          "confidence": 20,
+          "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
@@ -45,45 +91,136 @@
           "url": ""
         }
       },
-      "avg_score": 4.8,
-      "short_affiliate_url": "https://reurl.cc/kpRRDL",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FV1hRN6TkYj6K5p9PnIhShg"
+      "avg_score": 4.77,
+      "short_affiliate_url": "https://reurl.cc/3kd96R"
     },
     {
-      "title": "中年理財：給上有老，下有小，不敢倒下的你，重建人生的財務主導權",
-      "author": "雨果",
-      "original_title": "",
-      "isbn": "9786264178860",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vHOtzg2XlzKy4W4I5bAl0w",
-      "kobo_price": "NT$297",
-      "cover_url": "covers/vHOtzg2XlzKy4W4I5bAl0w.jpg",
-      "sale_price": "88折至6/30",
+      "title": "請問巴菲特與蒙格：波克夏股東會的投資與經營智慧",
+      "author": "華倫．巴菲特",
+      "original_title": "Buffett and Munger Unscripted: Three Decades of Investment and Business Insights from the Berkshire Hathaway Shareholder Meetings",
+      "isbn": "9786264176576",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/TDnq7G9ZdT6XIXHVMrL-sw",
+      "kobo_price": "NT$574",
+      "cover_url": "covers/TDnq7G9ZdT6XIXHVMrL-sw.jpg",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
-      "description": "中年危機通常是財務危機 所以你需要中年理財 人生行至中場，才發現，事業高不成低不就？薪水只夠養活自己和全家？婚姻觸礁？\n父母身體健康不再？\n孩子尚小？\n你不敢倒下，卻有沒有底線望向未來？\n……\n上述種種危機皆指向你的財務體質虛弱。\n\n這本書是寫給上有老，下有小，舉步維艱的你，幫助你重建人生的主導權。",
-      "publish_date": "2026年5月29日",
+      "description": "巴菲特授權，波克夏股東會30年精華首度完整公開 自1990年代以來，成千上萬的投資人從世界各地湧向美國奧馬哈， 參加波克夏海瑟威年度股東大會，只為親眼見證華倫．巴菲特與查理．蒙格的現場對談。這場全球投資界的「年度朝聖」，是無數投資人汲取靈感與洞見的泉源。",
+      "publish_date": "2025年11月28日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/TDnq7G9ZdT6XIXHVMrL-sw"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 5,
+          "url": "https://www.books.com.tw/products/0011037656"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 11,
+          "url": "https://readmoo.com/book/210431643000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.goodreads.com/book/show/244527666?from_search=true&from_srp=true&qid=eS3D1Xv7WF&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0G4CM9SLB/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E8%8F%AF%E5%80%AB%EF%BC%8E%E5%B7%B4%E8%8F%B2%E7%89%B9%EF%BC%88Warren-Buffett-ebook/dp/B0G4CM9SLB/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.74,
+      "short_affiliate_url": "https://reurl.cc/GaMO5D"
+    },
+    {
+      "title": "我的金錢之旅：30個財務自由真實故事，你也做得到",
+      "author": "喬納森‧克雷蒙",
+      "original_title": "My Money Journey: How 30 people found financial freedom - and you can too",
+      "isbn": "9786267589090",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LcIpZBabKT-joZZA1-Viww",
+      "kobo_price": "NT$286",
+      "cover_url": "covers/LcIpZBabKT-joZZA1-Viww.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "繁體版特別收錄：作者最新人生感悟後記兩篇——《致富心態》作者摩根．豪瑟、《漫步華爾街》作者柏頓．墨基爾 盛讚推薦！——節儉儲蓄×謹慎投資×明智理財，翻轉你的金錢觀，走向財務自由豐盛人生！",
+      "publish_date": "2025年1月16日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/LcIpZBabKT-joZZA1-Viww"
+        },
+        "books_com": {
+          "score": 2.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0011010561"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 56,
+          "url": "https://readmoo.com/book/210366202000101"
+        },
+        "goodreads": {
+          "score": 3.9,
+          "count": 149,
+          "url": "https://www.goodreads.com/book/show/60784524-my-money-journey?from_search=true&from_srp=true&qid=D80q9QbM9g&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B4SZFX5T/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 83,
+          "url": "https://www.amazon.com/gp/product/B0B4SZFX5T/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/EmOega"
+    },
+    {
+      "title": "月收多少，才會幸福：6個女子的理財故事",
+      "author": "原田比香",
+      "original_title": "",
+      "isbn": "9789861345727",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xsFRYS6YoTKxMC9r1RIXnw",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/xsFRYS6YoTKxMC9r1RIXnw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "如果錢再多一點，是不是就會幸福？原田比香最新理財小說，寫給「正在為生活努力的你」。",
+      "publish_date": "2026年5月1日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/vHOtzg2XlzKy4W4I5bAl0w"
+          "url": "https://www.kobo.com/tw/zh/ebook/xsFRYS6YoTKxMC9r1RIXnw"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011052563"
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0011050558"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210475185000101"
+          "score": 4.7,
+          "count": 70,
+          "url": "https://readmoo.com/book/210468639000101"
         },
         "goodreads": {
           "score": null,
           "count": 0,
           "url": "",
-          "note": "無原文資訊",
+          "note": "",
           "amazon_url": "",
-          "confidence": 20,
+          "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
@@ -92,9 +229,8 @@
           "url": ""
         }
       },
-      "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/lpqqG9",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FvHOtzg2XlzKy4W4I5bAl0w"
+      "avg_score": 4.71,
+      "short_affiliate_url": "https://reurl.cc/epjAG7"
     },
     {
       "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
@@ -102,9 +238,9 @@
       "original_title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
       "isbn": "9786264177948",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Lfbj1LAHrDuXIjUC7apSVQ",
-      "kobo_price": "NT$317",
+      "kobo_price": "NT$306",
       "cover_url": "covers/Lfbj1LAHrDuXIjUC7apSVQ.jpg",
-      "sale_price": "88折至6/30",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
       "description": "現代社會最重要、卻被嚴重低估的技能 也有賺很少錢卻有辦法捐大錢做慈善的人。\n為什麼？因為理財結果與運氣和風險有關，而且不受才智與個人努力影響，更重要的是，與其了解許多理財專業知識，適當的言行舉止更加關鍵。\n\n這就是致富心態，這是現今社會不可或缺的軟實力。",
       "publish_date": "2026年2月2日",
@@ -116,33 +252,261 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 11,
-          "url": "https://www.books.com.tw/products/E050314150"
+          "count": 12,
+          "url": "https://www.books.com.tw/products/0011043967"
         },
         "readmoo": {
           "score": 4.7,
-          "count": 31,
+          "count": 35,
           "url": "https://readmoo.com/book/210450247000101"
         },
         "goodreads": {
-          "score": 4.28,
-          "count": 349041,
-          "url": "https://www.goodreads.com/book/show/41881472-the-psychology-of-money?from_search=true&from_srp=true&qid=I4H51RPqT5&rank=1",
-          "note": "re-fetch",
+          "score": 4.27,
+          "count": 350409,
+          "url": "https://www.goodreads.com/book/show/41881472-the-psychology-of-money?from_search=true&from_srp=true&qid=yHpbDm30mO&rank=1",
+          "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B084HJSJJ2/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 72165,
+          "count": 72390,
           "url": "https://www.amazon.com/gp/product/B084HJSJJ2/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.35,
-      "short_affiliate_url": "https://reurl.cc/7Egg5D",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FLfbj1LAHrDuXIjUC7apSVQ",
-      "original_author": "Morgan Housel"
+      "avg_score": 4.34,
+      "short_affiliate_url": "https://reurl.cc/Wbp7A7"
+    },
+    {
+      "title": "納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧",
+      "author": "艾瑞克‧喬根森(Eric Jorgenson)",
+      "original_title": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+      "isbn": "9789863989509",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/clrkMasT6T6fQ9bsr29tbw",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/clrkMasT6T6fQ9bsr29tbw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "暢銷全球45國、美版熱賣40萬冊，數百萬人因此改變一生 致富不是靠運氣，幸福也不是從天而降。累積財富和幸福生活，是你可以學習的技能。",
+      "publish_date": "2024年1月4日",
+      "ratings": {
+        "kobo": {
+          "score": 4.44,
+          "count": 299,
+          "url": "https://www.kobo.com/tw/zh/ebook/clrkMasT6T6fQ9bsr29tbw"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 99,
+          "url": "https://www.books.com.tw/products/0010977461"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 1121,
+          "url": "https://readmoo.com/book/210307601000101"
+        },
+        "goodreads": {
+          "score": 4.38,
+          "count": 75386,
+          "url": "https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?from_search=true&from_srp=true&qid=dSLFRLdAqI&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F9XD4XSY/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 23265,
+          "url": "https://www.amazon.com/gp/product/B0F9XD4XSY/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.46,
+      "short_affiliate_url": "https://reurl.cc/O6xn5g"
+    },
+    {
+      "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
+      "author": "查理．蒙格",
+      "original_title": "Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger",
+      "isbn": "9786267366851",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/bnbU7-p0GzafnfwbwB38Ig",
+      "kobo_price": "NT$298",
+      "cover_url": "covers/bnbU7-p0GzafnfwbwB38Ig.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "紀念．追思．典藏．傳承傳奇投資哲學家查理．蒙格最精彩演講、箴言、思想精華匯集一冊 股神巴菲特於2024年股東信的追思：「查理是波克夏的建築師，我只是負責帶領施工；日復一日完成他畫的藍圖。」 2023 年 11 月 28 日，波克夏副董事長、傳奇投資哲學家查理．蒙格告別世界，享年九十九歲。",
+      "publish_date": "2024年4月30日",
+      "ratings": {
+        "kobo": {
+          "score": 4.6,
+          "count": 85,
+          "url": "https://www.kobo.com/tw/zh/ebook/bnbU7-p0GzafnfwbwB38Ig"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 86,
+          "url": "https://www.books.com.tw/products/0010987407"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 169,
+          "url": "https://readmoo.com/book/210326895000101"
+        },
+        "goodreads": {
+          "score": 4.39,
+          "count": 18935,
+          "url": "https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack?from_search=true&from_srp=true&qid=u8rOTbmUlA&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 3840,
+          "url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.43,
+      "short_affiliate_url": "https://reurl.cc/Q28x5o"
+    },
+    {
+      "title": "一如既往：不變的人性法則與致富心態",
+      "author": "摩根‧豪瑟",
+      "original_title": "Same as Ever: A Guide to What Never Changes",
+      "isbn": "9786263556423",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/XPbdYYUKgDKZnHEy48R0kQ",
+      "kobo_price": "NT$287",
+      "cover_url": "covers/XPbdYYUKgDKZnHEy48R0kQ.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "關於金錢、歷史與人性不變的23件事 全球暢銷書《致富心態》作者全新力作 迎接難以預測的未來與種種人生挑戰最有效的新工具 人們在設立投資計畫時，都講求精確的數據、對未來的預測，以及合乎常理的邏輯。但是，我們很常看到的狀況是：結果不如預期、受到情緒影響而更動計畫、預測完全失準，或是被突如其來的事件給打擊。",
+      "publish_date": "2024年2月1日",
+      "ratings": {
+        "kobo": {
+          "score": 4.39,
+          "count": 135,
+          "url": "https://www.kobo.com/tw/zh/ebook/XPbdYYUKgDKZnHEy48R0kQ"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 72,
+          "url": "https://www.books.com.tw/products/0010980022"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 633,
+          "url": "https://readmoo.com/book/210312800000101"
+        },
+        "goodreads": {
+          "score": 4.15,
+          "count": 25834,
+          "url": "https://www.goodreads.com/book/show/125116554-same-as-ever?from_search=true&from_srp=true&qid=ElKzC9f99n&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C1685PDK/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 5622,
+          "url": "https://www.amazon.com/gp/product/B0C1685PDK/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.24,
+      "short_affiliate_url": "https://reurl.cc/M2nV6m"
+    },
+    {
+      "title": "別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維",
+      "author": "比爾．柏金斯",
+      "original_title": "",
+      "isbn": "9786263612440",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dnzUvU_KKDakcE7YewNldw",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/dnzUvU_KKDakcE7YewNldw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "你是否想過，在你死前沒把錢花光都是浪費？如何在時間、健康與金錢之間取得平衡？",
+      "publish_date": "2023年9月1日",
+      "ratings": {
+        "kobo": {
+          "score": 4.37,
+          "count": 182,
+          "url": "https://www.kobo.com/tw/zh/ebook/dnzUvU_KKDakcE7YewNldw"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 41,
+          "url": "https://www.books.com.tw/products/0010965865"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 491,
+          "url": "https://readmoo.com/book/210288698000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.37,
+      "short_affiliate_url": "https://reurl.cc/N2z9bm"
+    },
+    {
+      "title": "持續買進：資料科學家的投資終極解答，存錢及致富的實證方法",
+      "author": "尼克．馬朱利",
+      "original_title": "Just Keep Buying: Proven Ways to Save Money And Build Your Wealth",
+      "isbn": "9786267252703",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ycPCkGWyVDKnVw2029lW4Q",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/ycPCkGWyVDKnVw2029lW4Q.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "聽說「逢低買進」是投資穩賺策略？千萬別為了抄底，浪費時間在市場外觀望， 《原子習慣》、《致富心態》作者一致強推， BookAuthority評選2022年最佳財經書 「等待抄底好時機」、「不要把雞蛋放在同一個籃子裡」、「低買高賣」……投資世界充滿了豐富的詞彙、睿智的專家，提出各種穩賺策略。",
+      "publish_date": "2023年5月30日",
+      "ratings": {
+        "kobo": {
+          "score": 4.54,
+          "count": 463,
+          "url": "https://www.kobo.com/tw/zh/ebook/ycPCkGWyVDKnVw2029lW4Q"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 80,
+          "url": "https://www.books.com.tw/products/0010957881"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 1310,
+          "url": "https://readmoo.com/book/210274490000101"
+        },
+        "goodreads": {
+          "score": 4.12,
+          "count": 6084,
+          "url": "https://www.goodreads.com/book/show/59046778-just-keep-buying?from_search=true&from_srp=true&qid=N3faTmMVjq&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B09FYHZXBN/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 3241,
+          "url": "https://www.amazon.com/gp/product/B09FYHZXBN/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.32,
+      "short_affiliate_url": "https://reurl.cc/R2amLG"
     },
     {
       "title": "邏輯投資：散戶贏過大盤的機會",
@@ -150,9 +514,9 @@
       "original_title": "",
       "isbn": "9786264177627",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/5ZyNC6SdRzyjiakIsMlhUw",
-      "kobo_price": "NT$317",
+      "kobo_price": "NT$306",
       "cover_url": "covers/5ZyNC6SdRzyjiakIsMlhUw.jpg",
-      "sale_price": "88折至6/30",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
       "description": "當你停止問「還會上漲嗎」，才真正開始投資。散戶不是輸在不夠努力，而是輸在錯誤的思考框架。\n停止追逐市場焦點，找出適合自己的戰場，才是轉虧為盈的關鍵。\n★ 散戶在市場上永遠只有被宰的份？看到自己的優點，找出突破口",
       "publish_date": "2026年2月26日",
@@ -165,59 +529,656 @@
         "books_com": {
           "score": 4.5,
           "count": 6,
-          "url": "https://www.books.com.tw/products/E050318856"
+          "url": "https://www.books.com.tw/products/0011045606"
         },
         "readmoo": {
-          "score": 4.7,
-          "count": 3,
+          "score": 4.8,
+          "count": 4,
           "url": "https://readmoo.com/book/210453820000101"
         },
         "goodreads": {
           "score": null,
           "count": 0,
           "url": "",
-          "note": "無原文資訊",
+          "note": "",
           "amazon_url": "",
-          "confidence": 20,
+          "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.amazon.com/-/zh_TW/%E7%B4%84%E7%BF%B0%E2%80%A7%E8%89%BE%E5%80%AB%E2%80%A7%E4%BF%9D%E7%BE%85%E6%96%AF-ebook/dp/B0BN53Q7SF/ref=sr_1_2"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.61,
-      "short_affiliate_url": "https://reurl.cc/yOppzM",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F5ZyNC6SdRzyjiakIsMlhUw"
+      "avg_score": 4.62,
+      "short_affiliate_url": "https://reurl.cc/qpM6nR"
     },
     {
-      "title": "指數致富：普通人也能複製的長期致富法則",
-      "author": "周岐原",
+      "title": "紀律長贏：揭開清大校務基金操盤人風險控管與穩定獲利的策略",
+      "author": "林哲群",
       "original_title": "",
-      "isbn": "9786264177603",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/GX0Ij08OLTCgG-35ttTe-Q",
-      "kobo_price": "NT$297",
-      "cover_url": "covers/GX0Ij08OLTCgG-35ttTe-Q.jpg",
-      "sale_price": "88折至6/30",
+      "isbn": "9786264177559",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/MFwx2bFQMjSv11xATl_s5w",
+      "kobo_price": "NT$287",
+      "cover_url": "covers/MFwx2bFQMjSv11xATl_s5w.jpg",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
-      "description": "你不需要變得更努力，只要做出正確的選擇 90% 的散戶輸給市場，卻有一群普通人能靠指數化投資翻轉命運 這是一本記錄「臺灣普通人，如何逐步放棄幻想、換回人生主控權」的書 ．17位臺灣指數化投資實踐者全紀錄 ．親身故事 × 資產配置 × 長期策略 ．從焦慮、虧損到財務自由的真實歷程",
-      "publish_date": "2026年2月6日",
+      "description": "親自揭露「法人如何用紀律賺錢」的投資實戰書 這是一位操盤人橫跨十二年、在高度限制與市場風暴中淬鍊出的投資實戰全紀錄， 林哲群，身為清華大學校務基金操盤人， 從 2012 年起接手僅有 5,000 萬元的基金， 在沒有制度、流程與先例可循的情況下， 重新設計治理架構、風控機制與投資流程。他不是在華爾街操作，而是在最受法規束縛的公立教育體系中， 用紀律和架構把一個基金做大。",
+      "publish_date": "2026年1月30日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/MFwx2bFQMjSv11xATl_s5w"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 12,
+          "url": "https://www.books.com.tw/products/0011042966"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 21,
+          "url": "https://readmoo.com/book/210450196000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.08,
+      "short_affiliate_url": "https://reurl.cc/V2yl0b"
+    },
+    {
+      "title": "退休後，錢從哪裡來？：掌握兩大養老現金流，搭配「4%比例」花費原則，打敗未來高齡化又高通膨的財務計畫",
+      "author": "嫺人",
+      "original_title": "",
+      "isbn": "9786267532058",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8Uy5TeoHQz254c7ejd49hg",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/8Uy5TeoHQz254c7ejd49hg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "上班族最怕的，是錢不夠花的下流老後！給「不是富二代、又沒中樂透」的普通人── 一堂餘生有錢花、人生有目標的退休理財課。",
+      "publish_date": "2024年8月14日",
+      "ratings": {
+        "kobo": {
+          "score": 4.6,
+          "count": 10,
+          "url": "https://www.kobo.com/tw/zh/ebook/8Uy5TeoHQz254c7ejd49hg"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 36,
+          "url": "https://readmoo.com/book/210346450000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.44,
+      "short_affiliate_url": "https://reurl.cc/9Wga68"
+    },
+    {
+      "title": "長期買進：財金教授周冠男的42堂自制力投資課",
+      "author": "周冠男",
+      "original_title": "",
+      "isbn": "9786263558373",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/GE3nxQy4PDyrENfEzJAh-A",
+      "kobo_price": "NT$287",
+      "cover_url": "covers/GE3nxQy4PDyrENfEzJAh-A.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "投資0050超過20年，資產成長至少5倍 沒有時間研究股票或金融商品，怎麼投資？深耕25年行為財務學術理論及投資實證經驗， 分析股票、債券、基金、期貨、選擇權、虛擬資產及房地產， 就是「持續買進大盤指數型ETF」。",
+      "publish_date": "2024年7月31日",
+      "ratings": {
+        "kobo": {
+          "score": 4.48,
+          "count": 99,
+          "url": "https://www.kobo.com/tw/zh/ebook/GE3nxQy4PDyrENfEzJAh-A"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 352,
+          "url": "https://readmoo.com/book/210340857000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.73,
+      "short_affiliate_url": "https://reurl.cc/GaMO53"
+    },
+    {
+      "title": "交易心態原理：透過腦科學與決策心理學，揪出潛意識偏誤的投資腦內革命（全新修訂版）",
+      "author": "理察‧彼得森",
+      "original_title": "Inside the Investor’s Brain: The Power of Mind Over Money",
+      "isbn": "9786269876051",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2jGdKHW4aTey_trVmTrIow",
+      "kobo_price": "NT$309",
+      "cover_url": "covers/2jGdKHW4aTey_trVmTrIow.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "行為財務學先驅帶你一窺潛意識偏誤背後的腦科學與決策心理學     諾貝爾經濟獎得主喬治‧阿克洛夫、《華爾街狂人》作者大衛．林韋伯、《信任因子》作者保羅．扎克一致推薦 績效表現勝過大盤的投資人的最大共識——心態第一、策略第二、技術第三 掌握交易心態原理，不用日日盯盤、天天追高殺低，也能創造勝過大盤的超額獲利！大盤屢創新高，為什麼就是我的持股不漲？",
+      "publish_date": "2024年7月10日",
+      "ratings": {
+        "kobo": {
+          "score": 3.8,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/2jGdKHW4aTey_trVmTrIow"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://readmoo.com/book/210337360000101"
+        },
+        "goodreads": {
+          "score": 3.82,
+          "count": 85,
+          "url": "https://www.goodreads.com/book/show/1484947.Inside_the_Investor_s_Brain?from_search=true&from_srp=true&qid=wURaChGgik&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B008N9IOX0/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 40,
+          "url": "https://www.amazon.com/gp/product/B008N9IOX0/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.01,
+      "short_affiliate_url": "https://reurl.cc/epjAGR"
+    },
+    {
+      "title": "對錢好一點：讓金錢流動，為你創造想過的生活（《不為錢煩惱的老後》改版）",
+      "author": "枡野俊明",
+      "original_title": "",
+      "isbn": "9786263612037",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1akc4fLe8T-yag4m_i44EA",
+      "kobo_price": "NT$241",
+      "cover_url": "covers/1akc4fLe8T-yag4m_i44EA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "以怎樣的心態對待錢，就會獲得怎樣的人生 也許，你每天緊跟股市最新消息、絞盡腦汁提高被動收入， 也許，你每天努力降低物慾、對每一筆消費精打細算， 然而，我們在追求各自心目中的理想生活時， 常不自覺被「金錢焦慮」牽著鼻子走， 忘記金錢應該是來服務自己的一項工具。",
+      "publish_date": "2023年8月1日",
+      "ratings": {
+        "kobo": {
+          "score": 4.24,
+          "count": 21,
+          "url": "https://www.kobo.com/tw/zh/ebook/1akc4fLe8T-yag4m_i44EA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 47,
+          "url": "https://readmoo.com/book/210283147000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.35,
+      "short_affiliate_url": "https://reurl.cc/Wbp7A5"
+    },
+    {
+      "title": "投資金律（新版）：建立必勝投資組合的四大關鍵和十八堂必修課",
+      "author": "威廉．伯恩斯坦",
+      "original_title": "The Four Pillars of Investing: Second Edition: Lessons for Building a Winning Portfolio",
+      "isbn": "9786263154087",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DOH0CG7cnD6XwGfTm8yCIg",
+      "kobo_price": "NT$309",
+      "cover_url": "covers/DOH0CG7cnD6XwGfTm8yCIg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "──如果只能讀一本投資書，這本就夠了！",
+      "publish_date": "2024年1月31日",
+      "ratings": {
+        "kobo": {
+          "score": 4.53,
+          "count": 38,
+          "url": "https://www.kobo.com/tw/zh/ebook/DOH0CG7cnD6XwGfTm8yCIg"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 84,
+          "url": "https://readmoo.com/book/210314485000101"
+        },
+        "goodreads": {
+          "score": 4.24,
+          "count": 6410,
+          "url": "https://www.goodreads.com/book/show/143372020-the-four-pillars-of-investing-second-edition?from_search=true&from_srp=true&qid=OEX0eRARzl&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BXFMSM9H/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 509,
+          "url": "https://www.amazon.com/gp/product/B0BXFMSM9H/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.28,
+      "short_affiliate_url": "https://reurl.cc/O6xn59"
+    },
+    {
+      "title": "這輩子賺多少才夠？：【行動清單×10張表格】逆轉勝！成為自己的富一代",
+      "author": "Will 黃士豪",
+      "original_title": "",
+      "isbn": "9786263583191",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2QJRhjC0bDuDeRFYyAsnnQ",
+      "kobo_price": "NT$306",
+      "cover_url": "covers/2QJRhjC0bDuDeRFYyAsnnQ.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "你和富的距離差了個行動！幫助十萬人財富增長的教練黃士豪以理性財務思維 打造脫貧致富體質 ▂▃▄別讓現在決定你的未來▄▃▂從負債3000萬到資產破億的CEO打造人生全拿的FIRE財務系統【QR Code致富下載】行動清單×10張表格 只靠一份薪水過活的人和玩六合彩的賭徒沒兩樣 這是你的煩惱嗎？",
+      "publish_date": "2024年4月26日",
+      "ratings": {
+        "kobo": {
+          "score": 4.43,
+          "count": 23,
+          "url": "https://www.kobo.com/tw/zh/ebook/2QJRhjC0bDuDeRFYyAsnnQ"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 65,
+          "url": "https://readmoo.com/book/210326221000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.48,
+      "short_affiliate_url": "https://reurl.cc/Q28x50"
+    },
+    {
+      "title": "槓桿ETF投資法",
+      "author": "林政華（大仁）",
+      "original_title": "",
+      "isbn": "9786269612147",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/etf-20",
+      "kobo_price": "NT$348",
+      "cover_url": "covers/etf-20.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "・台灣第一本介紹槓桿ETF（元大台灣50正2，台股代號00631L）的專書・本書用超過17萬字＋百張圖表，詳解為何（2014到2023）50正2的報酬率會是0050的3倍・了解這檔最強台股的本質和運用方法，會讓你省下數百小時的研究時間，加速退休時程！",
+      "publish_date": "2023年4月12日",
+      "ratings": {
+        "kobo": {
+          "score": 4.43,
+          "count": 63,
+          "url": "https://www.kobo.com/tw/zh/ebook/etf-20"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 220,
+          "url": "https://readmoo.com/book/210269127000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.72,
+      "short_affiliate_url": "https://reurl.cc/M2nV6n"
+    },
+    {
+      "title": "投資贏在不犯錯：華爾街頂級資產管理人30年實戰心得，教你避開99％投資人賠錢的錯誤思維、數據迷思與行為偏誤",
+      "author": "巴瑞・里索茲",
+      "original_title": "HOW NOT TO INVEST: The Ideas, Numbers, and Behaviors that Destroy Wealth and How to Avoid Them",
+      "isbn": "9786267916018",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lN0nbfE_Rj-5AtfY7M992Q",
+      "kobo_price": "NT$415",
+      "cover_url": "covers/lN0nbfE_Rj-5AtfY7M992Q.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "達利歐、摩根．豪瑟、威廉．伯恩斯坦一致背書的必讀經典 華爾街最有影響力市場觀察家的長期獲利策略 《股票交易者年鑑》評選年度最佳投資書 《致富心態》作者摩根．豪瑟專文推薦 這本極具價值的指南，告訴你投資該做與不該做的事。很少有人能把投資的本質，寫得如此清晰透徹。",
+      "publish_date": "2026年6月3日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/lN0nbfE_Rj-5AtfY7M992Q"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.9,
+          "count": 7,
+          "url": "https://readmoo.com/book/210477958000101"
+        },
+        "goodreads": {
+          "score": 4.19,
+          "count": 1133,
+          "url": "https://www.goodreads.com/book/show/211004099-how-not-to-invest?from_search=true&from_srp=true&qid=PaoinGvML0&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0GFBQJGQ7/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.amazon.com/gp/product/B0GFBQJGQ7/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/N2z9b5"
+    },
+    {
+      "title": "花錢有道：懂得花、捨得花、值得花，郝哥的39個富思維",
+      "author": "郝旭烈",
+      "original_title": "",
+      "isbn": "9786264179591",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/V1hRN6TkYj6K5p9PnIhShg",
+      "kobo_price": "NT$287",
+      "cover_url": "covers/V1hRN6TkYj6K5p9PnIhShg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "普通人存錢，富人用錢學會做金錢的主人，才是致富之道企業知名財務顧問郝旭烈的用錢智慧讓你的錢，愈花愈增值~為什麼，有些人賺得不多，感覺卻像財富自由？有些人收入不低，感覺錢總不夠用？真正關鍵不在所得多寡，在於「你怎麼花」。",
+      "publish_date": "2026年5月29日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/GX0Ij08OLTCgG-35ttTe-Q"
+          "url": "https://www.kobo.com/tw/zh/ebook/V1hRN6TkYj6K5p9PnIhShg"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 8,
+          "url": "https://readmoo.com/book/210475154000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.8,
+      "short_affiliate_url": "https://reurl.cc/R2amYn"
+    },
+    {
+      "title": "財富升級套書（《持續買進》+《財富階梯》共兩冊）",
+      "author": "尼克．馬朱利 Nick Maggiulli",
+      "original_title": "",
+      "isbn": "9786267862544",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/X2AUovUT_jKLScKQ4G66ZQ",
+      "kobo_price": "NT$488",
+      "cover_url": "covers/X2AUovUT_jKLScKQ4G66ZQ.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "《持續買進》＋《財富階梯》最強數據致富套書《持續買進》台灣3連霸年度暢銷榜，財經最強話題書！「資料科學家／投資專家二刀流」尼克．馬朱利，帶你做對每一步：《持續買進》破解投資迷思，建立最穩定有效的致富習慣；《財富階梯》打造分階段致富策略，邁向長期財富成長；開始「持續買進」，往上攀登「財富階梯」，一路升級！",
+      "publish_date": "2026年5月14日",
+      "ratings": {
+        "kobo": {
+          "score": 3.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/X2AUovUT_jKLScKQ4G66ZQ"
         },
         "books_com": {
           "score": 5.0,
-          "count": 13,
-          "url": "https://www.books.com.tw/products/E050314151"
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0011053783"
         },
         "readmoo": {
-          "score": 4.3,
-          "count": 22,
-          "url": "https://readmoo.com/book/210453198000101"
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210472060000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.67,
+      "short_affiliate_url": "https://reurl.cc/qpM6GD"
+    },
+    {
+      "title": "致富：21天建立吸引財富的習慣【《祕密》作者最新公開】",
+      "author": "朗達‧拜恩（Rhonda Byrne）",
+      "original_title": "Countdown to Riches: 21 Days of Wealth-Attracting Habits",
+      "isbn": "9789861758916",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VdRRgiwBdTeLp82USTczog",
+      "kobo_price": "NT$244",
+      "cover_url": "covers/VdRRgiwBdTeLp82USTczog.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "你不是賺不到錢，是潛意識在阻止你變有錢！你怎麼看待金錢，就決定了金錢怎麼流向你。",
+      "publish_date": "2026年5月1日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/VdRRgiwBdTeLp82USTczog"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 7,
+          "url": "https://www.books.com.tw/products/0011050456"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://readmoo.com/book/210468636000101"
+        },
+        "goodreads": {
+          "score": 4.16,
+          "count": 492,
+          "url": "https://www.goodreads.com/book/show/237419852-countdown-to-riches?from_search=true&from_srp=true&qid=tXTrMjjjrC&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FBJTZ76C/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 571,
+          "url": "https://www.amazon.com/gp/product/B0FBJTZ76C/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.45,
+      "short_affiliate_url": "https://reurl.cc/V2ylY6"
+    },
+    {
+      "title": "操作慣性股，我38歲就財富自由：篩出別人沒發現的類台積和類輝達，幾塊漲、幾塊跌有慣性，績效大勝長期持有。",
+      "author": "王仲麟",
+      "original_title": "",
+      "isbn": "9786267817445",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZMz0bvvixjyVZUcM-_HeRg",
+      "kobo_price": "NT$306",
+      "cover_url": "covers/ZMz0bvvixjyVZUcM-_HeRg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "◎2025年台積電漲幅40％，很可觀？信驊143％，還有92檔漲幅更勝台積電。",
+      "publish_date": "2026年2月25日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/ZMz0bvvixjyVZUcM-_HeRg"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0011045573"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210457008000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/npWAmn"
+    },
+    {
+      "title": "一個身心科醫師的交易告白：從慘賠上億到獲利110％的股市人性啟示錄",
+      "author": "朴鐘錫",
+      "original_title": "살려주식시오",
+      "isbn": "9786267624647",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LvbEIa5g1zKHRvonFMO3ow",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/LvbEIa5g1zKHRvonFMO3ow.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "韓國YES 24書店  共感熱評，一場關於交易與人性的療癒之旅：「我真心推薦所有嘗試交易投資的人，都該讀讀這本書。」「可以稱他為『股市醫師』，而不是『身心科醫師』。",
+      "publish_date": "2026年1月30日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/LvbEIa5g1zKHRvonFMO3ow"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0011043534"
+        },
+        "readmoo": {
+          "score": 3.0,
+          "count": 3,
+          "url": "https://readmoo.com/book/210449480000101"
         },
         "goodreads": {
           "score": null,
@@ -234,9 +1195,8 @@
           "url": ""
         }
       },
-      "avg_score": 4.56,
-      "short_affiliate_url": "https://reurl.cc/ppzzOZ",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FGX0Ij08OLTCgG-35ttTe-Q"
+      "avg_score": 3.5,
+      "short_affiliate_url": "https://reurl.cc/xWzANE"
     },
     {
       "title": "百倍成長股投資法：利用顛覆型企業放大長期報酬",
@@ -244,9 +1204,9 @@
       "original_title": "Rule Breaker Investing: How to Pick the Best Stocks of the Future and Build Lasting Wealth",
       "isbn": "9786264177863",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/MFrn2vdeXzaP5ZW_mrEXZg",
-      "kobo_price": "NT$330",
+      "kobo_price": "NT$319",
       "cover_url": "covers/MFrn2vdeXzaP5ZW_mrEXZg.jpg",
-      "sale_price": "88折至6/30",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
       "description": "理財網站「萬里富」創辦人首度公開，超越市場的投資全攻略 抓住下一個輝達、Netflix或特斯拉的投資機會 辨識顛覆型企業，進場布局並耐心持有， 「低買高賣」、「挑選被低估股票」、「再平衡、向下攤平」， 這些看似理性的原則，在創新驅動、贏家通吃的市場中，反而成為累積長期財富的阻礙。遵循這些規則卻無法打敗市場，問題或許不在你，而在於規則早已不適用於今天的市場。",
       "publish_date": "2026年1月30日",
@@ -269,10 +1229,10 @@
         "goodreads": {
           "score": 4.49,
           "count": 45,
-          "url": "https://www.goodreads.com/book/show/56678858-the-journalist?from_search=true&from_srp=true&qid=lKOyPe463v&rank=1",
-          "note": "re-fetch",
+          "url": "https://www.goodreads.com/book/show/56678858-the-journalist?from_search=true&from_srp=true&qid=C1c7SAxk2j&rank=1",
+          "note": "author",
           "amazon_url": "https://www.amazon.com/gp/product/164599144X/ref=x_gr_bb_amazon",
-          "confidence": 95,
+          "confidence": 70,
           "cross_validated": true
         },
         "amazon_com": {
@@ -282,868 +1242,7 @@
         }
       },
       "avg_score": 4.38,
-      "short_affiliate_url": "https://reurl.cc/vEllVk",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FMFrn2vdeXzaP5ZW_mrEXZg",
-      "original_author": "David    Gardner"
-    },
-    {
-      "title": "財富自由心理學【電子書獨家：作者親聲導讀‧實戰計畫】：療癒金錢焦慮，修練致富心態",
-      "author": "蔡宇哲",
-      "original_title": "",
-      "isbn": "9786264177924",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/j6poxpbcnTGYQWgF-CAX8g",
-      "kobo_price": "NT$297",
-      "cover_url": "covers/j6poxpbcnTGYQWgF-CAX8g.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "財務專家與心理學博士帶你重塑金錢三觀 真正的財富自由，在於擁有人生的選擇權。很多人嚮往財富自由，卻不清楚財富自由的真實意義與目標。\n心理學博士蔡宇哲與企業知名財務顧問郝旭烈跨界對談，結合心理洞察與財務管理，深入探討金錢觀、理財觀與投資觀的底層邏輯。",
-      "publish_date": "2026年1月27日",
-      "ratings": {
-        "kobo": {
-          "score": 4.17,
-          "count": 6,
-          "url": "https://www.kobo.com/tw/zh/ebook/j6poxpbcnTGYQWgF-CAX8g"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 9,
-          "url": "https://www.books.com.tw/products/E050312783"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 55,
-          "url": "https://readmoo.com/book/210449720000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.85,
-      "short_affiliate_url": "https://reurl.cc/Z200pW",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fj6poxpbcnTGYQWgF-CAX8g"
-    },
-    {
-      "title": "雪球：巴菲特傳（榮退紀念版）",
-      "author": "艾莉絲．施洛德",
-      "original_title": "The Snowball: Warren Buffett and the Business of Life",
-      "isbn": "9786264175272",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/RCSGDvI-uziFyLwZ6Gbe_A",
-      "kobo_price": "NT$792",
-      "cover_url": "covers/RCSGDvI-uziFyLwZ6Gbe_A.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "《紐約時報》、《華爾街日報》、《華盛頓郵報》、 《時代》雜誌、《富比士》雜誌、《時人》雜誌一致推薦 華倫．巴菲特，全球最受尊敬的投資人，被譽為「奧馬哈的神諭」。從美國中部的小鎮少年，到全球最具影響力的企業家， 他用閱讀、思考與紀律，將一顆雪球從自家庭院滾向世界的資本市場。",
-      "publish_date": "2025年11月28日",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/RCSGDvI-uziFyLwZ6Gbe_A"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://www.books.com.tw/products/E050300377"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 3,
-          "url": "https://readmoo.com/book/210431626000101"
-        },
-        "goodreads": {
-          "score": 4.16,
-          "count": 54938,
-          "url": "https://www.goodreads.com/book/show/2054761.The_Snowball?from_search=true&from_srp=true&qid=sTvq7rquzw&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B009MYD9F8/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 4962,
-          "url": "https://www.amazon.com/gp/product/B009MYD9F8/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/YD22y0",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRCSGDvI-uziFyLwZ6Gbe_A",
-      "original_author": "Alice Schroeder"
-    },
-    {
-      "title": "金錢心理學（暢銷增訂版）：打破你對金錢的迷思，學會聰明花費",
-      "author": "丹．艾瑞利",
-      "original_title": "Dollars and Sense: How We Misthink Money and How to Spend Smarter",
-      "isbn": "9786264174688",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/0I1ZF6SpfTOtSSDebSdS1w",
-      "kobo_price": "NT$317",
-      "cover_url": "covers/0I1ZF6SpfTOtSSDebSdS1w.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "Amazon.com商業理財百大暢銷書 《商業內幕》（Business Insider）年度最佳商業書 心理學與行為經濟學翹楚丹．艾瑞利「吸金」力作 你每天都在花錢，但你真的知道自己為什麼花錢嗎？你知道，「每一次掏錢，都是一場心理戰」嗎？",
-      "publish_date": "2025年10月31日",
-      "ratings": {
-        "kobo": {
-          "score": 4.83,
-          "count": 6,
-          "url": "https://www.kobo.com/tw/zh/ebook/0I1ZF6SpfTOtSSDebSdS1w"
-        },
-        "books_com": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050296282"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 19,
-          "url": "https://readmoo.com/book/210425894000101"
-        },
-        "goodreads": {
-          "score": 3.78,
-          "count": 5862,
-          "url": "https://www.goodreads.com/book/show/34323010-dollars-and-sense?from_search=true&from_srp=true&qid=PDt53WfXMe&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B06WGP2DWL/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 819,
-          "url": "https://www.amazon.com/gp/product/B06WGP2DWL/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.86,
-      "short_affiliate_url": "https://reurl.cc/r0mmMr",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0I1ZF6SpfTOtSSDebSdS1w",
-      "original_author": "Dan Ariely"
-    },
-    {
-      "title": "有錢到老後：讓錢活得比你久，嫺人用三桶金計畫打造不怕老、不怕窮的退休理財指南",
-      "author": "嫺人",
-      "original_title": "",
-      "isbn": "9786264175326",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/X6zzkL1YkzOTOujBbHomBw",
-      "kobo_price": "NT$297",
-      "cover_url": "covers/X6zzkL1YkzOTOujBbHomBw.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "退休不是理財的終點，而是一段長達 20～30 年的投資新旅程。最值得擔心的，往往不是「能活多久」， 而是「錢會不會提早用完？或「錢根本不夠花？」\n\n嫺人認為，退休理財最重要的就是，解決兩大難題：「錢不夠花」與「錢花太快」。",
-      "publish_date": "2025年9月30日",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.kobo.com/tw/zh/ebook/X6zzkL1YkzOTOujBbHomBw"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050291650"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 17,
-          "url": "https://readmoo.com/book/210413223000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.61,
-      "short_affiliate_url": "https://reurl.cc/5366Yv",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FX6zzkL1YkzOTOujBbHomBw"
-    },
-    {
-      "title": "財富的靈魂【電子書獨家收錄郝旭烈親聲導讀「財務思維，你的必備決策力」】：行為金融學家教你洞悉人性的致富心態",
-      "author": "丹尼爾．克羅斯比",
-      "original_title": "The Soul of Wealth: 50 Reflections on Money and Meaning",
-      "isbn": "9786264174022",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/hj7BCOwctDyGyRHHutAA2A",
-      "kobo_price": "NT$297",
-      "cover_url": "covers/hj7BCOwctDyGyRHHutAA2A.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "2025年公理商業圖書獎金獎作品 暢銷書《行為投資金律》、《非理性效應》作者又一力作 ｜如果不去刻意的思考「財富」，膚淺的追求很可能招致不幸｜ 財富可以讓我們擺脫不需要的工作，使生活變得更輕鬆，更自由的利用時間。然而，當我們花上大半輩子追求財富，最後卻發現： 在健康出現問題時，金錢變成生命中最無關緊要的東西。（獨家收錄王牌企業財務講師/財務管理專家/暢銷作家郝旭烈親聲導讀「財務思維，你的必備決策力」",
-      "publish_date": "2025年6月6日",
-      "ratings": {
-        "kobo": {
-          "score": 1.8,
-          "count": 5,
-          "url": "https://www.kobo.com/tw/zh/ebook/hj7BCOwctDyGyRHHutAA2A"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/E050266590"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 9,
-          "url": "https://readmoo.com/book/210391892000101"
-        },
-        "goodreads": {
-          "score": 4.12,
-          "count": 213,
-          "url": "https://www.goodreads.com/book/show/203579235-the-soul-of-wealth?from_search=true&from_srp=true&qid=zqrwnnH0zH&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F4KM49VT/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.amazon.com/gp/product/B0F4KM49VT/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.1,
-      "short_affiliate_url": "https://reurl.cc/dpEE6y",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fhj7BCOwctDyGyRHHutAA2A",
-      "original_author": "Daniel Crosby"
-    },
-    {
-      "title": "快思慢想理財法：善用心理學打造不再為錢煩惱的富足人生",
-      "author": "馬克斯．菲爾普斯",
-      "original_title": "Spending Fast and Slow: Why Your Money Disappears So Fast and How to Slow Down the Flow",
-      "isbn": "9786264173100",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/N8IgbX8EPzuKYgMKKUNLgw",
-      "kobo_price": "NT$264",
-      "cover_url": "covers/N8IgbX8EPzuKYgMKKUNLgw.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "少花一點、多存一點，永遠不再為錢煩惱 理財教練馬克斯‧菲爾普斯想要告訴你， 不是只有你會這樣，而且這也不是你的錯！這些財務問題和科技發展、行銷手法、社會氛圍，甚至你的大腦思維有關係， 因為它們會努力促使你不斷花錢，讓你難以克服衝動。",
-      "publish_date": "2025年3月31日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/N8IgbX8EPzuKYgMKKUNLgw"
-        },
-        "books_com": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050256487"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 8,
-          "url": "https://readmoo.com/book/210379448000101"
-        },
-        "goodreads": {
-          "score": 3.0,
-          "count": 7,
-          "url": "https://www.goodreads.com/book/show/201894223-spending-fast-and-slow?from_search=true&from_srp=true&qid=JqKsiQgDc3&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FDJ2X534/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.amazon.com/gp/product/B0FDJ2X534/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.96,
-      "short_affiliate_url": "https://reurl.cc/0m557K",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FN8IgbX8EPzuKYgMKKUNLgw",
-      "original_author": "Max Phelps"
-    },
-    {
-      "title": "投資的底層邏輯：高人氣EMBA財富管理課，帶你精準抓對全球趨勢",
-      "author": "陳超",
-      "original_title": "",
-      "isbn": "9786264171588",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/emba-2",
-      "kobo_price": "NT$429",
-      "cover_url": "covers/emba-2.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "為什麼市場形勢經常背離經濟理論？散戶永遠敵不過主力？\n為什麼明知頻繁換手不理智，卻還是有無數人搶著買高賣低？\n種種錯誤操作，都是因為沒有掌握投資世界的底層邏輯！",
-      "publish_date": "2025年2月27日",
-      "ratings": {
-        "kobo": {
-          "score": 3.33,
-          "count": 6,
-          "url": "https://www.kobo.com/tw/zh/ebook/emba-2"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/E050252133"
-        },
-        "readmoo": {
-          "score": 3.7,
-          "count": 9,
-          "url": "https://readmoo.com/book/210373509000101"
-        },
-        "goodreads": {
-          "score": 2.5,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/228727433?from_search=true&from_srp=true&qid=unSRtDdRtn&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DZBBHQ44/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%99%B3%E8%B6%85-ebook/dp/B0DZBBHQ44/ref=sr_1_1"
-        }
-      },
-      "avg_score": 3.59,
-      "short_affiliate_url": "https://reurl.cc/A9QQo3",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Femba-2",
-      "original_author": "陳超"
-    },
-    {
-      "title": "財務自由的人生：跟著首席分析師楊應超學華爾街的投資技巧和工作效率，40歲就過FIRE的優質生活",
-      "author": "楊應超",
-      "original_title": "",
-      "isbn": "6699864798322",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/40fire",
-      "kobo_price": "NT$264",
-      "cover_url": "covers/40fire.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "你活著不是為了工作，財務自由後，人生始得自由！縱橫華爾街15年的第一名首席分析師楊應超，首度分享高盛、花旗、巴克萊銀行的投資祕訣！",
-      "publish_date": "2024年11月20日",
-      "ratings": {
-        "kobo": {
-          "score": 3.85,
-          "count": 33,
-          "url": "https://www.kobo.com/tw/zh/ebook/40fire"
-        },
-        "books_com": {
-          "score": 3.0,
-          "count": 10,
-          "url": "https://www.books.com.tw/products/E050056568"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 191,
-          "url": "https://readmoo.com/book/210118358000101"
-        },
-        "goodreads": {
-          "score": 4.12,
-          "count": 76,
-          "url": "https://www.goodreads.com/book/show/48726122?from_search=true&from_srp=true&qid=JykW7oQhzP&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B07ZVMCS4F/ref=x_gr_bb_amazon",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.1,
-      "short_affiliate_url": "https://reurl.cc/6G11rb",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F40fire",
-      "original_author": "楊應超(KIRK YANG)"
-    },
-    {
-      "title": "投資的底氣（Kobo獨家簽名版）：選股策略X心理素質決定你的財富上限",
-      "author": "股市隱者",
-      "original_title": "",
-      "isbn": "9786263558809",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/kobo-x",
-      "kobo_price": "NT$277",
-      "cover_url": "covers/kobo-x.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "Kobo獨家收錄：作者給Kobo讀者的獨家簽名！出手都是贏勢股，荷包、心靈都自由！\n用一套方法，找到含金量高的贏勢股，讓一流企業為你賺錢，不盯盤，也能三年賺一倍！",
-      "publish_date": "2024年8月30日",
-      "ratings": {
-        "kobo": {
-          "score": 4.31,
-          "count": 16,
-          "url": "https://www.kobo.com/tw/zh/ebook/kobo-x"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 16,
-          "url": "https://www.books.com.tw/products/E050231946?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050231946"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 47,
-          "url": "https://readmoo.com/book/210346658000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.62,
-      "short_affiliate_url": "https://reurl.cc/K2mmNq",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Fkobo-x"
-    },
-    {
-      "title": "打造被動收入流：幫自己加薪的49個富思維",
-      "author": "林峰丕",
-      "original_title": "",
-      "isbn": "9786263557932",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/t6OqDqrtfDude_TmTUGbaQ",
-      "kobo_price": "NT$264",
-      "cover_url": "covers/t6OqDqrtfDude_TmTUGbaQ.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "大通膨時代來臨，你的薪水每一秒都在貶值， 與其等老闆加薪，不如自己創造被動收入， 馬上跟隨本書啟動富思維，甩開無效理財。理財新手也能跑贏大盤，佛系穩穩賺。",
-      "publish_date": "2024年5月31日",
-      "ratings": {
-        "kobo": {
-          "score": 1.67,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/t6OqDqrtfDude_TmTUGbaQ"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://www.books.com.tw/products/0010990281"
-        },
-        "readmoo": {
-          "score": 4.1,
-          "count": 14,
-          "url": "https://readmoo.com/book/210330999000101"
-        },
-        "goodreads": {
-          "score": 1.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/230364226-49?from_search=true&from_srp=true&qid=in9BxMnkIV&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F2HNB9QN/ref=x_gr_bb_amazon",
-          "confidence": 60,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 3.74,
-      "short_affiliate_url": "https://reurl.cc/j6NNLp",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Ft6OqDqrtfDude_TmTUGbaQ",
-      "original_author": "林峰丕"
-    },
-    {
-      "title": "12個經濟指標，讓你投資無往不利",
-      "author": "艾敏‧尤爾馬茲",
-      "original_title": "世界インフレ時代の経済指標",
-      "isbn": "9786263557475",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1mD-0lDOPjy3Y6RDbENyJQ",
-      "kobo_price": "NT$264",
-      "cover_url": "covers/1mD-0lDOPjy3Y6RDbENyJQ.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "投資不是短期的勝負，而是長期的抗戰。培養解讀趨勢的能力，就是進可攻、退可守的最佳戰略！\nJC****財經觀點　Jenny　專業推薦",
-      "publish_date": "2024年4月30日",
-      "ratings": {
-        "kobo": {
-          "score": 4.53,
-          "count": 15,
-          "url": "https://www.kobo.com/tw/zh/ebook/1mD-0lDOPjy3Y6RDbENyJQ"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 5,
-          "url": "https://www.books.com.tw/products/0010987749"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 22,
-          "url": "https://readmoo.com/book/210326995000101"
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/230364051-12?from_search=true&from_srp=true&qid=zuRRueq5vY&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F2HLK7ZW/ref=x_gr_bb_amazon",
-          "confidence": 60,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 425,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4761276703/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.41,
-      "short_affiliate_url": "https://reurl.cc/L288RL",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F1mD-0lDOPjy3Y6RDbENyJQ",
-      "original_author": "艾敏‧尤爾馬茲"
-    },
-    {
-      "title": "黑天鵝投資大師們：洞悉極端事件的本質，在混沌時局發現投資機會的那群人",
-      "author": "史考特・派特森",
-      "original_title": "Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis",
-      "isbn": "9786263556270",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/AwOdDMsu1jqgeHSXRPKBWQ",
-      "kobo_price": "NT$330",
-      "cover_url": "covers/AwOdDMsu1jqgeHSXRPKBWQ.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "《華爾街日報》資深記者、《撼動華爾街的數學鬼才》、《暗池》作者精彩力作！一窺億萬交易員和高風險危機預測師如何靠極端事件，獲取巨額獲利 如果你是《黑天鵝效應》的忠實讀者，這部精采絕倫的著作你絕不能錯過！",
-      "publish_date": "2024年2月22日",
-      "ratings": {
-        "kobo": {
-          "score": 4.83,
-          "count": 6,
-          "url": "https://www.kobo.com/tw/zh/ebook/AwOdDMsu1jqgeHSXRPKBWQ"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0010982310"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 6,
-          "url": "https://readmoo.com/book/210314922000101"
-        },
-        "goodreads": {
-          "score": 3.73,
-          "count": 1190,
-          "url": "https://www.goodreads.com/book/show/62918551-chaos-kings?from_search=true&from_srp=true&qid=d2aMj8dZJN&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BHTLBG1Q/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.1,
-          "count": 485,
-          "url": "https://www.amazon.com/gp/product/B0BHTLBG1Q/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.84,
-      "short_affiliate_url": "https://reurl.cc/DxRRGE",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FAwOdDMsu1jqgeHSXRPKBWQ",
-      "original_author": "Scott Patterson"
-    },
-    {
-      "title": "太空商業時代 ：馬斯克引發的太空經濟革命",
-      "author": "艾胥黎．范思",
-      "original_title": "When the Heavens Went on Sale: The Misfits and Geniuses Racing to Put Space Within Reach",
-      "isbn": "9786263556324",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/TRkMTBrAmj-ik8ly6bhQ_Q",
-      "kobo_price": "NT$396",
-      "cover_url": "covers/TRkMTBrAmj-ik8ly6bhQ_Q.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "作者生動記述了翻轉太空時代的民間力量，這些聰明又大膽的開路先鋒奮力拓寬太空的窄門，人類的科技競技場、經濟規模隨之擴展到地球之外。我們正身處其中，一起跟隨這些非凡的冒險故事，搭上這股強勁的新太空經濟浪潮前進！",
-      "publish_date": "2024年2月5日",
-      "ratings": {
-        "kobo": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/TRkMTBrAmj-ik8ly6bhQ_Q"
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0010980811"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 17,
-          "url": "https://readmoo.com/book/210313773000101"
-        },
-        "goodreads": {
-          "score": 4.24,
-          "count": 2329,
-          "url": "https://www.goodreads.com/book/show/62050244-when-the-heavens-went-on-sale?from_search=true&from_srp=true&qid=ID80fUwBQK&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0B9SLZX9M/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 387,
-          "url": "https://www.amazon.com/gp/product/B0B9SLZX9M/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.29,
-      "short_affiliate_url": "https://reurl.cc/X2dd7g",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTRkMTBrAmj-ik8ly6bhQ_Q",
-      "original_author": "Ashlee Vance"
-    },
-    {
-      "title": "贏在特別股",
-      "author": "吳統雄",
-      "original_title": "",
-      "isbn": "9786263555853",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/OttPKOEOVjql44No7Mq8Og",
-      "kobo_price": "NT$396",
-      "cover_url": "covers/OttPKOEOVjql44No7Mq8Og.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "遊刃於特別股的領域，得以使發行公司既籌得資金又強化經營； 對投資人而言，善用特別股可增進理財組合的穩健及深度。「每家公司的營運都需要資金，最常見的選擇就是發行新股、 發行公司債或向銀行貸款。",
-      "publish_date": "2023年12月29日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/OttPKOEOVjql44No7Mq8Og"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/E050197492"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210308520000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.5,
-      "short_affiliate_url": "https://reurl.cc/4lAAZD",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FOttPKOEOVjql44No7Mq8Og"
-    },
-    {
-      "title": "蒙格智慧（雷浩斯有聲導讀「你所不知道的蒙格」）：巴菲特傳奇合夥人的投資人生",
-      "author": "查理‧蒙格",
-      "original_title": "",
-      "isbn": "9786263555754",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/pkOkAvwhazG2pepi6d9iag",
-      "kobo_price": "NT$528",
-      "cover_url": "covers/pkOkAvwhazG2pepi6d9iag.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "華倫‧巴菲特：「查理教會我很多與企業價值和人性有關的知識。」 蒙格說：「卓越的人很少，如果有機會追隨他們，或許值得付出溢價，未來可能會讓你獲得豐厚的回報。",
-      "publish_date": "2023年12月22日",
-      "ratings": {
-        "kobo": {
-          "score": 3.89,
-          "count": 9,
-          "url": "https://www.kobo.com/tw/zh/ebook/pkOkAvwhazG2pepi6d9iag"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0010975803?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010975803"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 21,
-          "url": "https://readmoo.com/book/210304605000101"
-        },
-        "goodreads": {
-          "score": 4.39,
-          "count": 18886,
-          "url": "https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack?from_search=true&from_srp=true&qid=Th2by1l5eZ&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 3811,
-          "url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.43,
-      "short_affiliate_url": "https://reurl.cc/3k00vl",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FpkOkAvwhazG2pepi6d9iag",
-      "original_author": "Charles T. Munger"
-    },
-    {
-      "title": "運氣心理學：掌握1%致富契機的人，都在默默實踐的6種心理技巧",
-      "author": "柳旻志",
-      "original_title": "운의 심리학",
-      "isbn": "9786263554436",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/TsEeMncUDDefYqLgxV4mgA",
-      "kobo_price": "NT$264",
-      "cover_url": "covers/TsEeMncUDDefYqLgxV4mgA.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "在電視台擔任製作人的柳旻志，不但常有機會接觸名人，看著人一夕爆紅、日進斗金，更是家常便飯的事。一樣認真工作、一樣充滿才華，為什麼有些人就上去了，有些人卻因為一件小事，與成功失之交臂？",
-      "publish_date": "2023年9月27日",
-      "ratings": {
-        "kobo": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/TsEeMncUDDefYqLgxV4mgA"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050181878?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050181878"
-        },
-        "readmoo": {
-          "score": 4.1,
-          "count": 8,
-          "url": "https://readmoo.com/book/210292207000101"
-        },
-        "goodreads": {
-          "score": 3.4,
-          "count": 5,
-          "url": "https://www.goodreads.com/book/show/237690816?from_search=true&from_srp=true&qid=5K7X4GyHCG&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FSJD4NLN/ref=x_gr_bb_amazon",
-          "confidence": 80,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 3.92,
-      "short_affiliate_url": "https://reurl.cc/Ga99Wy",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTsEeMncUDDefYqLgxV4mgA",
-      "original_author": "Yu Min Ji"
-    },
-    {
-      "title": "蒙格之道：關於投資、閱讀、工作與幸福的普通常識",
-      "author": "查理．蒙格",
-      "original_title": "",
-      "isbn": "9786263553613",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/yAMpgsyouT2WnZLsLQCHlg",
-      "kobo_price": "NT$396",
-      "cover_url": "covers/yAMpgsyouT2WnZLsLQCHlg.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "用思想的力量帶你領略投資哲學，擁有看遍人生的智慧 查理．蒙格是巴菲特的傳奇合夥人，他們合作無間， 共同打造波克夏投資傳奇。巴菲特曾說： 蒙格讓他從猩猩變人類，如果不是蒙格，他會比現在窮得多。",
-      "publish_date": "2023年8月31日",
-      "ratings": {
-        "kobo": {
-          "score": 4.52,
-          "count": 52,
-          "url": "https://www.kobo.com/tw/zh/ebook/yAMpgsyouT2WnZLsLQCHlg"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 32,
-          "url": "https://www.books.com.tw/products/0010966227?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010966227"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 187,
-          "url": "https://readmoo.com/book/210287274000101"
-        },
-        "goodreads": {
-          "score": 4.39,
-          "count": 18886,
-          "url": "https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack?from_search=true&from_srp=true&qid=F8fiMNlkFH&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 3811,
-          "url": "https://www.amazon.com/gp/product/B0C5TCGPPS/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.43,
-      "short_affiliate_url": "https://reurl.cc/Em33E0",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FyAMpgsyouT2WnZLsLQCHlg",
-      "original_author": "Charles T. Munger"
-    },
-    {
-      "title": "一生金錢無虞平衡理財法",
-      "author": "周行一",
-      "original_title": "",
-      "isbn": "9786263552524",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/0LuZklbNYzWou9tH9IRe8Q",
-      "kobo_price": "NT$317",
-      "cover_url": "covers/0LuZklbNYzWou9tH9IRe8Q.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "養成有紀律的理財習慣，活出不為金錢煩惱的充實人生。\n\n為何成功的散戶有如鳳毛麟角？\n你是否也陷入「不理財沒事，愈理財愈慘」的困境？\n人生理想可以和財務規劃取得雙贏嗎？\n在繁忙的工作壓力下，該如何化繁為簡穩穩賺？",
-      "publish_date": "2023年5月31日",
-      "ratings": {
-        "kobo": {
-          "score": 3.4,
-          "count": 5,
-          "url": "https://www.kobo.com/tw/zh/ebook/0LuZklbNYzWou9tH9IRe8Q"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 6,
-          "url": "https://www.books.com.tw/products/0010958244?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010958244"
-        },
-        "readmoo": {
-          "score": 3.9,
-          "count": 13,
-          "url": "https://readmoo.com/book/210274900000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 3.82,
-      "short_affiliate_url": "https://reurl.cc/Wb55l9",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0LuZklbNYzWou9tH9IRe8Q"
+      "short_affiliate_url": "https://reurl.cc/mpeAxG"
     },
     {
       "title": "漫步華爾街（50 週年增訂版）：超越股市漲跌的成功投資策略",
@@ -1151,16 +1250,16 @@
       "original_title": "A Random Walk Down Wall Street:The Best Investment Guide That Money Can Buy",
       "isbn": "9786263551954",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/0JvbxJQqATKBEU6vj3nUKA",
-      "kobo_price": "NT$462",
+      "kobo_price": "NT$446",
       "cover_url": "covers/0JvbxJQqATKBEU6vj3nUKA.jpg",
-      "sale_price": "88折至6/30",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
       "description": "全球暢銷200萬冊，50週年增訂版 政治大學財務管理系名譽教授　周行一 提供各年齡層最完整、多元分散的投資組合建議 識破流行投資商品、各種花俏投資術語的陷阱 幫助讀者找出最能長期累積財富的最佳策略 墨基爾擁有華爾街專業投資人、經濟學者與個人投資者的三重身分， 他以個人豐富的經驗，加入產學界全新看法，提供堅實可靠的理財建議。",
       "publish_date": "2023年4月28日",
       "ratings": {
         "kobo": {
-          "score": 4.73,
-          "count": 55,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/0JvbxJQqATKBEU6vj3nUKA"
         },
         "books_com": {
@@ -1170,256 +1269,62 @@
         },
         "readmoo": {
           "score": 4.7,
-          "count": 125,
+          "count": 127,
           "url": "https://readmoo.com/book/210270630000101"
         },
         "goodreads": {
           "score": 4.14,
-          "count": 41646,
-          "url": "https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street?from_search=true&from_srp=true&qid=SyQ6UcT8nn&rank=1",
-          "note": "re-fetch",
+          "count": 41694,
+          "url": "https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street?from_search=true&from_srp=true&qid=7RRbfYWh2N&rank=1",
+          "note": "author",
           "amazon_url": "https://www.amazon.com/gp/product/B07DP6YGVX/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "confidence": 70,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 4212,
+          "count": 4216,
           "url": "https://www.amazon.com/gp/product/B07DP6YGVX/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/Q2yyzM",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F0JvbxJQqATKBEU6vj3nUKA",
-      "original_author": "Burton G. Malkiel"
+      "short_affiliate_url": "https://reurl.cc/8e18Do"
     },
     {
-      "title": "精準選股：華爾街傳奇科技分析師的10堂投資課",
-      "author": "馬克．馬哈尼",
-      "original_title": "Nothing But Net：10 Timeless Stock-Picking Lessons from One of Wall Street’s Top Tech Analysts",
-      "isbn": "9789865256234",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Lwrp3zbaPjOC297Z4L5hXQ",
-      "kobo_price": "NT$330",
-      "cover_url": "covers/Lwrp3zbaPjOC297Z4L5hXQ.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "頂尖網路股分析師淬鍊25年的投資精華 教你看懂亞馬遜、Facebook、Google、Netflix的潛力 找出飆股，並在優質股票被錯殺時抓住時機投資 馬克．馬哈尼分析科技產業將近25年。他看準亞馬遜、Netflix、Google、Priceline等公司的成長潛力， 在公司發展早期就給予買進評等，而且多年來少有改變。",
-      "publish_date": "2022年5月31日",
-      "ratings": {
-        "kobo": {
-          "score": 4.4,
-          "count": 15,
-          "url": "https://www.kobo.com/tw/zh/ebook/Lwrp3zbaPjOC297Z4L5hXQ"
-        },
-        "books_com": {
-          "score": 2.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/0010925769?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010925769"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 27,
-          "url": "https://readmoo.com/book/210230611000101"
-        },
-        "goodreads": {
-          "score": 3.78,
-          "count": 230,
-          "url": "https://www.goodreads.com/book/show/58151348-nothing-but-net?from_search=true&from_srp=true&qid=ICqFcRzKQi&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B09889SCSY/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 133,
-          "url": "https://www.amazon.com/gp/product/B09889SCSY/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.08,
-      "short_affiliate_url": "https://reurl.cc/M2aaqp",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FLwrp3zbaPjOC297Z4L5hXQ",
-      "original_author": "Mark Mahaney"
-    },
-    {
-      "title": "灰階思考",
-      "author": "謝孟恭",
+      "title": "富小孩與窮小孩2：18堂孩子的財商金頭腦養成課",
+      "author": "郝旭烈",
       "original_title": "",
-      "isbn": "9789865251208",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6qH-2GVPZTOvvptgjM-UsA",
-      "kobo_price": "NT$264",
-      "cover_url": "covers/6qH-2GVPZTOvvptgjM-UsA.jpg",
-      "sale_price": "88折至6/30",
+      "isbn": "9789576589515",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/uCAlVA_hnzqyjXneBnMD1w",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/uCAlVA_hnzqyjXneBnMD1w.jpg",
+      "sale_price": "單本85折至7/31止",
       "sale_end": "",
-      "description": "獨家收錄-《股癌》謝孟恭致電子書讀者的一段超直白音檔 黑白之間都是灰，找到無限價值的所在。Podcast冠軍節目股癌製作人謝孟恭首本力作！",
-      "publish_date": "2021年4月20日",
+      "description": "榮獲2022博客來上半年親子教養熱銷榜入選《Books from Taiwan》2022年亞洲專刊獲選臺北市教育局111年度「兒童優良閱讀媒材」已售出簡中版權，讓最擅長用白話講財務的專家引導孩子建立財商知識！開名車、住豪宅就一定表示這個人很有錢嗎？",
+      "publish_date": "2022年10月7日",
       "ratings": {
         "kobo": {
-          "score": 4.56,
-          "count": 433,
-          "url": "https://www.kobo.com/tw/zh/ebook/6qH-2GVPZTOvvptgjM-UsA"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 53,
-          "url": "https://www.books.com.tw/products/E050090435"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 1254,
-          "url": "https://readmoo.com/book/210177050000101"
-        },
-        "goodreads": {
-          "score": 4.19,
-          "count": 154,
-          "url": "https://www.goodreads.com/book/show/58267589?from_search=true&from_srp=true&qid=idiHUU33zR&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B094CXN6BK/ref=x_gr_bb_amazon",
-          "confidence": 90,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 3.0,
-          "count": 2,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%9D%8E%E5%A4%A9%E5%91%BD-ebook/dp/B07JYGR7KP/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.54,
-      "short_affiliate_url": "https://reurl.cc/N2kkVk",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F6qH-2GVPZTOvvptgjM-UsA",
-      "original_author": "謝孟恭"
-    },
-    {
-      "title": "會走路的錢",
-      "author": "貝版",
-      "original_title": "MONEY WALKS",
-      "isbn": "6699865535452",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/eud_u55QcDCef9pA9JInhg",
-      "kobo_price": "NT$330",
-      "cover_url": "covers/eud_u55QcDCef9pA9JInhg.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "一出版即盤踞美國亞馬遜書店「商業與金錢類」新書暢銷榜！網友盛讚最實用、最有價值、足以改變人生的理財書！",
-      "publish_date": "2020年9月16日",
-      "ratings": {
-        "kobo": {
-          "score": 4.47,
-          "count": 30,
-          "url": "https://www.kobo.com/tw/zh/ebook/eud_u55QcDCef9pA9JInhg"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 7,
-          "url": "https://www.books.com.tw/products/E050074461"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 94,
-          "url": "https://readmoo.com/book/210155985000101"
-        },
-        "goodreads": {
-          "score": 4.57,
-          "count": 288,
-          "url": "https://www.goodreads.com/book/show/50914453-money-walks?from_search=true&from_srp=true&qid=VcNOhor7eM&rank=2",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 790,
-          "url": "https://www.amazon.com/-/zh_TW/Bayfamily-ebook/dp/B0858BD527/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.57,
-      "short_affiliate_url": "https://reurl.cc/R2ppxx",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Feud_u55QcDCef9pA9JInhg",
-      "original_author": "Bayfamily"
-    },
-    {
-      "title": "洞悉市場的人：量化交易之父吉姆‧西蒙斯與文藝復興公司的故事",
-      "author": "古格里．祖克曼",
-      "original_title": "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution",
-      "isbn": "6699865535025",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3vLx0R6z3TuCSWCA19W1cg",
-      "kobo_price": "NT$396",
-      "cover_url": "covers/3vLx0R6z3TuCSWCA19W1cg.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "金融時報與麥肯錫最佳商業書籍獎入圍 《紐約時報》、亞馬遜書店暢銷書、《連線》（Wired）評選年度必讀科普書 解密當代傳奇投資人吉姆．西蒙斯低調發跡的唯一著作 大家都在問：「大獎章基金的績效如何持續稱霸30年？」 沒有哪個傳奇大師比吉姆‧西蒙斯更加神祕， 不但曾幫助美國政府破解蘇聯密碼， 但四十歲後，他轉戰投資界，開啟量化投資的風潮。",
-      "publish_date": "2020年5月29日",
-      "ratings": {
-        "kobo": {
-          "score": 3.77,
-          "count": 31,
-          "url": "https://www.kobo.com/tw/zh/ebook/3vLx0R6z3TuCSWCA19W1cg"
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 12,
-          "url": "https://www.books.com.tw/products/E050068817"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 77,
-          "url": "https://readmoo.com/book/210143459000101"
-        },
-        "goodreads": {
-          "score": 4.04,
-          "count": 17980,
-          "url": "https://www.goodreads.com/book/show/43889703-the-man-who-solved-the-market?from_search=true&from_srp=true&qid=SldJqKmVsN&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B07P1NNTSD/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 5281,
-          "url": "https://www.amazon.com/gp/product/B07P1NNTSD/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/qpxxQy",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F3vLx0R6z3TuCSWCA19W1cg",
-      "original_author": "Gregory Zuckerman"
-    },
-    {
-      "title": "零基礎的佛系理財術：只要一招，安心穩穩賺",
-      "author": "施昇輝",
-      "original_title": "",
-      "isbn": "6709864796403",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/YpEmc6qyED-svRyAFlTkTg",
-      "kobo_price": "NT$231",
-      "cover_url": "covers/YpEmc6qyED-svRyAFlTkTg.jpg",
-      "sale_price": "88折至6/30",
-      "sale_end": "",
-      "description": "面對投資理財，「佛系」才是正確的態度。不要認真學習，也不要完全放棄，只要看得懂中文，認得出數字，看完這本書，照著做，錢就會自然滾向你！",
-      "publish_date": "2019年2月27日",
-      "ratings": {
-        "kobo": {
-          "score": 3.87,
-          "count": 31,
-          "url": "https://www.kobo.com/tw/zh/ebook/YpEmc6qyED-svRyAFlTkTg"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/uCAlVA_hnzqyjXneBnMD1w"
         },
         "books_com": {
           "score": 5.0,
-          "count": 15,
-          "url": "https://www.books.com.tw/products/E050039737"
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0010936401"
         },
         "readmoo": {
-          "score": 4.5,
-          "count": 222,
-          "url": "https://readmoo.com/book/210104026000101"
+          "score": 4.7,
+          "count": 6,
+          "url": "https://readmoo.com/book/210247709000101"
         },
         "goodreads": {
-          "score": 4.06,
-          "count": 36,
-          "url": "https://www.goodreads.com/book/show/50905851?from_search=true&from_srp=true&qid=6zt4bJebMm&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B07Q5SDWMP/ref=x_gr_bb_amazon",
-          "confidence": 90,
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
@@ -1428,10 +1333,2032 @@
           "url": ""
         }
       },
-      "avg_score": 4.41,
-      "short_affiliate_url": "https://reurl.cc/V2rrky",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FYpEmc6qyED-svRyAFlTkTg",
-      "original_author": "施昇輝"
+      "avg_score": 4.74,
+      "short_affiliate_url": "https://reurl.cc/aX6AeG"
+    },
+    {
+      "title": "小狗錢錢2：全球暢銷500萬冊！德國版《富爸爸，窮爸爸》續集",
+      "author": "博多．薛弗",
+      "original_title": "",
+      "isbn": "9786263610613",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/jov1IwrMTT2XYrl3DxXdIg",
+      "kobo_price": "NT$235",
+      "cover_url": "covers/jov1IwrMTT2XYrl3DxXdIg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "德國暢銷No.1理財書籍，歐洲版《富爸爸，窮爸爸》  全球暢銷20年，銷量超過500萬冊  譯成23種語言，版權銷售至28個國家和地區  作者有「歐洲巴菲特」美譽，帶領一整代歐洲人走上致富之道！掌握金錢品格7大原則，穩定致富。",
+      "publish_date": "2023年3月27日",
+      "ratings": {
+        "kobo": {
+          "score": 4.88,
+          "count": 8,
+          "url": "https://www.kobo.com/tw/zh/ebook/jov1IwrMTT2XYrl3DxXdIg"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 5,
+          "url": "https://www.books.com.tw/products/E050156321"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 44,
+          "url": "https://readmoo.com/book/210269147000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.6,
+      "short_affiliate_url": "https://reurl.cc/kpGgnq"
+    },
+    {
+      "title": "每月1000元，輕鬆滾出千萬的雞尾酒投資法：6步驟打造資產自動增值系統，通膨時代也能財務自由",
+      "author": "米安．薩米",
+      "original_title": "毎月5000円で自動的にお金が増える方法",
+      "isbn": "9786267624616",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/AI3w2rFthTeYHXu_zvIIHw",
+      "kobo_price": null,
+      "cover_url": "covers/AI3w2rFthTeYHXu_zvIIHw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "【本書簡介】最確實、簡單的抗通膨投資術結合瑞・達利歐的穩健配置策略與華倫．巴菲特的價值投資思維，如雞尾酒般照比例調出年化報酬率20％的理財配方！◤小資族也能年賺20％！",
+      "publish_date": "2026年1月9日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/AI3w2rFthTeYHXu_zvIIHw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 5,
+          "url": "https://readmoo.com/book/210445654000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.goodreads.com/book/show/70078006-5000?from_search=true&from_srp=true&qid=rSgyP1QRDg&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/4761273607/ref=x_gr_bb_amazon",
+          "confidence": 25,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 498,
+          "url": "https://www.amazon.com/gp/product/4761273607/ref=x_gr_bb_amazon"
+        }
+      },
+      "avg_score": 4.0,
+      "short_affiliate_url": "https://reurl.cc/7E6mKk"
+    },
+    {
+      "title": "股市宗師杜金龍的獨門選股術",
+      "author": "杜金龍",
+      "original_title": "",
+      "isbn": "9786267560174",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DxqyCOAbIjipUWYZFlWVnw",
+      "kobo_price": "NT$255",
+      "cover_url": "covers/DxqyCOAbIjipUWYZFlWVnw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "這會是杜金龍的所有著作中最易懂、最實用、最貼近散戶的一本書！你是不是也曾有過這樣的經驗？",
+      "publish_date": "2025年11月27日",
+      "ratings": {
+        "kobo": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/DxqyCOAbIjipUWYZFlWVnw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210437185000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.0,
+      "short_affiliate_url": "https://reurl.cc/yOxGR6"
+    },
+    {
+      "title": "駕馭機運的長贏思維：成功只是倖存者偏差？從健康、投資到事業，讓每一個風險變好運的決策指南",
+      "author": "史畢羅斯．馬克里達奇",
+      "original_title": "Dance with Chance: Making Luck Work for You",
+      "isbn": "9786267624395",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/k-gISeuOEzukMjISV5sZuw",
+      "kobo_price": "NT$309",
+      "cover_url": "covers/k-gISeuOEzukMjISV5sZuw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "《黑天鵝效應》作者 納西姆．尼可拉斯．塔雷伯、《影響力：讓人乖乖聽話的說服術》作者 羅伯特．席爾迪尼聯袂盛讚推薦 統計學家 × 心理學家 × 決策科學家帶領你我有效破除「控制錯覺」，做出真正穩健的選擇。◤不努力，才能大成功？",
+      "publish_date": "2025年9月26日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/k-gISeuOEzukMjISV5sZuw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 4,
+          "url": "https://readmoo.com/book/210411283000101"
+        },
+        "goodreads": {
+          "score": 3.83,
+          "count": 222,
+          "url": "https://www.goodreads.com/book/show/6477924-dance-with-chance?from_search=true&from_srp=true&qid=MG9clFZkws&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B005KR0LPW/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 66,
+          "url": "https://www.amazon.com/gp/product/B005KR0LPW/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.92,
+      "short_affiliate_url": "https://reurl.cc/ppQAar"
+    },
+    {
+      "title": "給理財小白的翻身筆記：2年從負債75萬到資產300萬，ETF讓我走在財務自由路上",
+      "author": "鐵蛋",
+      "original_title": "",
+      "isbn": "9786267549308",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/275300-etf",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/275300-etf.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "**從負債70萬到凈資產逾300萬，平凡小資族翻身的真實理財筆記。陪伴7萬粉絲走出財務低谷，IG理財網紅鐵蛋完整公開翻身實錄。",
+      "publish_date": "2025年7月24日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/275300-etf"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 14,
+          "url": "https://readmoo.com/book/210402343000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.23,
+      "short_affiliate_url": "https://reurl.cc/vE9AQa"
+    },
+    {
+      "title": "巴菲特財報學（新修版）：跟股神學投資，用會計知識解析價值投資法",
+      "author": "史迪格．博德森Stig Brodersen",
+      "original_title": "Warren Buffett Accounting Book: Reading Financial Statements for Value Investing",
+      "isbn": "9786267678244",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xSzwPOoPHT6zp5r9zgceTg",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/xSzwPOoPHT6zp5r9zgceTg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "價值投資經典入門之作基礎介紹巴菲特的投資方法與概念架構股票投資人必懂的基本財報術語全解析 「如果你不願意學會看懂財報，就不該自己選股。」──華倫．巴菲特 看懂財報，是成為聰明投資人的第一步！",
+      "publish_date": "2025年5月1日",
+      "ratings": {
+        "kobo": {
+          "score": 3.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/xSzwPOoPHT6zp5r9zgceTg"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 11,
+          "url": "https://readmoo.com/book/210385234000101"
+        },
+        "goodreads": {
+          "score": 4.24,
+          "count": 1187,
+          "url": "https://www.goodreads.com/book/show/22103415-warren-buffett-accounting-book?from_search=true&from_srp=true&qid=SLUZAIp97y&rank=1",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.24,
+      "short_affiliate_url": "https://reurl.cc/Z2Yv4V"
+    },
+    {
+      "title": "5分鐘致富練習",
+      "author": "江季芸",
+      "original_title": "",
+      "isbn": "9786263498983",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/MDCF_JV-xTu8F-J8n5tg_w",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/MDCF_JV-xTu8F-J8n5tg_w.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "想變有錢，要先啟動致富的「開關」， ＼66則FQ心法 × 88**道實踐練習／ 覺察財務缺口，是跳脫窮忙的第一步 大家想到理財，都認為第一件事是記帳， 真正的重點在於覺察自己的財務缺口。暢銷書《波段存股法，讓我滾出千萬退休金》《小大人的理財素養系列》作者， 江季芸在成為理財專家之前，她也曾經是個月光族。",
+      "publish_date": "2025年2月13日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/MDCF_JV-xTu8F-J8n5tg_w"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 3.7,
+          "count": 6,
+          "url": "https://readmoo.com/book/210370381000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.7,
+      "short_affiliate_url": "https://reurl.cc/r0NAEE"
+    },
+    {
+      "title": "社畜的財務自由計畫【全新增修版】：最速脫魯傳說！早餐投資法，每天30分鐘，3年賺30億",
+      "author": "遊牧民",
+      "original_title": "나의 월급 독립 프로젝트 (리마스터 에디션)：: 3년 만에 30억 벌고 퇴사한 슈퍼개미의 실전 주식투자 생중계",
+      "isbn": "9786267624074",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/JQqdm2_S2zi0aeU20XTWYA",
+      "kobo_price": "NT$309",
+      "cover_url": "covers/JQqdm2_S2zi0aeU20XTWYA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "☆ 韓國小社畜一步登天全紀錄！☆每天工作12小時的社畜如何成為超級散戶，用480萬本金，3年賺到30億？",
+      "publish_date": "2025年1月10日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/JQqdm2_S2zi0aeU20XTWYA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 3,
+          "url": "https://readmoo.com/book/210364223000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.47,
+      "short_affiliate_url": "https://reurl.cc/530zKR"
+    },
+    {
+      "title": "你想為誰賺錢？：破解3大金錢謎團，怎麼思考錢，決定怎樣的未來（讀者票選年度商業書TOP1，長踞日本亞馬遜暢銷榜，熱賣25萬冊的財經素養小說）",
+      "author": "田內學",
+      "original_title": "きみのお金は誰のため: ボスが教えてくれた「お金の謎」と「社会のしくみ」",
+      "isbn": "9786263498754",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3-top1-25",
+      "kobo_price": "NT$256",
+      "cover_url": "covers/3-top1-25.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "沒艱澀圖表、沒難懂公式、沒複雜工具， ※媲美《我們為什麼要讀書？為什麼要工作？",
+      "publish_date": "2024年12月26日",
+      "ratings": {
+        "kobo": {
+          "score": 4.85,
+          "count": 20,
+          "url": "https://www.kobo.com/tw/zh/ebook/3-top1-25"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 8,
+          "url": "https://www.books.com.tw/products/0011009021"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 180,
+          "url": "https://readmoo.com/book/210363366000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 88,
+          "url": "https://www.amazon.co.jp/-/zh/dp/405407037X/ref=sr_1_2"
+        }
+      },
+      "avg_score": 4.65,
+      "short_affiliate_url": "https://reurl.cc/dpKAQq"
+    },
+    {
+      "title": "不炒股、不投機，1年賺1億：跟億萬富翁學「實體投資法」，從零開始3個月實現FIRE的55條致富法則",
+      "author": "戶塚真由子",
+      "original_title": "",
+      "isbn": "9786263498532",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/11-3fire55",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/11-3fire55.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "熱銷突破200,000**冊 「股票」、「外匯」、「虛擬貨幣」⋯⋯ 成功改變1,700位學員的命運， 不懂錢滾錢，就算努力工作，也無法致富 日本資產理財顧問戶塚真由子，出生在貧窮的家庭， 因此她從小一心想成為有錢人，長大後努力工作，當上頂尖業務， 但她體悟到，就算收入再高，不懂錢滾錢，也算不上「真正的有錢人」。",
+      "publish_date": "2024年11月28日",
+      "ratings": {
+        "kobo": {
+          "score": 4.67,
+          "count": 6,
+          "url": "https://www.kobo.com/tw/zh/ebook/11-3fire55"
+        },
+        "books_com": {
+          "score": 3.0,
+          "count": 9,
+          "url": "https://www.books.com.tw/products/0011006636"
+        },
+        "readmoo": {
+          "score": 3.4,
+          "count": 27,
+          "url": "https://readmoo.com/book/210358764000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.5,
+      "short_affiliate_url": "https://reurl.cc/2a5VKa"
+    },
+    {
+      "title": "致富原子習慣：前國稅局官員解密，有錢人不說，卻默默在做的29個養錢法則",
+      "author": "小林義崇",
+      "original_title": "元国税専門官がこっそり教える あなたの隣の億万長者",
+      "isbn": "9786267321911",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/5_8y63YndTu35_1JHHhaQQ",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/5_8y63YndTu35_1JHHhaQQ.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "一出版旋即登上亞馬遜暢銷榜NO.1投資、節稅、不動產、保險、繼承……成為富翁不是想像，端看如何運用你手上每1塊錢。「這些人，當初到底是怎麼累積出億萬身家的？",
+      "publish_date": "2024年11月15日",
+      "ratings": {
+        "kobo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/5_8y63YndTu35_1JHHhaQQ"
+        },
+        "books_com": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0011005618"
+        },
+        "readmoo": {
+          "score": 3.6,
+          "count": 13,
+          "url": "https://readmoo.com/book/210355950000101"
+        },
+        "goodreads": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://www.goodreads.com/book/show/229548399?from_search=true&from_srp=true&qid=4gULuQdssG&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BP6S22RF/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 3.9,
+          "count": 325,
+          "url": "https://www.amazon.com/gp/product/B0BP6S22RF/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.89,
+      "short_affiliate_url": "https://reurl.cc/A9GYMp"
+    },
+    {
+      "title": "有錢人教我的致富心態：學有錢人這樣想錢、生錢、存錢、花錢，他從月光族變身資產3億富翁！",
+      "author": "立川健悟",
+      "original_title": "お金持ちは合理的",
+      "isbn": "9786267492567",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Spvb2VuFcjqMRpjvHqcq2w",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/Spvb2VuFcjqMRpjvHqcq2w.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "變有錢的第一步：換上有錢人的腦袋和心態！學他們用錢來長知識、養人脈、圓夢想……最重要的是，用錢滾出愈來愈多的錢！",
+      "publish_date": "2024年11月14日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/Spvb2VuFcjqMRpjvHqcq2w"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 8,
+          "url": "https://www.books.com.tw/products/0011005237"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 23,
+          "url": "https://readmoo.com/book/210356434000101"
+        },
+        "goodreads": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/isbn/9786267492567",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/s",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 210,
+          "url": "https://www.amazon.co.jp/-/zh/dp/479911137X/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.26,
+      "short_affiliate_url": "https://reurl.cc/6GAxKk"
+    },
+    {
+      "title": "價值投資大師眼中的商業賽局：用投資人思維，看可長久發展的企業競爭優勢",
+      "author": "布魯斯．格林沃德",
+      "original_title": "Competition Demystified:A Radically Simplified Approach to Business Strategy",
+      "isbn": "9786267079904",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Mnyp_SuPxTyxYCGxEc-GEg",
+      "kobo_price": "NT$369",
+      "cover_url": "covers/Mnyp_SuPxTyxYCGxEc-GEg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "「華爾街大師中的大師」、哥倫比亞大學商學院教授經典之作  千錘百煉的企業管理戰略框架，比麥可．波特五力模型更簡潔實用  從價值投資思維出發，以賽局架構分析，企業經營者、股票投資人不可不看  許多企業經營者及高階主管都有一種誤解，那就是任何能回答「要如何才能賺錢？」這個問題的計畫，都稱得上是商業戰略。",
+      "publish_date": "2024年10月11日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Mnyp_SuPxTyxYCGxEc-GEg"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0011002599"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210351843000101"
+        },
+        "goodreads": {
+          "score": 4.19,
+          "count": 107,
+          "url": "https://www.goodreads.com/book/show/140392150-competition-demystified?from_search=true&from_srp=true&qid=8bBOgbx6E0&rank=1",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B000QUEHKS/ref=x_gr_bb_kindle",
+          "confidence": 70,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 623,
+          "url": "https://www.amazon.com/gp/product/B000QUEHKS/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.54,
+      "short_affiliate_url": "https://reurl.cc/18rqKp"
+    },
+    {
+      "title": "致富習慣：改變10個生活小細節帶來巨大財富",
+      "author": "史蒂夫•艾德卡克（Steve Adcock）",
+      "original_title": "",
+      "isbn": "9786269857456",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FDQEq4GWLDO9nyPy9OT2Eg",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/FDQEq4GWLDO9nyPy9OT2Eg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "所有人都能夠透過正確的理財習慣慢慢致富 「如果你已經準備好把自己舊有的思維拋在一邊，不再猶豫不決，開始培養累積財富的習慣。」 「這本書將改變你的人生，無論你的夢想是什麼，都可以讓你像我們一樣付諸行動去實現它。",
+      "publish_date": "2024年6月27日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/FDQEq4GWLDO9nyPy9OT2Eg"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 6,
+          "url": "https://www.books.com.tw/products/0010990880"
+        },
+        "readmoo": {
+          "score": 4.1,
+          "count": 9,
+          "url": "https://readmoo.com/book/210334426000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.35,
+      "short_affiliate_url": "https://reurl.cc/grL1Rp"
+    },
+    {
+      "title": "跟華爾街之狼學投資：喬登．貝爾福在華爾街賺大錢的財富指南",
+      "author": "喬登．貝爾福",
+      "original_title": "The Wolf of Investing: My Insider's Playbook for Making a Fortune on Wall Street",
+      "isbn": "9786267388808",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6V5NKcHukjGUdxQjcor4iw",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/6V5NKcHukjGUdxQjcor4iw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "《華爾街之狼》電影原型人物喬登．貝爾福最新著作。一本敘事詼諧且脈絡清晰的投資指南。",
+      "publish_date": "2024年3月31日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/6V5NKcHukjGUdxQjcor4iw"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0010985156"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210321093000101"
+        },
+        "goodreads": {
+          "score": 4.02,
+          "count": 413,
+          "url": "https://www.goodreads.com/book/show/122345460-the-wolf-of-investing?from_search=true&from_srp=true&qid=trlyhdBRVn&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BP2VFQCF/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 449,
+          "url": "https://www.amazon.com/gp/product/B0BP2VFQCF/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.32,
+      "short_affiliate_url": "https://reurl.cc/K2VR8R"
+    },
+    {
+      "title": "財富投資防火牆：用20道防線打造安全網，面對動盪變局能守護財產，更可辨識風險屬性，在不理性恐慌中危機致富",
+      "author": "克里斯多夫．曼斯克",
+      "original_title": "The Prepared Investor: How to Prevent the Next Crisis from Affecting Your Financial Independence",
+      "isbn": "9786267321812",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/zSCYuYFb3jO8Avu4pDkIvw",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/zSCYuYFb3jO8Avu4pDkIvw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "兩岸兵兇戰危，你的財產已做足防護準備？抑或只能甘心認命？",
+      "publish_date": "2024年7月12日",
+      "ratings": {
+        "kobo": {
+          "score": 3.75,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/zSCYuYFb3jO8Avu4pDkIvw"
+        },
+        "books_com": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0010993915"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 8,
+          "url": "https://readmoo.com/book/210337103000101"
+        },
+        "goodreads": {
+          "score": 4.5,
+          "count": 8,
+          "url": "https://www.goodreads.com/book/show/52772042-the-prepared-investor?from_search=true&from_srp=true&qid=DT8AxJunSt&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B08JZ9N9SV/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.9,
+          "count": 40,
+          "url": "https://www.amazon.com/gp/product/B08JZ9N9SV/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.68,
+      "short_affiliate_url": "https://reurl.cc/j6bo92"
+    },
+    {
+      "title": "逆勢的關鍵：運用「修正式價值投資」，買在股票上漲前",
+      "author": "陳啟祥",
+      "original_title": "",
+      "isbn": "9786267311936",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8QxTEumudTG2ofBdtMuRQg",
+      "kobo_price": "NT$280",
+      "cover_url": "covers/8QxTEumudTG2ofBdtMuRQg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "【價值投資信奉者必讀！】超額報酬 X複利乘法X提高投資勝率「倒金字塔選股策略」，找出閃閃發光的潛力股！",
+      "publish_date": "2023年12月13日",
+      "ratings": {
+        "kobo": {
+          "score": 4.67,
+          "count": 6,
+          "url": "https://www.kobo.com/tw/zh/ebook/8QxTEumudTG2ofBdtMuRQg"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0010974734"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 6,
+          "url": "https://readmoo.com/book/210305041000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.63,
+      "short_affiliate_url": "https://reurl.cc/ovOA83"
+    },
+    {
+      "title": "自由與干預：搞好經濟就手握權力，借鏡自由市場的歷史、擘劃經濟的未來",
+      "author": "雅各．索爾",
+      "original_title": "Free Market: The History of a Dream",
+      "isbn": "9786263744295",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vlUqwsCyaTe2_3_Z8Phg8g",
+      "kobo_price": "NT$309",
+      "cover_url": "covers/vlUqwsCyaTe2_3_Z8Phg8g.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "如今主張放寬國際市場干預的是習近平， ◎我們可學到許多與當前政策辯論相關的知識。無論你是喜愛或討厭自由市場，都可從這本書獲益匪淺。",
+      "publish_date": "2023年11月10日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/vlUqwsCyaTe2_3_Z8Phg8g"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0010976346"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://readmoo.com/book/210303755000101"
+        },
+        "goodreads": {
+          "score": 3.72,
+          "count": 178,
+          "url": "https://www.goodreads.com/book/show/202730076?from_search=true&from_srp=true&qid=TxBUGhrr2w&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CP7ML7G4/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 76,
+          "url": "https://www.amazon.com/Free-Market-History-Jacob-Soll/dp/0465049702/ref=sr_1_1"
+        }
+      },
+      "avg_score": 3.9,
+      "short_affiliate_url": "https://reurl.cc/L29qax"
+    },
+    {
+      "title": "約翰．坦伯頓價值投資金律：與市場逆行、慧眼獨具的選股高手，擊敗大盤的選股策略",
+      "author": "蘿倫．坦伯頓",
+      "original_title": "Investing The Templeton Way: The Market-Beating Strategies of Value Investing's Legendary Bargain Hunter",
+      "isbn": "9786267321522",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WQWtOVKb4zS8fsKXpCrh3Q",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/WQWtOVKb4zS8fsKXpCrh3Q.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "連續50年，獲利超越大盤的不敗心法  《錢》（Money）雜誌讚譽：「本世紀最偉大選股巨人！」  約翰．坦伯頓：「想得到比別人更好的獲利，就要做和別人不一樣的事。",
+      "publish_date": "2023年11月9日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/WQWtOVKb4zS8fsKXpCrh3Q"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 5,
+          "url": "https://www.books.com.tw/products/0010972343"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 4,
+          "url": "https://readmoo.com/book/210299570000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 206,
+          "url": "https://www.goodreads.com/book/show/2353597.Investing_the_Templeton_Way?from_search=true&from_srp=true&qid=XPx1jqC5xL&rank=1",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0062Y5X8M/ref=x_gr_bb_kindle",
+          "confidence": 70,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 144,
+          "url": "https://www.amazon.com/gp/product/B0062Y5X8M/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.26,
+      "short_affiliate_url": "https://reurl.cc/DxWEqQ"
+    },
+    {
+      "title": "動能致富：每月2分鐘，創造超額報酬！99啪教你活用動態資產配置，打造最高效投資組合",
+      "author": "99啪",
+      "original_title": "",
+      "isbn": "9786263613805",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dG-2QUTDDjiR2yceJXxAFA",
+      "kobo_price": "NT$255",
+      "cover_url": "covers/dG-2QUTDDjiR2yceJXxAFA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "打造最省時、極高效的超額報酬投資組合。本書集結他通過多空淬鍊、創造穩健回報的關鍵心法， 從投資工具選擇、風險報酬評估到全新的資產配置策略， 學會這一套，你也能提升投資勝率，擁有一輩子現金流！",
+      "publish_date": "2023年11月1日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/dG-2QUTDDjiR2yceJXxAFA"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 8,
+          "url": "https://www.books.com.tw/products/0010970898"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 7,
+          "url": "https://readmoo.com/book/210299217000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.81,
+      "short_affiliate_url": "https://reurl.cc/X2vyAM"
+    },
+    {
+      "title": "早點知道就好了：頂尖律師教你51個超實用金錢法律常識",
+      "author": "建業法律事務所 資深法律顧問團隊",
+      "original_title": "",
+      "isbn": "9786269789405",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/GJqaMxdoKz-zsOV2aMVkvw",
+      "kobo_price": "NT$250",
+      "cover_url": "covers/GJqaMxdoKz-zsOV2aMVkvw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "職場．所得稅．房屋買賣租賃．家庭問題．遺產處理，每個人一生當中可能接觸到的重要法律 / 稅務問題，都集結在此書當中！如果不懂關鍵的法律觀念，就可能被課下重重的智商稅，本書聚集資深法律專家見解，助你掌握法律及稅務的重要觀念，幫你和你的家人省下大筆的金錢！",
+      "publish_date": "2023年10月31日",
+      "ratings": {
+        "kobo": {
+          "score": 4.43,
+          "count": 7,
+          "url": "https://www.kobo.com/tw/zh/ebook/GJqaMxdoKz-zsOV2aMVkvw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 3,
+          "url": "https://readmoo.com/book/210299000000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.39,
+      "short_affiliate_url": "https://reurl.cc/bd1AWr"
+    },
+    {
+      "title": "慣性成功的心智鍛鍊：翻轉平庸匱乏的十七支密鑰，打造強大的心理韌性，預約財富自由的增值人生",
+      "author": "唐．M．格林",
+      "original_title": "Napoleon Hill’s Secret",
+      "isbn": "9786267173824",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vC5Z2m_1MDGz02Yx-ADOrw",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/vC5Z2m_1MDGz02Yx-ADOrw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "拿破崙．希爾永恆經典《思考致富》《成功法則》完全實踐版長銷近100年、影響數千萬人的「PMA積極成功學」應用指南！「人的心智所思所信，必能成真。",
+      "publish_date": "2023年8月10日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/vC5Z2m_1MDGz02Yx-ADOrw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 3.38,
+          "count": 8,
+          "url": "https://www.goodreads.com/book/show/212010234-a-millionaire-vision?from_search=true&from_srp=true&qid=akTW2knuTW&rank=1",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D2GK5DHX/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 15,
+          "url": "https://www.amazon.com/gp/product/B0D2GK5DHX/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.31,
+      "short_affiliate_url": "https://reurl.cc/4l2nLV"
+    },
+    {
+      "title": "投資別再情緒化！讓數據說話 用科學方法讓本金百倍奉還",
+      "author": "小路Lewis",
+      "original_title": "",
+      "isbn": "9786269679980",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/M67TLG4U9Tmb5LUTc-gE2Q",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/M67TLG4U9Tmb5LUTc-gE2Q.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "今天看營收、明天看EPS、後天看毛利率，買的股票經常有好消息，為什麼投資還是不賺錢？什麼數字算「好」？",
+      "publish_date": "2023年4月27日",
+      "ratings": {
+        "kobo": {
+          "score": 2.5,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/M67TLG4U9Tmb5LUTc-gE2Q"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 8,
+          "url": "https://readmoo.com/book/210270554000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.02,
+      "short_affiliate_url": "https://reurl.cc/3kd9KV"
+    },
+    {
+      "title": "【圖解】滾出千萬獲利的匯差投資法",
+      "author": "金牌獵人（朱均澤）",
+      "original_title": "",
+      "isbn": "9786263493421",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dx_Yh0L3ej2jUqfMQI-66A",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/dx_Yh0L3ej2jUqfMQI-66A.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "就能彈性投資、大賺小賠、穩穩入帳！贏家2法則×6步驟×6指標×8大幣別，讓你第一次投資外匯就上手  2017年亞洲外匯分析師交易大賽冠軍、2020年台北金融博覽會邀請講師 總經指標×實戰經驗×大量範例，學員一天最高獲利破20**萬元 隨書附MT5**平台基礎教學，打開投資外匯的大門 隨著疫情解封，世界國門大開，海外旅遊商機無限， 你是否也趁外幣大貶賺了一波匯差？",
+      "publish_date": "2023年7月6日",
+      "ratings": {
+        "kobo": {
+          "score": 3.25,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/dx_Yh0L3ej2jUqfMQI-66A"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 3.1,
+          "count": 7,
+          "url": "https://readmoo.com/book/210279549000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.15,
+      "short_affiliate_url": "https://reurl.cc/GaMOn3"
+    },
+    {
+      "title": "向12位大師學投資：他們跨世紀的投資修煉，領你走上財富之路",
+      "author": "商業周刊",
+      "original_title": "",
+      "isbn": "9786267252758",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/rMK-TNl8-TyrYMQzHpILfw",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/rMK-TNl8-TyrYMQzHpILfw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "達利歐、索羅斯、科斯托蘭尼……各投資學派12位巨擘， 他們的生涯軌跡，能在投資的浪頭為你引路， 他們的智慧精華，將轉化成你的投資養分。無論是想要累積財富、要有被動收入，或是追求財務自由；包括你我，許多人開始投資之路。",
+      "publish_date": "2023年7月6日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/rMK-TNl8-TyrYMQzHpILfw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.9,
+          "count": 8,
+          "url": "https://readmoo.com/book/210280194000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.9,
+      "short_affiliate_url": "https://reurl.cc/EmOeVA"
+    },
+    {
+      "title": "小狗錢錢：全球暢銷500萬冊！德國版《富爸爸，窮爸爸》",
+      "author": "博多．薛弗",
+      "original_title": "",
+      "isbn": "9786263610606",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8W6KgBegBj6sQVRWyIaeEg",
+      "kobo_price": "NT$235",
+      "cover_url": "covers/8W6KgBegBj6sQVRWyIaeEg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "德國暢銷No.1理財書籍，歐洲版《富爸爸，窮爸爸》  全球暢銷20年，銷量超過500萬冊  譯成23種語言，版權銷售至28個國家和地區  作者有「歐洲巴菲特」美譽，帶領一整代歐洲人走上致富之道！讓你從此擁有財富，開啟富足快樂人生！",
+      "publish_date": "2023年3月27日",
+      "ratings": {
+        "kobo": {
+          "score": 4.83,
+          "count": 24,
+          "url": "https://www.kobo.com/tw/zh/ebook/8W6KgBegBj6sQVRWyIaeEg"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 172,
+          "url": "https://readmoo.com/book/210269146000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.8,
+      "short_affiliate_url": "https://reurl.cc/epjAMR"
+    },
+    {
+      "title": "無痛致富",
+      "author": "佛里曼投資顧問團隊",
+      "original_title": "",
+      "isbn": "9786267173220",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ob2gSFAQzDuBigIvvDWkZA",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/Ob2gSFAQzDuBigIvvDWkZA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "彼得林區、查理蒙格、葛拉漢，全球投資教父的致富金律合理股價怎麼買？最佳賣點怎麼看？",
+      "publish_date": "2022年10月25日",
+      "ratings": {
+        "kobo": {
+          "score": 3.33,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/Ob2gSFAQzDuBigIvvDWkZA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210252230000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.75,
+      "short_affiliate_url": "https://reurl.cc/Wbp705"
+    },
+    {
+      "title": "小資理財90秒【圖卡小劇場】：一看就懂的新手理財課，學會「儲蓄+保險+投資」，擺脫窮忙、存到第一桶金",
+      "author": "趙柏凱",
+      "original_title": "",
+      "isbn": "9789863848394",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Gf3hYQ7bPzCaYc6mmJmHCw",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/Gf3hYQ7bPzCaYc6mmJmHCw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "一看就懂！理財超級新手．入門必讀！",
+      "publish_date": "2023年1月17日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/Gf3hYQ7bPzCaYc6mmJmHCw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 13,
+          "url": "https://readmoo.com/book/210260783000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.61,
+      "short_affiliate_url": "https://reurl.cc/O6xnY9"
+    },
+    {
+      "title": "致富贏家只做「這件事」：股市小白成為億萬富翁的超強鐵則",
+      "author": "上岡正明",
+      "original_title": "勝てる投資家は、「これ」しかやらない",
+      "isbn": "9786267184578",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/euu2RSTqBjC-KXOJDQSSFA",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/euu2RSTqBjC-KXOJDQSSFA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "股市小白或老手都得看的投資必勝聖經獲勝的公式： 再現性 x 期望值 x 資金管理 日本亞馬遜國際經濟學熱銷新書資深投資家公開從股市累積6億資產的必勝心法！作者也曾歷經雷曼風暴、東日本大震災兩次破產危機，但最後都挺了過來。",
+      "publish_date": "2022年12月7日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/euu2RSTqBjC-KXOJDQSSFA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 4,
+          "url": "https://readmoo.com/book/210256625000101"
+        },
+        "goodreads": {
+          "score": 2.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/203027146?from_search=true&from_srp=true&qid=XhCfmlgu4r&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CP97X5QJ/ref=x_gr_bb_amazon",
+          "confidence": 30,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 637,
+          "url": "https://www.amazon.co.jp/-/zh/dp/456985091X/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.0,
+      "short_affiliate_url": "https://reurl.cc/Q28xY0"
+    },
+    {
+      "title": "洛克菲勒談賺錢：美國史上第一位億萬富豪的致富語錄與書信【中英對照】",
+      "author": "約翰．D．洛克菲勒 (John D. Rockefeller)",
+      "original_title": "",
+      "isbn": "9786267079546",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3dbAvDp6cTaLr3WFHp8owQ",
+      "kobo_price": "NT$179",
+      "cover_url": "covers/3dbAvDp6cTaLr3WFHp8owQ.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "學習撼動美國財富和權力的傳奇家族 我們喜歡閱讀典範人物，是因為如果沒有他們的引導，容易不小心陷入災難；我們喜歡閱讀語錄，是因為原汁原味、濃縮智慧的隻字片語，更能在心中烙下深刻印記。所以，我們渴求收藏典範人物的語錄，希望得到在茫茫大海中尋找正確方向的指南針。",
+      "publish_date": "2022年9月7日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/3dbAvDp6cTaLr3WFHp8owQ"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0010934662"
+        },
+        "readmoo": {
+          "score": 4.9,
+          "count": 10,
+          "url": "https://readmoo.com/book/210244996000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.92,
+      "short_affiliate_url": "https://reurl.cc/M2nV3n"
+    },
+    {
+      "title": "躺著就有錢的自由人生：從擺脫負債到安穩退休的理財7步驟",
+      "author": "戴夫．拉姆齊",
+      "original_title": "The Total Money Makeover: A Proven Plan for Financial Fitness",
+      "isbn": "9786263355026",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/0y5zS6CYvjCzde-K2OtkSw",
+      "kobo_price": "NT$250",
+      "cover_url": "covers/0y5zS6CYvjCzde-K2OtkSw.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "亞馬遜Top 1暢銷書 銷售逾8,000,000冊 亞馬遜兩萬多則書評、4.5星好評 作者的同名理財節目每週超過兩千萬收聽人次 理財之前，要先理人，誠實面對花費過多、儲蓄過少的天性。從破產、到財務自由、到成為千萬人追隨的理財專家，教你擊退習於漏財的自己，打造經濟衰退、也能微笑面對的收入流。",
+      "publish_date": "2022年7月8日",
+      "ratings": {
+        "kobo": {
+          "score": 4.5,
+          "count": 6,
+          "url": "https://www.kobo.com/tw/zh/ebook/0y5zS6CYvjCzde-K2OtkSw"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 6,
+          "url": "https://www.books.com.tw/products/0010928575"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 30,
+          "url": "https://readmoo.com/book/210240267000101"
+        },
+        "goodreads": {
+          "score": 4.22,
+          "count": 98344,
+          "url": "https://www.goodreads.com/book/show/78427.The_Total_Money_Makeover?from_search=true&from_srp=true&qid=2b29ihaO7e&rank=1",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.amazon.com/%E8%BA%BA%E8%91%97%E5%B0%B1%E6%9C%89%E9%8C%A2%E7%9A%84%E8%87%AA%E7%94%B1%E4%BA%BA%E7%94%9F%EF%BC%9A%E5%BE%9E%E6%93%BA%E8%84%AB%E8%B2%A0%E5%82%B5%E5%88%B0%E5%AE%89%E7%A9%A9%E9%80%80%E4%BC%91%E7%9A%84%E7%90%86%E8%B2%A17%E6%AD%A5%E9%A9%9F-Makeover-Financial-Fitness-Traditional-ebook/dp/B0B7MS68W1/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.22,
+      "short_affiliate_url": "https://reurl.cc/N2z9Y5"
+    },
+    {
+      "title": "富爸爸，窮爸爸【25週年紀念版】",
+      "author": "羅勃特‧T‧清崎 （Robert T. Kiyosaki）",
+      "original_title": "",
+      "isbn": "9789865064372",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/BVf2bwVFCjCULorY1eQp7w",
+      "kobo_price": "NT$250",
+      "cover_url": "covers/BVf2bwVFCjCULorY1eQp7w.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "21****世紀最偉大的理財書，暢銷全球逾二十五年，改變數千萬人的人生！暢銷全球25年！",
+      "publish_date": "2022年6月1日",
+      "ratings": {
+        "kobo": {
+          "score": 4.62,
+          "count": 122,
+          "url": "https://www.kobo.com/tw/zh/ebook/BVf2bwVFCjCULorY1eQp7w"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 25,
+          "url": "https://www.books.com.tw/products/0010935466"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 356,
+          "url": "https://readmoo.com/book/210234205000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.67,
+      "short_affiliate_url": "https://reurl.cc/R2amkn"
+    },
+    {
+      "title": "知識複利",
+      "author": "何則文、高永祺",
+      "original_title": "",
+      "isbn": "9789573295952",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Utp-DQSYmzWdghgn-hy5WQ",
+      "kobo_price": "NT$269",
+      "cover_url": "covers/Utp-DQSYmzWdghgn-hy5WQ.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "2位作者擁有超過7本暢銷書、500項知識產品 10位重量級菁英領袖現身說法，點評各章節 更重要的是，你能幫助許多人，創造出具有影響力的價值 我們擁有的知識與思想工具，可以透過知識複利不斷予以深化，變成具有價值的產品或服務，為我們的生涯帶來正向的助益。這就是知識複利的效應。",
+      "publish_date": "2022年6月1日",
+      "ratings": {
+        "kobo": {
+          "score": 4.23,
+          "count": 64,
+          "url": "https://www.kobo.com/tw/zh/ebook/Utp-DQSYmzWdghgn-hy5WQ"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 59,
+          "url": "https://readmoo.com/book/210286714000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.36,
+      "short_affiliate_url": "https://reurl.cc/qpM6YD"
+    },
+    {
+      "title": "聰明的ETF投資法：不懂財報沒關係，運用有效投資存下退休金(超值加贈退休金需求試算表、個人化預算規劃表、美國券商開戶流程QR code)",
+      "author": "雨果",
+      "original_title": "",
+      "isbn": "9786267046432",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/etf-qr-code",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/etf-qr-code.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "打造源源不絕的被動收入，就能財務自由 超值加贈「退休金需求試算表、個人化預算規劃表」、「美國券商開戶流程」讀者專屬QR code。退休金的金額設定，取決於你退休後想要過甚麼樣的生活，也取決於你目前的工作收入和預算支出。",
+      "publish_date": "2022年2月9日",
+      "ratings": {
+        "kobo": {
+          "score": 3.09,
+          "count": 11,
+          "url": "https://www.kobo.com/tw/zh/ebook/etf-qr-code"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 20,
+          "url": "https://readmoo.com/book/210215803000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.13,
+      "short_affiliate_url": "https://reurl.cc/V2ylW6"
+    },
+    {
+      "title": "富人不說，卻默默在做的33件事【暢銷經典版】",
+      "author": "延埈赫",
+      "original_title": "사소한차이",
+      "isbn": "9789861344072",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/LcYYx7SqEDiB7W8EaQmplQ",
+      "kobo_price": "NT$202",
+      "cover_url": "covers/LcYYx7SqEDiB7W8EaQmplQ.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "你和成功致富的差距，只有這33件不起眼的小事！掌握成功人士創造「微小差異」的祕訣，從細節中抓住別人忽略的機會，就能累積出驚人的成果！",
+      "publish_date": "2022年2月1日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 6,
+          "url": "https://www.kobo.com/tw/zh/ebook/LcYYx7SqEDiB7W8EaQmplQ"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 3.3,
+          "count": 6,
+          "url": "https://readmoo.com/book/210214345000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.65,
+      "short_affiliate_url": "https://reurl.cc/9WganX"
+    },
+    {
+      "title": "億萬富翁的成功習慣：通往財務自由與高成就之路",
+      "author": "狄恩．格拉齊斯（Dean Graziosi）",
+      "original_title": "Millionaire Success Habits: The Gateway to Wealth & Prosperity",
+      "isbn": "9789865075590",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/CfZ5jpkcjzSpYCp65EIEiA",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/CfZ5jpkcjzSpYCp65EIEiA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "⭐全球狂銷超過300,000冊，暢銷增訂版**⭐ ◎ 你的成功取決於──你有多想要成功？** 本書作者狄恩．格拉齊斯，從小為錢所苦、父母多次離婚， 他患有過動症，也有讀寫障礙，只有高中學歷，沒讀過大學， 他克服困境和心魔，白手起家，成為優秀的企業家， 最終寫書、出書，成為暢銷作家，成為人人眼中的成功人士。",
+      "publish_date": "2021年12月28日",
+      "ratings": {
+        "kobo": {
+          "score": 4.3,
+          "count": 20,
+          "url": "https://www.kobo.com/tw/zh/ebook/CfZ5jpkcjzSpYCp65EIEiA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 9,
+          "url": "https://readmoo.com/book/210211203000101"
+        },
+        "goodreads": {
+          "score": 4.05,
+          "count": 3041,
+          "url": "https://www.goodreads.com/book/show/33004340-millionaire-success-habits?from_search=true&from_srp=true&qid=G8K7mdAb1i&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B07KNSLY8M/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 3059,
+          "url": "https://www.amazon.com/gp/product/B07KNSLY8M/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.33,
+      "short_affiliate_url": "https://reurl.cc/zQmE5e"
+    },
+    {
+      "title": "高手的法則：向68位橫跨長期投資、價值投資、成長型投資到短線交易領域的金融界傳奇大師，學習投資原則與禁忌清單",
+      "author": "克里斯多福．派克",
+      "original_title": "Harriman's New Book of Investing Rules",
+      "isbn": "9786269506828",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/l_FsPHnsKjSnIwon9PlgDg",
+      "kobo_price": "NT$333",
+      "cover_url": "covers/l_FsPHnsKjSnIwon9PlgDg.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "安東尼．波頓、約翰．柏格、喬納森．克雷蒙、肯恩．費雪、韋斯利．格雷、凡恩．沙普……全球最頂尖的68位投資巨擘大集結！【英美各投資領域高手的必做與不做的原則 大公開】從美國華爾街到英國西敏區，從價值投資、指數投資到短線交易，從基金經理人到專職投資人，這些現代投資領域最偉大、最具洞察力的基金經理和私人投資者們，分享他們連續30年以驚人報酬率跑贏市場的實用箴言與智慧。",
+      "publish_date": "2021年9月8日",
+      "ratings": {
+        "kobo": {
+          "score": 2.8,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/l_FsPHnsKjSnIwon9PlgDg"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 3.6,
+          "count": 11,
+          "url": "https://readmoo.com/book/210195249000101"
+        },
+        "goodreads": {
+          "score": 3.92,
+          "count": 36,
+          "url": "https://www.goodreads.com/book/show/36510849-harriman-s-new-book-of-investing-rules?from_search=true&from_srp=true&qid=ZLRp0Mqj6o&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B076Y6R2SZ/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 49,
+          "url": "https://www.amazon.com/gp/product/B076Y6R2SZ/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.97,
+      "short_affiliate_url": "https://reurl.cc/xWzA3E"
+    },
+    {
+      "title": "養成有錢體質",
+      "author": "橫山光昭",
+      "original_title": "",
+      "isbn": "9789865548926",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/f9StzQmHWDWdHwCV8xZoiA",
+      "kobo_price": "NT$208",
+      "cover_url": "covers/f9StzQmHWDWdHwCV8xZoiA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "根據人力銀行最新統計，臺灣39歲以下族群， 個人名下總存款，平均只有13.3萬元， ◎住公司附近，省通勤費但房租高；跟上班通勤但住家遠，你怎麼選？◎投資自己很重要，所以買了健身課程、高爾夫球課……其實這些最容易浪費錢。",
+      "publish_date": "2021年4月27日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/f9StzQmHWDWdHwCV8xZoiA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 35,
+          "url": "https://readmoo.com/book/210179108000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.26,
+      "short_affiliate_url": "https://reurl.cc/8e189o"
+    },
+    {
+      "title": "灰階思考",
+      "author": "謝孟恭",
+      "original_title": "",
+      "isbn": "9789865251208",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6qH-2GVPZTOvvptgjM-UsA",
+      "kobo_price": "NT$282",
+      "cover_url": "covers/6qH-2GVPZTOvvptgjM-UsA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "獨家收錄-《股癌》謝孟恭致電子書讀者的一段超直白音檔 黑白之間都是灰，找到無限價值的所在。Podcast冠軍節目股癌製作人謝孟恭首本力作！",
+      "publish_date": "2021年4月20日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/6qH-2GVPZTOvvptgjM-UsA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 1263,
+          "url": "https://readmoo.com/book/210177050000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.6,
+      "short_affiliate_url": "https://reurl.cc/aX6AxG"
+    },
+    {
+      "title": "賺錢，更賺自由的FIRE理財族",
+      "author": "史考特．瑞肯斯（Scott Rieckens）",
+      "original_title": "",
+      "isbn": "7079865071134",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fire-131",
+      "kobo_price": "NT$214",
+      "cover_url": "covers/fire-131.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "日日為五斗米折腰，何時才能財務自由、不被工作綁住？多數人以為必須先存到千萬，才能退休， 但有一群人，有些甚至是低薪、負債、零存款、打零工…… 三、四十歲就能不為工作而活，擁有被動收入和時間，還在全球掀起一股風潮， FIRE**運動推手錢鬍子先生（Mr. Money Moustache）專文推薦 《財務自由，提早過你真正想過的生活》、《**跟錢好好相處》作者大力推薦！",
+      "publish_date": "2020年4月30日",
+      "ratings": {
+        "kobo": {
+          "score": 4.04,
+          "count": 120,
+          "url": "https://www.kobo.com/tw/zh/ebook/fire-131"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.1,
+          "count": 152,
+          "url": "https://readmoo.com/book/210141575000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.07,
+      "short_affiliate_url": "https://reurl.cc/kpGgoq"
+    },
+    {
+      "title": "小島經濟學：關於魚(金錢)、漁網(資本)、儲蓄及借貸的經濟寓言 【插畫圖解珍藏版】",
+      "author": "彼得．希夫",
+      "original_title": "",
+      "isbn": "6779576580949",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2-oXbpcTlDCtCvRLiBYUAA",
+      "kobo_price": "NT$250",
+      "cover_url": "covers/2-oXbpcTlDCtCvRLiBYUAA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "懂一點經濟學，是掌控人生的武器！在重要的時刻，讓思維邏輯有更高的格局，做出更好的選擇。",
+      "publish_date": "2018年12月7日",
+      "ratings": {
+        "kobo": {
+          "score": 4.35,
+          "count": 40,
+          "url": "https://www.kobo.com/tw/zh/ebook/2-oXbpcTlDCtCvRLiBYUAA"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 6,
+          "url": "https://www.books.com.tw/products/0010806106"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 147,
+          "url": "https://readmoo.com/book/210101383000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.55,
+      "short_affiliate_url": "https://reurl.cc/lp3AYv"
+    },
+    {
+      "title": "窮查理的智慧語錄",
+      "author": "謝樹寬",
+      "original_title": "Tao of Charlie Munger",
+      "isbn": "3090000030037",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/q_SfCc-aVTqD2qOeRKnF5w",
+      "kobo_price": "NT$255",
+      "cover_url": "covers/q_SfCc-aVTqD2qOeRKnF5w.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "人們崇拜巴菲特，巴菲特崇拜查理．蒙格！查理‧蒙格是波克夏公司能活躍迄今的建築師......波克夏是根據查理的製定的藍圖來建構，我的角色只是一個總承包商罷了。",
+      "publish_date": "2018年7月1日",
+      "ratings": {
+        "kobo": {
+          "score": 4.64,
+          "count": 11,
+          "url": "https://www.kobo.com/tw/zh/ebook/q_SfCc-aVTqD2qOeRKnF5w"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0010790271"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 27,
+          "url": "https://readmoo.com/book/210094218000101"
+        },
+        "goodreads": {
+          "score": 4.11,
+          "count": 2512,
+          "url": "https://www.goodreads.com/book/show/29868590-tao-of-charlie-munger?from_search=true&from_srp=true&qid=BC7nwxHg1f&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B01E4BC1EI/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 792,
+          "url": "https://www.amazon.com/gp/product/B01E4BC1EI/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.21,
+      "short_affiliate_url": "https://reurl.cc/7E6mVk"
+    },
+    {
+      "title": "跟華爾街之狼學銷售",
+      "author": "喬登‧貝爾福",
+      "original_title": "",
+      "isbn": "3150000000428",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Qa3bZ9-eCTiX2yo0e0rYLA",
+      "kobo_price": "NT$231",
+      "cover_url": "covers/Qa3bZ9-eCTiX2yo0e0rYLA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "《華爾街之狼》幕後祕密大公開獨創「直線銷售說服系統」，本尊手把手指點「把這支筆賣給我！」——教你精通狼的說服力之道 3量表 X 5要素 X 10法則掌握獨門「直線銷售說服法」的精華絕招，不論銷售、談判、交涉、日常溝通，發揮你的影響力，讓任何人全都心甘情願去做任何事，創造財富，成就人生。",
+      "publish_date": "2018年1月3日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Qa3bZ9-eCTiX2yo0e0rYLA"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0010984749"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 35,
+          "url": "https://readmoo.com/book/210089442000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
+          "amazon_url": "",
+          "confidence": 0,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.5,
+      "short_affiliate_url": "https://reurl.cc/yOxGA6"
+    },
+    {
+      "title": "投資最重要的事：一本股神巴菲特讀了兩遍的書",
+      "author": "霍華．馬克斯",
+      "original_title": "The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor",
+      "isbn": "3209869422642",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/nSRxSjjyhjavzfnJTENJXA",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/nSRxSjjyhjavzfnJTENJXA.jpg",
+      "sale_price": "單本85折至7/31止",
+      "sale_end": "",
+      "description": "華爾街日報：他的備忘錄，媲美波克夏的股東大會。價值投資者必讀經典—霍華•馬克斯20項投資法則 傳奇大師精鍊投資最重要的事，加值4位頂尖投資專家評注筆記，無論入門者或是老手，都能從大師洞見中找出自己的致勝方法！",
+      "publish_date": "2017年2月23日",
+      "ratings": {
+        "kobo": {
+          "score": 4.46,
+          "count": 405,
+          "url": "https://www.kobo.com/tw/zh/ebook/nSRxSjjyhjavzfnJTENJXA"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 52,
+          "url": "https://www.books.com.tw/products/0010744933"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 825,
+          "url": "https://readmoo.com/book/210102074000101"
+        },
+        "goodreads": {
+          "score": 4.32,
+          "count": 16907,
+          "url": "https://www.goodreads.com/book/show/19045588-the-most-important-thing-illuminated?from_search=true&from_srp=true&qid=KI8FWplEhH&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B007SWH6OQ/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 1768,
+          "url": "https://www.amazon.com/gp/product/B007SWH6OQ/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.36,
+      "short_affiliate_url": "https://reurl.cc/ppQAYr"
     }
   ]
 }

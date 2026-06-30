@@ -507,7 +507,14 @@ function render() {
     if (sort === "readmoo")   return (b.ratings?.readmoo?.score    ?? 0) - (a.ratings?.readmoo?.score    ?? 0);
     if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
     if (sort === "saving")    return saving(b) - saving(a);
-    if (sort === "avg")       return (b.avg_score ?? 0) - (a.avg_score ?? 0);
+    if (sort === "avg") {
+      const _bayesian = x => {
+        if (!x.avg_score) return 0;
+        const cnt = Object.values(x.ratings || {}).reduce((s, r) => s + (r?.count || 0), 0);
+        return (30 * 4.2 + cnt * x.avg_score) / (30 + cnt);
+      };
+      return _bayesian(b) - _bayesian(a);
+    }
     if (sort === "expiry") {
       const da = daysLeft(a.sale_end), db = daysLeft(b.sale_end);
       const va = (da === null || da < 0) ? 99999 : da;
@@ -738,6 +745,8 @@ loadData();
     if (!res.ok) return;
     const themes = await res.json();
     for (const t of themes) {
+      const _today = Intl.DateTimeFormat('sv', {timeZone:'Asia/Taipei'}).format(new Date());
+      if (t.hidden || (t.hide_after && t.hide_after < _today)) continue;
       const a = document.createElement('a');
       a.href = 'exclusive.html?file=' + encodeURIComponent(t.file);
       const m = t.label.match(/【([^】]{1,20})】/);
