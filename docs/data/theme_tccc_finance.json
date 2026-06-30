@@ -445,21 +445,21 @@
           "url": "https://readmoo.com/book/210288698000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 3.89,
+          "count": 39708,
+          "url": "https://www.goodreads.com/book/show/52950915-die-with-zero",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.4,
+          "count": 9122,
+          "url": "https://a.co/d/05xmlJ4N"
         }
       },
-      "avg_score": 4.37,
+      "avg_score": 3.99,
       "short_affiliate_url": "https://reurl.cc/N2z9bm"
     },
     {
@@ -619,9 +619,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/8Uy5TeoHQz254c7ejd49hg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 14,
+          "url": "https://www.books.com.tw/products/0010997086"
         },
         "readmoo": {
           "score": 4.4,
@@ -643,7 +643,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.44,
+      "avg_score": 4.57,
       "short_affiliate_url": "https://reurl.cc/9Wga68"
     },
     {
@@ -665,9 +665,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/GE3nxQy4PDyrENfEzJAh-A"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 79,
+          "url": "https://www.books.com.tw/products/0010996040?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0010996040"
         },
         "readmoo": {
           "score": 4.8,
@@ -689,7 +689,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.73,
+      "avg_score": 4.77,
       "short_affiliate_url": "https://reurl.cc/GaMO53"
     },
     {
@@ -711,9 +711,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/2jGdKHW4aTey_trVmTrIow"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0010993818"
         },
         "readmoo": {
           "score": 4.5,
@@ -735,7 +735,7 @@
           "url": "https://www.amazon.com/gp/product/B008N9IOX0/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.01,
+      "avg_score": 4.02,
       "short_affiliate_url": "https://reurl.cc/epjAGR"
     },
     {
@@ -803,9 +803,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/DOH0CG7cnD6XwGfTm8yCIg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 31,
+          "url": "https://www.books.com.tw/products/0010980562"
         },
         "readmoo": {
           "score": 4.7,
@@ -849,9 +849,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/2QJRhjC0bDuDeRFYyAsnnQ"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.0,
+          "count": 12,
+          "url": "https://www.books.com.tw/products/0010986656"
         },
         "readmoo": {
           "score": 4.5,
@@ -873,7 +873,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.48,
+      "avg_score": 4.42,
       "short_affiliate_url": "https://reurl.cc/Q28x50"
     },
     {
@@ -895,9 +895,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/etf-20"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 36,
+          "url": "https://www.books.com.tw/products/0010953374"
         },
         "readmoo": {
           "score": 4.8,
@@ -919,7 +919,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.72,
+      "avg_score": 4.69,
       "short_affiliate_url": "https://reurl.cc/M2nV6n"
     },
     {
@@ -987,9 +987,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/V1hRN6TkYj6K5p9PnIhShg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0011052853"
         },
         "readmoo": {
           "score": 4.8,
@@ -1011,7 +1011,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.8,
+      "avg_score": 4.84,
       "short_affiliate_url": "https://reurl.cc/R2amYn"
     },
     {
@@ -1258,8 +1258,8 @@
       "publish_date": "2023年4月28日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 4.7,
+          "count": 55,
           "url": "https://www.kobo.com/tw/zh/ebook/0JvbxJQqATKBEU6vj3nUKA"
         },
         "books_com": {
@@ -3133,7 +3133,7 @@
     {
       "title": "賺錢，更賺自由的FIRE理財族",
       "author": "史考特．瑞肯斯（Scott Rieckens）",
-      "original_title": "",
+      "original_title": "Playing with FIRE",
       "isbn": "7079865071134",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/fire-131",
       "kobo_price": "NT$214",
@@ -3159,21 +3159,21 @@
           "url": "https://readmoo.com/book/210141575000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 3.75,
+          "count": 3690,
+          "url": "https://www.goodreads.com/book/show/41732254-playing-with-fire-financial-independence-retire-early",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 913,
+          "url": "https://a.co/d/031PQTgx"
         }
       },
-      "avg_score": 4.07,
+      "avg_score": 3.91,
       "short_affiliate_url": "https://reurl.cc/kpGgoq"
     },
     {
