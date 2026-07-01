@@ -511,7 +511,7 @@ function render() {
       const _bayesian = x => {
         if (!x.avg_score) return 0;
         const cnt = Object.values(x.ratings || {}).reduce((s, r) => s + (r?.count || 0), 0);
-        return (30 * 4.2 + cnt * x.avg_score) / (30 + cnt);
+        return (50 * 4.1 + cnt * x.avg_score) / (50 + cnt);
       };
       return _bayesian(b) - _bayesian(a);
     }
