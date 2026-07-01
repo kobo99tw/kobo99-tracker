@@ -529,7 +529,7 @@
         "books_com": {
           "score": 4.5,
           "count": 6,
-          "url": "https://www.books.com.tw/products/0011045606"
+          "url": "https://www.books.com.tw/products/E050318856"
         },
         "readmoo": {
           "score": 4.8,
@@ -573,8 +573,8 @@
           "url": "https://www.kobo.com/tw/zh/ebook/MFwx2bFQMjSv11xATl_s5w"
         },
         "books_com": {
-          "score": 4.0,
-          "count": 12,
+          "score": null,
+          "count": 0,
           "url": "https://www.books.com.tw/products/0011042966"
         },
         "readmoo": {
@@ -597,7 +597,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.08,
+      "avg_score": 4.12,
       "short_affiliate_url": "https://reurl.cc/V2yl0b"
     },
     {
@@ -619,9 +619,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/8Uy5TeoHQz254c7ejd49hg"
         },
         "books_com": {
-          "score": 5.0,
-          "count": 14,
-          "url": "https://www.books.com.tw/products/0010997086"
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "readmoo": {
           "score": 4.4,
@@ -643,7 +643,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.57,
+      "avg_score": 4.44,
       "short_affiliate_url": "https://reurl.cc/9Wga68"
     },
     {
@@ -1339,7 +1339,7 @@
     {
       "title": "小狗錢錢2：全球暢銷500萬冊！德國版《富爸爸，窮爸爸》續集",
       "author": "博多．薛弗",
-      "original_title": "",
+      "original_title": "Ein Hund namens Money 2",
       "isbn": "9786263610613",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/jov1IwrMTT2XYrl3DxXdIg",
       "kobo_price": "NT$235",
@@ -1365,21 +1365,21 @@
           "url": "https://readmoo.com/book/210269147000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 4.29,
+          "count": 229,
+          "url": "https://www.goodreads.com/book/show/48647981-2",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.8,
+          "count": 26,
+          "url": "https://a.co/d/08MNsDvV"
         }
       },
-      "avg_score": 4.6,
+      "avg_score": 4.39,
       "short_affiliate_url": "https://reurl.cc/kpGgnq"
     },
     {
@@ -1539,9 +1539,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/275300-etf"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0011025466"
         },
         "readmoo": {
           "score": 4.3,
@@ -1563,7 +1563,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.23,
+      "avg_score": 4.37,
       "short_affiliate_url": "https://reurl.cc/vE9AQa"
     },
     {
@@ -1585,9 +1585,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/xSzwPOoPHT6zp5r9zgceTg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 8,
+          "url": "https://www.books.com.tw/products/0011031224"
         },
         "readmoo": {
           "score": 4.4,
@@ -1604,12 +1604,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.6,
+          "count": 1693,
+          "url": "https://a.co/d/0hsIQUrM"
         }
       },
-      "avg_score": 4.24,
+      "avg_score": 4.45,
       "short_affiliate_url": "https://reurl.cc/Z2Yv4V"
     },
     {
@@ -1937,7 +1937,7 @@
     {
       "title": "致富習慣：改變10個生活小細節帶來巨大財富",
       "author": "史蒂夫•艾德卡克（Steve Adcock）",
-      "original_title": "",
+      "original_title": "Millionaire Habits: How to Achieve Financial Independence, Retire Early, and Make a Difference by Focusing on Yourself First",
       "isbn": "9786269857456",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/FDQEq4GWLDO9nyPy9OT2Eg",
       "kobo_price": "NT$268",
@@ -1963,21 +1963,21 @@
           "url": "https://readmoo.com/book/210334426000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 3.7,
+          "count": 71,
+          "url": "https://www.goodreads.com/book/show/159273390-millionaire-habits",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.4,
+          "count": 37,
+          "url": "https://a.co/d/007WWi0S"
         }
       },
-      "avg_score": 4.35,
+      "avg_score": 4.0,
       "short_affiliate_url": "https://reurl.cc/grL1Rp"
     },
     {
@@ -2137,8 +2137,8 @@
           "url": "https://www.kobo.com/tw/zh/ebook/vlUqwsCyaTe2_3_Z8Phg8g"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
+          "score": 4.5,
+          "count": 2,
           "url": "https://www.books.com.tw/products/0010976346"
         },
         "readmoo": {
@@ -2413,9 +2413,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/dx_Yh0L3ej2jUqfMQI-66A"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 31,
+          "url": "https://www.books.com.tw/products/0010961028"
         },
         "readmoo": {
           "score": 3.1,
@@ -2437,7 +2437,7 @@
           "url": ""
         }
       },
-      "avg_score": 3.15,
+      "avg_score": 4.52,
       "short_affiliate_url": "https://reurl.cc/GaMOn3"
     },
     {
@@ -2489,7 +2489,7 @@
     {
       "title": "小狗錢錢：全球暢銷500萬冊！德國版《富爸爸，窮爸爸》",
       "author": "博多．薛弗",
-      "original_title": "",
+      "original_title": "Ein Hund namens Money",
       "isbn": "9786263610606",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/8W6KgBegBj6sQVRWyIaeEg",
       "kobo_price": "NT$235",
@@ -2505,9 +2505,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/8W6KgBegBj6sQVRWyIaeEg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 10,
+          "url": "https://www.books.com.tw/products/E050156320"
         },
         "readmoo": {
           "score": 4.8,
@@ -2515,21 +2515,21 @@
           "url": "https://readmoo.com/book/210269146000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 4.46,
+          "count": 2771,
+          "url": "https://www.goodreads.com/book/show/45727467-ein-hund-namens-money",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.8,
+          "count": 596,
+          "url": "https://a.co/d/00rOVZdV"
         }
       },
-      "avg_score": 4.8,
+      "avg_score": 4.54,
       "short_affiliate_url": "https://reurl.cc/epjAMR"
     },
     {
@@ -2597,9 +2597,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/Gf3hYQ7bPzCaYc6mmJmHCw"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0010947196"
         },
         "readmoo": {
           "score": 4.8,
@@ -2621,7 +2621,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.61,
+      "avg_score": 4.69,
       "short_affiliate_url": "https://reurl.cc/O6xnY9"
     },
     {
@@ -2643,9 +2643,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/euu2RSTqBjC-KXOJDQSSFA"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 3.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0010942942"
         },
         "readmoo": {
           "score": 4.8,
@@ -2673,7 +2673,7 @@
     {
       "title": "洛克菲勒談賺錢：美國史上第一位億萬富豪的致富語錄與書信【中英對照】",
       "author": "約翰．D．洛克菲勒 (John D. Rockefeller)",
-      "original_title": "",
+      "original_title": "John D. Rockefeller on Making Money: Advice and Words of Wisdom on Building and Sharing Wealth",
       "isbn": "9786267079546",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/3dbAvDp6cTaLr3WFHp8owQ",
       "kobo_price": "NT$179",
@@ -2699,21 +2699,21 @@
           "url": "https://readmoo.com/book/210244996000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 3.34,
+          "count": 159,
+          "url": "https://www.goodreads.com/book/show/22750219-john-d-rockefeller-on-making-money",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.1,
+          "count": 281,
+          "url": "https://a.co/d/0cvYPDDK"
         }
       },
-      "avg_score": 4.92,
+      "avg_score": 3.86,
       "short_affiliate_url": "https://reurl.cc/M2nV3n"
     },
     {
@@ -2765,7 +2765,7 @@
     {
       "title": "富爸爸，窮爸爸【25週年紀念版】",
       "author": "羅勃特‧T‧清崎 （Robert T. Kiyosaki）",
-      "original_title": "",
+      "original_title": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money—That the Poor and Middle Class Do Not!",
       "isbn": "9789865064372",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/BVf2bwVFCjCULorY1eQp7w",
       "kobo_price": "NT$250",
@@ -2791,21 +2791,21 @@
           "url": "https://readmoo.com/book/210234205000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 4.09,
+          "count": 750281,
+          "url": "https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.6,
+          "count": 24035,
+          "url": "https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad"
         }
       },
-      "avg_score": 4.67,
+      "avg_score": 4.11,
       "short_affiliate_url": "https://reurl.cc/R2amkn"
     },
     {
@@ -2827,9 +2827,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/Utp-DQSYmzWdghgn-hy5WQ"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 8,
+          "url": "https://www.books.com.tw/products/0010924781"
         },
         "readmoo": {
           "score": 4.5,
@@ -2851,7 +2851,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.36,
+      "avg_score": 4.4,
       "short_affiliate_url": "https://reurl.cc/qpM6YD"
     },
     {
@@ -3090,7 +3090,7 @@
       "original_title": "",
       "isbn": "9789865251208",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/6qH-2GVPZTOvvptgjM-UsA",
-      "kobo_price": "NT$282",
+      "kobo_price": "NT$255",
       "cover_url": "covers/6qH-2GVPZTOvvptgjM-UsA.jpg",
       "sale_price": "單本85折至7/31止",
       "sale_end": "",
@@ -3098,14 +3098,14 @@
       "publish_date": "2021年4月20日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 4.56,
+          "count": 433,
           "url": "https://www.kobo.com/tw/zh/ebook/6qH-2GVPZTOvvptgjM-UsA"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.0,
+          "count": 55,
+          "url": "https://www.books.com.tw/products/E050090435"
         },
         "readmoo": {
           "score": 4.6,
@@ -3113,9 +3113,9 @@
           "url": "https://readmoo.com/book/210177050000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 4.19,
+          "count": 154,
+          "url": "https://www.goodreads.com/book/show/58267589?from_search=true&from_srp=true&qid=idiHUU33zR&rank=1",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
@@ -3127,7 +3127,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.6,
+      "avg_score": 4.54,
       "short_affiliate_url": "https://reurl.cc/aX6AxG"
     },
     {
@@ -3149,9 +3149,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/fire-131"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 35,
+          "url": "https://www.books.com.tw/products/0010855945"
         },
         "readmoo": {
           "score": 4.1,
@@ -3271,7 +3271,7 @@
     {
       "title": "跟華爾街之狼學銷售",
       "author": "喬登‧貝爾福",
-      "original_title": "",
+      "original_title": "Way of the Wolf: Become a Master Closer with Straight Line Selling",
       "isbn": "3150000000428",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Qa3bZ9-eCTiX2yo0e0rYLA",
       "kobo_price": "NT$231",
@@ -3297,21 +3297,21 @@
           "url": "https://readmoo.com/book/210089442000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 3.94,
+          "count": 10030,
+          "url": "https://www.goodreads.com/book/show/32920300-way-of-the-wolf",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.7,
+          "count": 8792,
+          "url": "https://a.co/d/07PeNJ2F"
         }
       },
-      "avg_score": 4.5,
+      "avg_score": 4.3,
       "short_affiliate_url": "https://reurl.cc/yOxGA6"
     },
     {
