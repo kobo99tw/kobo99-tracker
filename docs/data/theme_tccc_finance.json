@@ -3205,21 +3205,21 @@
           "url": "https://readmoo.com/book/210101383000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 4.15,
+          "count": 5393,
+          "url": "https://www.goodreads.com/book/show/7048818-how-an-economy-grows-and-why-it-crashes",
           "note": "",
           "amazon_url": "",
           "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.7,
+          "count": 1377,
+          "url": "https://www.goodreads.com/book/show/7048818-how-an-economy-grows-and-why-it-crashes"
         }
       },
-      "avg_score": 4.55,
+      "avg_score": 4.27,
       "short_affiliate_url": "https://reurl.cc/lp3AYv"
     },
     {
