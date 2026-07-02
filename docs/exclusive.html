@@ -98,6 +98,8 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .toolbar{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;padding:.5rem 1.25rem;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:38px;z-index:10}
 .toolbar label{font-size:.82rem;color:var(--ink2);white-space:nowrap}
 .toolbar select{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink);cursor:pointer}
+.toolbar input.search-input{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink);width:9rem}
+.toolbar input.search-input::placeholder{color:var(--ink3)}
 .stat-chips{margin-left:auto;display:flex;gap:.4rem;flex-wrap:wrap}
 .chip{font-size:.7rem;padding:.18rem .6rem;border-radius:20px;border:1px solid var(--line);color:var(--ink2);background:var(--cream);white-space:nowrap}
 .chip b{color:var(--ink)}
@@ -288,6 +290,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
     <option value="goodreads">Goodreads ↓</option>
   </select>
   <button id="filterSavedBtn" class="filter-btn" onclick="toggleFilterSaved()">🔖 只看收藏</button>
+  <input type="text" id="searchInput" class="search-input" placeholder="🔍 搜尋書名或作者" oninput="onSearchInput()" style="display:none">
   <div class="stat-chips" id="chips"></div>
 </div>
 
@@ -410,6 +413,11 @@ function ratingRow(srcKey, obj) {
 const LS_SAVED = 'kobo99exc_saved';
 const LS_READ  = 'kobo99exc_read';
 let filterSaved = false;
+let searchQuery = '';
+function onSearchInput() {
+  searchQuery = document.getElementById('searchInput').value.trim().toLowerCase();
+  render();
+}
 
 function getSet(key) {
   try { return new Set(JSON.parse(localStorage.getItem(key) || '[]')); }
@@ -503,6 +511,15 @@ function render() {
   let books = [...DATA.books];
   if (filterSaved) books = books.filter(b => saved.has(b.isbn));
 
+  const searchBox = document.getElementById('searchInput');
+  searchBox.style.display = DATA.books.length > 15 ? '' : 'none';
+  if (searchQuery) {
+    books = books.filter(b =>
+      (b.title || '').toLowerCase().includes(searchQuery) ||
+      (b.author || '').toLowerCase().includes(searchQuery)
+    );
+  }
+
   books.sort((a, b) => {
     if (sort === "readmoo")   return (b.ratings?.readmoo?.score    ?? 0) - (a.ratings?.readmoo?.score    ?? 0);
     if (sort === "goodreads") return (b.ratings?.goodreads?.score  ?? 0) - (a.ratings?.goodreads?.score  ?? 0);
@@ -536,8 +553,9 @@ function render() {
   `;
 
   if (!books.length) {
-    document.getElementById("grid").innerHTML =
-      `<div class="empty">📭 目前沒有書單資料</div>`;
+    document.getElementById("grid").innerHTML = searchQuery
+      ? `<div class="empty">🔍 找不到符合「${esc(searchQuery)}」的書</div>`
+      : `<div class="empty">📭 目前沒有書單資料</div>`;
     return;
   }
 
