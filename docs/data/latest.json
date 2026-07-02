@@ -100,19 +100,19 @@
         "goodreads": {
           "score": 4.12,
           "count": 7429,
-          "url": "https://www.goodreads.com/book/show/216638958-amazon-12?from_search=true&from_srp=true&qid=j9DvStHH3i&rank=1",
+          "url": "https://www.goodreads.com/book/show/65215677-exit-interview",
           "note": "zh-title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0DCJY2RJ9/ref=x_gr_bb_kindle",
           "confidence": 75,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.0,
-          "count": 5,
-          "url": "https://www.amazon.com/gp/product/B0DCJY2RJ9/ref=x_gr_bb_kindle"
+          "score": 4.5,
+          "count": 761,
+          "url": "https://a.co/d/0iBJaRD8"
         }
       },
-      "avg_score": 4.13,
+      "avg_score": 4.16,
       "short_affiliate_url": "https://reurl.cc/M2Yvjv"
     },
     {
