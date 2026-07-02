@@ -7,83 +7,85 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-SUMMARY:《美好人生》
-DESCRIPTION:特價 NT$99｜原價 NT$250｜4.2分\nhttps://reurl.cc/grKjV4\
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:《正念之身：覺察當下，活出健康》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜4.0分\nhttps://reurl.cc/npQzml\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/grKjV4
-UID:kobo99-2026-w26-01@kobo99-tracker
-DTSTAMP:20260625T152926Z
+URL:https://reurl.cc/npQzml
+UID:kobo99-2026-w27-01@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:《解決問題的人》
-DESCRIPTION:特價 NT$99｜原價 NT$365｜4.3分\nhttps://reurl.cc/K2Nn7e\
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:《我在Amazon上班，需要紅酒與心理師：贏了面子卻
+ 輸了靈魂的12年》
+DESCRIPTION:特價 NT$99｜原價 NT$364｜4.1分\nhttps://reurl.cc/M2Yvjv\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/K2Nn7e
-UID:kobo99-2026-w26-04@kobo99-tracker
-DTSTAMP:20260625T152926Z
+URL:https://reurl.cc/M2Yvjv
+UID:kobo99-2026-w27-02@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:《没有个性的人》
-DESCRIPTION:特價 NT$99｜原價 NT$1976｜4.2分\nhttps://reurl.cc/j6Ljzy
- \n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/j6Ljzy
-UID:kobo99-2026-w26-05@kobo99-tracker
-DTSTAMP:20260625T152926Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:《气味之城》
+DESCRIPTION:特價 NT$99｜原價 NT$267\nhttps://reurl.cc/R2K4e6\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/R2K4e6
+UID:kobo99-2026-w27-03@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:《伊甸園東》
-DESCRIPTION:特價 NT$99｜原價 NT$520｜4.5分\nhttps://reurl.cc/ovWokV\
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:《春琴抄》
+DESCRIPTION:特價 NT$99｜原價 NT$245｜4.0分\nhttps://reurl.cc/qp9dvg\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/ovWokV
-UID:kobo99-2026-w26-06@kobo99-tracker
-DTSTAMP:20260625T152926Z
+URL:https://reurl.cc/qp9dvg
+UID:kobo99-2026-w27-04@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:《世界冠軍紙飛機》
-DESCRIPTION:特價 NT$99｜原價 NT$280｜4.5分\nhttps://reurl.cc/L2Rzya\
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:《左撇子的隱形優勢》
+DESCRIPTION:特價 NT$99｜原價 NT$224｜4.0分\nhttps://reurl.cc/9WdE3O\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/L2Rzya
-UID:kobo99-2026-w26-07@kobo99-tracker
-DTSTAMP:20260625T152926Z
+URL:https://reurl.cc/9WdE3O
+UID:kobo99-2026-w27-05@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-SUMMARY:《我們想要什麼？》
-DESCRIPTION:特價 NT$99｜原價 NT$336｜3.9分\nhttps://reurl.cc/DxGQzO\
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:《劉博仁不藏私的健腦祕密》
+DESCRIPTION:特價 NT$99｜原價 NT$280｜4.9分\nhttps://reurl.cc/npQzv1\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/DxGQzO
-UID:kobo99-2026-w26-08@kobo99-tracker
-DTSTAMP:20260625T152926Z
+URL:https://reurl.cc/npQzv1
+UID:kobo99-2026-w27-06@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-SUMMARY:《查泰萊夫人的情人》
-DESCRIPTION:特價 NT$99｜原價 NT$300｜3.5分\nhttps://reurl.cc/X27Y1a\
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:《你就是困住自己的那座山》
+DESCRIPTION:特價 NT$99｜原價 NT$280｜4.2分\nhttps://reurl.cc/zQ28DN\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/X27Y1a
-UID:kobo99-2026-w26-09@kobo99-tracker
-DTSTAMP:20260625T152926Z
+URL:https://reurl.cc/zQ28DN
+UID:kobo99-2026-w27-07@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260702
-SUMMARY:《萬事皆美好》
-DESCRIPTION:特價 NT$99｜原價 NT$184｜3.3分\nhttps://reurl.cc/bd0jQd\
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:《呂昇達 職人手作貝果全書——6種麵糰、8款造型
+ 、8款手作抺醬：一次學會65種職人技法一次到位》
+DESCRIPTION:特價 NT$99｜原價 NT$363｜4.4分\nhttps://reurl.cc/xWYZv1\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/bd0jQd
-UID:kobo99-2026-w26-10@kobo99-tracker
-DTSTAMP:20260625T152926Z
+URL:https://reurl.cc/xWYZv1
+UID:kobo99-2026-w27-08@kobo99-tracker
+DTSTAMP:20260702T010959Z
 END:VEVENT
 END:VCALENDAR
