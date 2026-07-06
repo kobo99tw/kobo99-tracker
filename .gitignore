@@ -6,15 +6,9 @@ __pycache__/
 .Python
 *.egg-info/
 
-# 爬蟲 debug
-scraper/debug_*.html
-
 # 環境變數
 .env
 .env.*
-
-# 本機測試
-scraper/test_*.py
 
 # 系統
 .DS_Store
@@ -44,11 +38,9 @@ docs/data/*-prev.json
 docs/data/corrections.json
 docs/data/theme_*-20*.json
 
-# 本機開發工具（不上傳）
-scraper/preview.py
-scraper/run_local.py
-scraper/scrape.py
-scraper/requirements.txt
+# 本機開發工具全集（爬蟲程式、輔助腳本，一律不上傳）
+scraper/
+
 report.txt
 run_test.bat
 scrape.py

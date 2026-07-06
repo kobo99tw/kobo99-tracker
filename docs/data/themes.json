@@ -1,5 +1,17 @@
 [
   {
+    "file": "theme_1783301118689.json",
+    "headTitle": "2026 台港上半年熱銷TOP10",
+    "hide_after": "2026-07-31",
+    "key": "theme_1783301118689",
+    "label": "2026 台港上半年熱銷TOP10",
+    "sale": "共 13 本",
+    "subtitle": "7月31日前單本85折",
+    "tabLabel": "台港上半年TOP10",
+    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/r44zUJl6esNEeQje1msZGw",
+    "tabEmoji": "🔥"
+  },
+  {
     "defaultSort": "avg",
     "file": "theme_tccc_finance.json",
     "headTitle": "有底氣的財富人生",
@@ -16,6 +28,7 @@
   {
     "file": "theme_1779353467078.json",
     "headTitle": "本週精選書單",
+    "hidden": true,
     "key": "theme_1779353467078",
     "label": "【6/29-7/5精選書單】",
     "promo_code": "WKSelect0629",
@@ -26,8 +39,7 @@
     "subtitle": "不安不是壞事，而是還沒被理解的好運！",
     "tabEmoji": "✨",
     "tabLabel": "第27週精選",
-    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w27",
-    "hidden": true
+    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w27"
   },
   {
     "defaultSort": "expiry",
