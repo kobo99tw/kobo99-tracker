@@ -6,11 +6,11 @@
     "key": "theme_1783301118689",
     "label": "2026 台港上半年熱銷TOP10",
     "sale": "共 13 本",
+    "seoDesc": "整理 2026 上半年台灣、香港市場熱銷TOP10書單，單本85折優惠至7/31止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購熱門好書。",
     "subtitle": "7月31日前單本85折",
-    "tabLabel": "台港上半年TOP10",
-    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/r44zUJl6esNEeQje1msZGw",
     "tabEmoji": "🔥",
-    "seoDesc": "整理 2026 上半年台灣、香港市場熱銷TOP10書單，單本85折優惠至7/31止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購熱門好書。"
+    "tabLabel": "台港上半年TOP10",
+    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/r44zUJl6esNEeQje1msZGw"
   },
   {
     "defaultSort": "avg",
@@ -29,18 +29,18 @@
   {
     "file": "theme_1779353467078.json",
     "headTitle": "本週精選書單",
-    "hidden": true,
+    "hide_after": "2026-07-12",
     "key": "theme_1779353467078",
-    "label": "【6/29-7/5精選書單】",
-    "promo_code": "WKSelect0629",
-    "promo_period": "6/29-7/5",
-    "sale": "6/29-7/5 結帳折扣碼",
-    "saleNote": "折扣碼：WKSelect0629（6/29-7/5）",
+    "label": "【7/06-7/12精選書單】",
+    "promo_code": "WKSelect0706",
+    "promo_period": "7/06-7/12",
+    "sale": "7/06-7/12 結帳折扣碼",
+    "saleNote": "折扣碼：WKSelect0706（7/06-7/12）",
     "seoDesc": "整理 Kobo 每週精選超人氣書單，可輸入折扣碼享折扣，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，幫你找到心目中的好書。",
-    "subtitle": "不安不是壞事，而是還沒被理解的好運！",
+    "subtitle": "學會不乖，你的人生才算真正開始。",
     "tabEmoji": "✨",
-    "tabLabel": "第27週精選",
-    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w27"
+    "tabLabel": "第28週精選",
+    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w28"
   },
   {
     "defaultSort": "expiry",

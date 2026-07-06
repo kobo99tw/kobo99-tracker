@@ -1,89 +1,181 @@
 {
-  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w27",
-  "updated_at": "2026-06-29T05:25:57.086534+08:00",
+  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w28",
+  "updated_at": "2026-07-06T20:41:46.850426+08:00",
   "books": [
     {
-      "title": "心律不整",
-      "author": "清水涉",
-      "original_title": "",
-      "isbn": "9786267872031",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/CsYTXw_0qjqGQ_As1LjKDA",
-      "kobo_price": "NT$256",
-      "cover_url": "covers/CsYTXw_0qjqGQ_As1LjKDA.jpg",
+      "title": "快樂性感的百萬富翁：Y世代頂尖執行長：關於成功、財富、幸福的反思",
+      "author": "史蒂文．巴列特",
+      "original_title": "Happy Sexy Millionaire: Unexpected Truths about Fulfillment, Love, and Success",
+      "isbn": "9786267873151",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/K65haDKz-jCyGhh5Jbd43w?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$322",
+      "cover_url": "covers/K65haDKz-jCyGhh5Jbd43w.jpg",
       "sale_price": "6/29-7/5 結帳折扣碼",
       "sale_end": "",
-      "description": "當醫師告訴你「心跳不太規則」時，很多人腦中立刻浮現的問題包括：這嚴重嗎？會不會突然猝死？本書以問答方式整理出132個在門診最常被問到的問題，一步步說明不同型態代表的意義，並幫助讀者擺脫模糊的恐懼。",
-      "publish_date": "2026年3月24日",
+      "description": "由 史蒂文．巴列特（Steven Bartlett）＠著",
+      "publish_date": "2026年4月30日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/CsYTXw_0qjqGQ_As1LjKDA"
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/K65haDKz-jCyGhh5Jbd43w?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0011046951"
+          "url": ""
         },
         "readmoo": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://readmoo.com/book/210468827000101"
+          "score": 4.8,
+          "count": 8,
+          "url": "https://readmoo.com/book/210468671000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/6263585145/ref=x_gr_bb_amazon",
-          "confidence": 50,
-          "cross_validated": false
+          "score": 4.11,
+          "count": 6029,
+          "url": "https://www.goodreads.com/book/show/52255414-happy-sexy-millionaire?from_search=true&from_srp=true&qid=WSVXcdptYC&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F3V7TD5Q/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.amazon.com/gp/product/B0F3V7TD5Q/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.5,
-      "short_affiliate_url": "https://reurl.cc/M2rEzp"
+      "avg_score": 4.11,
+      "short_affiliate_url": "https://reurl.cc/Z8alEM"
     },
     {
-      "title": "遊戲淘金攻略",
-      "author": "岩崎啟真",
-      "original_title": "",
-      "isbn": "9786264374446",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ayyesF7yGD2tw_AXA3oKAw?sId=a0f1ae7e-7446-4144-9f8a-f5e45ae3791f&ssId=G2obH_WXcwoXrEY0BB-hx&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$226",
-      "cover_url": "covers/ayyesF7yGD2tw_AXA3oKAw.jpg",
+      "title": "為所有人：WWW之父看到的數位未來",
+      "author": "提姆．伯納斯－李",
+      "original_title": "This Is for Everyone: The Unfinished Story of the World Wide Web",
+      "isbn": "9786264179256",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/www-16?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$351",
+      "cover_url": "covers/www-16.jpg",
       "sale_price": "6/29-7/5 結帳折扣碼",
       "sale_end": "",
-      "description": "載體演進×收益結構×玩家體驗、從開發者視角審視橫跨50年的電玩遊戲史，剖析從商業遊戲到獨立遊戲的產業生態。本書將聚焦在遊戲的商業模式，並同時講述其載體的變化，一同與讀者從雙重角度俯瞰遊戲的歷史。",
+      "description": "WWW之父提姆．伯納斯－李，以我們現在熟知的URL、HTTP等，奠定了全球資訊網的基礎。然而，今日的網路發展卻逐漸偏離他的初衷。透過本書，他將逐步剖析全球資訊網如何誕生、擴張，以及走向失衡！",
+      "publish_date": "2026年5月29日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/www-16?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0011052584"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210475133000101"
+        },
+        "goodreads": {
+          "score": 4.22,
+          "count": 1296,
+          "url": "https://www.goodreads.com/book/show/222376492-this-is-for-everyone?from_search=true&from_srp=true&qid=hwmg9TDD1l&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DQJ5QV88/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 251,
+          "url": "https://www.amazon.com/gp/product/B0DQJ5QV88/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.27,
+      "short_affiliate_url": "https://reurl.cc/Ym7kGn"
+    },
+    {
+      "title": "不乖的勇氣：從今天開始，跟討好別人的自己劃清界線",
+      "author": "蘇妮塔．薩 博士",
+      "original_title": "Defy: The Power of No in a World That Demands Yes",
+      "isbn": "9786267859346",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/A36Tn6hbJzOBS-wKiImn5w?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$306",
+      "cover_url": "covers/A36Tn6hbJzOBS-wKiImn5w.jpg",
+      "sale_price": "6/29-7/5 結帳折扣碼",
+      "sale_end": "",
+      "description": "學會不乖，你的人生才算真正開始。如果你曾為了取悅他人而妥協自己，本書會給你敢於捍衛自己的勇氣和技巧。只要從微小的地方開始練習，你就可以打破束縛、擺脫對他人評價的焦慮，讓人生變得更加自在！",
       "publish_date": "2026年6月1日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ayyesF7yGD2tw_AXA3oKAw?sId=a0f1ae7e-7446-4144-9f8a-f5e45ae3791f&ssId=G2obH_WXcwoXrEY0BB-hx&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
+          "url": "https://www.kobo.com/tw/zh/ebook/A36Tn6hbJzOBS-wKiImn5w?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0011043544"
+          "url": "https://www.books.com.tw/products/0011053176"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210477876000101"
+          "url": "https://readmoo.com/book/210476868000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/249839219-defy?from_search=true&from_srp=true&qid=dKHZ9e6r3E&rank=2",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/7521776143/ref=x_gr_bb_amazon",
+          "confidence": 45,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 220,
+          "url": "https://www.amazon.com/-/zh_TW/Dr-Sunita-Sah-ebook/dp/B0D1QB4H8M/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.6,
+      "short_affiliate_url": "https://reurl.cc/rkdKo4"
+    },
+    {
+      "title": "暫停的力量：在AI時代慢活、重啟、做自己",
+      "author": "林富元",
+      "original_title": "The Power of Pause",
+      "isbn": "9786264444385",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-542?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$226",
+      "cover_url": "covers/ai-542.jpg",
+      "sale_price": "6/29-7/5 結帳折扣碼",
+      "sale_end": "",
+      "description": "暫停，不是為了等下一次出發，而是為了找回那個敢哭敢笑的自己。走過人生低谷，矽谷投資老將用一輩子的輸贏提煉出最硬核的生命智慧。林富元用自己的人生經驗帶你看遍大風大浪，在喧囂與寂靜之間找到最完美的平衡。",
+      "publish_date": "2026年4月17日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/ai-542?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011049169"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210471761000101"
         },
         "goodreads": {
           "score": null,
           "count": 0,
           "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B002MUB7FS/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": null,
@@ -92,357 +184,35 @@
         }
       },
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/N23exk"
+      "short_affiliate_url": "https://reurl.cc/dOzq9g"
     },
     {
-      "title": "最強感謝腦",
-      "author": "樺澤紫苑",
+      "title": "征服危機：前美國特戰司令37年海豹部隊生涯的管理金律，在混亂中掌握情勢的領導智慧",
+      "author": "威廉．麥克雷文",
       "original_title": "",
-      "isbn": "9786267880432",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3q-1?sId=aef76c97-6d23-46db-b997-2865d3b9bc3a&ssId=6cIZ5COlVklHkAdYeOIDf&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/3q-1.jpg",
+      "isbn": "9786263589414",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/HTWHoln3rDKU0G_O-B6FTA?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=7&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$242",
+      "cover_url": "covers/HTWHoln3rDKU0G_O-B6FTA.jpg",
       "sale_price": "6/29-7/5 結帳折扣碼",
       "sale_end": "",
-      "description": "精神科醫師×感謝研究家，聯手公開讓大腦無所不能的祕密，第一本結合科學與實例的「感謝教科書」。讓身體、工作、人際關係全面好轉的關鍵，只要說「謝謝」，多巴胺、血清素立刻爆漲，困擾的頭痛、腰痛，也都通通飛走！",
-      "publish_date": "2026年5月6日",
+      "description": "真正的領導者，不只是順風時的管理者，而是遇上困境與風浪時，依舊沉著指揮的決策者。海豹部隊服役37年的「牛蛙」、刺殺賓拉登「海神之矛」行動核心決策者；麥克雷文上將的10則領導智慧，就是你的保命指南。",
+      "publish_date": "2026年5月29日",
       "ratings": {
         "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/HTWHoln3rDKU0G_O-B6FTA?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=7&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011052180"
+        },
+        "readmoo": {
           "score": 4.0,
           "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/3q-1?sId=aef76c97-6d23-46db-b997-2865d3b9bc3a&ssId=6cIZ5COlVklHkAdYeOIDf&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/0011050857"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210470105000101"
-        },
-        "goodreads": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/251838663?from_search=true&from_srp=true&qid=bAkQ7rPtFX&rank=2",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/6267880389/ref=x_gr_bb_amazon",
-          "confidence": 30,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A8%BA%E6%BE%A4%E7%B4%AB%E8%8B%91-ebook/dp/B0GYRCTZDQ/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/R2AMkx"
-    },
-    {
-      "title": "取捨法則",
-      "author": "艾蜜莉・福克",
-      "original_title": "What We Value: The Neuroscience of Choice and Change",
-      "isbn": "9786267859391",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/u_tyeDdJ0De5v1SD_JF0Ww?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$349",
-      "cover_url": "covers/u_tyeDdJ0De5v1SD_JF0Ww.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "與其思前想後，不如精準用腦！如果你曾好奇，當我們在做決定或試圖改變習慣時，腦袋裡究竟發生了什麼事？本書會帶給你滿滿的洞見與啟發。透過本書的生活化案例，你將學會參透大腦，成為你人生的主導者！",
-      "publish_date": "2026年5月26日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/u_tyeDdJ0De5v1SD_JF0Ww?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/0011052564"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210474815000101"
-        },
-        "goodreads": {
-          "score": 3.61,
-          "count": 481,
-          "url": "https://www.goodreads.com/book/show/213395500-what-we-value?from_search=true&from_srp=true&qid=hKNuB0yU1k&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D8R65BG2/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 63,
-          "url": "https://www.amazon.com/gp/product/B0D8R65BG2/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.7,
-      "short_affiliate_url": "https://reurl.cc/qpyeYy"
-    },
-    {
-      "title": "蘋果之道",
-      "author": "大衛．波格",
-      "original_title": "Apple: The First 50 Years",
-      "isbn": "9786264178303",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lrtUe8LYODqNWvD_4fvHhQ?sId=1cbe6cbc-3b32-462f-8b33-29f19268e753&ssId=3uYVPTuBr9InoDmHfS37B&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$286",
-      "cover_url": "covers/lrtUe8LYODqNWvD_4fvHhQ.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "為什麼有些公司創造產品，蘋果卻能「定義世界」？蘋果創立50週年，首部不設限受訪企業傳記。透過這部最權威的蘋果企業史，將看見科技如何釋放每個人內在的創造能量，讓改變世界不再是少數人的特權。",
-      "publish_date": "2026年3月31日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/lrtUe8LYODqNWvD_4fvHhQ?sId=1cbe6cbc-3b32-462f-8b33-29f19268e753&ssId=3uYVPTuBr9InoDmHfS37B&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 18,
-          "url": "https://www.books.com.tw/products/0011046566"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 11,
-          "url": "https://readmoo.com/book/210457565000101"
-        },
-        "goodreads": {
-          "score": 4.54,
-          "count": 825,
-          "url": "https://www.goodreads.com/book/show/239495879-apple?from_search=true&from_srp=true&qid=RGD2EtVQK6&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FKHF7MWP/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 697,
-          "url": "https://www.amazon.com/gp/product/B0FKHF7MWP/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.62,
-      "short_affiliate_url": "https://reurl.cc/V2KVWy"
-    },
-    {
-      "title": "社恐",
-      "author": "克里斯托夫．安德烈",
-      "original_title": "La Nouvelle Peur des autres: Trac, timidité et phobie sociale",
-      "isbn": "9786263157705",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZOEOBtgvYzuP8TPF3ePczQ?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$274",
-      "cover_url": "covers/ZOEOBtgvYzuP8TPF3ePczQ.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "除了勇敢，還能怎麼克服社交恐懼？法國長銷三十年心理學經典，全面分析社交恐懼成因、心理表現與解決之道。本書將透過實際案例幫助讀者理解社交恐懼的心理與生理機制，並提供數種包含醫學與心理諮商的治療方法。",
-      "publish_date": "2026年4月28日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ZOEOBtgvYzuP8TPF3ePczQ?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011050286"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210469721000101"
-        },
-        "goodreads": {
-          "score": 3.74,
-          "count": 254,
-          "url": "https://www.goodreads.com/book/show/75446882-la-nouvelle-peur-des-autres?from_search=true&from_srp=true&qid=owGN4uUTQx&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BPFBGVP8/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 58,
-          "url": "https://www.amazon.com/gp/product/B0BPFBGVP8/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.84,
-      "short_affiliate_url": "https://reurl.cc/9WM8nd"
-    },
-    {
-      "title": "飛吧，鴻！母親、我與中國",
-      "author": "張戎",
-      "original_title": "Fly, Wild Swans: My Mother, Myself and China",
-      "isbn": "9786264560061",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/-SeSLYnejje-IY03Ed0fPQ?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$333",
-      "cover_url": "covers/-SeSLYnejje-IY03Ed0fPQ.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "《鴻》以其史詩般的家族回憶錄定義了一個世代，透過三代中國女性的真實命運，揭露現代中國的劇變歷程。收錄珍貴照片70幅。此書不僅是一封寫給母親的情書，也是對受難於文化大革名的祖母與父親最深情的致敬。",
-      "publish_date": "2026年5月28日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/-SeSLYnejje-IY03Ed0fPQ?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011050277"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 3.9,
-          "count": 2040,
-          "url": "https://www.goodreads.com/book/show/232055181-fly-wild-swans?from_search=true&from_srp=true&qid=u2e0nnR25Z&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F6JND3L7/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 844,
-          "url": "https://www.amazon.com/gp/product/B0F6JND3L7/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/Ga70GZ"
-    },
-    {
-      "title": "試錯策略",
-      "author": "伊利亞．斯特雷布拉耶夫",
-      "original_title": "The Venture Mindset: How to Make Smarter Bets and Achieve Extraordinary Growth",
-      "isbn": "9786263589117",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/hj1hQM-uiTa5RWMSXGTb5g?sId=0b0f8be9-ec5d-4f45-a400-9004ff188627&ssId=jCNiXZilNMpR4iFFfeTbT&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$306",
-      "cover_url": "covers/hj1hQM-uiTa5RWMSXGTb5g.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "寫給每位領導者的決策說明書，面對未來高度不確定世界的決策哲學：快速篩選、不斷試錯、及時止損，直到找出決策最優解！本書將管理風險的智慧濃縮成9大決策心法，讓你在不確定的世界中仍然精準獲利、正確止損！",
-      "publish_date": "2026年4月3日",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/hj1hQM-uiTa5RWMSXGTb5g?sId=0b0f8be9-ec5d-4f45-a400-9004ff188627&ssId=jCNiXZilNMpR4iFFfeTbT&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": 2.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011047300"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210460431000101"
-        },
-        "goodreads": {
-          "score": 4.19,
-          "count": 453,
-          "url": "https://www.goodreads.com/book/show/197536564-the-venture-mindset",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 271,
-          "url": "https://a.co/d/0dWM4mL9"
-        }
-      },
-      "avg_score": 4.38,
-      "short_affiliate_url": "https://reurl.cc/EmkdbK"
-    },
-    {
-      "title": "超犀利大腦",
-      "author": "泰蕾絲‧休斯頓",
-      "original_title": "Sharp: 14 Simple Ways to Improve Your Life with Brain Science",
-      "isbn": "9786267901052",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/5-x-x-50?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$345",
-      "cover_url": "covers/5-x-x-50.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "在工作及生活中，你是否有容易分心或記憶力有限的問題？認知科學家休斯頓博士為本書整理出14種更有策略、有技巧、有效率地大腦訓練方法，讓你一天只需多花幾分鐘的練習，學會隨時保持大腦最佳狀態。",
-      "publish_date": "2026年5月27日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/5-x-x-50?sId=04a3468e-6053-4414-bc37-2d2af08c3391&ssId=VwsblcXYkYW4zed1Na--Y&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011051918"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210474651000101"
-        },
-        "goodreads": {
-          "score": 4.13,
-          "count": 119,
-          "url": "https://www.goodreads.com/book/show/215500773-sharp?from_search=true&from_srp=true&qid=18yF29Rzwc&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DHL3L18V/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 130,
-          "url": "https://www.amazon.com/gp/product/B0DHL3L18V/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.27,
-      "short_affiliate_url": "https://reurl.cc/epqYVx"
-    },
-    {
-      "title": "以為長大了，我就會沒事",
-      "author": "金昊醒",
-      "original_title": "내 마음 다친 줄 모르고 어른의 되었다",
-      "isbn": "9786267592397",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/OB_hu4EJcjK_iOfo8I3OOQ?sId=5cc6036e-de69-4656-b42b-2a8ee446e613&ssId=JsfRsSXLWut1393V-8fJT&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629",
-      "kobo_price": "NT$258",
-      "cover_url": "covers/OB_hu4EJcjK_iOfo8I3OOQ.jpg",
-      "sale_price": "6/29-7/5 結帳折扣碼",
-      "sale_end": "",
-      "description": "療癒內在小孩後，你的人生就會開始好轉。透過大腦認知療法，學著跟自己變親近，改變早已習慣負面思考的神經元結構，最終獲得真正的療癒。本書詳實記錄真實案例，讓你看見「好起來」之後的人生，可以多麼不同！",
-      "publish_date": "2026年4月16日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/OB_hu4EJcjK_iOfo8I3OOQ?sId=5cc6036e-de69-4656-b42b-2a8ee446e613&ssId=JsfRsSXLWut1393V-8fJT&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260629"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011047306"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210465828000101"
+          "url": "https://readmoo.com/book/210475436000101"
         },
         "goodreads": {
           "score": null,
@@ -459,8 +229,192 @@
           "url": ""
         }
       },
-      "avg_score": 5.0,
-      "short_affiliate_url": "https://reurl.cc/O6dWRX"
+      "avg_score": 4.0,
+      "short_affiliate_url": "https://reurl.cc/27MlNO"
+    },
+    {
+      "title": "你需要的不是自律，而是改變行為：停止對抗大腦本能，讓對的選擇變簡單",
+      "author": "彼得．霍林斯（Peter Hollins）",
+      "original_title": "The Science of Self-Discipline: The Willpower, Mental Toughness, and Self-Control to Resist Temptation and Achieve Your Goals",
+      "isbn": "9789570880519",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6V9q9q-AFT67uESxUdLx2Q?sId=2046ae5c-fa7b-4a6d-b470-5300bcfb899a&ssId=RSSuwnZ6F4YagIYIvHNpB&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$232",
+      "cover_url": "covers/6V9q9q-AFT67uESxUdLx2Q.jpg",
+      "sale_price": "6/29-7/5 結帳折扣碼",
+      "sale_end": "",
+      "description": "頂尖人士從不硬撐！順著大腦本意，你的表現將超乎想像！自律會痛苦，是因為我們用錯了方法。心理學家教你避開四種失敗模式，並善用個人動力、環境設計與同儕激勵的力量來改變行為路徑，這一次，你的成果肯定能超乎想像！",
+      "publish_date": "2026年6月11日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/6V9q9q-AFT67uESxUdLx2Q?sId=2046ae5c-fa7b-4a6d-b470-5300bcfb899a&ssId=RSSuwnZ6F4YagIYIvHNpB&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0011053961"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210479653000101"
+        },
+        "goodreads": {
+          "score": 4.09,
+          "count": 2426,
+          "url": "https://www.goodreads.com/book/show/36452903-the-science-of-self-discipline",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BTCT6NHR/ref=x_gr_bb_kindle",
+          "confidence": 25,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 4109,
+          "url": "https://a.co/d/08O3Fh4Q"
+        }
+      },
+      "avg_score": 4.35,
+      "short_affiliate_url": "https://reurl.cc/0kgaQb"
+    },
+    {
+      "title": "失智不是人生句點：日本高齡醫療權威寫給自己、家人與照顧者的安心共處提案，找回自在安穩的老後生活",
+      "author": "和田秀樹",
+      "original_title": "みんなボケるんだから 恐れず軽やかに老いを味わい尽くす",
+      "isbn": "9786263909496",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/eahEE-sIUDKoR3v8ZiYekQ?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$289",
+      "cover_url": "covers/eahEE-sIUDKoR3v8ZiYekQ.jpg",
+      "sale_price": "6/29-7/5 結帳折扣碼",
+      "sale_end": "",
+      "description": "高齡醫療權威教你看懂失智真相。我們太常用恐懼想像失智，於是，一點健忘就讓人焦慮，一紙診斷就讓全家陷入慌亂。本書以溫柔卻直白的筆觸，打破我們對失智的恐懼與誤解，帶領讀者重新思考「老去」的意義。",
+      "publish_date": "2026年5月19日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/eahEE-sIUDKoR3v8ZiYekQ?sId=e78ea80f-92f4-4144-9aaf-d52a59b56a10&ssId=_OeB4NLafcegbM1koYOk0&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011050979"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210475015000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 39,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4815623759/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.22,
+      "short_affiliate_url": "https://reurl.cc/6XVb9O"
+    },
+    {
+      "title": "情緒演算法：解構28種核心情緒，把好情緒變優勢，讓壞情緒為你所用！",
+      "author": "約書亞‧斯蒂博",
+      "original_title": "Algorithm of You®: Master the Flow of Your Emotions",
+      "isbn": "9786267769515",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/KIyUvzGIlDWd2DVtFDfDew?sId=a3cf733e-35e6-4412-b45b-845b83772e06&ssId=YxOISLhUXVRh7u0mNHnGy&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$319",
+      "cover_url": "covers/KIyUvzGIlDWd2DVtFDfDew.jpg",
+      "sale_price": "6/29-7/5 結帳折扣碼",
+      "sale_end": "",
+      "description": "高齡醫療權威教你看懂失智真相。我們太常用恐懼想像失智，於是，一點健忘就讓人焦慮，一紙診斷就讓全家陷入慌亂。本書以溫柔卻直白的筆觸，打破我們對失智的恐懼與誤解，帶領讀者重新思考「老去」的意義。",
+      "publish_date": "2026年5月14日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/KIyUvzGIlDWd2DVtFDfDew?sId=a3cf733e-35e6-4412-b45b-845b83772e06&ssId=YxOISLhUXVRh7u0mNHnGy&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011051685"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210473722000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.goodreads.com/book/show/230812014-algorithm-of-you",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://a.co/d/0ioYT7NE"
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/KEKOqg"
+    },
+    {
+      "title": "我發瘋的那段日子",
+      "author": "蘇珊娜．卡哈蘭",
+      "original_title": "Brain on Fire: My Month of Madness",
+      "isbn": "9786267771808",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WDhH_K5THzyCH57LDfkFpw?sId=f8804c8a-60d8-45ab-8d43-ed5b33759b45&ssId=e7ZCg3EVwEMov25xj7kIl&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/WDhH_K5THzyCH57LDfkFpw.jpg",
+      "sale_price": "6/29-7/5 結帳折扣碼",
+      "sale_end": "",
+      "description": "數百項檢查結果全部正常，她的精神失常卻愈來愈嚴重，直到遇到一名神經病理學家的正確診斷。本書為當事者卡哈蘭親撰，以自己的記者技能爬梳無數醫療紀錄、相關科學著作等，並細膩描寫病症的發展、自身及至親的心路歷程。",
+      "publish_date": "2026年6月3日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/WDhH_K5THzyCH57LDfkFpw?sId=f8804c8a-60d8-45ab-8d43-ed5b33759b45&ssId=e7ZCg3EVwEMov25xj7kIl&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260706"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011053084"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 24,
+          "url": "https://readmoo.com/book/210262526000101"
+        },
+        "goodreads": {
+          "score": 4.09,
+          "count": 241676,
+          "url": "https://www.goodreads.com/book/show/63221207-brain-on-fire?from_search=true&from_srp=true&qid=ZIWUEf0fFz&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B007EDOKZW/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 16761,
+          "url": "https://www.amazon.com/gp/product/B007EDOKZW/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.11,
+      "short_affiliate_url": "https://reurl.cc/jVMman"
     }
   ]
 }
