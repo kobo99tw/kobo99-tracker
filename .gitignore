@@ -53,3 +53,6 @@ scrape.py
 
 # 舊版遺留
 .gitattributes
+
+# 本機封存區（含舊爬蟲程式，絕不上傳）
+_archive/
