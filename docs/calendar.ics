@@ -7,85 +7,88 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-SUMMARY:《正念之身：覺察當下，活出健康》
-DESCRIPTION:特價 NT$99｜原價 NT$336｜4.0分\nhttps://reurl.cc/npQzml\
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:《乞丐國王的時光指環：經典歸來新譯版，殺不死
+ 我的，都會變成一則故事》
+DESCRIPTION:特價 NT$99｜原價 NT$273｜4.2分\nhttps://reurl.cc/be63dE\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/npQzml
-UID:kobo99-2026-w27-01@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/be63dE
+UID:kobo99-2026-w28-01@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-SUMMARY:《我在Amazon上班，需要紅酒與心理師：贏了面子卻
- 輸了靈魂的12年》
-DESCRIPTION:特價 NT$99｜原價 NT$364｜4.2分\nhttps://reurl.cc/M2Yvjv\
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:《爆文故事力：3步驟、24公式，打造有效溝通、贏
+ 得關注的非凡表達力》
+DESCRIPTION:特價 NT$99｜原價 NT$300｜3.6分\nhttps://reurl.cc/Ggk5aA\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/M2Yvjv
-UID:kobo99-2026-w27-02@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/Ggk5aA
+UID:kobo99-2026-w28-02@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-SUMMARY:《气味之城》
-DESCRIPTION:特價 NT$99｜原價 NT$267\nhttps://reurl.cc/R2K4e6\n查看
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:《规则时代：虚拟现实、人工智能和区块链构建的
+ 游戏化未来》
+DESCRIPTION:特價 NT$99｜原價 NT$204\nhttps://reurl.cc/EYKgm1\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/R2K4e6
-UID:kobo99-2026-w27-03@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/EYKgm1
+UID:kobo99-2026-w28-03@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:《春琴抄》
-DESCRIPTION:特價 NT$99｜原價 NT$245｜4.0分\nhttps://reurl.cc/qp9dvg\
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:《樹冠上》
+DESCRIPTION:特價 NT$99｜原價 NT$434｜4.2分\nhttps://reurl.cc/eQ5GpL\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qp9dvg
-UID:kobo99-2026-w27-04@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/eQ5GpL
+UID:kobo99-2026-w28-04@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-SUMMARY:《左撇子的隱形優勢》
-DESCRIPTION:特價 NT$99｜原價 NT$224｜4.0分\nhttps://reurl.cc/9WdE3O\
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:《神明在看著呢（「巫女在身邊」書衣版）：我的
+ 巫女日記》
+DESCRIPTION:特價 NT$99｜原價 NT$245｜4.1分\nhttps://reurl.cc/QNp525\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/9WdE3O
-UID:kobo99-2026-w27-05@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/QNp525
+UID:kobo99-2026-w28-05@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-SUMMARY:《劉博仁不藏私的健腦祕密》
-DESCRIPTION:特價 NT$99｜原價 NT$280｜4.9分\nhttps://reurl.cc/npQzv1\
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:《媽媽與她們的產地》
+DESCRIPTION:特價 NT$99｜原價 NT$292｜3.4分\nhttps://reurl.cc/MW7623\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/npQzv1
-UID:kobo99-2026-w27-06@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/MW7623
+UID:kobo99-2026-w28-06@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-SUMMARY:《你就是困住自己的那座山》
-DESCRIPTION:特價 NT$99｜原價 NT$280｜4.2分\nhttps://reurl.cc/zQ28DN\
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:《大亂局：東印度公司、企業暴力與帝國侵略》
+DESCRIPTION:特價 NT$99｜原價 NT$574｜4.3分\nhttps://reurl.cc/qaDnpp\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/zQ28DN
-UID:kobo99-2026-w27-07@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/qaDnpp
+UID:kobo99-2026-w28-07@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260709
-SUMMARY:《呂昇達 職人手作貝果全書——6種麵糰、8款造型
- 、8款手作抺醬：一次學會65種職人技法一次到位》
-DESCRIPTION:特價 NT$99｜原價 NT$363｜4.4分\nhttps://reurl.cc/xWYZv1\
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:《認識你的收納人格：從個性出發，輕鬆打造好整
+ 理、不復亂、更具個人風格的理想空間》
+DESCRIPTION:特價 NT$99｜原價 NT$280｜4.1分\nhttps://reurl.cc/90z6Wx\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/xWYZv1
-UID:kobo99-2026-w27-08@kobo99-tracker
-DTSTAMP:20260707T134404Z
+URL:https://reurl.cc/90z6Wx
+UID:kobo99-2026-w28-08@kobo99-tracker
+DTSTAMP:20260709T030511Z
 END:VEVENT
 END:VCALENDAR
