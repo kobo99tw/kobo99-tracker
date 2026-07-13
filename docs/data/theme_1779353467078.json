@@ -261,22 +261,23 @@
           "url": "https://readmoo.com/book/210475630000101"
         },
         "goodreads": {
-          "score": 3.69,
-          "count": 2071,
-          "url": "https://www.goodreads.com/book/show/29083645-highly-sensitive-people-in-an-insensitive-world?from_search=true&from_srp=true&qid=d5gml3gc9v&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B01F2MNZ1Q/ref=x_gr_bb_kindle",
-          "confidence": 70,
-          "cross_validated": true
+          "score": 3.5,
+          "count": 12,
+          "url": "https://www.goodreads.com/book/show/125287273-helping-through-conversation",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C2DJZJZG/ref=x_gr_bb_kindle",
+          "confidence": 80,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 273,
-          "url": "https://www.amazon.com/gp/product/B01F2MNZ1Q/ref=x_gr_bb_kindle"
+          "score": 4.7,
+          "count": 6,
+          "url": "https://a.co/d/0hePpPFe"
         }
       },
-      "avg_score": 3.8,
-      "short_affiliate_url": "https://reurl.cc/WzdOp9"
+      "avg_score": 3.96,
+      "short_affiliate_url": "https://reurl.cc/WzdOp9",
+      "original_author": "Ilse Sand"
     },
     {
       "title": "世界頂尖人士如何度過他們的「假日」：被媒體譽為一年之初的必讀之書，引發壓倒性話題",
