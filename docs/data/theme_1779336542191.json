@@ -1,191 +1,7 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-07-02T00:31:50.803044+08:00",
+  "updated_at": "2026-07-16T13:22:44.461747+08:00",
   "books": [
-    {
-      "title": "既要又要還要",
-      "author": "凱特王",
-      "original_title": "",
-      "isbn": "9786264445498",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ADAnddMEfjKmH-hUfxzyoA?sId=5a25a68b-22f3-4255-b3b5-2be63dd698ab&ssId=d5ceyRUJezU5ujkFA3YE6&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/ADAnddMEfjKmH-hUfxzyoA.jpg",
-      "sale_price": "NT$250",
-      "sale_end": "7/6",
-      "description": "時尚觀點自媒體人凱特王寫給當代女性的慾望說明書：做個展現慾望的女人，敢要、能要、不怕要。慾望不必隱藏，無論要的是愛情、性、職場資源，還是生活中的自主選擇，說「我想要」，不說「我都可以」。 《既要又要還要》 由 凱特王＠著 出版社： 時報出版 查看電子書",
-      "publish_date": "2026年6月19日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ADAnddMEfjKmH-hUfxzyoA?sId=5a25a68b-22f3-4255-b3b5-2be63dd698ab&ssId=d5ceyRUJezU5ujkFA3YE6&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011054291"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/GazZWZ"
-    },
-    {
-      "title": "退休後的孤獨入門：重建不受公司定義的人生意義",
-      "author": "河合薰",
-      "original_title": "定年後からの孤独入門",
-      "isbn": "9786267920183",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/bhwa2rwZSjeB2vT6YkIOWQ?sId=c6d97dd2-4122-480d-8d9f-aba4ef9dfbf8&ssId=reglje5aysZapWvOBxSZG&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$280",
-      "cover_url": "covers/bhwa2rwZSjeB2vT6YkIOWQ.jpg",
-      "sale_price": "NT$238",
-      "sale_end": "7/10",
-      "description": "離開職場之後，你是誰？作者以健康社會學角度出發，根據真實案例分析「退休邊緣人」的共同特徵，幫助每個即將面臨退休的你，重建不受公司定義的人生意義。安頓自己的人生座標，讓生命下半場活得踏實！ 《退休後的孤獨入門：重建不受公司定義的人生意義》 由 河合薰＠著 出版社： 楓書坊 查看電子書",
-      "publish_date": "2026年6月26日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/bhwa2rwZSjeB2vT6YkIOWQ?sId=c6d97dd2-4122-480d-8d9f-aba4ef9dfbf8&ssId=reglje5aysZapWvOBxSZG&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011054654"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210481327000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 3.6,
-          "count": 157,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B084KXMGMK/ref=sr_1_1"
-        }
-      },
-      "avg_score": 3.6,
-      "short_affiliate_url": "https://reurl.cc/WbealL"
-    },
-    {
-      "title": "4%法則",
-      "author": "威廉．班根",
-      "original_title": "A Richer Retirement：Supercharging the 4% Rule to Spend More and Enjoy More",
-      "isbn": "9786264179546",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sssDJfph8TOgU4xijD2V9A?sId=212ebf30-bea9-4557-b40e-fe0afaa49a38&ssId=dGQrTynHMbKczhdtZfREy&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$360",
-      "cover_url": "covers/sssDJfph8TOgU4xijD2V9A.jpg",
-      "sale_price": "NT$306",
-      "sale_end": "7/13",
-      "description": "退休後每年該花多少，才能安心花一輩子？財務規劃界傳奇，「4%法則」創始人班根集結三十年實證精華，專為一般大眾量身打造。教你用圖表與歷史數據，精準對應適合自己的個人最高安全提領率！ 《4%法則》 由 威廉．班根（William P. Bengen）＠著 出版社： 天下文化 查看電子書",
-      "publish_date": "2026年6月30日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/sssDJfph8TOgU4xijD2V9A?sId=212ebf30-bea9-4557-b40e-fe0afaa49a38&ssId=dGQrTynHMbKczhdtZfREy&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011054592"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210482520000101"
-        },
-        "goodreads": {
-          "score": 3.97,
-          "count": 410,
-          "url": "https://www.goodreads.com/book/show/254501381-4?from_search=true&from_srp=true&qid=Ov26at5Nx2&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FKQB55K4/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 312,
-          "url": "https://www.amazon.com/gp/product/B0FKQB55K4/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/Q21nz9"
-    },
-    {
-      "title": "原始智慧",
-      "author": "安格斯．弗萊契",
-      "original_title": "PRIMAL INTELLIGENCE: You Are Smarter Than You Know",
-      "isbn": "9786264179621",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-572?sId=2c83e77d-1847-4d2a-822a-8d1ce506f25c&ssId=8tfq4Rytje3SVaVDTJdzM&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$375",
-      "cover_url": "covers/ai-572.jpg",
-      "sale_price": "NT$319",
-      "sale_end": "7/13",
-      "description": "巴菲特當時在所有人恐慌時買進，靠的不是數據模型。你有四種AI學不會的天賦：直覺、想像力、情緒、常識，稱之為「原始智慧」。敘事科學教授弗萊契將透過本書教你如何重啟及運用原始智慧、開發真正的競爭力。 《原始智慧》 由 安格斯．弗萊契（Angus Fletcher）＠著 出版社： 天下文化 查看電子書",
-      "publish_date": "2026年6月30日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ai-572?sId=2c83e77d-1847-4d2a-822a-8d1ce506f25c&ssId=8tfq4Rytje3SVaVDTJdzM&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011054753"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210483889000101"
-        },
-        "goodreads": {
-          "score": 3.79,
-          "count": 415,
-          "url": "https://www.goodreads.com/book/show/221754320-primal-intelligence?from_search=true&from_srp=true&qid=BQFArgqWz1&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DNKRZFW4/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 116,
-          "url": "https://www.amazon.com/gp/product/B0DNKRZFW4/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.95,
-      "short_affiliate_url": "https://reurl.cc/M2Y1qk"
-    },
     {
       "title": "分裂的合眾國",
       "author": "唐．華森",
@@ -215,22 +31,22 @@
           "url": "https://readmoo.com/book/210479845000101"
         },
         "goodreads": {
-          "score": 4.25,
-          "count": 179,
+          "score": 4.2,
+          "count": 199,
           "url": "https://www.goodreads.com/book/show/234892284-the-shortest-history-of-the-united-states-of-america?from_search=true&from_srp=true&qid=JMffk5RjzZ&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 75,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 3.4,
-          "count": 8,
+          "score": 3.2,
+          "count": 9,
           "url": "https://www.amazon.com/-/zh_TW/Don-Watson-ebook/dp/B0FJTNFFXQ/ref=sr_1_1"
         }
       },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/R2Knxr"
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/DY6MZQ"
     },
     {
       "title": "少年犯罪者們",
@@ -258,25 +74,25 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://readmoo.com/book/210484576000101"
         },
         "goodreads": {
           "score": 4.3,
-          "count": 1718,
+          "count": 1751,
           "url": "https://www.goodreads.com/book/show/60472836-the-criminal-mind?from_search=true&from_srp=true&qid=wlWcFNp4eI&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B094F5VYHS/ref=x_gr_bb_kindle",
-          "confidence": 70,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 519,
+          "count": 534,
           "url": "https://www.amazon.com/gp/product/B094F5VYHS/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.37,
-      "short_affiliate_url": "https://reurl.cc/9Wdo2V"
+      "short_affiliate_url": "https://reurl.cc/beRbnr"
     },
     {
       "title": "更年期不是老化，而是大腦重組",
@@ -288,7 +104,7 @@
       "cover_url": "covers/pgJpmBdwPTygYeUs5U2CPA.jpg",
       "sale_price": "NT$297",
       "sale_end": "7/15",
-      "description": "所有女性都會希望在更年期時，有這本書可以陪伴自己。更年期是女性的禮物，它給我們一個老化時間表，提醒我們何時該介入改善我們的大腦健康。本書提供了女性所需的資訊，讓大家帶著知識和自信面對停經。 《更年期不是老化，而是大腦重組》 由 麗莎·莫斯柯尼＠著 出版社： 高寶書版 查看電子書 Tags 獨家優惠 分享這篇文章 分享到 Facebook Share via Email Related articles 造訪連結 【Kobo 優惠書展】完整羅列全站書展，讓你天天閱讀不寂寞 （每週更新） Kobo為你羅列全站最新、最優惠的主題系列書展，讓閱讀陪伴你從日常到職場，家庭到生活，在學習新知的同時，除了提升工作效率，還能掌握全球的脈動與經濟趨勢；療癒心靈、解除內",
+      "description": "所有女性都會希望在更年期時，有這本書可以陪伴自己。更年期是女性的禮物，它給我們一個老化時間表，提醒我們何時該介入改善我們的大腦健康。本書提供了女性所需的資訊，讓大家帶著知識和自信面對停經。 《更年期不是老化，而是大腦重組》 由 麗莎·莫斯柯尼＠著 出版社： 高寶書版 查看電子書",
       "publish_date": "2026年2月25日",
       "ratings": {
         "kobo": {
@@ -318,11 +134,517 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%9B%B4%E5%B9%B4%E6%9C%9F%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%BF%8D%E5%BF%8D%E5%B0%B1%E5%A5%BD%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89Hot-Bothered-Menopause-Yourself-Chinese/dp/7222233466/ref=sr_1_1"
+          "url": ""
         }
       },
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/Emq8E1"
+      "short_affiliate_url": "https://reurl.cc/4YmD3V"
+    },
+    {
+      "title": "逆分工",
+      "author": "林之晨",
+      "original_title": "",
+      "isbn": "9786267916193",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/RrA5dFkPfEmJq5Xqh1FezA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$375",
+      "cover_url": "covers/RrA5dFkPfEmJq5Xqh1FezA.jpg",
+      "sale_price": "NT$319",
+      "sale_end": "7/16",
+      "description": "終結萬年分工異化，從流程螺絲釘進化為一人抵一支團隊的超級個體。第一本引導企業終結無效分工、倍增組織產能的高效策略指引。含3大組織重塑×4大關鍵趨勢×3項實證轉骨，本書帶你用逆分工開創產能上限！ 《逆分工》 由 林之晨, 蔡祈岩＠著 出版社： 天下雜誌 查看電子書",
+      "publish_date": "2026年7月2日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/RrA5dFkPfEmJq5Xqh1FezA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011056204"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210484373000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/3yLA5V"
+    },
+    {
+      "title": "請允許我們身後財產自主",
+      "author": "高愛倫",
+      "original_title": "",
+      "isbn": "9786267916186",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/W3CbykRzhkqg36LzNYSWVw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$345",
+      "cover_url": "covers/W3CbykRzhkqg36LzNYSWVw.jpg",
+      "sale_price": "NT$293",
+      "sale_end": "7/16",
+      "description": "高愛倫直視現行法律與繼承制度造成的社會之痛，提出簡易實用的平民版防禦規劃。透過13篇真實故事深刻預告：當人性貪婪，就沒有真正的安全繼承！唯有洞察風險、提早規劃，才能為一路相伴的彼此留下退路。 《請允許我們身後財產自主》 由 高愛倫@著 出版社： 天下雜誌 查看電子書",
+      "publish_date": "2026年7月2日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/W3CbykRzhkqg36LzNYSWVw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011056126"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210484378000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/EYzNZA"
+    },
+    {
+      "title": "行銷7.0",
+      "author": "菲利浦．科特勒",
+      "original_title": "Marketing 7.0：A Guide for Thinking Marketers in the Age of AI",
+      "isbn": "9786267916087",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/f-DLI1iV7UuuT133ilw2yQ?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$413",
+      "cover_url": "covers/f-DLI1iV7UuuT133ilw2yQ.jpg",
+      "sale_price": "NT$351",
+      "sale_end": "7/16",
+      "description": "現代行銷學之父菲利普．科特勒最新力作，他正式宣告：行銷從「技術操作」，走向「認知設計」的新時代。本書將帶你從數據行銷走向認知行銷，在AI時代重新理解消費者、重新設計決策路徑，並重新贏得顧客的選擇。 《行銷7.0》 由 菲利浦．科特勒, 陳就學, 伊萬．塞提亞宛＠著 出版社： 天下雜誌 查看電子書",
+      "publish_date": "2026年7月2日",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/f-DLI1iV7UuuT133ilw2yQ?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011056033"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210484374000101"
+        },
+        "goodreads": {
+          "score": 3.75,
+          "count": 16,
+          "url": "https://www.goodreads.com/book/show/250240802-marketing-7-0?from_search=true&from_srp=true&qid=M7S95JJ4im&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0GTWXS5D1/ref=x_gr_bb_kindle",
+          "confidence": 80,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 33,
+          "url": "https://www.amazon.com/gp/product/B0GTWXS5D1/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/WzLYX5"
+    },
+    {
+      "title": "幸福檔案",
+      "author": "亞瑟．布魯克斯",
+      "original_title": "The Happiness Files: Insights on Work and Life",
+      "isbn": "9786267916100",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/aDy3NARIPUWlFTVhKqizIw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$360",
+      "cover_url": "covers/aDy3NARIPUWlFTVhKqizIw.jpg",
+      "sale_price": "NT$306",
+      "sale_end": "7/16",
+      "description": "《重啟人生》作者新作。你為什麼愈長大愈不快樂？我們都快樂過、痛苦過，卻總是只記得痛苦的，每個人都需學著開啟一份幸福檔案，持續優化生命中的美好。你不必是一個成功人士，也可以擁有成功的人生。 《幸福檔案》 由 亞瑟．布魯克斯＠著 出版社： 天下雜誌 查看電子書",
+      "publish_date": "2026年7月2日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/aDy3NARIPUWlFTVhKqizIw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0011055596"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 4,
+          "url": "https://readmoo.com/book/210484377000101"
+        },
+        "goodreads": {
+          "score": 3.95,
+          "count": 1648,
+          "url": "https://www.goodreads.com/book/show/231300244-the-happiness-files?from_search=true&from_srp=true&qid=mwgPdr7yCy&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F4L4STTN/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 467,
+          "url": "https://www.amazon.com/gp/product/B0F4L4STTN/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.07,
+      "short_affiliate_url": "https://reurl.cc/OQqak9"
+    },
+    {
+      "title": "翻轉世代",
+      "author": "強納森．海德特",
+      "original_title": "The Amazing Generation: Your Guide to Fun and Freedom in a Screen-Filled World",
+      "isbn": "9786267063996",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/W5sdY9WEXDGA2fIP2r2h7A?sId=97af69c4-bb6e-45e4-8c61-d49694c0decc&ssId=_KrxUvKf9_IE1sfn4NH7w&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/W5sdY9WEXDGA2fIP2r2h7A.jpg",
+      "sale_price": "NT$268",
+      "sale_end": "7/17",
+      "description": "《失控的焦慮世代》作者海德特為3C世代打造的不焦慮處方。科技是幫你忙，不該讓你忙！在螢幕無所不在的世界，透過適當指引，我們都可以主動選擇不被螢幕支配的人生，抬起頭來，才能避免科技駭入你的大腦。 《翻轉世代》 由 強納森．海德特, 凱薩琳．普萊斯＠著 出版社： 網路與書 查看電子書",
+      "publish_date": "2026年7月3日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/W5sdY9WEXDGA2fIP2r2h7A?sId=97af69c4-bb6e-45e4-8c61-d49694c0decc&ssId=_KrxUvKf9_IE1sfn4NH7w&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0011055028"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210484204000101"
+        },
+        "goodreads": {
+          "score": 4.49,
+          "count": 2047,
+          "url": "https://www.goodreads.com/book/show/233579322-the-amazing-generation?from_search=true&from_srp=true&qid=sw4f0YEn99&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FP4C7R9P/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 748,
+          "url": "https://www.amazon.com/gp/product/B0FP4C7R9P/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.55,
+      "short_affiliate_url": "https://reurl.cc/MWdmkn"
+    },
+    {
+      "title": "數位斷捨離：擺脫手機成癮造成的身心疲勞",
+      "author": "有田秀穂",
+      "original_title": "スマホ中毒からの心のモヤモヤをなくす小さな習慣",
+      "isbn": "9786267920251",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/9wsSPmRg00mc27FboEzR_g?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/9wsSPmRg00mc27FboEzR_g.jpg",
+      "sale_price": "NT$250",
+      "sale_end": "7/17",
+      "description": "放下手機，釋放壓力，開啟你的離線生活。本書從腦科學角度出發，帶領讀者認識「血清素、催產素、多巴胺」等幸福賀爾蒙，並逐一介紹如何透過生活中的小習慣來有效活化這些腦內幸福物質，成功修復疲憊的大腦！ 《數位斷捨離：擺脫手機成癮造成的身心疲勞》 由 有田秀穂＠著 出版社： 楓書坊 查看電子書",
+      "publish_date": "2026年7月3日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/9wsSPmRg00mc27FboEzR_g?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011055120"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210484046000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.amazon.co.jp/-/zh/dp/483342441X/ref=sr_1_1"
+        }
+      },
+      "avg_score": 5.0,
+      "short_affiliate_url": "https://reurl.cc/RR17jn"
+    },
+    {
+      "title": "隨他們去：僅僅一年全世界暢銷突破900萬冊超現象級大書！數百萬人熱議的扭轉人生心理技",
+      "author": "梅爾．羅賓斯",
+      "original_title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About",
+      "isbn": "9786267859438",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fnB3ncm9PDGMZkbvOcMQzw?sId=ad44915b-62a9-433e-a323-fae51b705236&ssId=xCWtiN2Ov1M6QZDslCugp&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/fnB3ncm9PDGMZkbvOcMQzw.jpg",
+      "sale_price": "NT$252",
+      "sale_end": "7/19",
+      "description": "戒掉你的控制欲，90%的煩惱就能迎刃而解！與人相處的過程會精疲力竭，最大的原因就是因為你賦予了他們影響你的權力。這本書將讓你的焦慮瞬間解壓，帶你終結內耗、釋放潛能，重新主宰自己的生命節奏！ 《隨他們去：僅僅一年全世界暢銷突破900萬冊超現象級大書！數百萬人熱議的扭轉人生心理技》 由 梅爾．羅賓斯＠著 出版社： 平安文化 查看電子書",
+      "publish_date": "2026年7月3日",
+      "ratings": {
+        "kobo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/fnB3ncm9PDGMZkbvOcMQzw?sId=ad44915b-62a9-433e-a323-fae51b705236&ssId=xCWtiN2Ov1M6QZDslCugp&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://readmoo.com/book/210483519000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 332356,
+          "url": "https://www.goodreads.com/book/show/220772795-the-let-them-theory?from_search=true&from_srp=true&qid=PNA2BvqYXO&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D978YKXT/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 45876,
+          "url": "https://www.amazon.com/gp/product/B0D978YKXT/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.07,
+      "short_affiliate_url": "https://reurl.cc/VnXZj6"
+    },
+    {
+      "title": "隱藏的世界：揭開隱沒在國界之下的金權版圖",
+      "author": "阿托莎‧阿拉西亞‧亞伯拉罕米安",
+      "original_title": "The Hidden Globe: How Wealth Hacks the World",
+      "isbn": "9786267859476",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/z6VplevFYj6wEPq76-fn1w?sId=672c85d5-b9a6-4926-baff-1fcd945010ab&ssId=-30W257zqz0t30Y0-00tq&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$435",
+      "cover_url": "covers/z6VplevFYj6wEPq76-fn1w.jpg",
+      "sale_price": "NT$370",
+      "sale_end": "7/19",
+      "description": "地圖上的國界是虛線，金錢畫出的版圖才是實線！在隱形版圖內，富人可購買國籍以避稅；難民被合法異化為「貨物」。本書不僅帶領我們識破權貴階級設計的平行宇宙，更幫助我們建立起不被輕易撼動的判斷標準！ 《隱藏的世界：揭開隱沒在國界之下的金權版圖》 由 阿托莎‧阿拉西亞‧亞伯拉罕米安＠著 出版社： 平安文化 查看電子書",
+      "publish_date": "2026年7月6日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/z6VplevFYj6wEPq76-fn1w?sId=672c85d5-b9a6-4926-baff-1fcd945010ab&ssId=-30W257zqz0t30Y0-00tq&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210484544000101"
+        },
+        "goodreads": {
+          "score": 3.58,
+          "count": 741,
+          "url": "https://www.goodreads.com/book/show/205062721-the-hidden-globe?from_search=true&from_srp=true&qid=2kK3igFxJh&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CRTSKPYR/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 236,
+          "url": "https://www.amazon.com/gp/product/B0CRTSKPYR/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.73,
+      "short_affiliate_url": "https://reurl.cc/90XAOX"
+    },
+    {
+      "title": "多巴胺聖經",
+      "author": "安澈雨",
+      "original_title": "",
+      "isbn": "9786264025287",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/ZmyFJQizPkacag-bQ3rGhA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/ZmyFJQizPkacag-bQ3rGhA.jpg",
+      "sale_price": "NT$268",
+      "sale_end": "7/21",
+      "description": "為什麼快樂變得越來越難滿足？問題不在意志力，而在於你的「多巴胺系統失衡」。韓國荷爾蒙權威醫師安澈雨專為數位時代形成的多巴胺失控症候群所寫的身心平衡指南，你無須戒掉快樂，而是可以重新掌握快樂。 《多巴胺聖經》 由 安澈雨＠著 出版社： 高寶書版 查看電子書",
+      "publish_date": "2026年5月27日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/ZmyFJQizPkacag-bQ3rGhA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/nx0bEn"
+    },
+    {
+      "title": "AI改變了你的客戶",
+      "author": "馬克・薛佛",
+      "original_title": "How AI Changes Your Customers: The Marketing Guide to Humanity’s Next Chapter",
+      "isbn": "9786269295890",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-googleai?sId=45ca30af-7434-44a7-ae63-399748044e23&ssId=bGM1dZTVd2X-lTzUiVxc9&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$316",
+      "cover_url": "covers/ai-googleai.jpg",
+      "sale_price": "NT$269",
+      "sale_end": "7/22",
+      "description": "AI正大規模改變人類的思考的方式，你的客戶會因此更沒耐心、更信任AI。這些雖都是傳統行銷的危機，卻也是新行銷戰術的轉機。無論你是行銷長、企業主，或是創作者，本書將協助你在AI時代超越對手，贏得客戶。 《AI改變了你的客戶》 由 馬克・薛佛＠著 出版社： 真文化 查看電子書",
+      "publish_date": "2026年7月8日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/ai-googleai?sId=45ca30af-7434-44a7-ae63-399748044e23&ssId=bGM1dZTVd2X-lTzUiVxc9&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210486046000101"
+        },
+        "goodreads": {
+          "score": 4.45,
+          "count": 29,
+          "url": "https://www.goodreads.com/book/show/241382051-how-ai-changes-your-customers?from_search=true&from_srp=true&qid=1sHZWSJAJK&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FQ67TBHF/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 58,
+          "url": "https://www.amazon.com/gp/product/B0FQ67TBHF/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.68,
+      "short_affiliate_url": "https://reurl.cc/zOzGMe"
+    },
+    {
+      "title": "驚喜的科學",
+      "author": "塔妮亞．露娜、黎安．倫寧格博士",
+      "original_title": "SURPRISE!: Embrace the Unpredictable and Engineer the Unexpected",
+      "isbn": "9786267874202",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dnYdEB3zzzCyuQfAAC8gtA?sId=ed77b427-8b2f-4a11-bb00-7976b9184487&ssId=RNMbaHsPXTJeuCg8BmBnq&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/dnYdEB3zzzCyuQfAAC8gtA.jpg",
+      "sale_price": "NT$287",
+      "sale_end": "7/22",
+      "description": "那些真正推動成長、成為人生最難忘回憶的關鍵，往往來自「出乎意料」。TED熱門講者、驚喜體驗設計專家結合心理學與真實案例，帶你重新理解驚喜的力量，把未知、變數與意外，轉化成讓人生升級的推進力！ 《驚喜的科學》 由 塔妮亞．露娜、黎安．倫寧格博士＠著 出版社： 一起來出版 查看電子書 Tags 獨家優惠 分享這篇文章 分享到 Facebook Share via Email Related articles 造訪連結 【一週99書單】掌握早晨1小時，就能掌握整個人生。（7/16-7/22） 沒時間看書？其實許多名人都愛用5小時讀書法，其實只要每天1小時每週5小時，持之以恆，你就能夠發現不一樣的可能。Kobo每週推出「每日99書單」，精選各類優質好書，並簡",
+      "publish_date": "2026年7月8日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/dnYdEB3zzzCyuQfAAC8gtA?sId=ed77b427-8b2f-4a11-bb00-7976b9184487&ssId=RNMbaHsPXTJeuCg8BmBnq&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210485997000101"
+        },
+        "goodreads": {
+          "score": 3.7,
+          "count": 284,
+          "url": "https://www.goodreads.com/book/show/22521945-surprise?from_search=true&from_srp=true&qid=abYP0gN0e6&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B00KWG64KC/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 92,
+          "url": "https://www.amazon.com/gp/product/B00KWG64KC/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.9,
+      "short_affiliate_url": "https://reurl.cc/xe0bOE"
     }
   ]
 }
