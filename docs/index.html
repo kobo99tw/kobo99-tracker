@@ -225,6 +225,9 @@ a.r-link:hover{background:var(--line)}
 .price-original{font-size:.82rem;color:var(--ink3);text-decoration:line-through}
 .price-saving{font-size:.68rem;font-weight:600;color:var(--kofi);background:#FFF1F0;padding:.12rem .45rem;border-radius:8px}
 .btn-buy{flex-shrink:0;text-align:center;text-decoration:none;font-size:.8rem;font-weight:600;padding:.5rem 1rem;border-radius:8px;transition:background .15s;white-space:nowrap;background:var(--teal);color:#fff}
+.buy-actions{display:flex;align-items:center;gap:.4rem;flex-shrink:0}
+.btn-copy-code{flex-shrink:0;text-align:center;font-size:.72rem;font-weight:600;padding:.5rem .7rem;border-radius:8px;white-space:nowrap;background:var(--teal-bg);color:var(--teal);border:1px solid var(--teal);cursor:pointer;transition:background .15s}
+.btn-copy-code:hover{background:var(--teal);color:#fff}
 .btn-buy:hover{background:#0F766E}
 .btn-dis{flex-shrink:0;font-size:.8rem;padding:.5rem 1rem;border-radius:8px;opacity:.4;cursor:default;background:var(--cream);color:var(--ink3);border:1px solid var(--line)}
 
@@ -580,6 +583,14 @@ async function shareBook(btn) {
   }
 }
 
+async function copyPromoCode(btn) {
+  const code = btn.dataset.code;
+  await navigator.clipboard.writeText(code);
+  const orig = btn.textContent;
+  btn.textContent = '✓ 已複製';
+  setTimeout(() => btn.textContent = orig, 1500);
+}
+
 function toggleRead(btn) {
   const isbn = btn.dataset.isbn;
   const s = getSet(LS_READ);
@@ -747,6 +758,9 @@ function render() {
     const buyBtn = book.kobo_url
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
+    const copyCodeBtn = book.promo_code
+      ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'港澳')}用戶結帳時輸入此代碼">🇭🇰 複製代碼</button>`
+      : '';
 
     const markBtns = `
       <div class="card-actions">
@@ -783,7 +797,7 @@ function render() {
         </div>
         ${book.description ? `<div class="book-desc" onclick="this.classList.toggle('expanded')" title="點擊展開/收合">${esc(book.description)}</div>` : ''}
         <div class="ratings">${ratingsHtml}</div>
-        <div class="buy-row">${priceInfo}${buyBtn}</div>
+        <div class="buy-row">${priceInfo}<div class="buy-actions">${copyCodeBtn}${buyBtn}</div></div>
       </div>
     </div>`;
   }).join("");
