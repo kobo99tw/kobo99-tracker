@@ -7,88 +7,88 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:《乞丐國王的時光指環：經典歸來新譯版，殺不死
- 我的，都會變成一則故事》
-DESCRIPTION:特價 NT$99｜原價 NT$273｜4.2分\nhttps://reurl.cc/be63dE\
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:《心癢【鸚鵡螺圖書獎金獎】：感受內心的騷動:擁
+ 抱被數字和精準化剝奪的無限可能》
+DESCRIPTION:特價 NT$99｜原價 NT$294｜3.7分\nhttps://reurl.cc/jV5e2L\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/be63dE
-UID:kobo99-2026-w28-01@kobo99-tracker
-DTSTAMP:20260709T030511Z
+URL:https://reurl.cc/jV5e2L
+UID:kobo99-2026-w29-01@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:《爆文故事力：3步驟、24公式，打造有效溝通、贏
- 得關注的非凡表達力》
-DESCRIPTION:特價 NT$99｜原價 NT$300｜3.6分\nhttps://reurl.cc/Ggk5aA\
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:《早晨1小時，留給最重要的事》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜4.0分\nhttps://reurl.cc/omd36l\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Ggk5aA
-UID:kobo99-2026-w28-02@kobo99-tracker
-DTSTAMP:20260709T030511Z
+URL:https://reurl.cc/omd36l
+UID:kobo99-2026-w29-02@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:《规则时代：虚拟现实、人工智能和区块链构建的
- 游戏化未来》
-DESCRIPTION:特價 NT$99｜原價 NT$204\nhttps://reurl.cc/EYKgm1\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/EYKgm1
-UID:kobo99-2026-w28-03@kobo99-tracker
-DTSTAMP:20260709T030511Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:《罗马军团》
+DESCRIPTION:特價 NT$99｜原價 NT$639｜4.5分\nhttps://reurl.cc/Ledog9\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/Ledog9
+UID:kobo99-2026-w29-03@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:《樹冠上》
-DESCRIPTION:特價 NT$99｜原價 NT$434｜4.2分\nhttps://reurl.cc/eQ5GpL\
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:《幸運女神》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜3.7分\nhttps://reurl.cc/XxkbbD\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/eQ5GpL
-UID:kobo99-2026-w28-04@kobo99-tracker
-DTSTAMP:20260709T030511Z
+URL:https://reurl.cc/XxkbbD
+UID:kobo99-2026-w29-04@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:《神明在看著呢（「巫女在身邊」書衣版）：我的
- 巫女日記》
-DESCRIPTION:特價 NT$99｜原價 NT$245｜4.1分\nhttps://reurl.cc/QNp525\
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:《焦慮世代：為什麼我們活在充滿不確定性與不安
+ 的社會》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜3.8分\nhttps://reurl.cc/beRoo6\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/QNp525
-UID:kobo99-2026-w28-05@kobo99-tracker
-DTSTAMP:20260709T030511Z
+URL:https://reurl.cc/beRoo6
+UID:kobo99-2026-w29-05@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:《媽媽與她們的產地》
-DESCRIPTION:特價 NT$99｜原價 NT$292｜3.4分\nhttps://reurl.cc/MW7623\
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:《暴力犯罪的大腦檔案》
+DESCRIPTION:特價 NT$99｜原價 NT$435｜4.1分\nhttps://reurl.cc/4YmMMR\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/MW7623
-UID:kobo99-2026-w28-06@kobo99-tracker
-DTSTAMP:20260709T030511Z
+URL:https://reurl.cc/4YmMMR
+UID:kobo99-2026-w29-06@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:《大亂局：東印度公司、企業暴力與帝國侵略》
-DESCRIPTION:特價 NT$99｜原價 NT$574｜4.3分\nhttps://reurl.cc/qaDnpp\
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:《紅王子：一位貴族的秘密人生與流轉中的近代歐
+ 洲認同》
+DESCRIPTION:特價 NT$99｜原價 NT$406｜4.2分\nhttps://reurl.cc/GgrYYd\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qaDnpp
-UID:kobo99-2026-w28-07@kobo99-tracker
-DTSTAMP:20260709T030511Z
+URL:https://reurl.cc/GgrYYd
+UID:kobo99-2026-w29-07@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:《認識你的收納人格：從個性出發，輕鬆打造好整
- 理、不復亂、更具個人風格的理想空間》
-DESCRIPTION:特價 NT$99｜原價 NT$280｜4.1分\nhttps://reurl.cc/90z6Wx\
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:《哲學直播室：德國公民啟蒙哲學讀本，與柏拉圖
+ 、康德、亞里斯多德等大師對談，解構18大經典哲學思
+ 想》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜4.5分\nhttps://reurl.cc/eQ8oom\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/90z6Wx
-UID:kobo99-2026-w28-08@kobo99-tracker
-DTSTAMP:20260709T030511Z
+URL:https://reurl.cc/eQ8oom
+UID:kobo99-2026-w29-08@kobo99-tracker
+DTSTAMP:20260716T051855Z
 END:VEVENT
 END:VCALENDAR
