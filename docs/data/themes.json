@@ -29,18 +29,18 @@
   {
     "file": "theme_1779353467078.json",
     "headTitle": "本週精選書單",
-    "hide_after": "2026-07-19",
+    "hide_after": "2026-07-27",
     "key": "theme_1779353467078",
-    "label": "【7/13-7/19精選書單】",
-    "promo_code": "WKSelect0713",
-    "promo_period": "7/13-7/19",
-    "sale": "7/06-7/12 結帳折扣碼",
-    "saleNote": "折扣碼：WKSelect0713（7/13-7/19）",
+    "label": "【7/20-7/26精選書單】",
+    "promo_code": "WKSelect0706",
+    "promo_period": "7/20-7/26",
+    "sale": "7/20-7/26 結帳折扣碼",
+    "saleNote": "折扣碼：WKSelect0706（7/20-7/26）",
     "seoDesc": "整理 Kobo 每週精選超人氣書單，可輸入折扣碼享折扣，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，幫你找到心目中的好書。",
     "subtitle": "在邊界之內，與自己相遇。",
     "tabEmoji": "✨",
-    "tabLabel": "第29週精選",
-    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w29"
+    "tabLabel": "第30週精選",
+    "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w30"
   },
   {
     "defaultSort": "expiry",

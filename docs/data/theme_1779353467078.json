@@ -1,467 +1,466 @@
 {
-  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w29",
-  "updated_at": "2026-07-13T12:58:33.850470+08:00",
+  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w30",
+  "updated_at": "2026-07-20T09:12:10.266946+08:00",
   "books": [
     {
-      "title": "CIA教你讓人說出真心話：以慢制快的破防之道（長銷新版）",
-      "author": "菲爾．休斯頓",
-      "original_title": "Get the Truth: Former CIA Officers Teach You How to Persuade Anyone to Tell All",
-      "isbn": "9786264442978",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/cia-14?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=19&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$238",
-      "cover_url": "covers/cia-14.jpg",
+      "title": "錯得好：越優秀的人為什麼越不敢失敗？——KAIST失敗研究所揭開「成功的代價」",
+      "author": "安譓庭",
+      "original_title": "실패 빼앗는 사회：카이스트 실패연구소의 한국 사회 실패 탐구 보고서",
+      "isbn": "9786267784853",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/kaist-1?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=7&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$340",
+      "cover_url": "covers/kaist-1.jpg",
       "sale_price": "7/06-7/12 結帳折扣碼",
       "sale_end": "",
-      "description": "美國首屈一指的測謊專家教你如何以非暴力、無威脅的 家長、老師、伴侶、管理者與商務人士必備的溝通指南 「我不喜歡那個人，所以更要多了解他。」──美國總統　林肯 「真誠與同理心，是讓對方坦白的關鍵要素。」──中情局測謊專家　菲爾．休士頓 每當我們想到審訊、套話的場景，總會浮現城府極深的情報人員，或是輪流出場的「好警察、壞警察」……可惜的是，這些都是刻板形象，在本書作者休士頓等資深的審訊專家看來，反而更容易讓對方升起防衛心。因此，唯有充滿真誠的對話氣氛，當事人才會自己吐露實情。本書的重點不在於教導讀者如何破解對方的表情、手勢或口氣，而是要學會磨練自己的專注力、傾聽力、口語能力和同理心，如此才有辦法打破溝通的僵局。 本書第一部分由三位CIA專家領軍，先解說套話的心理學原理，包括讓當事人維持在「短期思維模式」以左右他的注意力，不讓他有時間找藉口和拼湊謊言。接下來，以關心與模糊的語句開場，而說話的口氣",
-      "publish_date": "2026年3月20日",
+      "description": "在以教育成就與升學競爭聞名的東亞社會，個體從學生時代便被迫投入一場零失誤的競賽，一旦跌倒，往往意味著被淘汰。作者透過研究證據與實際案例，希望能幫助讀者重新理解：真正的成功，是能在跌倒後重新站起來。",
+      "publish_date": "2026年6月3日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/cia-14?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=19&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011046821"
-        },
-        "readmoo": {
-          "score": 2.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210459745000101"
-        },
-        "goodreads": {
-          "score": 3.84,
-          "count": 920,
-          "url": "https://www.goodreads.com/book/show/19286617-get-the-truth?from_search=true&from_srp=true&qid=l2YDVUidcd&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B00IWUI4RQ/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 814,
-          "url": "https://www.amazon.com/gp/product/B00IWUI4RQ/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/Le3n9L"
-    },
-    {
-      "title": "點擊成長：Meta行銷長親授，數位廣告投放、轉換、數據分析全攻略",
-      "author": "亞歷克斯．舒茲",
-      "original_title": "Click Here: The Art and Science of Digital Marketing and Advertising",
-      "isbn": "9786264179072",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/meta-13?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$351",
-      "cover_url": "covers/meta-13.jpg",
-      "sale_price": "7/06-7/12 結帳折扣碼",
-      "sale_end": "",
-      "description": "《富比世》評選全球最具影響力行銷長亞歷克斯．舒茲淬鍊20年實戰經驗的數位行銷權威版 ★「如果沒有亞歷克斯的努力，臉書社群就無法將全球二十多億人連結在一起。」——馬克．祖克伯，Meta執行長★「（作者是）數位成長行銷領域名副其實的世界級專家……你不該忽視這本書。」——山姆．奧特曼，OpenAI執行長 「點擊」是數位行銷的成功關鍵。只有有效點擊，才能將顧客興趣轉化為行動。然而，在實務上，數位行銷遠比想像中困難：預算難以掌控、成效難以評估，甚至連是否真正帶來獲利都說不清楚。當你無法釐清哪些行銷活動真的有效，他人的成功經驗往往也無法複製。行銷人不需要更多工具，而是一套拆解數位行銷運作邏輯並可直接應用的方法，幫你找出最適合產品或服務的策略。本書正是這樣的指南。作者亞歷克斯．舒茲是Meta行銷長，也是Facebook成長團隊的核心成員，參與打造全球數十億用戶規模的產品，並親歷企業從停滯到高速擴張的關鍵",
-      "publish_date": "2026年5月21日",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/meta-13?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
+          "url": "https://www.kobo.com/tw/zh/ebook/kaist-1?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=7&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
         },
         "books_com": {
           "score": 2.5,
           "count": 1,
-          "url": "https://www.books.com.tw/products/0011052050"
+          "url": "https://www.books.com.tw/products/0011053090"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210473449000101"
-        },
-        "goodreads": {
-          "score": 3.95,
-          "count": 184,
-          "url": "https://www.goodreads.com/book/show/228697845-click-here?from_search=true&from_srp=true&qid=1blfbFHGqc&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DYJGYCMS/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 156,
-          "url": "https://www.amazon.com/gp/product/B0DYJGYCMS/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.11,
-      "short_affiliate_url": "https://reurl.cc/DY9OWE"
-    },
-    {
-      "title": "二十一世紀生死課・二版",
-      "author": "海德・沃瑞棋",
-      "original_title": "Modern Death: How Medicine Changed the End of Life",
-      "isbn": "9786267771501",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/pYjYbjF8fDWF8fx4R9RhVA?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=15&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$374",
-      "cover_url": "covers/pYjYbjF8fDWF8fx4R9RhVA.jpg",
-      "sale_price": "7/06-7/12 結帳折扣碼",
-      "sale_end": "",
-      "description": "拜醫療進展之賜，死亡的原因、過程，已與十年前大相逕庭。本書涵蓋重症與臨終醫療相關議題，作者承繼醫界對生命與臨終的思索，從死亡的本質談起，擴而論及死亡的生理機制等，是探討當代生死學與臨終醫療的必讀之作。",
-      "publish_date": "2026年3月4日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/pYjYbjF8fDWF8fx4R9RhVA?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=15&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011045939"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210455775000101"
-        },
-        "goodreads": {
-          "score": 3.93,
-          "count": 707,
-          "url": "https://www.goodreads.com/book/show/29939201-modern-death?from_search=true&from_srp=true&qid=DTpsejJIMH&rank=1",
-          "note": "title",
-          "amazon_url": "",
-          "confidence": 40,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 197,
-          "url": "https://www.amazon.com/-/zh_TW/Haider-Warraich-ebook/dp/B01IA6NU34/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.01,
-      "short_affiliate_url": "https://reurl.cc/be5m1o"
-    },
-    {
-      "title": "勇於衝撞：資深心理師給你的8堂情緒煉金課——從攻擊、內耗到創造，釋放被誤解的生命原動力，在不退讓的界限中捍衛真實自我",
-      "author": "黃玉玲",
-      "original_title": "Facing Conflict",
-      "isbn": "9786267728901",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lVX_QoJKjzaQtRUcZagFsA?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=18&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$298",
-      "cover_url": "covers/lVX_QoJKjzaQtRUcZagFsA.jpg",
-      "sale_price": "7/06-7/12 結帳折扣碼",
-      "sale_end": "",
-      "description": "你的退讓，正在殺死你的生命力。你不需要減少情緒，但要精煉你的生命原動力。資深心理師教你用火照亮邊界，將被誤解的攻擊性淬煉為真實的創造力，並集結一萬小時的個案經驗，帶你進行一場以剛克剛的心理修復。",
-      "publish_date": "2026年3月25日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/lVX_QoJKjzaQtRUcZagFsA?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=18&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011047386"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210458454000101"
+          "url": "https://readmoo.com/book/210476722000101"
         },
         "goodreads": {
           "score": null,
           "count": 0,
           "url": "",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B077WPNL1T/ref=x_gr_bb_kindle",
-          "confidence": 25,
-          "cross_validated": true
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/Andreas-Wimmer-ebook/dp/B077WPNL1T/ref=sr_1_1"
+          "url": ""
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/3yDMdl"
+      "avg_score": 2.5,
+      "short_affiliate_url": "https://reurl.cc/gN8EAX"
     },
     {
-      "title": "剩餘的滋味：人類的食物保存戰與浪費史",
-      "author": "埃莉諾‧巴尼特",
-      "original_title": "Leftovers: A History of Food Waste and Preservation",
-      "isbn": "9786264560177",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/RXAHLIPKjzKF3t8qP3m-Fw?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$256",
-      "cover_url": "covers/RXAHLIPKjzKF3t8qP3m-Fw.jpg",
+      "title": "獎勵的惡果：外在激勵如何一敗塗地？震撼家庭、學校、企業界的影響力聖經",
+      "author": "艾菲．柯恩",
+      "original_title": "Punished By Rewards: Twenty-Fifth Anniversary Edition: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes",
+      "isbn": "9786267874172",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FnDUd4rvNzeVat7xdmZ0JQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$446",
+      "cover_url": "covers/FnDUd4rvNzeVat7xdmZ0JQ.jpg",
       "sale_price": "7/06-7/12 結帳折扣碼",
       "sale_end": "",
-      "description": "食物的匱乏與過剩、保存與浪費是如何受人類文明發展影響？而食物的去向，又如何回過頭來左右世界局勢？人類活動與食物的獲取及保存高度相關，浪費的原因也隨時代不停改變。你吃什麼會定義你，你浪費的食物也會定義你。",
-      "publish_date": "2026年6月2日",
+      "description": "奪走孩子、學生、員工，甚至你自己的生活熱情，這就是「獎勵」。人們越依賴獎勵，越容易失去對事情本身的興趣。本書將帶領讀者重新理解動機、學習與人際關係的本質，找到生活和工作更有效的管理模式。",
+      "publish_date": "2026年6月10日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/RXAHLIPKjzKF3t8qP3m-Fw?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
+          "url": "https://www.kobo.com/tw/zh/ebook/FnDUd4rvNzeVat7xdmZ0JQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
         },
         "books_com": {
           "score": 4.5,
           "count": 3,
-          "url": "https://www.books.com.tw/products/0011052498"
+          "url": "https://www.books.com.tw/products/0011053612"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210478160000101"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210478528000101"
         },
         "goodreads": {
-          "score": 3.79,
-          "count": 47,
-          "url": "https://www.goodreads.com/book/show/202491321-leftovers?from_search=true&from_srp=true&qid=Jo2t9htFMN&rank=1",
+          "score": 4.17,
+          "count": 4847,
+          "url": "https://www.goodreads.com/book/show/12150193-punished-by-rewards?from_search=true&from_srp=true&qid=GB7bcWH8ZT&rank=1",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CNS4CM18/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B004MYFLDG/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 15,
-          "url": "https://www.amazon.com/gp/product/B0CNS4CM18/ref=x_gr_bb_kindle"
+          "count": 756,
+          "url": "https://www.amazon.com/gp/product/B004MYFLDG/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.01,
-      "short_affiliate_url": "https://reurl.cc/EY7QO0"
+      "avg_score": 4.23,
+      "short_affiliate_url": "https://reurl.cc/jVqOEn"
     },
     {
-      "title": "聊癒的力量：接住對方、也不內耗自己，化陪伴為勇氣的對話練習",
-      "author": "伊麗絲．桑德",
-      "original_title": "Help For Your Nearest People: How to support with conversations that help",
-      "isbn": "9786267589977",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lD88HXnGHDeyZPic-Ubnvg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$250",
-      "cover_url": "covers/lD88HXnGHDeyZPic-Ubnvg.jpg",
+      "title": "心裡的痛，身體告訴你：運用神經可塑性，終結慢性疼痛、疲勞與焦慮",
+      "author": "妮可．薩克斯",
+      "original_title": "Mind Your Body: A Revolutionary Program to Release Chronic Pain and Anxiety",
+      "isbn": "9786267747889",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SSNq3UDdsT2i3_2YV0lebg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$321",
+      "cover_url": "covers/SSNq3UDdsT2i3_2YV0lebg.jpg",
       "sale_price": "7/06-7/12 結帳折扣碼",
       "sale_end": "",
-      "description": "陪伴，不要只會說「加油！」本書將抽象的同理心拆解為可執行的對話步驟，透過8個對策及15個對話練習正確「聊傷」，讓對話從表面安撫進入核心療癒，幫助你在陪伴對方時不再啞口無言、成為對方走出情緒低潮的轉機。",
-      "publish_date": "2026年5月26日",
+      "description": "在這個慢性疼痛與焦慮幾乎成為日常的時代，許多人陷入了「越醫越痛」的絕望循環。本書作者妮可．薩克斯指出，數以萬計的背痛、腸躁症、偏頭痛等，往往並非源自生理結構的損傷，而是源自於大腦與神經系統的「誤判」。",
+      "publish_date": "2026年6月4日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/lD88HXnGHDeyZPic-Ubnvg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
+          "url": "https://www.kobo.com/tw/zh/ebook/SSNq3UDdsT2i3_2YV0lebg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011053481"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210478119000101"
+        },
+        "goodreads": {
+          "score": 4.34,
+          "count": 1766,
+          "url": "https://www.goodreads.com/book/show/212806686-mind-your-body?from_search=true&from_srp=true&qid=QplGvMI3b9&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D3C1SJTT/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 627,
+          "url": "https://www.amazon.com/gp/product/B0D3C1SJTT/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.43,
+      "short_affiliate_url": "https://reurl.cc/DYv82R"
+    },
+    {
+      "title": "激素平衡瘦身課：啟動代謝重建，瘦得健康持久",
+      "author": "許書華",
+      "original_title": "",
+      "isbn": "9786264179324",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/I3d9JhTobjWxmKhFUqB11g?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$255",
+      "cover_url": "covers/I3d9JhTobjWxmKhFUqB11g.jpg",
+      "sale_price": "7/06-7/12 結帳折扣碼",
+      "sale_end": "",
+      "description": "寫給每次減重都半途而廢的你，你不是不努力，而是激素失衡。真正能長期掌控體重的方法，不是與身體對抗，而是理解身體如何運作。當我們懂得與激素並肩作戰，行為和選擇會更符合身體自然的節奏，減重之路就能長久執行！",
+      "publish_date": "2026年5月29日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/I3d9JhTobjWxmKhFUqB11g?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
         },
         "books_com": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.books.com.tw/products/E050335641"
+          "url": "https://www.books.com.tw/products/0011052394"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://readmoo.com/book/210475122000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 5.0,
+      "short_affiliate_url": "https://reurl.cc/Xxe987"
+    },
+    {
+      "title": "有錢到死：退休後讓財富壽命活得比你久，才能安安心心過日子",
+      "author": "麥可・莫林",
+      "original_title": "Financial Longevity: increase your wealth span, spend money guilt-free, and gain the confidence to enjoy your bigger future",
+      "isbn": "9786269295876",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DUJ2Yrx8Ej2DUqt5Ofbe_g?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=14&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$255",
+      "cover_url": "covers/DUJ2Yrx8Ej2DUqt5Ofbe_g.jpg",
+      "sale_price": "7/06-7/12 結帳折扣碼",
+      "sale_end": "",
+      "description": "因為你不知道哪一天才會掛掉，因此你的理財退休計畫一定要重新調整，讓你的「財富壽命」趕上你的健康壽命！這是一本適合自學理財的書，除了教你如何治療各種理財疾病，也教你如何針對個人規畫打造永續金流。",
+      "publish_date": "2026年5月27日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/DUJ2Yrx8Ej2DUqt5Ofbe_g?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=14&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
+        },
+        "books_com": {
+          "score": 2.5,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0011052348"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210474645000101"
+        },
+        "goodreads": {
+          "score": 4.72,
+          "count": 57,
+          "url": "https://www.goodreads.com/book/show/252704726?from_search=true&from_srp=true&qid=BGXeP9sCXc&rank=2",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DF45V5D8/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 70,
+          "url": "https://www.amazon.com/gp/product/B0DF45V5D8/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.74,
+      "short_affiliate_url": "https://reurl.cc/bezyrM"
+    },
+    {
+      "title": "策略性閒暇：數位疲勞時代，改變你人生的全新休息方式",
+      "author": "森下彰大",
+      "original_title": "戦略的暇―人生を変える「新しい休み方」",
+      "isbn": "9786264444262",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/PbsvDBa95juKnPwL-788jQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=12&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$274",
+      "cover_url": "covers/PbsvDBa95juKnPwL-788jQ.jpg",
+      "sale_price": "7/06-7/12 結帳折扣碼",
+      "sale_end": "",
+      "description": "我們之所以不能如願地發揮自己的能力，不是因為缺乏「能力」，而是因為缺乏「容量」。現在是我們奪回被時間竊賊偷走的「空閒時間」的時候了！透過閱讀本書，你能學會重新組織自己的休息方式，為生活帶來積極的改變！",
+      "publish_date": "2026年5月22日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/PbsvDBa95juKnPwL-788jQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=12&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011051883"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210479993000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 3.7,
+          "count": 58,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0DLG9WB9G/ref=sr_1_1"
+        }
+      },
+      "avg_score": 3.72,
+      "short_affiliate_url": "https://reurl.cc/4YyGz2"
+    },
+    {
+      "title": "遺忘，剛剛好：大腦內建生存機制，不記得的好處多",
+      "author": "史考特．史摩",
+      "original_title": "Forgetting: The Benefits of Not Remembering",
+      "isbn": "9786267852378",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/tyMyR0inRDqsuxn0K4LQJA?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=20&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$321",
+      "cover_url": "covers/tyMyR0inRDqsuxn0K4LQJA.jpg",
+      "sale_price": "7/06-7/12 結帳折扣碼",
+      "sale_end": "",
+      "description": "恰如其分的記憶與遺忘能放鬆大腦、減經心智負擔。「不記得」是人類演化而來的生存本能，能解釋許多看似難以理解的現象。本書將扭轉我們對「常態遺忘」的迷思，破除對遺忘的焦慮與恐懼，讓我們擁有最佳心理狀態。",
+      "publish_date": "2026年4月27日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/tyMyR0inRDqsuxn0K4LQJA?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=20&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0011049247"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210475630000101"
+          "url": "https://readmoo.com/book/210468290000101"
         },
         "goodreads": {
-          "score": 3.5,
-          "count": 12,
-          "url": "https://www.goodreads.com/book/show/125287273-helping-through-conversation",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C2DJZJZG/ref=x_gr_bb_kindle",
-          "confidence": 80,
-          "cross_validated": null
+          "score": 3.76,
+          "count": 562,
+          "url": "https://www.goodreads.com/book/show/55333947-forgetting?from_search=true&from_srp=true&qid=ZOCSZxkOYa&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B08HL8NGST/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 6,
-          "url": "https://a.co/d/0hePpPFe"
+          "score": 4.6,
+          "count": 150,
+          "url": "https://www.amazon.com/gp/product/B08HL8NGST/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 3.96,
-      "short_affiliate_url": "https://reurl.cc/WzdOp9",
-      "original_author": "Ilse Sand"
+      "avg_score": 3.94,
+      "short_affiliate_url": "https://reurl.cc/EY2a5K"
     },
     {
-      "title": "世界頂尖人士如何度過他們的「假日」：被媒體譽為一年之初的必讀之書，引發壓倒性話題",
-      "author": "越川慎司",
-      "original_title": "世界の一流は「休日」に何をしているのか　年収が上がる週末の過ごし方",
-      "isbn": "9786267873090",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/978z5aQsvDukT4Tf7DJGDg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$255",
-      "cover_url": "covers/978z5aQsvDukT4Tf7DJGDg.jpg",
+      "title": "國王",
+      "author": "約翰・伯格",
+      "original_title": "King: A Street Story",
+      "isbn": "9786264560085",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/0HY9qP1J0DyE00a4XpncEg?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=13&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/0HY9qP1J0DyE00a4XpncEg.jpg",
       "sale_price": "7/06-7/12 結帳折扣碼",
       "sale_end": "",
-      "description": "為何有些人能一直保持活力？許多人認為週末只要「單純放鬆」就能消除疲勞，然而上班日一到，倦怠感與壓力卻依然揮之不去。本書揭密世界頂尖人士的假日習慣，提升人生品質與自我效能的「休養」及「修養」。",
-      "publish_date": "2026年4月7日",
-      "ratings": {
-        "kobo": {
-          "score": 4.33,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/978z5aQsvDukT4Tf7DJGDg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 6,
-          "url": "https://www.books.com.tw/products/0011048175"
-        },
-        "readmoo": {
-          "score": 4.0,
-          "count": 42,
-          "url": "https://readmoo.com/book/210460423000101"
-        },
-        "goodreads": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/250745984?from_search=true&from_srp=true&qid=EsgsccdHMA&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FPWWKHC8/ref=x_gr_bb_kindle",
-          "confidence": 30,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 1548,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0F8HDYCPF/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/OQ1mxy"
-    },
-    {
-      "title": "不比較的自信：增強自我價值感的阿德勒心理學",
-      "author": "岸見一郎",
-      "original_title": "妬まずに生きる",
-      "isbn": "9786267859339",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/35HlWDJZCDGm-aYzyJfYoQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$208",
-      "cover_url": "covers/35HlWDJZCDGm-aYzyJfYoQ.jpg",
-      "sale_price": "7/06-7/12 結帳折扣碼",
-      "sale_end": "",
-      "description": "不用跟別人比，你就是最好的自己。 《被討厭的勇氣》心理學大師岸見一郎， 終結**「社群焦慮」**的情緒減壓法。 我們總是習慣把人生當成一場競賽，用他人的成就丈量自己的價值。久而久之，焦慮、懷疑與不安便成了日常。不是因為你不夠優秀，而是你一直站在「別人的標準」中看自己。當你為了同事的升遷不平，或因為朋友光鮮亮麗的生活自卑，那些積累的失落感，最終都會成為透支你生命的心理內耗。 心理學大師岸見一郎告訴我們，只要去除多餘的在意，就不會再被外界的評價牽動；劃清心理界線，便不會再被他人的認同耗損；只要能放下「被認同」的渴望，就能把注意力拉回真正重要的地方。當我們學會將目光重新聚焦自我、不輕易受外界干擾，就能把對外向的關注轉化為內在的充盈。 從今天起，別再讓別人成為定義你的標準。在這個隨處都在比較的時代，你需要的不是「贏下去」的狠勁，而是「不比較」的自信。當你明白自己不需要成為任何人，你的人生，才真正屬",
+      "description": "恰如其分的記憶與遺忘能放鬆大腦、減經心智負擔。「不記得」是人類演化而來的生存本能，能解釋許多看似難以理解的現象。本書將扭轉我們對「常態遺忘」的迷思，破除對遺忘的焦慮與恐懼，讓我們擁有最佳心理狀態。",
       "publish_date": "2026年5月26日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/35HlWDJZCDGm-aYzyJfYoQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
+          "url": "https://www.kobo.com/tw/zh/ebook/0HY9qP1J0DyE00a4XpncEg?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=13&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0011052591"
+          "url": "https://www.books.com.tw/products/0011052488"
         },
         "readmoo": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://readmoo.com/book/210474825000101"
+          "score": 4.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210475115000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
+          "score": 3.76,
+          "count": 411,
+          "url": "https://www.goodreads.com/book/show/52933.King?from_search=true&from_srp=true&qid=MSdhNAqMFh&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B00634NYUA/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": 3.8,
-          "count": 19,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4396117078/ref=sr_1_1"
+          "score": 4.3,
+          "count": 10,
+          "url": "https://www.amazon.com/gp/product/B00634NYUA/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 3.77,
-      "short_affiliate_url": "https://reurl.cc/QNda8M"
+      "short_affiliate_url": "https://reurl.cc/eQ9ZKx"
     },
     {
-      "title": "隱性內耗：看不見的傷，如何消磨你的能量？",
-      "author": "蘇絢慧",
-      "original_title": "",
-      "isbn": "9786263588998",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/109eELMr-zKLBqApVL8__g?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=17&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$287",
-      "cover_url": "covers/109eELMr-zKLBqApVL8__g.jpg",
+      "title": "沒時間化妝：飛行醫生撼動人心的故事",
+      "author": "伊莉莎白．格林醫生（Dr Elizabeth Green）",
+      "original_title": "No Time for Makeup: The life of a flying doctor and paediatrician",
+      "isbn": "9789861345758",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/7fw5qaMH8DOZa7HB3pwNDQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=11&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$244",
+      "cover_url": "covers/7fw5qaMH8DOZa7HB3pwNDQ.jpg",
       "sale_price": "7/06-7/12 結帳折扣碼",
       "sale_end": "",
-      "description": "寫給每一個陷入「隱性內耗」卻不自知的人們。覺察自己的隱性內耗、接納曾經的傷、運用本書中的內在修復練習，你將一步步整合內在人格。不再讓看不見的內在創傷自我攻擊，改寫人生腳本，不再內耗，活出安好自在的狀態！",
-      "publish_date": "2026年2月26日",
+      "description": "全球首個飛行醫生服務機構第一線真實現場！親臨雲端上的急診室，飛行醫生的親身經歷，比編劇想像的還要刺激、更令人腸胃翻滾絞痛！在生死交關的現場，最動人的姿態，是那雙因救援而顫抖、卻絕不放開的手。",
+      "publish_date": "2026年6月1日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/109eELMr-zKLBqApVL8__g?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=17&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
+          "url": "https://www.kobo.com/tw/zh/ebook/7fw5qaMH8DOZa7HB3pwNDQ?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=11&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
         },
         "books_com": {
+          "score": 3.5,
+          "count": 1,
+          "url": "https://www.books.com.tw/products/0011053330"
+        },
+        "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0011045833"
+          "url": "https://readmoo.com/book/210476691000101"
+        },
+        "goodreads": {
+          "score": 3.71,
+          "count": 14,
+          "url": "https://www.goodreads.com/book/show/241455352-no-time-for-makeup?from_search=true&from_srp=true&qid=vAAl7pOdWI&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FNWHWCC3/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 9,
+          "url": "https://www.amazon.com/gp/product/B0FNWHWCC3/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.92,
+      "short_affiliate_url": "https://reurl.cc/OQXeKX"
+    },
+    {
+      "title": "心碎家園",
+      "author": "克萊兒・萊斯里・賀爾",
+      "original_title": "Broken Country",
+      "isbn": "9786267873311",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/B7LAe1uBqjCWHzz0q77ZKg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720",
+      "kobo_price": "NT$322",
+      "cover_url": "covers/B7LAe1uBqjCWHzz0q77ZKg.jpg",
+      "sale_price": "7/06-7/12 結帳折扣碼",
+      "sale_end": "",
+      "description": "銷售突破百萬冊，一翻開就停不下來！貝絲與丈夫法蘭克的幸福生活，其實建立在多年深埋的祕密之上。直到一聲槍響射殺了一隻狗，而牠的主人加百列竟是她昔日初戀。三人命運再度交織，引向致命結局...",
+      "publish_date": "2026年6月1日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/B7LAe1uBqjCWHzz0q77ZKg?sId=1850d779-cd33-4b70-ba28-69090bb9a623&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260720"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 10,
+          "url": "https://www.books.com.tw/products/0011053013"
         },
         "readmoo": {
           "score": 4.5,
-          "count": 2,
-          "url": "https://readmoo.com/book/210455661000101"
+          "count": 4,
+          "url": "https://readmoo.com/book/210475775000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
+          "score": 4.27,
+          "count": 675574,
+          "url": "https://www.goodreads.com/book/show/238629864-broken-country?from_search=true&from_srp=true&qid=imqISGQLM4&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CW1J2FDT/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/%E9%9A%B1%E6%80%A7%E5%85%A7%E8%80%97-%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E5%82%B7%EF%BC%8C%E5%A6%82%E4%BD%95%E6%B6%88%E7%A3%A8%E4%BD%A0%E7%9A%84%E8%83%BD%E9%87%8F%EF%BC%9F%E3%80%90%E9%9A%A8%E6%9B%B8%E6%94%B6%E8%97%8F%E3%80%8C%E6%BA%AB%E6%9F%94%E7%9A%84%E4%BF%AE%E5%BE%A9%E7%B7%B4%E7%BF%92%E3%80%8D%E6%9B%B8%E5%8D%A1%E3%80%8D%E3%80%91-Traditional-Chinese-%E8%98%87%E7%B5%A2%E6%85%A7-ebook/dp/B0GQQ58H6P/ref=sr_1_1"
+          "score": 4.5,
+          "count": 100475,
+          "url": "https://www.amazon.com/gp/product/B0CW1J2FDT/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.5,
-      "short_affiliate_url": "https://reurl.cc/MWvznp"
-    },
-    {
-      "title": "剛剛好的孤獨：與人同行，也要為自己留白",
-      "author": "藤井英子",
-      "original_title": "ほどよく孤独に生きてみる",
-      "isbn": "9786267841464",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/klOVOYmHpTGZDR73B_Fn0g?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=16&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913",
-      "kobo_price": "NT$226",
-      "cover_url": "covers/klOVOYmHpTGZDR73B_Fn0g.jpg",
-      "sale_price": "7/06-7/12 結帳折扣碼",
-      "sale_end": "",
-      "description": "分享到 FacebookShare via Email Share via Email Related articles",
-      "publish_date": "2026年3月10日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/klOVOYmHpTGZDR73B_Fn0g?sId=3a81b9e2-2c55-44fd-857e-6f2ffb1fca11&ssId=I8RF60uQx0sm4_4bxZjOz&cPos=16&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260913"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011046238"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210457658000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 252,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4763142011/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/RR4kax"
+      "avg_score": 4.3,
+      "short_affiliate_url": "https://reurl.cc/NOXEKp"
     }
   ]
 }
