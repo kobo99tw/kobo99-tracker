@@ -241,6 +241,8 @@ a.r-link:hover{background:var(--line)}
 .mark-btn.m-share:hover{border-color:#2563EB;color:#2563EB}
 .filter-btn{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .filter-btn.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
+.hk-tip{display:none;font-size:.8rem;color:var(--ink2);background:var(--teal-bg);border-bottom:1px solid var(--teal);padding:.55rem 1.25rem;line-height:1.6}
+.hk-tip.open{display:block}
 
 /* ── 日曆 Modal ── */
 .modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:100;align-items:center;justify-content:center;padding:1rem}
@@ -376,8 +378,10 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   </select>
   <button id="filterSavedBtn" class="filter-btn" onclick="toggleFilterSaved()">🔖 只看收藏</button>
   <button class="filter-btn" onclick="openCalModal()">📅 日曆</button>
+  <button class="filter-btn" onclick="toggleHkTip()">香港（HK）用戶</button>
   <div class="stat-chips" id="chips"></div>
 </div>
+<div id="hkTip" class="hk-tip">香港（HK）讀者小提醒：我的帳戶 → 帳戶設定 → 付款資訊，把帳單地址編輯改選「台灣」，即可享受 Kobo 99 優惠。</div>
 
 <div class="grid" id="grid">
   <div class="empty">⏳ 書單載入中...</div>
@@ -519,6 +523,7 @@ function dateVal(md) {
 const todayVal = dateVal(todayMD);
 
 function openCalModal()  { document.getElementById('calModal').classList.add('open'); }
+function toggleHkTip()   { document.getElementById('hkTip').classList.toggle('open'); }
 function autolinkText(txt) {
   const esc = txt.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   return esc.replace(/https?:\/\/\S+/g, u =>
@@ -759,7 +764,7 @@ function render() {
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
     const copyCodeBtn = book.promo_code
-      ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'港澳')}用戶結帳時輸入此代碼">🇭🇰 複製代碼</button>`
+      ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'香港')}用戶結帳時輸入此代碼">🇭🇰 複製代碼</button>`
       : '';
 
     const markBtns = `
