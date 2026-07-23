@@ -1,444 +1,428 @@
 {
   "year": 2026,
-  "week": 29,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w29",
-  "sale_label": "NT$99 特價：7/16（四）～7/22（三）",
-  "sale_start": "2026-07-16",
-  "sale_end": "2026-07-22",
+  "week": 30,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w30",
+  "sale_label": "NT$99 特價：7/23（四）～7/29（三）",
+  "sale_start": "2026-07-23",
+  "sale_end": "2026-07-29",
   "on_sale": true,
-  "updated_at": "2026-07-16T12:53:00.246879+08:00",
+  "updated_at": "2026-07-23T13:25:16.673806+08:00",
   "books": [
     {
-      "title": "心癢【鸚鵡螺圖書獎金獎】：感受內心的騷動:擁抱被數字和精準化剝奪的無限可能",
-      "author": "達夫•麥當諾(Duff McDonald)",
-      "original_title": "Tickled: A Commonsense Guide to the Present Moment",
-      "isbn": "9789864898534",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/icEpYXfRdTOrPJHVelISWQ?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=11&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/icEpYXfRdTOrPJHVelISWQ.jpg",
+      "title": "數學就是這樣用：找出生活問題的最佳解",
+      "author": "杜．索托伊",
+      "original_title": "Thinking Better：The Art of the Shortcut",
+      "isbn": "9789865258962",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/mGeDLn1WZTCM4Fjl0l77rg?sId=d934e0b0-32fa-41bb-b285-71ecd411c0ec&ssId=7tShyZnOVlutw3IhVhKkV&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/mGeDLn1WZTCM4Fjl0l77rg.jpg",
       "sale_price": "NT$99",
-      "date": "7/16",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
+      "date": "7/23",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
       "on_sale": true,
-      "publisher": "漫遊者文化",
-      "publish_date": "2023年10月12日",
+      "publisher": "",
+      "publish_date": "2022年10月31日",
       "language": "中文",
-      "original_author": "達夫•麥當諾(Duff McDonald)",
+      "original_author": "Marcus du Sautoy",
+      "description": "數學是一種高層次的思維能力，當中充滿捷徑，可以解決我們生活中遇到的複雜問題，文明也因數學這項強力工具而加速發展。我們可能無法依靠電腦或AI來解決生活中的所有問題，但我們可以學習如何聰明思考。",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/icEpYXfRdTOrPJHVelISWQ?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=11&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050184488"
-        },
-        "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210295958000101"
+          "url": "https://www.kobo.com/tw/zh/ebook/mGeDLn1WZTCM4Fjl0l77rg?sId=d934e0b0-32fa-41bb-b285-71ecd411c0ec&ssId=7tShyZnOVlutw3IhVhKkV&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0010939619"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210252866000101"
         },
         "goodreads": {
-          "score": 3.26,
-          "count": 43,
-          "url": "https://www.goodreads.com/book/show/58808789-tickled?from_search=true&from_srp=true&qid=yQawGHeyXk&rank=1",
+          "score": 3.58,
+          "count": 636,
+          "url": "https://www.goodreads.com/book/show/57007645-thinking-better?from_search=true&from_srp=true&qid=8g9p98Wzoi&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B08THT1KDL/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B08W4Z4PMN/ref=x_gr_bb_kindle",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 3.58,
+      "short_affiliate_url": "https://reurl.cc/eQEK47"
+    },
+    {
+      "title": "大掠奪：華爾街的擴張和美國企業的沒落",
+      "author": "拉娜‧福洛荷 Rana Foroohar",
+      "original_title": "Makers and Takers: The Rise of Finance and the Fall of American Business",
+      "isbn": "3039571370255",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/9HJP-bXhpDeXJCz8UiMD6A?sId=d8eb4c71-54b9-428a-8fe3-f6366374f096&ssId=z96naCbRaUW6LdlpAh3av&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$364",
+      "cover_url": "covers/9HJP-bXhpDeXJCz8UiMD6A.jpg",
+      "sale_price": "NT$99",
+      "date": "7/23",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
+      "on_sale": true,
+      "publisher": "時報出版",
+      "publish_date": "2017年7月7日",
+      "language": "中文",
+      "original_author": "拉娜‧福洛荷 Rana Foroohar",
+      "description": "大到不能倒的金融巨獸威脅著所有人的生活，金融化正一步步危及美國夢的未來。作者在書中不只劃破粉紅氣泡，更透過書中內容向所有人指出如何把制度改革成更永續、讓更多人分享經濟成果的未來方針。",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/9HJP-bXhpDeXJCz8UiMD6A?sId=d8eb4c71-54b9-428a-8fe3-f6366374f096&ssId=z96naCbRaUW6LdlpAh3av&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0010756963"
+        },
+        "readmoo": {
+          "score": 4.1,
+          "count": 14,
+          "url": "https://readmoo.com/book/210076363000101"
+        },
+        "goodreads": {
+          "score": 3.97,
+          "count": 1674,
+          "url": "https://www.goodreads.com/book/show/26150584-makers-and-takers?from_search=true&from_srp=true&qid=y2HxEprbEW&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B014BR46P2/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 22,
-          "url": "https://www.amazon.com/gp/product/B08THT1KDL/ref=x_gr_bb_kindle"
+          "count": 733,
+          "url": "https://www.amazon.com/gp/product/B014BR46P2/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 3.69,
-      "short_affiliate_url": "https://reurl.cc/jV5e2L",
-      "description": "一名終身信奉數字的商界菁英，如何拋卻對精準的依附，轉而深入探究生命的意義？本書展現一種打破框架的全新觀點，說明追求精準的源頭正是數字和量化的世界觀。找回內心平靜，感受煥然的創造力，並體驗活著的意義。",
-      "promo_region": "香港",
-      "promo_code": "kobo0716"
+      "avg_score": 4.1,
+      "short_affiliate_url": "https://reurl.cc/MWAKxm"
     },
     {
-      "title": "早晨1小時，留給最重要的事",
-      "author": "池田千恵",
-      "original_title": "「朝1時間」ですべてが変わる モーニングルーティン",
-      "isbn": "9786267730232",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/N4yLNXWN6jWbulwoV5RGsA?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/N4yLNXWN6jWbulwoV5RGsA.jpg",
-      "sale_price": "NT$99",
-      "date": "7/17",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
-      "on_sale": true,
-      "publisher": "楓書坊",
-      "publish_date": "2025年7月29日",
-      "language": "中文",
-      "original_author": null,
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/N4yLNXWN6jWbulwoV5RGsA?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/0011026681"
-        },
-        "readmoo": {
-          "score": 3.8,
-          "count": 5,
-          "url": "https://readmoo.com/book/210399956000101"
-        },
-        "goodreads": {
-          "score": 2.5,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/72468444-1?from_search=true&from_srp=true&qid=DEQWzvSH31&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/4534057741/ref=x_gr_bb_amazon",
-          "confidence": 60,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 146,
-          "url": "https://www.amazon.com/gp/product/4534057741/ref=x_gr_bb_amazon"
-        }
-      },
-      "avg_score": 3.99,
-      "short_affiliate_url": "https://reurl.cc/omd36l",
-      "description": "掌握早晨1小時，就能掌握整個人生。透過時間管理，有效利用短暫的早晨1小時，不必付出過多時間代價，就能走上與過去截然不同的人生。當你試著一步步跟隨書中引導，也許就會發現，改變人生，原來真的很簡單。",
-      "promo_region": "香港",
-      "promo_code": "kobo0717"
-    },
-    {
-      "title": "罗马军团",
-      "author": "魏凤莲",
-      "original_title": "Roman Legions",
-      "isbn": "9787301320532",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SaJNxJMLSjuAaxACAsu-HQ?sId=c0847010-5bb7-406d-8b23-29c4e0f770d5&ssId=w1aCl2pLS-VqqL8lifyFQ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916",
-      "kobo_price": "NT$639",
-      "cover_url": "covers/SaJNxJMLSjuAaxACAsu-HQ.jpg",
-      "sale_price": "NT$99",
-      "date": "7/17",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
-      "on_sale": true,
-      "publisher": "北京大学出版社",
-      "publish_date": "2021年5月1日",
-      "language": "中文",
-      "original_author": null,
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/SaJNxJMLSjuAaxACAsu-HQ?sId=c0847010-5bb7-406d-8b23-29c4e0f770d5&ssId=w1aCl2pLS-VqqL8lifyFQ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 4.28,
-          "count": 613,
-          "url": "https://www.goodreads.com/book/show/8677952-legions-of-rome?from_search=true&from_srp=true&qid=78J8V7ecLY&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B07V3JBG2Q/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 743,
-          "url": "https://www.amazon.com/gp/product/B07V3JBG2Q/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.46,
-      "short_affiliate_url": "https://reurl.cc/Ledog9",
-      "description": "在烽煙四起的世界古代戰場上，羅馬軍團縱橫馳騁千年之久，留下過無數輝煌的戰績。本書以古羅馬帝國的興衰為大背景，記錄了羅馬軍團風雲激蕩的恢弘歷史，分析其從興起到強大直至衰落的內部和外部原因。",
-      "promo_region": "香港",
-      "promo_code": "kobo0717a"
-    },
-    {
-      "title": "幸運女神",
-      "author": "瑪麗莎．斯特普利",
-      "original_title": "LUCKY",
-      "isbn": "9786267282564",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/20-apple-tv?sId=b1ea3653-b972-4cca-b9a7-c1602a2fe475&ssId=oDjVl16U2CChmCLZJdsKg&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/20-apple-tv.jpg",
-      "sale_price": "NT$99",
-      "date": "7/18",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
-      "on_sale": true,
-      "publisher": "春光出版",
-      "publish_date": "2024年2月27日",
-      "language": "中文",
-      "original_author": "Marissa Stapley",
-      "ratings": {
-        "kobo": {
-          "score": 1.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/20-apple-tv?sId=b1ea3653-b972-4cca-b9a7-c1602a2fe475&ssId=oDjVl16U2CChmCLZJdsKg&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 14,
-          "url": "https://www.books.com.tw/products/0010980869"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 11,
-          "url": "https://readmoo.com/book/210123022000101"
-        },
-        "goodreads": {
-          "score": 3.58,
-          "count": 77812,
-          "url": "https://www.goodreads.com/book/show/206033559?from_search=true&from_srp=true&qid=Osp8hGSShW&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B08BZDG1Z8/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.1,
-          "count": 14490,
-          "url": "https://www.amazon.com/gp/product/B08BZDG1Z8/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.66,
-      "short_affiliate_url": "https://reurl.cc/XxkbbD",
-      "description": "他們幹了一大票，原本想就此金盆洗手，本該在身邊的男友竟人間蒸發。就在這個緊要關頭，竟中了頭獎！福星此刻正被警方通緝，不可能領獎，她想起那個素未謀面的母親，深信血緣的牽引能讓她脫離所有苦難，重拾人生。",
-      "promo_region": "香港",
-      "promo_code": "kobo0718"
-    },
-    {
-      "title": "焦慮世代：為什麼我們活在充滿不確定性與不安的社會",
-      "author": "羅蘭．保爾森（Roland Paulsen）",
-      "original_title": "Tänk om : en studie i oro（WHAT IF: THE NEW AGE OF ANXIETY）",
-      "isbn": "9786267118016",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3wflSM0Y3jaY-mtA1Y91dQ?sId=08be8706-158b-4570-809c-676a8d662c50&ssId=6GsIh8m_sbfwRWeumyDQo&utm_source=koboblog",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/3wflSM0Y3jaY-mtA1Y91dQ.jpg",
-      "sale_price": "NT$99",
-      "date": "7/19",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
-      "on_sale": true,
-      "publisher": "大塊文化",
-      "publish_date": "2022年1月31日",
-      "language": "中文",
-      "original_author": "羅蘭．保爾森（Roland Paulsen）",
-      "ratings": {
-        "kobo": {
-          "score": 4.36,
-          "count": 11,
-          "url": "https://www.kobo.com/tw/zh/ebook/3wflSM0Y3jaY-mtA1Y91dQ?sId=08be8706-158b-4570-809c-676a8d662c50&ssId=6GsIh8m_sbfwRWeumyDQo&utm_source=koboblog"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0010915738"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 20,
-          "url": "https://readmoo.com/book/210214687000101"
-        },
-        "goodreads": {
-          "score": 3.79,
-          "count": 616,
-          "url": "https://www.goodreads.com/book/show/60289037?from_search=true&from_srp=true&qid=CA9xIPO2MS&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/B09QSH1YDG/ref=x_gr_bb_kindle",
-          "confidence": 65,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://www.amazon.com/gp/product/B09QSH1YDG/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.82,
-      "short_affiliate_url": "https://reurl.cc/beRoo6",
-      "description": "這是社會發展最進步的時代，卻也是人類最不快樂的時代。瑞典社會學家在本書中從社會發展的歷史視野切入，指出焦慮與批評其實是近代才有的現象，揭露我們的心靈是如何被未來、風險及個人想法或感受逐漸侵蝕。",
-      "promo_region": "香港",
-      "promo_code": "kobo0719"
-    },
-    {
-      "title": "暴力犯罪的大腦檔案",
-      "author": "Adrian Raine",
+      "title": "蒙古帝国",
+      "author": "易强",
       "original_title": "",
-      "isbn": "9789573294047",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/W0cKW9ZSNTKN8TdM_wszNg?sId=68fda086-f441-46e6-a316-7daf0d16c3f4&ssId=n9BD_kHhhkVPc50Lr7Nrn&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916",
-      "kobo_price": "NT$435",
-      "cover_url": "covers/W0cKW9ZSNTKN8TdM_wszNg.jpg",
+      "isbn": "7583513924573",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6ADNXdBmJjGOPMgTI-SFBQ?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$351",
+      "cover_url": "covers/6ADNXdBmJjGOPMgTI-SFBQ.jpg",
       "sale_price": "NT$99",
-      "date": "7/20",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
+      "date": "7/24",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
       "on_sale": true,
-      "publisher": "",
-      "publish_date": "2021年12月1日",
-      "language": "中文",
-      "original_author": "Adrian Raine",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/W0cKW9ZSNTKN8TdM_wszNg?sId=68fda086-f441-46e6-a316-7daf0d16c3f4&ssId=n9BD_kHhhkVPc50Lr7Nrn&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0010911506"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 3,
-          "url": "https://readmoo.com/book/210211455000101"
-        },
-        "goodreads": {
-          "score": 3.96,
-          "count": 2076,
-          "url": "https://www.goodreads.com/book/show/28051507?from_search=true&from_srp=true&qid=5mxGE8B1H6&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B009Y4I4R4/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 736,
-          "url": "https://www.amazon.com/gp/product/B009Y4I4R4/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.13,
-      "short_affiliate_url": "https://reurl.cc/4YmMMR",
-      "description": "這是所有立法、執法與司法人員都應該看的書。暴力研究專家從大腦中尋找犯罪的可能性，善用生物社會的鑰匙打開犯罪原因的鎖；透過改變大腦改變行為，才能預先防範、對症下藥，也許有一天，我們可以治癒犯罪。",
-      "promo_region": "香港",
-      "promo_code": "kobo0720"
-    },
-    {
-      "title": "紅王子：一位貴族的秘密人生與流轉中的近代歐洲認同",
-      "author": "提摩希‧史奈德",
-      "original_title": "The Red Prince: The Secret Lives of a Habsburg Archduke",
-      "isbn": "9786267645109",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Xlkh2Sf_ADSMnCawOkz2HQ?sId=93e6a575-2eaa-497a-b87c-aa4c30ba2e8d&ssId=LHf8HllZjObII9cjAZtC2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916",
-      "kobo_price": "NT$406",
-      "cover_url": "covers/Xlkh2Sf_ADSMnCawOkz2HQ.jpg",
-      "sale_price": "NT$99",
-      "date": "7/21",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
-      "on_sale": true,
-      "publisher": "衛城出版",
-      "publish_date": "2025年3月5日",
+      "publisher": "后浪出版咨询（北京）有限责任公司",
+      "publish_date": "2019年7月5日",
       "language": "中文",
       "original_author": null,
-      "ratings": {
-        "kobo": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/Xlkh2Sf_ADSMnCawOkz2HQ?sId=93e6a575-2eaa-497a-b87c-aa4c30ba2e8d&ssId=LHf8HllZjObII9cjAZtC2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/0011015235"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 12,
-          "url": "https://readmoo.com/book/210374251000101"
-        },
-        "goodreads": {
-          "score": 4.06,
-          "count": 896,
-          "url": "https://www.goodreads.com/book/show/20600216-the-red-prince?from_search=true&from_srp=true&qid=pvp7yR264g&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B004071UJE/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 233,
-          "url": "https://www.amazon.com/gp/product/B004071UJE/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/GgrYYd",
-      "description": "堪稱「西方版溥儀」的傳奇人生，從詩人到軍人，從王公貴族到革命志士，一場色彩斑斕的歷史旅程。反映出二十世紀上半葉的歐洲在時代轉換間的動盪歷史，展現了家族血脈、民族認同之間，繁複而令人低迴不已的糾葛。",
-      "promo_region": "香港",
-      "promo_code": "kobo0721"
-    },
-    {
-      "title": "哲學直播室：德國公民啟蒙哲學讀本，與柏拉圖、康德、亞里斯多德等大師對談，解構18大經典哲學思想",
-      "author": "約爾格．彼得斯",
-      "original_title": "Kant & Co. im Interview : Fiktive Gespräche mit Philosophen über ihre Theorien",
-      "isbn": "9786267488379",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/MN1Cj2U8czaTRgsTxfJNpA?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=9&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/MN1Cj2U8czaTRgsTxfJNpA.jpg",
-      "sale_price": "NT$99",
-      "date": "7/22",
-      "sale_start": "2026-07-16",
-      "sale_end": "2026-07-22",
-      "on_sale": true,
-      "publisher": "創意市集",
-      "publish_date": "2024年11月12日",
-      "language": "中文",
-      "original_author": "Jörg Peters",
+      "description": "蒙古如何從人口不足200萬的地方政權極速成長為勢不可擋的大帝國？作者挖掘史籍文獻，結合國內外學者的研究成果，給出了自己的理解。蒙古的征服戰爭，加速了古代東西方世界的物產流動、文化傳播等方面的交流。",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/MN1Cj2U8czaTRgsTxfJNpA?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=9&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260916"
+          "url": "https://www.kobo.com/tw/zh/ebook/6ADNXdBmJjGOPMgTI-SFBQ?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0011005037"
+          "url": "https://www.books.com.tw/products/CN11666981"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://readmoo.com/book/210358119000101"
+          "score": 4.1,
+          "count": 34,
+          "url": "https://readmoo.com/book/210112366000101"
         },
         "goodreads": {
-          "score": 4.06,
-          "count": 16,
-          "url": "https://www.goodreads.com/book/show/7314985-kant-co-im-interviewfiktive-gespr-che-mit-philosophen-ber-ihre-theor",
+          "score": null,
+          "count": 0,
+          "url": "",
           "note": "無原文資訊",
           "amazon_url": "",
           "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 75,
-          "url": "https://a.co/d/00juE9Ty"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/%E8%92%99%E5%8F%A4%E5%B8%9D%E5%9B%BD-%E7%B2%BE-%E6%98%93%E5%BC%BA/dp/7513924570/ref=sr_1_2"
         }
       },
-      "avg_score": 4.51,
-      "short_affiliate_url": "https://reurl.cc/eQ8oom",
-      "description": "●德國百年出版社，最暢銷的哲學讀本●德式幽默X嚴謹哲學推演X批判性思考訓練【獨家授權繁體中文版】●與哲學家一對一深度對談，探究西方偉大哲學心靈 。德國二大哲學博士攜手合作，精選18大哲學理論，以虛擬對話的方式，搭配德式幽默，呈現哲學迷人的一面。本書從哲學人類學開始，帶領讀者一同證明「人類是一種匱乏的存在」、解釋人類的心智是「尚未書寫的紙」，最後則以我們如何理解「理解」作結。",
-      "promo_region": "香港",
-      "promo_code": "kobo0722"
+      "avg_score": 4.1,
+      "short_affiliate_url": "https://reurl.cc/NOrKmm"
+    },
+    {
+      "title": "絕望者之歌：一個美國白人家族的悲劇與重生",
+      "author": "傑德‧凡斯",
+      "original_title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+      "isbn": "9786267509043",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SHwv8mdXFT614lVX8MW5Og?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/SHwv8mdXFT614lVX8MW5Og.jpg",
+      "sale_price": "NT$99",
+      "date": "7/25",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
+      "on_sale": true,
+      "publisher": "八旗文化",
+      "publish_date": "2024年10月16日",
+      "language": "中文",
+      "original_author": null,
+      "description": "【暢銷經典回歸版】 美國第60屆大選候選人凡斯親筆自傳，來自鐵鏽帶的魯蛇男孩為何從反川變挺川，走向副總統之路？凡斯的故事述說著白人勞工階級的困境與憤怒，也見證了在親情的支持下，魯蛇翻轉人生的可能。",
+      "ratings": {
+        "kobo": {
+          "score": 4.6,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/SHwv8mdXFT614lVX8MW5Og?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0011002378"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 74,
+          "url": "https://readmoo.com/book/210352795000101"
+        },
+        "goodreads": {
+          "score": 3.83,
+          "count": 512738,
+          "url": "https://www.goodreads.com/book/show/27161156-hillbilly-elegy?from_search=true&from_srp=true&qid=ev4ZLhcMMh&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B079L5DDB4/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 125497,
+          "url": "https://www.amazon.com/gp/product/B079L5DDB4/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.94,
+      "short_affiliate_url": "https://reurl.cc/RR03lG"
+    },
+    {
+      "title": "生命之核：主宰萬物生死的克氏循環",
+      "author": "尼克．連恩",
+      "original_title": "Transformer: The Deep Chemistry of Life and Death",
+      "isbn": "9789862626641",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/T1OhANdwtja22Fq04I5gNQ?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$441",
+      "cover_url": "covers/T1OhANdwtja22Fq04I5gNQ.jpg",
+      "sale_price": "NT$99",
+      "date": "7/26",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
+      "on_sale": true,
+      "publisher": "貓頭鷹出版",
+      "publish_date": "2023年11月14日",
+      "language": "中文",
+      "original_author": "Nick Lane",
+      "description": "生命是一種化學現象，克氏循環則是深植其中的核心。 ◎完整介紹克氏循環的第一本書◎比爾蓋茲最喜歡的科學作家尼克‧連恩最新力作◎作品累計暢銷15萬冊、翻譯成25種語言◎生醫類暢銷書《萬病之王》作者強力推薦◎科學編輯驚呼：「如果在念書的時候遇到這本書就好了！」 基因、DNA、RNA與各種複雜的調控機制佔據近幾十年的生物研究與新聞注意力：基因變異帶來演化的動力，有時候則帶來癌症。本書將說明生命的一切驅力，從生命起源、多樣性的誕生到癌症與死亡，都離不開一個生化反應：克氏循環。 生化反應的核心克氏循環是生化反應的中心，統合了能量流動與醣類、脂質、蛋白質的代謝，將沒有生命的化學物質轉化為生命所需的能量與基礎。生命的誕生、老化與癌症的出現都離不開克氏循環與它帶來的能量轉換，但問世八十多年來，我們仍然未能掌握克氏循環的全貌。 比基因變異更為深層的演化動力本書作者身處研究現場，細細講述克氏循環以及更原始的「反",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/T1OhANdwtja22Fq04I5gNQ?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0010972085"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 5,
+          "url": "https://readmoo.com/book/210301481000101"
+        },
+        "goodreads": {
+          "score": 4.07,
+          "count": 1173,
+          "url": "https://www.goodreads.com/book/show/58999183-transformer?from_search=true&from_srp=true&qid=LmTlQ0gTy9&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09KMPKGXK/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 393,
+          "url": "https://www.amazon.com/gp/product/B09KMPKGXK/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": "https://reurl.cc/qagWjR"
+    },
+    {
+      "title": "你不知道的搜救與犯罪現場 : 密閉空間救援與懸案鑑識調查紀實",
+      "author": "彼得•福爾丁",
+      "original_title": "What lies beneath : my life as a forensic search and rescue expert",
+      "isbn": "9786263901438",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Yqs-8MAq7T2mgJlVGZJBjQ?sId=2515e36c-1e3e-4c2f-b9b8-0fb6086c14a0&ssId=xvy_6lkHWGvDUYYNk3NaM&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$350",
+      "cover_url": "covers/Yqs-8MAq7T2mgJlVGZJBjQ.jpg",
+      "sale_price": "NT$99",
+      "date": "7/27",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
+      "on_sale": true,
+      "publisher": "商周出版",
+      "publish_date": "2024年5月2日",
+      "language": "中文",
+      "original_author": "Peter Faulding",
+      "description": "礦坑地道、湖泊與深海水域中的搜救行動記錄，連續殺人案件受害者遺體與證物調查，透過專家制定的搜尋策略與精密儀器的掃描觀察，才能最終掌握關鍵的破案線索。 一本關於頂尖搜救與鑑識調查專家的真實行動檔案！",
+      "ratings": {
+        "kobo": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/Yqs-8MAq7T2mgJlVGZJBjQ?sId=2515e36c-1e3e-4c2f-b9b8-0fb6086c14a0&ssId=xvy_6lkHWGvDUYYNk3NaM&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0010987884"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://readmoo.com/book/210328377000101"
+        },
+        "goodreads": {
+          "score": 3.59,
+          "count": 687,
+          "url": "https://www.goodreads.com/book/show/63295750-what-lies-beneath?from_search=true&from_srp=true&qid=YIM40oF5Hv&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B2PGW6B8/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 464,
+          "url": "https://www.amazon.com/gp/product/B0B2PGW6B8/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.92,
+      "short_affiliate_url": "https://reurl.cc/90rmY8"
+    },
+    {
+      "title": "陰獸",
+      "author": "江戶川亂步(EDOGAWA RANPO)",
+      "original_title": "",
+      "isbn": "3119865651671",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/G1C0VpOEhTiCnffz5JiS8A?sId=1297cc8f-42f3-41ef-9d75-5e45a46fafe4&ssId=u5lzRG7or1VLDBmwlxr7a&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/G1C0VpOEhTiCnffz5JiS8A.jpg",
+      "sale_price": "NT$99",
+      "date": "7/28",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
+      "on_sale": true,
+      "publisher": "獨步文化",
+      "publish_date": "2016年8月2日",
+      "language": "中文",
+      "original_author": "江戶川亂步(EDOGAWA RANPO)",
+      "description": "（亂步復刻經典紀念版．中村明日美子獨家書衣） 作品歷經半世紀，不改驚世駭俗，他一人，讓日本推理成為世界的至高娛樂。四則短篇描繪追逐欲望、情思及妒忌而生的異常，文字森然妖氣，如蟲蟻蠕動肌膚，教人喘不過氣，邀你進入妖異魔魅，一讀上癮的亂步體驗。",
+      "ratings": {
+        "kobo": {
+          "score": 4.56,
+          "count": 9,
+          "url": "https://www.kobo.com/tw/zh/ebook/G1C0VpOEhTiCnffz5JiS8A?sId=1297cc8f-42f3-41ef-9d75-5e45a46fafe4&ssId=u5lzRG7or1VLDBmwlxr7a&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050027153"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 3.73,
+          "count": 3396,
+          "url": "https://www.goodreads.com/book/show/31342199?from_search=true&from_srp=true&qid=x32irTr1Mn&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FGHXJQDJ/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 53,
+          "url": "https://www.amazon.com/gp/product/B0FGHXJQDJ/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.74,
+      "short_affiliate_url": "https://reurl.cc/zOenjV"
+    },
+    {
+      "title": "舌尖上的香料史：走過5000年:主宰政治、貿易、飲食的風味",
+      "author": "伊恩・安德森",
+      "original_title": "The History and Natural History of Spices: The 5,000-Year Search for Flavour",
+      "isbn": "9786267558935",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/IAR2fVmnuTSwDfE41noZxA?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723",
+      "kobo_price": "NT$385",
+      "cover_url": "covers/IAR2fVmnuTSwDfE41noZxA.jpg",
+      "sale_price": "NT$99",
+      "date": "7/29",
+      "sale_start": "2026-07-23",
+      "sale_end": "2026-07-29",
+      "on_sale": true,
+      "publisher": "麥浩斯 LaVie",
+      "publish_date": "2024年12月26日",
+      "language": "中文",
+      "original_author": "Ian Anderson",
+      "description": "哥倫布發現美洲大陸，竟是因為想追尋香料？探索香料的起源與變遷，這本書不只體現人類對香料的熱愛，更是見證香料如何改變全世界，下次當你拿起廚房檯面上的香料罐，也許會對它肅然起敬。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/IAR2fVmnuTSwDfE41noZxA?sId=4b14d477-5f89-4ea0-a2ab-81e322e3baea&ssId=W4i8gO_3UWJi6_KUxxyqf&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260723"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011009199"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://readmoo.com/book/210383910000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/195857460-the-history-and-natural-history-of-spices?from_search=true&from_srp=true&qid=fNfshu4ai0&rank=2",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CDXVG4M3/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 6,
+          "url": "https://www.amazon.com/gp/product/B0CDXVG4M3/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.53,
+      "short_affiliate_url": "https://reurl.cc/xeGVj5"
     }
   ]
 }

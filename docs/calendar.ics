@@ -7,88 +7,85 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:《心癢【鸚鵡螺圖書獎金獎】：感受內心的騷動:擁
- 抱被數字和精準化剝奪的無限可能》
-DESCRIPTION:特價 NT$99｜原價 NT$294｜3.7分\nhttps://reurl.cc/jV5e2L\
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:《數學就是這樣用：找出生活問題的最佳解》
+DESCRIPTION:特價 NT$99｜原價 NT$338｜3.6分\nhttps://reurl.cc/eQEK47\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/jV5e2L
-UID:kobo99-2026-w29-01@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/eQEK47
+UID:kobo99-2026-w30-01@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:《早晨1小時，留給最重要的事》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.0分\nhttps://reurl.cc/omd36l\
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:《大掠奪：華爾街的擴張和美國企業的沒落》
+DESCRIPTION:特價 NT$99｜原價 NT$364｜4.1分\nhttps://reurl.cc/MWAKxm\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/omd36l
-UID:kobo99-2026-w29-02@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/MWAKxm
+UID:kobo99-2026-w30-02@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:《罗马军团》
-DESCRIPTION:特價 NT$99｜原價 NT$639｜4.5分\nhttps://reurl.cc/Ledog9\
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:《蒙古帝国》
+DESCRIPTION:特價 NT$99｜原價 NT$351｜4.1分\nhttps://reurl.cc/NOrKmm\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Ledog9
-UID:kobo99-2026-w29-03@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/NOrKmm
+UID:kobo99-2026-w30-03@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:《幸運女神》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜3.7分\nhttps://reurl.cc/XxkbbD\
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:《絕望者之歌：一個美國白人家族的悲劇與重生》
+DESCRIPTION:特價 NT$99｜原價 NT$294｜3.9分\nhttps://reurl.cc/RR03lG\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/XxkbbD
-UID:kobo99-2026-w29-04@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/RR03lG
+UID:kobo99-2026-w30-04@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:《焦慮世代：為什麼我們活在充滿不確定性與不安
- 的社會》
-DESCRIPTION:特價 NT$99｜原價 NT$336｜3.8分\nhttps://reurl.cc/beRoo6\
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:《生命之核：主宰萬物生死的克氏循環》
+DESCRIPTION:特價 NT$99｜原價 NT$441｜4.2分\nhttps://reurl.cc/qagWjR\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/beRoo6
-UID:kobo99-2026-w29-05@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/qagWjR
+UID:kobo99-2026-w30-05@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:《暴力犯罪的大腦檔案》
-DESCRIPTION:特價 NT$99｜原價 NT$435｜4.1分\nhttps://reurl.cc/4YmMMR\
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:《你不知道的搜救與犯罪現場 : 密閉空間救援與懸
+ 案鑑識調查紀實》
+DESCRIPTION:特價 NT$99｜原價 NT$350｜3.9分\nhttps://reurl.cc/90rmY8\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/4YmMMR
-UID:kobo99-2026-w29-06@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/90rmY8
+UID:kobo99-2026-w30-06@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:《紅王子：一位貴族的秘密人生與流轉中的近代歐
- 洲認同》
-DESCRIPTION:特價 NT$99｜原價 NT$406｜4.2分\nhttps://reurl.cc/GgrYYd\
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:《陰獸》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜3.7分\nhttps://reurl.cc/zOenjV\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/GgrYYd
-UID:kobo99-2026-w29-07@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/zOenjV
+UID:kobo99-2026-w30-07@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:《哲學直播室：德國公民啟蒙哲學讀本，與柏拉圖
- 、康德、亞里斯多德等大師對談，解構18大經典哲學思
- 想》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.5分\nhttps://reurl.cc/eQ8oom\
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:《舌尖上的香料史：走過5000年:主宰政治、貿易、
+ 飲食的風味》
+DESCRIPTION:特價 NT$99｜原價 NT$385｜4.5分\nhttps://reurl.cc/xeGVj5\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/eQ8oom
-UID:kobo99-2026-w29-08@kobo99-tracker
-DTSTAMP:20260721T193025Z
+URL:https://reurl.cc/xeGVj5
+UID:kobo99-2026-w30-08@kobo99-tracker
+DTSTAMP:20260723T053513Z
 END:VEVENT
 END:VCALENDAR
