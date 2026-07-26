@@ -253,6 +253,7 @@ a.r-link:hover{background:var(--line)}
 .mark-btn:hover{border-color:var(--ink2);color:var(--ink)}
 .mark-btn.m-saved.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 .mark-btn.m-read.active{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
+.mark-btn.m-cart.active{border-color:var(--sale);background:var(--sale-bg);color:var(--sale)}
 .card--read{opacity:.5}
 .mark-btn.m-share:hover{border-color:#2563EB;color:#2563EB}
 .filter-btn{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
@@ -441,6 +442,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   </div>
 </div>
 
+<script src="555-shared.js"></script>
 <script>
 const SPINES = [
   "#0D9488","#7C3AED","#DB2777","#D97706",
@@ -754,6 +756,8 @@ function render() {
     const spine   = SPINES[idx % SPINES.length];
     const isSaved = saved.has(book.isbn);
     const isRead  = read.has(book.isbn);
+    const inCart555 = cart555Has(book.isbn);
+    const inGroup555 = cart555InGroup(book.isbn);
 
     // 原文書名（沒有時仍渲染空 div 佔高，確保左右欄對齊）
     const origTitle = `<div class="book-original">${book.original_title ? esc(book.original_title) : ''}</div>`;
@@ -787,6 +791,7 @@ function render() {
       <div class="card-actions">
         <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-isbn="${esc(book.isbn||'')}">🔖 收藏</button>
         <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-isbn="${esc(book.isbn||'')}">✅ 已讀</button>
+        <button class="mark-btn m-cart${inCart555?' active':''}" onclick="toggleCart555(this)" data-isbn="${esc(book.isbn||'')}" data-title="${esc(book.title)}" data-price="99" data-url="${esc(book.kobo_url||'')}"${inGroup555?' title="已併入湊555頁面的組合，點擊前往調整"':''}>🧮 ${inGroup555?'組合中':(inCart555?'已加入':'湊555')}</button>
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
@@ -961,6 +966,11 @@ loadData();
       a.className = 'theme-tab';
       tabs.appendChild(a);
     }
+    const calcTab = document.createElement('a');
+    calcTab.href = '555.html';
+    calcTab.textContent = '🧮 湊555';
+    calcTab.className = 'theme-tab';
+    tabs.appendChild(calcTab);
     // 漸層提示：右邊有更多內容時顯示，捲到底時隱藏
     const wrap = tabs.parentElement;
     const updateFade = () => wrap.classList.toggle('tab-end', tabs.scrollLeft + tabs.clientWidth >= tabs.scrollWidth - 4);
