@@ -77,21 +77,21 @@
           "url": "https://readmoo.com/book/210477032000101"
         },
         "goodreads": {
-          "score": 4.28,
-          "count": 203927,
-          "url": "https://www.goodreads.com/book/show/2199.Team_of_Rivals?from_search=true&from_srp=true&qid=J25Cwbaqqa&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B000N2HBSO/ref=x_gr_bb_kindle",
-          "confidence": 70,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 9829,
-          "url": "https://www.amazon.com/gp/product/B000N2HBSO/ref=x_gr_bb_kindle"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.3,
+      "avg_score": 3.5,
       "short_affiliate_url": "https://reurl.cc/KErWnM"
     },
     {
