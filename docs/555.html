@@ -132,6 +132,17 @@ main{max-width:760px;margin:0 auto;padding:1.5rem 1.1rem 3rem}
   border:none;border-radius:8px;padding:.6rem;cursor:pointer;transition:.15s}
 .manual-add-btn:hover{opacity:.88}
 .manual-hint{font-size:.72rem;color:var(--ink3);margin-top:.55rem;line-height:1.5}
+.inline-num{width:2.6rem;font-size:.78rem;padding:.1rem .25rem;border:1px solid var(--line);border-radius:6px;
+  background:#fff;color:var(--ink);font-family:inherit;text-align:center;vertical-align:middle}
+
+.bulk-toggle-btn{background:none;border:none;color:var(--teal);font-size:.8rem;font-weight:700;
+  cursor:pointer;padding:.6rem 0 0;text-align:left}
+.bulk-toggle-btn:hover{text-decoration:underline}
+.bulk-area{margin-top:.6rem;padding-top:.8rem;border-top:1px dashed var(--line)}
+.bulk-area textarea{width:100%;font-size:.84rem;padding:.6rem .7rem;border:1px solid var(--line);border-radius:8px;
+  background:var(--cream);color:var(--ink);font-family:inherit;resize:vertical;line-height:1.6}
+.bulk-area textarea:focus{outline:2px solid var(--sale);outline-offset:1px}
+.bulk-hint{font-size:.72rem;color:var(--ink3);margin-top:.5rem;line-height:1.6}
 
 .code-field{display:flex;align-items:center;gap:.5rem;margin-top:1rem;font-size:.8rem;color:var(--ink2);flex-wrap:wrap}
 .code-field input{width:110px;font-size:.82rem;padding:.35rem .6rem;border:1px solid var(--line);border-radius:6px;
@@ -143,9 +154,9 @@ main{max-width:760px;margin:0 auto;padding:1.5rem 1.1rem 3rem}
 .pool-empty a{color:var(--teal);font-weight:600}
 .pool-actionbar{display:none;align-items:center;gap:.6rem;background:var(--purple-bg);border:1px solid var(--purple);
   color:var(--purple);border-radius:10px;padding:.55rem .8rem;font-size:.8rem;font-weight:600;margin-bottom:.7rem}
-.pool-actionbar.show{display:flex}
 .pool-actionbar button{margin-left:auto;font-size:.78rem;font-weight:700;background:var(--purple);color:#fff;
   border:none;border-radius:20px;padding:.3rem .8rem;cursor:pointer}
+.pool-actionbar button:disabled{background:var(--line);color:var(--ink3);cursor:not-allowed}
 .pool-list{display:flex;flex-direction:column;gap:.45rem}
 
 .chip-row{display:flex;align-items:center;gap:.55rem;background:#fff;border:1px solid var(--line);
@@ -162,6 +173,7 @@ main{max-width:760px;margin:0 auto;padding:1.5rem 1.1rem 3rem}
 .group-row{background:var(--purple-bg);border:1px solid var(--purple);border-radius:10px;padding:.55rem .7rem}
 .group-head{display:flex;align-items:center;gap:.4rem;font-size:.78rem;font-weight:700;color:var(--purple);margin-bottom:.4rem}
 .group-members{font-size:.75rem;color:var(--ink2);margin-bottom:.5rem;line-height:1.5}
+.group-calc{font-size:.74rem;color:var(--purple);margin-bottom:.5rem;line-height:1.5}
 .group-total-row{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap}
 .group-total-row label{font-size:.76rem;color:var(--ink2);font-weight:600}
 .group-total-row input{width:110px;font-size:.85rem;font-weight:700;padding:.3rem .55rem;border:1px solid var(--purple);
@@ -185,6 +197,8 @@ main{max-width:760px;margin:0 auto;padding:1.5rem 1.1rem 3rem}
 .order-item{display:flex;justify-content:space-between;align-items:center;font-size:.82rem;padding:.4rem .55rem;
   background:var(--cream);border-radius:8px;gap:.6rem}
 .order-item.is-group{border:1px dashed var(--purple)}
+.order-item-detail{font-size:.72rem;color:var(--ink2);background:var(--purple-bg);border-radius:8px;
+  padding:.4rem .6rem;margin:-.15rem 0 .3rem;line-height:1.6}
 .order-item .ti{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1}
 .order-item .tp{font-weight:700;flex-shrink:0}
 .order-item a{flex-shrink:0;font-size:.72rem;font-weight:700;color:var(--teal);text-decoration:none;
@@ -203,6 +217,13 @@ main{max-width:760px;margin:0 auto;padding:1.5rem 1.1rem 3rem}
 .progress-label{display:flex;justify-content:space-between;font-size:.76rem;color:var(--ink2);margin-bottom:.35rem}
 
 .checklist{background:var(--teal-bg);border:1px solid var(--teal);border-radius:12px;padding:1rem;font-size:.82rem;color:var(--ink2);line-height:2}
+
+.howto-box{background:var(--sale-bg);border:1px solid var(--sale);border-radius:12px;padding:1rem 1.1rem;margin-bottom:1.4rem}
+.howto-title{font-size:.85rem;font-weight:700;color:var(--sale);margin-bottom:.5rem}
+.howto-box ol{padding-left:1.2rem;font-size:.82rem;color:var(--ink2);line-height:1.85}
+.howto-box li{margin-bottom:.3rem}
+.howto-box li:last-child{margin-bottom:0}
+.howto-box strong{color:var(--ink)}
 
 /* ── footer / seo (沿用) ── */
 footer{text-align:center;padding:1.5rem 1rem 1rem;font-size:.78rem;color:var(--ink3)}
@@ -258,20 +279,23 @@ footer a{color:var(--teal);text-decoration:none}
     </div>
   </div>
 
+  <p class="intro">Kobo 不定期會推出「單筆訂單滿 <strong>$555</strong>，送 <strong>111 樂天點數</strong>」活動。</p>
   <p class="intro">
-    Kobo 不定期會推出「單筆訂單滿 <strong>$555</strong> 送 <strong>111 樂天點數</strong>」活動。門檻算的是<strong>套用折扣碼後的實際結帳金額</strong>，用樂天點數或商店積分付款一樣算數；而且<strong>每一筆訂單</strong>只要各自滿門檻，就能各自拿一次 111 點——買越多本、拆越多筆，領越多次。這台計算機會幫你把想買的書自動拆成最划算的幾筆訂單。
+    門檻計算的是<strong>套用折扣碼後的實際結帳金額</strong>，用樂天點數或商店積分付款也算數。<br>
+    <strong>每一筆訂單</strong>只要各自滿門檻，就能各自拿一次 111 點——買越多本、拆越多筆，領越多次。
   </p>
+  <p class="intro">這台計算機會幫你把想買的書，自動拆成最划算的幾筆訂單。</p>
 
   <div class="sec-h">你的購書清單</div>
 
   <div class="manual-form">
     <div class="field-row">
       <div class="field">
-        <label>Kobo 商品網址</label>
+        <label>Kobo 商品網址（選填）</label>
         <input type="text" id="manUrl" placeholder="https://www.kobo.com/tw/zh/ebook/…">
       </div>
       <div class="field" style="max-width:130px">
-        <label>結帳金額</label>
+        <label>結帳金額（已扣折扣後）</label>
         <input type="text" id="manPrice" placeholder="NT$346">
       </div>
     </div>
@@ -280,25 +304,41 @@ footer a{color:var(--teal);text-decoration:none}
       <input type="text" id="manTitle" placeholder="與成功有約：高效能人士的七個習慣">
     </div>
     <button class="manual-add-btn" id="manAddBtn">加入購書清單</button>
-    <div class="manual-hint">貼網址後「前往購買」連結會自動換成本站的購買連結，任何 Kobo 書都能一起湊，不限本站書單。</div>
+    <div class="manual-hint">貼網址後，拆單結果會直接連到那本書的頁面結帳；沒貼網址也能加入清單一起湊，只是結帳時要自己上 Kobo 官網搜尋那本書。單本書自己的折扣碼，直接把折扣後的實際金額填在「結帳金額（已扣折扣後）」就好，不用另外填折扣碼。</div>
+
+    <button type="button" class="bulk-toggle-btn" id="bulkToggleBtn">📋 一次貼上多本 ▾</button>
+    <div class="bulk-area" id="bulkArea" style="display:none">
+      <textarea id="bulkInput" rows="4" placeholder="一行一本，格式：網址、金額（沒有網址可以只寫金額）&#10;https://www.kobo.com/tw/zh/ebook/xxx、300&#10;260"></textarea>
+      <button class="manual-add-btn" id="bulkAddBtn" style="margin-top:.5rem">批次加入</button>
+      <div class="bulk-hint" id="bulkMsg">每行一本，網址跟金額中間用「、」隔開；沒有網址的那行只寫金額就好。</div>
+    </div>
   </div>
 
-  <div class="code-field">
-    🏷️ 打算另外輸入折扣碼？預估折抵金額
-    <input type="text" id="codeInput" placeholder="NT$0">
-    <span style="font-size:.72rem;color:var(--ink3)">（會從總額扣除再判斷門檻）</span>
+  <button type="button" class="bulk-toggle-btn" id="codeToggleBtn">🏷️ 整張訂單另有折扣碼？（少見）▾</button>
+  <div class="bulk-area" id="codeArea" style="display:none">
+    <div class="code-field" style="margin-top:0">
+      預估折抵金額
+      <input type="text" id="codeInput" placeholder="NT$0">
+    </div>
+    <div class="bulk-hint">只適用「整張訂單通殺」的折扣碼；單本書自己的折扣，不要填這裡，請填上面的「結帳金額（已扣折扣後）」。</div>
+  </div>
+
+  <div class="manual-hint" style="margin:.2rem 0 .8rem">
+    買滿幾本才有的優惠：把符合的書都加進清單後，勾選那幾本、按「組成一組」——剛好勾
+    <input type="number" id="bundleQty" class="inline-num" value="3" min="2" max="20">本會自動幫你扣 NT$<input type="number" id="bundleOff" class="inline-num" value="99" min="1" max="9999">（不是這個優惠可以自己改上面兩個數字，或改成 0 不自動扣），其他本數要自己改總額。如果有好幾組都符合，分開勾、分開組成一組就好。
   </div>
 
   <div class="pool-wrap">
     <div class="pool-empty" id="poolEmpty">還沒有加入任何書，先用上面「貼 Kobo 商品網址」試試看</div>
     <div class="pool-actionbar" id="poolActionbar">
       <span id="selCount">已勾選 0 本</span>
-      <button id="makeGroupBtn">🔗 組成一組（適用書展/滿額折扣等組合優惠）</button>
+      <button id="makeGroupBtn" disabled>🔗 組成一組（勾2本以上才能按）</button>
     </div>
     <div class="pool-list" id="poolList" style="display:none"></div>
   </div>
 
   <div class="sec-h">拆單結果</div>
+  <div class="manual-hint" style="margin:-.3rem 0 .8rem">僅供試算參考，實際門檻與回饋請以 Kobo 官方購物車結帳畫面及活動辦法為準。</div>
 
   <div class="result-top">
     <div class="result-total">購書總額 <b id="totalAmt">NT$0</b>（已扣折扣碼）</div>
@@ -345,6 +385,7 @@ function rakutenDeepLink(url) {
   if (!url) return url;
   return 'https://click.linksynergy.com/deeplink?id=' + AFFILIATE_ID + '&mid=' + AFFILIATE_MID + '&murl=' + encodeURIComponent(cleanKoboUrl(url));
 }
+const KOBO_HOME_URL = 'https://www.kobo.com/tw/zh';
 
 // 儲存/讀取、單項有效金額計算沿用 555-shared.js（跟書單頁的「🧮湊555」按鈕共用同一份清單）
 let pool = cart555Load();
@@ -352,6 +393,28 @@ let uid = Date.now();
 let selected = new Set();
 const itemPrice = cart555ItemPrice;
 function escapeHtml(s){return String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+
+// 滿N本折NT$X 的組合優惠預設值，隨活動辦法變動，讓使用者自己調整，存 localStorage 記住
+const LS_BUNDLE = 'kobo99_555bundle';
+function loadBundleCfg(){
+  try { const r = JSON.parse(localStorage.getItem(LS_BUNDLE) || 'null'); if (r && r.qty > 0) return r; }
+  catch(e){}
+  return { qty: 3, off: 99 };
+}
+let bundleCfg = loadBundleCfg();
+const bundleQtyInput = document.getElementById('bundleQty');
+const bundleOffInput = document.getElementById('bundleOff');
+bundleQtyInput.value = bundleCfg.qty;
+bundleOffInput.value = bundleCfg.off;
+function saveBundleCfg(){
+  bundleCfg = {
+    qty: parseInt(bundleQtyInput.value, 10) || 0,
+    off: parseInt(bundleOffInput.value, 10) || 0,
+  };
+  try { localStorage.setItem(LS_BUNDLE, JSON.stringify(bundleCfg)); } catch(e){}
+}
+bundleQtyInput.addEventListener('input', saveBundleCfg);
+bundleOffInput.addEventListener('input', saveBundleCfg);
 
 document.getElementById('manAddBtn').addEventListener('click', ()=>{
   const url = document.getElementById('manUrl').value.trim();
@@ -367,20 +430,91 @@ document.getElementById('manAddBtn').addEventListener('click', ()=>{
   renderAll();
 });
 
+document.getElementById('bulkToggleBtn').addEventListener('click', ()=>{
+  const area = document.getElementById('bulkArea');
+  const btn  = document.getElementById('bulkToggleBtn');
+  const show = area.style.display === 'none';
+  area.style.display = show ? 'block' : 'none';
+  btn.textContent = show ? '📋 一次貼上多本 ▴' : '📋 一次貼上多本 ▾';
+  if (show) document.getElementById('bulkInput').focus();
+});
+
+document.getElementById('codeToggleBtn').addEventListener('click', ()=>{
+  const area = document.getElementById('codeArea');
+  const btn  = document.getElementById('codeToggleBtn');
+  const show = area.style.display === 'none';
+  area.style.display = show ? 'block' : 'none';
+  btn.textContent = show ? '🏷️ 整張訂單另有折扣碼？（少見）▴' : '🏷️ 整張訂單另有折扣碼？（少見）▾';
+  if (show) document.getElementById('codeInput').focus();
+});
+
+// 網址看起來一定是 http(s) 開頭，不會被誤判成金額；其餘去除非數字字元後取整數
+function _parsePriceToken(tok){
+  if (!tok) return null;
+  if (/^https?:\/\//i.test(tok)) return null;
+  const digits = tok.replace(/[^\d]/g, '');
+  if (!digits) return null;
+  const n = parseInt(digits, 10);
+  return n > 0 ? n : null;
+}
+
+document.getElementById('bulkAddBtn').addEventListener('click', ()=>{
+  const lines = document.getElementById('bulkInput').value.split('\n').map(l=>l.trim()).filter(l=>l);
+  const msg = document.getElementById('bulkMsg');
+  if (!lines.length){ msg.textContent = '請先貼上至少一行（一行一本）'; msg.style.color = 'var(--red)'; return; }
+
+  let added = 0;
+  const badLines = [];
+  lines.forEach((line, idx)=>{
+    const sep = line.match(/[、,，]/);
+    let urlPart = '', priceTok = line;
+    if (sep){
+      const i = line.indexOf(sep[0]);
+      urlPart  = line.slice(0, i).trim();
+      priceTok = line.slice(i + 1).trim();
+    }
+    const price = _parsePriceToken(priceTok);
+    if (price === null){ badLines.push(idx + 1); return; }
+    added++;
+    pool.push({uid: uid++, title: `手動加入的書 ${added}`, price, koboUrl: urlPart || null, manual: true});
+  });
+
+  if (added){
+    cart555Save(pool);
+    renderAll();
+    document.getElementById('bulkInput').value = '';
+  }
+  if (badLines.length){
+    msg.textContent = `已加入 ${added} 本；第 ${badLines.join('、')} 行缺金額，已略過，請確認格式後再貼一次`;
+    msg.style.color = 'var(--red)';
+  } else {
+    msg.textContent = `已加入 ${added} 本`;
+    msg.style.color = 'var(--teal)';
+  }
+});
+
 const poolList = document.getElementById('poolList');
 const poolEmpty = document.getElementById('poolEmpty');
 const poolActionbar = document.getElementById('poolActionbar');
+
+function groupCalcText(p){
+  const rawSum = p.members.reduce((s,m)=>s+(m.price||0),0);
+  const diff = rawSum - p.total;
+  const isDefault = bundleCfg.qty > 0 && p.members.length === bundleCfg.qty && diff === bundleCfg.off;
+  return `原價共 NT$${rawSum}${diff!==0 ? ` − NT$${diff} = NT$${p.total}` : ''}${isDefault ? `（已自動扣$${bundleCfg.off}，可自行修改）` : ''}`;
+}
 
 function renderPool(){
   const poolUids = new Set(pool.map(p=>p.uid));
   for(const u of [...selected]) if(!poolUids.has(u)) selected.delete(u);
 
   if(pool.length===0){
-    poolEmpty.style.display='block'; poolList.style.display='none'; poolActionbar.classList.remove('show');
+    poolEmpty.style.display='block'; poolList.style.display='none'; poolActionbar.style.display='none';
     return;
   }
   poolEmpty.style.display='none'; poolList.style.display='flex';
-  poolActionbar.classList.toggle('show', selected.size>=2);
+  poolActionbar.style.display = pool.some(p=>!p.isGroup) ? 'flex' : 'none';
+  document.getElementById('makeGroupBtn').disabled = selected.size<2;
   document.getElementById('selCount').textContent = `已勾選 ${selected.size} 本`;
 
   poolList.innerHTML = pool.map(p=>{
@@ -388,6 +522,7 @@ function renderPool(){
       return `<div class="group-row" data-uid="${p.uid}">
         <div class="group-head">🔗 組合（${p.members.length}本）</div>
         <div class="group-members">${p.members.map(m=>escapeHtml(m.title.slice(0,14))+(m.title.length>14?'…':'')).join('、')}</div>
+        <div class="group-calc">${groupCalcText(p)}</div>
         <div class="group-total-row">
           <label>實際結帳總額</label>
           <input type="text" class="group-total-input" data-uid="${p.uid}" value="NT$${p.total}">
@@ -438,6 +573,8 @@ poolList.addEventListener('input', e=>{
     if(g){
       const v = parseInt(e.target.value.replace(/[^\d]/g,''),10);
       g.total = isNaN(v) ? 0 : v;
+      const calcEl = e.target.closest('.group-row').querySelector('.group-calc');
+      if (calcEl) calcEl.textContent = groupCalcText(g);
       cart555Save(pool); renderResults();
     }
   }
@@ -454,7 +591,9 @@ poolList.addEventListener('input', e=>{
 document.getElementById('makeGroupBtn').addEventListener('click', ()=>{
   const members = pool.filter(p=>selected.has(p.uid) && !p.isGroup);
   if(members.length<2) return;
-  const total = members.reduce((s,m)=>s+(m.price||0),0);
+  const rawTotal = members.reduce((s,m)=>s+(m.price||0),0);
+  // 組合優惠的「滿N本折NT$X」預設值可在上面調整；勾的本數剛好符合才預填扣完的金額，其他本數維持原價，使用者自己改
+  const total = (bundleCfg.qty > 0 && members.length === bundleCfg.qty) ? Math.max(0, rawTotal - bundleCfg.off) : rawTotal;
   pool = pool.filter(p=>!selected.has(p.uid));
   pool.push({uid:uid++, isGroup:true, members:members.map(m=>({title:m.title, price:m.price, catId:m.catId, koboUrl:m.koboUrl, manual:m.manual})), total});
   selected.clear();
@@ -519,12 +658,19 @@ function renderResults(){
       </div>
       <div class="order-items">
         ${o.items.map(it=>{
-          const link = (!it.isGroup && it.koboUrl) ? `<a href="${rakutenDeepLink(it.koboUrl)}" target="_blank" rel="noopener">前往購買 →</a>` : '';
+          const link = it.isGroup ? '' : (it.koboUrl
+            ? `<a href="${rakutenDeepLink(it.koboUrl)}" target="_blank" rel="noopener">前往購買 →</a>`
+            : `<a href="${rakutenDeepLink(KOBO_HOME_URL)}" target="_blank" rel="noopener">前往 Kobo 官網 →</a>`);
+          const detail = it.isGroup ? `<div class="order-item-detail">
+              ${it.members.map(m=>escapeHtml(m.title.slice(0,14))+(m.title.length>14?'…':'')).join('、')}<br>
+              原價共 NT$${it.members.reduce((s,m)=>s+(m.price||0),0)} → 實付 NT$${it.eff}
+            </div>` : '';
           return `<div class="order-item ${it.isGroup?'is-group':''}">
             <span class="ti">${it.isGroup?'🔗 ':''}${escapeHtml(it.title)}</span>
             <span class="tp">NT$${it.eff}</span>
             ${link}
-          </div>`;
+          </div>
+          ${detail}`;
         }).join('')}
       </div>
     </div>`).join('');
