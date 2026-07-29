@@ -376,6 +376,8 @@ footer a{color:var(--teal);text-decoration:none}
 const THRESHOLD = 555;
 const AFFILIATE_ID = '4fo2ittUtjQ';
 const AFFILIATE_MID = '37217';
+// 拆單演算法在 Cloudflare Worker 端算（不放前端，避免被整套複製走）
+const WORKER_URL = 'https://REPLACE_ME.workers.dev';
 
 function cleanKoboUrl(url) {
   if (!url) return url;
@@ -575,7 +577,7 @@ poolList.addEventListener('input', e=>{
       g.total = isNaN(v) ? 0 : v;
       const calcEl = e.target.closest('.group-row').querySelector('.group-calc');
       if (calcEl) calcEl.textContent = groupCalcText(g);
-      cart555Save(pool); renderResults();
+      cart555Save(pool); scheduleRenderResults();
     }
   }
   if(e.target.classList.contains('chip-price-in')){
@@ -583,7 +585,7 @@ poolList.addEventListener('input', e=>{
     if(it){
       const v = parseInt(e.target.value.replace(/[^\d]/g,''),10);
       it.price = isNaN(v) ? 0 : v;
-      cart555Save(pool); renderResults();
+      cart555Save(pool); scheduleRenderResults();
     }
   }
 });
@@ -600,54 +602,90 @@ document.getElementById('makeGroupBtn').addEventListener('click', ()=>{
   cart555Save(pool); renderAll();
 });
 
-document.getElementById('codeInput').addEventListener('input', renderResults);
+document.getElementById('codeInput').addEventListener('input', scheduleRenderResults);
 
-function splitOrders(items, threshold){
-  const sorted = [...items].sort((a,b)=>b.eff-a.eff);
-  const orders = [];
-  let current = [];
-  let curSum = 0;
-  for(const it of sorted){
-    current.push(it); curSum += it.eff;
-    if(curSum >= threshold){
-      orders.push({items:current, sum:curSum});
-      current = []; curSum = 0;
-    }
-  }
-  return {orders, leftover:current, leftoverSum:curSum};
+// 拆單演算法搬到 Cloudflare Worker 算（見 WORKER_URL），這裡只負責送清單、收結果、畫畫面
+let _splitGen = 0;
+let _splitDebounce = null;
+
+function scheduleRenderResults(){
+  clearTimeout(_splitDebounce);
+  _splitDebounce = setTimeout(computeAndRenderResults, 250);
 }
 
-function renderResults(){
+async function computeAndRenderResults(){
   const codeDiscount = parseInt((document.getElementById('codeInput').value||'0').replace(/[^\d]/g,''),10) || 0;
   const rawTotal = pool.reduce((s,p)=>s+itemPrice(p),0);
   const effectiveTotal = Math.max(0, rawTotal - codeDiscount);
   document.getElementById('totalAmt').textContent = 'NT$'+effectiveTotal;
 
-  let adjPool = pool.map(p=>({...p, eff:itemPrice(p), isGroup:!!p.isGroup, title:p.isGroup?`組合（${p.members.length}本）`:p.title}));
-  let remainingDiscount = codeDiscount;
-  adjPool.sort((a,b)=>a.eff-b.eff);
-  for(const p of adjPool){
-    if(remainingDiscount<=0) break;
-    const cut = Math.min(p.eff-1, remainingDiscount);
-    p.eff -= cut; remainingDiscount -= cut;
+  if(pool.length===0){
+    document.getElementById('pointsBadge').textContent = '0 筆達標・+0 點';
+    document.getElementById('pointsBadge').style.opacity = '.55';
+    document.getElementById('progressArea').innerHTML = '';
+    document.getElementById('ordersArea').innerHTML = '';
+    document.getElementById('leftoverArea').innerHTML = '';
+    return;
   }
 
-  const {orders, leftover, leftoverSum} = splitOrders(adjPool, THRESHOLD);
+  const gen = ++_splitGen;
+  const items = pool.map(p => ({ uid: p.uid, eff: itemPrice(p) }));
+
+  let data;
+  try {
+    const res = await fetch(WORKER_URL + '/split', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ items, codeDiscount, threshold: THRESHOLD }),
+    });
+    if(!res.ok) throw new Error('bad status ' + res.status);
+    data = await res.json();
+  } catch(e){
+    if(gen !== _splitGen) return; // 已經有更新的請求在跑，這次結果不算數
+    renderResultsError();
+    return;
+  }
+  if(gen !== _splitGen) return; // stale 回應，忽略
+
+  renderResultsSuccess(data);
+}
+
+function renderResultsError(){
+  document.getElementById('pointsBadge').textContent = '－';
+  document.getElementById('pointsBadge').style.opacity = '.55';
+  document.getElementById('progressArea').innerHTML = '';
+  document.getElementById('ordersArea').innerHTML = '';
+  document.getElementById('leftoverArea').innerHTML = `
+    <div class="leftover-box">
+      <div class="leftover-head">⚠️ 拆單服務連線失敗，請檢查網路後重試</div>
+      <button id="retrySplitBtn" type="button" class="ungroup-btn" style="margin-top:.5rem">重試</button>
+    </div>`;
+  const btn = document.getElementById('retrySplitBtn');
+  if(btn) btn.addEventListener('click', computeAndRenderResults);
+}
+
+function renderResultsSuccess(data){
+  const poolByUid = new Map(pool.map(p => [p.uid, p]));
+  const withMeta = uid => {
+    const p = poolByUid.get(uid);
+    const title = p.isGroup ? `組合（${p.members.length}本）` : p.title;
+    return { ...p, eff: data.effByUid[uid], isGroup: !!p.isGroup, title };
+  };
+
+  const orders = data.orders.map(o => ({ items: o.uids.map(withMeta), sum: o.sum }));
+  const leftover = data.leftover.uids.map(withMeta);
+  const leftoverSum = data.leftover.sum;
 
   document.getElementById('pointsBadge').textContent = `${orders.length} 筆達標・+${orders.length*111} 點`;
   document.getElementById('pointsBadge').style.opacity = orders.length? '1':'.55';
 
   const progressArea = document.getElementById('progressArea');
-  if(pool.length===0){
-    progressArea.innerHTML='';
-  } else {
-    const pct = Math.min(100, Math.round((leftoverSum/THRESHOLD)*100));
-    const gap = Math.max(0, THRESHOLD - leftoverSum);
-    progressArea.innerHTML = `
-      <div class="progress-label"><span>${leftover.length? '下一筆進度':'目前沒有進行中的訂單'}</span>
-        <span>${leftover.length? `還差 NT$${gap}` : ''}</span></div>
-      <div class="progress-wrap"><div class="progress-fill ${pct>=100?'done':''}" style="width:${pct}%"></div></div>`;
-  }
+  const pct = Math.min(100, Math.round((leftoverSum/THRESHOLD)*100));
+  const gap = Math.max(0, THRESHOLD - leftoverSum);
+  progressArea.innerHTML = `
+    <div class="progress-label"><span>${leftover.length? '下一筆進度':'目前沒有進行中的訂單'}</span>
+      <span>${leftover.length? `還差 NT$${gap}` : ''}</span></div>
+    <div class="progress-wrap"><div class="progress-fill ${pct>=100?'done':''}" style="width:${pct}%"></div></div>`;
 
   const ordersArea = document.getElementById('ordersArea');
   ordersArea.innerHTML = orders.map((o,i)=>`
@@ -689,7 +727,7 @@ function renderResults(){
   }
 }
 
-function renderAll(){ renderPool(); renderResults(); }
+function renderAll(){ renderPool(); scheduleRenderResults(); }
 renderAll();
 
 function autolinkText(txt) {
