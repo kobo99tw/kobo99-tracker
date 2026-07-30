@@ -175,6 +175,7 @@ a.r-link:hover{background:var(--line)}
 .mark-btn:hover{border-color:var(--ink2);color:var(--ink)}
 .mark-btn.m-saved.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
 .mark-btn.m-read.active{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
+.mark-btn.m-cart.active{border-color:var(--sale);background:var(--sale-bg);color:var(--sale)}
 .mark-btn.m-share:hover{border-color:#2563EB;color:#2563EB}
 .filter-btn{font-size:.82rem;padding:.3rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--cream);color:var(--ink2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .filter-btn.active{border-color:var(--teal);background:var(--teal-bg);color:var(--teal)}
@@ -318,6 +319,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   <a href="/">← 回到每週 99 書單</a>
 </footer>
 
+<script src="555-shared.js"></script>
 <script>
 const SPINES = [
   "#2563EB","#7C3AED","#DB2777","#D97706",
@@ -601,11 +603,18 @@ function render() {
     const buyBtn = book.kobo_url
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
+    // 折扣碼模式下實際結帳金額未知，不預填，交給使用者到 555.html 自己填
+    const cartPrice = hasPromoCode ? 0 : (saleAmt || origAmt || 0);
 
     const markBtns = `
       <div class="card-actions">
         <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-isbn="${esc(book.isbn||'')}">🔖 收藏</button>
         <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-isbn="${esc(book.isbn||'')}">✅ 已讀</button>
+        <button class="mark-btn m-cart${cart555Has(book.isbn)?' active':''}" onclick="toggleCart555(this)"
+          data-isbn="${esc(book.isbn||'')}"
+          data-title="${esc(book.title)}"
+          data-price="${cartPrice}"
+          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">🧮 ${cart555Has(book.isbn)?'已加入':'湊555'}</button>
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
@@ -828,6 +837,11 @@ loadData();
         setTimeout(() => a.scrollIntoView({behavior:'smooth', block:'nearest', inline:'nearest'}), 100);
       }
     }
+    const calcTab = document.createElement('a');
+    calcTab.href = '555.html';
+    calcTab.textContent = '🧮 湊555';
+    calcTab.className = 'theme-tab';
+    tabs.appendChild(calcTab);
     // 漸層提示
     const wrap = tabs.parentElement;
     const updateFade = () => wrap.classList.toggle('tab-end', tabs.scrollLeft + tabs.clientWidth >= tabs.scrollWidth - 4);
