@@ -603,11 +603,18 @@ function render() {
     const buyBtn = book.kobo_url
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
+    // 折扣碼模式下實際結帳金額未知，不預填，交給使用者到 555.html 自己填
+    const cartPrice = hasPromoCode ? 0 : (saleAmt || origAmt || 0);
 
     const markBtns = `
       <div class="card-actions">
         <button class="mark-btn m-saved${isSaved?' active':''}" onclick="toggleSaved(this)" data-isbn="${esc(book.isbn||'')}">🔖 收藏</button>
         <button class="mark-btn m-read${isRead?' active':''}" onclick="toggleRead(this)" data-isbn="${esc(book.isbn||'')}">✅ 已讀</button>
+        <button class="mark-btn m-cart${cart555Has(book.isbn)?' active':''}" onclick="toggleCart555(this)"
+          data-isbn="${esc(book.isbn||'')}"
+          data-title="${esc(book.title)}"
+          data-price="${cartPrice}"
+          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">🧮 ${cart555Has(book.isbn)?'已加入':'湊555'}</button>
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
@@ -830,6 +837,11 @@ loadData();
         setTimeout(() => a.scrollIntoView({behavior:'smooth', block:'nearest', inline:'nearest'}), 100);
       }
     }
+    const calcTab = document.createElement('a');
+    calcTab.href = '555.html';
+    calcTab.textContent = '🧮 湊555';
+    calcTab.className = 'theme-tab';
+    tabs.appendChild(calcTab);
     // 漸層提示
     const wrap = tabs.parentElement;
     const updateFade = () => wrap.classList.toggle('tab-end', tabs.scrollLeft + tabs.clientWidth >= tabs.scrollWidth - 4);
