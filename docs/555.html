@@ -239,6 +239,13 @@ footer a{color:var(--teal);text-decoration:none}
 .seo-intro p{margin:.3rem 0}
 
 @media(min-width:641px){ html{font-size:17.5px} }
+
+/* ── 桌機雙欄（≥1024px，與站上其他頁面手機/平板/桌機斷點一致）── */
+@media(min-width:1024px){
+  main{max-width:1100px}
+  .two-col{display:grid;grid-template-columns:1fr 1fr;gap:2.2rem;align-items:start}
+  .col-right{position:sticky;top:85px}
+}
 </style>
 </head>
 <body>
@@ -278,6 +285,9 @@ footer a{color:var(--teal);text-decoration:none}
       <button class="promo-modal-close" onclick="closePromoModal()">關閉</button>
     </div>
   </div>
+
+  <div class="two-col">
+  <div class="col-left">
 
   <p class="intro">Kobo 不定期會推出「單筆訂單滿 <strong>$555</strong>，送 <strong>111 樂天點數</strong>」活動。</p>
   <p class="intro">
@@ -337,6 +347,9 @@ footer a{color:var(--teal);text-decoration:none}
     <div class="pool-list" id="poolList" style="display:none"></div>
   </div>
 
+  </div>
+  <div class="col-right">
+
   <div class="sec-h">拆單結果</div>
   <div class="manual-hint" style="margin:-.3rem 0 .8rem">僅供試算參考，實際門檻與回饋請以 Kobo 官方購物車結帳畫面及活動辦法為準。</div>
 
@@ -354,6 +367,9 @@ footer a{color:var(--teal);text-decoration:none}
     ☑ 這筆訂單是用<strong>台灣樂天帳號</strong>登入（FB/Google/日本樂天帳號需先綁定，否則不算數）<br>
     ☑ 只買電子書／有聲書（<strong>預購書不算</strong>）<br>
     ☑ 下單後<strong>不要退書</strong>，退書可能悄悄取消這筆的資格，且不會另行通知
+  </div>
+
+  </div>
   </div>
 
 </main>
