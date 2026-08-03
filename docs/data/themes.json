@@ -17,6 +17,7 @@
     "defaultSort": "avg",
     "file": "theme_tccc_finance.json",
     "headTitle": "有底氣的財富人生",
+    "hidden": true,
     "hide_after": "2026-08-02",
     "key": "theme_tccc_finance",
     "label": "【投資理財】有底氣的財富人生",
@@ -25,8 +26,7 @@
     "subtitle": "單本85折至7/31止",
     "tabEmoji": "💰",
     "tabLabel": "財富人生",
-    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA",
-    "hidden": true
+    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA"
   },
   {
     "file": "theme_1779353467078.json",
@@ -69,7 +69,6 @@
     "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
   },
   {
-    "defaultSort": "avg",
     "file": "theme_yuanliou.json",
     "headTitle": "遠流出版全書系：單本85折",
     "hide_after": "2026-09-02",
