@@ -768,7 +768,7 @@ loadData();
     }
   } catch(e) {}
   try {
-    const res = await fetch('data/themes.json');
+    const res = await fetch('data/themes.json?t=' + Date.now());
     if (!res.ok) return;
     const themes = await res.json();
     for (const t of themes) {
