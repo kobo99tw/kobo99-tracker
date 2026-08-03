@@ -2,6 +2,7 @@
   {
     "file": "theme_1783301118689.json",
     "headTitle": "2026 台港上半年熱銷TOP10",
+    "hidden": true,
     "hide_after": "2026-08-02",
     "key": "theme_1783301118689",
     "label": "2026 台港上半年熱銷TOP10",
@@ -24,7 +25,8 @@
     "subtitle": "單本85折至7/31止",
     "tabEmoji": "💰",
     "tabLabel": "財富人生",
-    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA"
+    "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA",
+    "hidden": true
   },
   {
     "file": "theme_1779353467078.json",
