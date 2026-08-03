@@ -482,12 +482,13 @@ function rakutenDeepLink(url) {
   return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url));
 }
 
-const _CURRENT_FILE = (() => { const p = new URLSearchParams(location.search); return p.get('file') || 'exclusive.json'; })();
+const _DEFAULT_FILE = 'theme_1779336542191.json'; // 新書優惠：exclusive.json 停用後的預設落點
+const _CURRENT_FILE = (() => { const p = new URLSearchParams(location.search); return p.get('file') || _DEFAULT_FILE; })();
 
 async function loadData() {
   const params   = new URLSearchParams(location.search);
   const rawFile  = _CURRENT_FILE;
-  const safeFile = /^[a-z0-9_]+\.json$/.test(rawFile) ? rawFile : 'exclusive.json';
+  const safeFile = /^[a-z0-9_]+\.json$/.test(rawFile) ? rawFile : _DEFAULT_FILE;
   try {
     const res = await fetch("data/" + safeFile);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -692,7 +693,7 @@ loadData();
 (async function() {
   const tabs = document.getElementById('themeTabs');
   if (!tabs) return;
-  const currentFile = new URLSearchParams(location.search).get('file') || '';
+  const currentFile = new URLSearchParams(location.search).get('file') || _DEFAULT_FILE;
   // 讀 site.json 更新每週99 tab 名稱
   try {
     const sc = await fetch('data/site.json');

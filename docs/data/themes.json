@@ -1,5 +1,18 @@
 [
   {
+    "file": "theme_yuanliou.json",
+    "headTitle": "遠流出版全書系：單本85折",
+    "hide_after": "2026-09-02",
+    "key": "theme_yuanliou",
+    "label": "【遠流出版】勇敢與世界對話",
+    "sale": "單本85折，3本再折$99至8/31止",
+    "seoDesc": "整理遠流出版全書系書單，單本85折，3本再折$99，優惠至8/31止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購好書。",
+    "subtitle": "單本85折，3本再折$99至8/31止",
+    "tabEmoji": "⛵",
+    "tabLabel": "遠流出版",
+    "url": "https://www.kobo.com/tw/zh/list/yuanliou2026/3hr2qeuBac0J5Aje6TdVWw"
+  },
+  {
     "file": "theme_1783301118689.json",
     "headTitle": "2026 台港上半年熱銷TOP10",
     "hidden": true,
@@ -67,18 +80,5 @@
     "tabEmoji": "🏆",
     "tabLabel": "《臺灣漫遊錄》",
     "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
-  },
-  {
-    "file": "theme_yuanliou.json",
-    "headTitle": "遠流出版全書系：單本85折",
-    "hide_after": "2026-09-02",
-    "key": "theme_yuanliou",
-    "label": "【遠流出版】勇敢與世界對話",
-    "sale": "單本85折，3本再折$99至8/31止",
-    "seoDesc": "整理遠流出版全書系書單，單本85折，3本再折$99，優惠至8/31止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購好書。",
-    "subtitle": "單本85折，3本再折$99至8/31止",
-    "tabEmoji": "⛵",
-    "tabLabel": "遠流出版",
-    "url": "https://www.kobo.com/tw/zh/list/yuanliou2026/3hr2qeuBac0J5Aje6TdVWw"
   }
 ]
