@@ -958,6 +958,8 @@ loadData();
     if (!res.ok) return;
     const themes = await res.json();
     for (const t of themes) {
+      const _today = Intl.DateTimeFormat('sv', {timeZone:'Asia/Taipei'}).format(new Date());
+      if (t.hidden || (t.hide_after && t.hide_after < _today)) continue;
       const a = document.createElement('a');
       a.href = 'exclusive.html?file=' + encodeURIComponent(t.file);
       const m = t.label.match(/【([^】]{1,20})】/);
