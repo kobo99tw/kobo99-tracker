@@ -33,7 +33,7 @@
         "goodreads": {
           "score": null,
           "count": 0,
-          "url": "",
+          "url": "https://www.goodreads.com/book/show/138994272-20-x-x",
           "note": "無原文資訊",
           "amazon_url": "",
           "confidence": 20,
@@ -280,7 +280,7 @@
     },
     {
       "title": "窮查理的智慧語錄",
-      "author": "謝樹寬",
+      "author": "大衛．克拉克（David Clark）",
       "original_title": "Tao of Charlie Munger",
       "isbn": "3090000030037",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/q_SfCc-aVTqD2qOeRKnF5w",
@@ -326,7 +326,7 @@
     },
     {
       "title": "一人公司：為什麼小而美是未來企業發展的趨勢",
-      "author": "劉奕吟",
+      "author": "保羅．賈維斯（Paul Jarvis）",
       "original_title": "",
       "isbn": "3090000030254",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/XfmtNW3NQDWVSwnAngLmZw",
@@ -694,7 +694,7 @@
     },
     {
       "title": "從A到A+：企業從優秀到卓越的奧祕（暢銷新裝版）",
-      "author": "齊若蘭",
+      "author": "詹姆．柯林斯（Jim Collins）",
       "original_title": "",
       "isbn": "3099573287032",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/aa-4",
@@ -832,7 +832,7 @@
     },
     {
       "title": "金錢超思考：《華爾街日報》最受歡迎財經作家，25道創造財富的關鍵思考，教你晉升有錢人！",
-      "author": "吳凱琳",
+      "author": "喬納森．克雷蒙（Jonathan Clements）",
       "original_title": "How to Think About Money",
       "isbn": "3099573286387",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Zt2nCwjsdT6z-0w-XejJQQ",
@@ -890,8 +890,8 @@
       "publish_date": "2019年4月1日",
       "ratings": {
         "kobo": {
-          "score": 3.43,
-          "count": 23,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/cKiwbEBBKjqhMP2vorZcHQ"
         },
         "books_com": {
@@ -970,7 +970,7 @@
     },
     {
       "title": "匱乏經濟學",
-      "author": "謝樹寬",
+      "author": "森迪爾．穆蘭納珊 (Sendhil Mullainathan)、埃爾達．夏菲爾 (Eldar Shafir)",
       "original_title": "",
       "isbn": "3099573287698",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/NS28sNsIIzihtY2TAkNvoA",
@@ -1028,8 +1028,8 @@
       "publish_date": "2025年12月1日",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 1,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/vDaphLBWnTCC8mhO9C_3zg"
         },
         "books_com": {
@@ -1057,16 +1057,16 @@
           "url": ""
         }
       },
-      "avg_score": 4.57,
+      "avg_score": 4.5,
       "short_affiliate_url": "https://reurl.cc/beE6QE"
     },
     {
       "title": "哈佛這樣教談判力",
-      "author": "劉慧玉",
+      "author": "羅傑．費雪（Roger Fisher）、威廉．尤瑞（William Ury）、布魯斯．派頓（Bruce Patton）",
       "original_title": "",
       "isbn": "3099573272243",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/KDri4KypVDSG7vQg019B1Q",
-      "kobo_price": "NT$201",
+      "kobo_price": "NT$370",
       "cover_url": "covers/KDri4KypVDSG7vQg019B1Q.jpg",
       "sale_price": "單本85折，3本再折$99（至8/31止）",
       "sale_end": "",
@@ -1166,8 +1166,8 @@
       "publish_date": "2022年9月30日",
       "ratings": {
         "kobo": {
-          "score": 4.32,
-          "count": 34,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/jcesSP30-jGRoZQpwNJA3A"
         },
         "books_com": {
@@ -1195,7 +1195,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.28,
+      "avg_score": 4.26,
       "short_affiliate_url": "https://reurl.cc/GgEk8A"
     },
     {
@@ -2408,8 +2408,8 @@
       "publish_date": "2025年6月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 5.0,
+          "count": 1,
           "url": "https://www.kobo.com/tw/zh/ebook/6vF5vMEDRz-xdyf6sLEdxQ"
         },
         "books_com": {
@@ -2539,7 +2539,7 @@
       "original_title": "",
       "isbn": "9786264183703",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/6G0Wf9otVjuGJJOlunAVOg",
-      "kobo_price": "NT$295",
+      "kobo_price": "NT$255",
       "cover_url": "covers/6G0Wf9otVjuGJJOlunAVOg.jpg",
       "sale_price": "單本85折，3本再折$99（至8/31止）",
       "sale_end": "",
@@ -2547,8 +2547,8 @@
       "publish_date": "2025年10月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 5.0,
+          "count": 1,
           "url": "https://www.kobo.com/tw/zh/ebook/6G0Wf9otVjuGJJOlunAVOg"
         },
         "books_com": {
@@ -2576,7 +2576,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.5,
+      "avg_score": 4.67,
       "short_affiliate_url": "https://reurl.cc/yWMypy"
     },
     {
@@ -2720,7 +2720,7 @@
     },
     {
       "title": "基業長青（暢銷新裝版）",
-      "author": "齊若蘭",
+      "author": "詹姆．柯林斯（Jim Collins）、傑瑞‧薄樂斯（Jerry I. Porras）",
       "original_title": "",
       "isbn": "3099573288619",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA",
@@ -2766,7 +2766,7 @@
     },
     {
       "title": "如何把收入轉化為財富——原來有錢人都這麼做 2：經濟低迷時代學習有錢人致富的財務行為",
-      "author": "戴榕儀",
+      "author": "湯瑪斯・史丹利博士（Thomas J. Stanley, PhD）、莎拉・史丹利・法洛博士（Sarah Stanley Fallaw, PhD）",
       "original_title": "",
       "isbn": "3090000030158",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/W-AZ14RndD6Spv2ozI7GUA",
@@ -2950,7 +2950,7 @@
     },
     {
       "title": "彼得‧杜拉克非營利組織的管理聖經",
-      "author": "余佩珊",
+      "author": "彼得‧杜拉克（Peter F. Drucker）",
       "original_title": "",
       "isbn": "3099573276289",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/8oTai6Mmvz6YO630HQv0IQ",
@@ -2996,7 +2996,7 @@
     },
     {
       "title": "和巴菲特同步買進：震盪市場中的穩當投資策略（財富新裝版）",
-      "author": "陳正芬",
+      "author": "瑪麗．巴菲特（Mary Buffett）、大衛．克拉克（David Clark）",
       "original_title": "",
       "isbn": "3099573287407",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/WqE18xNB5DOsfAnDH7BVYQ",
@@ -3008,8 +3008,8 @@
       "publish_date": "2020年4月1日",
       "ratings": {
         "kobo": {
-          "score": 4.58,
-          "count": 12,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/WqE18xNB5DOsfAnDH7BVYQ"
         },
         "books_com": {
@@ -3037,7 +3037,7 @@
           "url": "https://www.amazon.com/-/zh_TW/%E7%91%AA%E9%BA%97%EF%BC%8E%E5%B7%B4%E8%8F%B2%E7%89%B9%EF%BC%88Mary-Buffett%EF%BC%89%E3%80%81%E5%A4%A7%E8%A1%9B%EF%BC%8E%E5%85%8B%E6%8B%89%E5%85%8B%EF%BC%88David-Clark%EF%BC%89-ebook/dp/B09DXX91VC/ref=sr_1_1"
         }
       },
-      "avg_score": 4.68,
+      "avg_score": 4.74,
       "short_affiliate_url": "https://reurl.cc/6X0g15"
     },
     {
@@ -3054,8 +3054,8 @@
       "publish_date": "2019年8月31日",
       "ratings": {
         "kobo": {
-          "score": 4.19,
-          "count": 26,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/zYtsCv_1ZDOfTFPrrv8jLQ"
         },
         "books_com": {
@@ -3083,7 +3083,7 @@
           "url": "https://www.amazon.com/-/zh_TW/%E6%A5%8A%E5%A4%A7%E8%BC%9D-ebook/dp/B09VL2Y9B5/ref=sr_1_1"
         }
       },
-      "avg_score": 4.51,
+      "avg_score": 4.62,
       "short_affiliate_url": "https://reurl.cc/1lmQdG"
     },
     {
@@ -3318,7 +3318,7 @@
     },
     {
       "title": "為什麼A+巨人也會倒下（暢銷新裝版）",
-      "author": "齊若蘭",
+      "author": "詹姆．柯林斯（Jim Collins）",
       "original_title": "",
       "isbn": "3099573287865",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/a-202",
@@ -3364,7 +3364,7 @@
     },
     {
       "title": "關鍵行銷：消費心理學大師的10大黃金行銷課",
-      "author": "王直上",
+      "author": "亞當．費里爾（Adam Ferrier）",
       "original_title": "The Advertising Effect: How to Change Behavior",
       "isbn": "3090000030046",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/a_RJAM7TeTSf-ZFYo_jc3A",
@@ -3548,7 +3548,7 @@
     },
     {
       "title": "巴菲特勝券在握：傳奇股神的投資奧義（經典新裝版）",
-      "author": "羅若蘋",
+      "author": "羅伯特．海格斯壯（Robert G. Hagstrom）",
       "original_title": "",
       "isbn": "3099573287834",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Dp1G6cqdozGj2MFSo9r5zA",
@@ -3686,7 +3686,7 @@
     },
     {
       "title": "飛輪效應",
-      "author": "楊馥嘉",
+      "author": "詹姆．柯林斯（Jim Collins）",
       "original_title": "",
       "isbn": "3099573288992",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/1CPx3TdQqzOyQCdxco_nRg",
@@ -3732,7 +3732,7 @@
     },
     {
       "title": "大局思維",
-      "author": "洪慈敏",
+      "author": "葛蕾絲．洛登（Grace Lordan）",
       "original_title": "",
       "isbn": "9789573292753",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/NjfK_1ThWjuDjDutlYg6xg",
@@ -3778,7 +3778,7 @@
     },
     {
       "title": "十倍勝，絕不單靠運氣（暢銷新裝版）",
-      "author": "齊若蘭",
+      "author": "詹姆．柯林斯（Jim Collins）、莫頓．韓森（Morten T. Hansen）",
       "original_title": "",
       "isbn": "3099573287490",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/pePwYxsriTWsmoXLMydUCA",
@@ -3824,7 +3824,7 @@
     },
     {
       "title": "選３哲學：聚焦３件事，解決工作生活兩難，搞定你的超載人生",
-      "author": "周怡伶",
+      "author": "蘭蒂．祖克柏（Randi Zuckerberg）",
       "original_title": "Pick Three: You Can Have It All (Just Not Every Day)",
       "isbn": "3090000030098",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/bxBlHtVZpT6tvcI32TsSUg",
@@ -3836,8 +3836,8 @@
       "publish_date": "2019年2月1日",
       "ratings": {
         "kobo": {
-          "score": 3.91,
-          "count": 23,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/bxBlHtVZpT6tvcI32TsSUg"
         },
         "books_com": {
@@ -3865,12 +3865,12 @@
           "url": "https://www.amazon.com/gp/product/B074SGQR3K/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 3.25,
+      "avg_score": 3.23,
       "short_affiliate_url": "https://reurl.cc/RRXdpG"
     },
     {
       "title": "投資之路",
-      "author": "陳冠吟",
+      "author": "查爾斯‧Ｒ‧施瓦布（Charles Schwab）",
       "original_title": "",
       "isbn": "3099573289159",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/xRzcg7_DMzCBm7jvJA7hTg",
@@ -3928,8 +3928,8 @@
       "publish_date": "2022年8月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 5.0,
+          "count": 1,
           "url": "https://www.kobo.com/tw/zh/ebook/d4KYwsLNazS1BINqWnBATQ"
         },
         "books_com": {
@@ -3974,8 +3974,8 @@
       "publish_date": "2020年5月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 4.08,
+          "count": 13,
           "url": "https://www.kobo.com/tw/zh/ebook/Gh_DM5K4KTOnddHxgoAKbw"
         },
         "books_com": {
@@ -4003,7 +4003,7 @@
           "url": "https://www.amazon.com/gp/product/B09DCQ3N64/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.45,
+      "avg_score": 4.4,
       "short_affiliate_url": "https://reurl.cc/nxOV98"
     },
     {
@@ -4389,8 +4389,8 @@
       "publish_date": "2025年6月1日",
       "ratings": {
         "kobo": {
-          "score": 3.0,
-          "count": 2,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/SWI5HtiS7zGq0H0DvPt1Hg"
         },
         "books_com": {
@@ -4418,7 +4418,7 @@
           "url": ""
         }
       },
-      "avg_score": 3.5,
+      "avg_score": 4.0,
       "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FSWI5HtiS7zGq0H0DvPt1Hg"
     },
     {
@@ -4711,8 +4711,8 @@
       "publish_date": "2024年4月1日",
       "ratings": {
         "kobo": {
-          "score": 4.0,
-          "count": 1,
+          "score": null,
+          "count": 0,
           "url": "https://www.kobo.com/tw/zh/ebook/Ts1H2Fj0OjCPFMcSby5CQQ"
         },
         "books_com": {
@@ -4740,7 +4740,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.4,
+      "avg_score": 4.44,
       "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTs1H2Fj0OjCPFMcSby5CQQ"
     }
   ]
