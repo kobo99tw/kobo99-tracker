@@ -1,5 +1,6 @@
 [
   {
+    "defaultSort": "avg",
     "file": "theme_yuanliou.json",
     "headTitle": "遠流出版全書系：單本85折",
     "hide_after": "2026-09-02",
