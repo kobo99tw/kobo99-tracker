@@ -413,7 +413,7 @@
           "url": "https://a.co/d/0iwvnOrv"
         }
       },
-      "avg_score": 4.35,
+      "avg_score": 4.22,
       "short_affiliate_url": "https://reurl.cc/Z8bnm6"
     },
     {
@@ -1066,7 +1066,7 @@
       "original_title": "",
       "isbn": "3099573272243",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/KDri4KypVDSG7vQg019B1Q",
-      "kobo_price": "NT$370",
+      "kobo_price": "NT$201",
       "cover_url": "covers/KDri4KypVDSG7vQg019B1Q.jpg",
       "sale_price": "單本85折，3本再折$99（至8/31止）",
       "sale_end": "",
@@ -3836,8 +3836,8 @@
       "publish_date": "2019年2月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 3.91,
+          "count": 23,
           "url": "https://www.kobo.com/tw/zh/ebook/bxBlHtVZpT6tvcI32TsSUg"
         },
         "books_com": {
@@ -3865,7 +3865,7 @@
           "url": "https://www.amazon.com/gp/product/B074SGQR3K/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 3.86,
+      "avg_score": 3.9,
       "short_affiliate_url": "https://reurl.cc/RRXdpG"
     },
     {
@@ -4389,8 +4389,8 @@
       "publish_date": "2025年6月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 3.0,
+          "count": 2,
           "url": "https://www.kobo.com/tw/zh/ebook/SWI5HtiS7zGq0H0DvPt1Hg"
         },
         "books_com": {
@@ -4418,7 +4418,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.1,
+      "avg_score": 4.08,
       "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FSWI5HtiS7zGq0H0DvPt1Hg"
     },
     {
@@ -4711,8 +4711,8 @@
       "publish_date": "2024年4月1日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 4.0,
+          "count": 1,
           "url": "https://www.kobo.com/tw/zh/ebook/Ts1H2Fj0OjCPFMcSby5CQQ"
         },
         "books_com": {
@@ -4740,7 +4740,7 @@
           "url": ""
         }
       },
-      "avg_score": 4.13,
+      "avg_score": 4.12,
       "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FTs1H2Fj0OjCPFMcSby5CQQ"
     }
   ]
