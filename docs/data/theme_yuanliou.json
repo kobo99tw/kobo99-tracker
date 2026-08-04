@@ -224,12 +224,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.2,
+          "count": 21,
+          "url": "https://a.co/d/066eHoAo"
         }
       },
-      "avg_score": 4.17,
+      "avg_score": 4.16,
       "short_affiliate_url": "https://reurl.cc/7Yp2aQ"
     },
     {
@@ -408,12 +408,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 3,
+          "url": "https://a.co/d/0iwvnOrv"
         }
       },
-      "avg_score": 4.23,
+      "avg_score": 4.35,
       "short_affiliate_url": "https://reurl.cc/Z8bnm6"
     },
     {
@@ -500,12 +500,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 3300,
+          "url": "https://a.co/d/01GLjh78"
         }
       },
-      "avg_score": 4.04,
+      "avg_score": 4.13,
       "short_affiliate_url": "https://reurl.cc/rkRley"
     },
     {
@@ -4175,19 +4175,19 @@
         "goodreads": {
           "score": 4.08,
           "count": 847,
-          "url": "https://www.goodreads.com/book/isbn/9786263615670",
-          "note": "isbn",
+          "url": "https://www.goodreads.com/book/show/61418641-the-jolt-effect",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 50,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 412,
+          "url": "https://a.co/d/0afNic3i"
         }
       },
-      "avg_score": 4.09,
+      "avg_score": 4.21,
       "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FbT9i2Kas5T2nDR8IuAP7qQ",
       "original_author": "Matthew Dixon"
     },
