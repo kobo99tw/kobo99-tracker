@@ -85,12 +85,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 207,
-          "url": "https://www.amazon.com/gp/product/4797386568/ref=x_gr_bb_amazon"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.22,
+      "avg_score": 4.17,
       "short_affiliate_url": "https://reurl.cc/aEGl3D"
     },
     {
@@ -1307,11 +1307,13 @@
           "url": "https://readmoo.com/book/210286714000101"
         },
         "goodreads": {
-          "score": 4.13,
+          "score": 4.38,
           "count": 8,
-          "url": "https://www.goodreads.com/book/show/197145879?from_search=true&from_srp=true&qid=pwuSKYwms8&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CFZWMJFW/ref=x_gr_bb_kindle"
+          "url": "https://www.goodreads.com/book/isbn/9789573295952",
+          "note": "isbn",
+          "amazon_url": "",
+          "confidence": 50,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.6,
@@ -1319,7 +1321,7 @@
           "url": "https://www.amazon.com/gp/product/B0B3DQ8DSD/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.19,
+      "avg_score": 4.2,
       "short_affiliate_url": "https://reurl.cc/Wz146x"
     },
     {
