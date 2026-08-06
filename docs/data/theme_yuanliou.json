@@ -584,12 +584,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 12,
-          "url": "https://www.amazon.com/-/zh_TW/Essentials-Economics-Dirk-Mateer/dp/0393441865/ref=sr_1_2"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.15,
+      "avg_score": 4.14,
       "short_affiliate_url": "https://reurl.cc/27m4nX",
       "original_author": "김나영"
     },
