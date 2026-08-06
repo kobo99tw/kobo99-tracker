@@ -251,21 +251,21 @@
           "url": "https://readmoo.com/book/210331435000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
+          "score": 3.87,
+          "count": 1518,
+          "url": "https://www.goodreads.com/book/show/16599562-the-dao-of-capital?from_search=true&from_srp=true&qid=Q5kxj8xk9m&rank=1",
           "note": "無原文資訊",
           "amazon_url": "",
           "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%A6%AC%E5%85%8B%E2%80%A7%E5%8F%B2%E5%8C%B9%E8%8C%B2%E7%B4%8D%E6%A0%BC%E7%88%BE-ebook/dp/B0D3HLJKFX/ref=sr_1_1"
+          "score": 4.3,
+          "count": 707,
+          "url": "https://www.amazon.com/gp/product/B00D7P2K1W/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.11,
+      "avg_score": 4.01,
       "short_affiliate_url": "https://reurl.cc/QNbrGO"
     },
     {
