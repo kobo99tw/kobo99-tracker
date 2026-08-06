@@ -322,7 +322,8 @@
         }
       },
       "avg_score": 4.5,
-      "short_affiliate_url": "https://reurl.cc/O6xn5g"
+      "short_affiliate_url": "https://reurl.cc/O6xn5g",
+      "original_author": "Eric Jorgenson"
     },
     {
       "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
@@ -1089,22 +1090,21 @@
           "url": "https://readmoo.com/book/210468636000101"
         },
         "goodreads": {
-          "score": 4.16,
-          "count": 492,
-          "url": "https://www.goodreads.com/book/show/237419852-countdown-to-riches?from_search=true&from_srp=true&qid=tXTrMjjjrC&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FBJTZ76C/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "score": 4.17,
+          "count": 538,
+          "url": "https://www.goodreads.com/book/show/237419852-countdown-to-riches?from_search=true&from_srp=true&qid=QxXJOhqtnp&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FBJTZ76C/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 571,
+          "count": 659,
           "url": "https://www.amazon.com/gp/product/B0FBJTZ76C/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/V2ylY6"
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/V2ylY6",
+      "original_author": "Rhonda Byrne"
     },
     {
       "title": "操作慣性股，我38歲就財富自由：篩出別人沒發現的類台積和類輝達，幾塊漲、幾塊跌有慣性，績效大勝長期持有。",
@@ -1978,7 +1978,8 @@
         }
       },
       "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/grL1Rp"
+      "short_affiliate_url": "https://reurl.cc/grL1Rp",
+      "original_author": "Steve Adcock"
     },
     {
       "title": "跟華爾街之狼學投資：喬登．貝爾福在華爾街賺大錢的財富指南",
@@ -2702,19 +2703,18 @@
           "score": 3.34,
           "count": 159,
           "url": "https://www.goodreads.com/book/show/22750219-john-d-rockefeller-on-making-money",
-          "note": "",
-          "amazon_url": "",
-          "confidence": 0,
-          "cross_validated": null
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B00USBMFZE/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.1,
-          "count": 281,
+          "count": 283,
           "url": "https://a.co/d/0cvYPDDK"
         }
       },
       "avg_score": 4.03,
-      "short_affiliate_url": "https://reurl.cc/M2nV3n"
+      "short_affiliate_url": "https://reurl.cc/M2nV3n",
+      "original_author": "John D. Rockefeller"
     },
     {
       "title": "躺著就有錢的自由人生：從擺脫負債到安穩退休的理財7步驟",
@@ -2792,21 +2792,20 @@
         },
         "goodreads": {
           "score": 4.09,
-          "count": 750281,
+          "count": 755507,
           "url": "https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad",
-          "note": "",
-          "amazon_url": "",
-          "confidence": 0,
-          "cross_validated": null
+          "note": "title+author",
+          "amazon_url": ""
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 24035,
+          "score": 4.7,
+          "count": 108142,
           "url": "https://a.co/d/0dfhdfpy"
         }
       },
-      "avg_score": 4.4,
-      "short_affiliate_url": "https://reurl.cc/R2amkn"
+      "avg_score": 4.42,
+      "short_affiliate_url": "https://reurl.cc/R2amkn",
+      "original_author": "Robert T. Kiyosaki"
     },
     {
       "title": "知識複利",
@@ -2975,22 +2974,21 @@
           "url": "https://readmoo.com/book/210211203000101"
         },
         "goodreads": {
-          "score": 4.05,
-          "count": 3041,
-          "url": "https://www.goodreads.com/book/show/33004340-millionaire-success-habits?from_search=true&from_srp=true&qid=G8K7mdAb1i&rank=1",
+          "score": 4.06,
+          "count": 3057,
+          "url": "https://www.goodreads.com/book/show/33004340-millionaire-success-habits?from_search=true&from_srp=true&qid=KB5NtvLa3H&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B07KNSLY8M/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "amazon_url": "https://www.amazon.com/gp/product/B07KNSLY8M/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 3059,
+          "count": 3063,
           "url": "https://www.amazon.com/gp/product/B07KNSLY8M/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/zQmE5e"
+      "short_affiliate_url": "https://reurl.cc/zQmE5e",
+      "original_author": "Dean Graziosi"
     },
     {
       "title": "高手的法則：向68位橫跨長期投資、價值投資、成長型投資到短線交易領域的金融界傳奇大師，學習投資原則與禁忌清單",
@@ -3160,12 +3158,10 @@
         },
         "goodreads": {
           "score": 3.75,
-          "count": 3690,
+          "count": 3706,
           "url": "https://www.goodreads.com/book/show/41732254-playing-with-fire-financial-independence-retire-early",
-          "note": "",
-          "amazon_url": "",
-          "confidence": 0,
-          "cross_validated": null
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B07JVC5F7N/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.5,
@@ -3174,7 +3170,8 @@
         }
       },
       "avg_score": 4.13,
-      "short_affiliate_url": "https://reurl.cc/kpGgoq"
+      "short_affiliate_url": "https://reurl.cc/kpGgoq",
+      "original_author": "Scott Rieckens"
     },
     {
       "title": "小島經濟學：關於魚(金錢)、漁網(資本)、儲蓄及借貸的經濟寓言 【插畫圖解珍藏版】",

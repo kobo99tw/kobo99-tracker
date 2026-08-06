@@ -308,12 +308,10 @@
         },
         "goodreads": {
           "score": 4.11,
-          "count": 2524,
-          "url": "https://www.goodreads.com/book/show/29868590-tao-of-charlie-munger?from_search=true&from_srp=true&qid=Rm571eD39Z&rank=1",
+          "count": 2526,
+          "url": "https://www.goodreads.com/book/show/29868590-tao-of-charlie-munger?from_search=true&from_srp=true&qid=OSetJfTeob&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B01E4BC1EI/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "amazon_url": "https://www.amazon.com/gp/product/B01E4BC1EI/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.5,
@@ -322,7 +320,8 @@
         }
       },
       "avg_score": 4.23,
-      "short_affiliate_url": "https://reurl.cc/p8MDGe"
+      "short_affiliate_url": "https://reurl.cc/p8MDGe",
+      "original_author": "David Clark"
     },
     {
       "title": "一人公司：為什麼小而美是未來企業發展的趨勢",
@@ -860,12 +859,10 @@
         },
         "goodreads": {
           "score": 4.16,
-          "count": 959,
-          "url": "https://www.goodreads.com/book/show/30367111-how-to-think-about-money?from_search=true&from_srp=true&qid=cmTkNvIfAy&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B01GK1HWBW/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "count": 960,
+          "url": "https://www.goodreads.com/book/show/30367111-how-to-think-about-money?from_search=true&from_srp=true&qid=RLyH8hZhgW&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B01GK1HWBW/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.6,
@@ -874,7 +871,8 @@
         }
       },
       "avg_score": 4.22,
-      "short_affiliate_url": "https://reurl.cc/omQDkg"
+      "short_affiliate_url": "https://reurl.cc/omQDkg",
+      "original_author": "Jonathan Clements"
     },
     {
       "title": "葛洛夫給經理人的第一課：從煮蛋、賣咖啡的早餐店談高效能管理之道（暢銷新裝版）",
@@ -906,21 +904,20 @@
         },
         "goodreads": {
           "score": 4.3,
-          "count": 22015,
-          "url": "https://www.goodreads.com/book/show/324750.High_Output_Management?from_search=true&from_srp=true&qid=BkzwlgC8Ch&rank=1",
+          "count": 22026,
+          "url": "https://www.goodreads.com/book/show/324750.High_Output_Management?from_search=true&from_srp=true&qid=rvkenm3uAG&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B015VACHOK/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "amazon_url": ""
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 5838,
-          "url": "https://www.amazon.com/gp/product/B015VACHOK/ref=x_gr_bb_kindle"
+          "count": 5841,
+          "url": "https://www.amazon.com/-/zh_TW/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1"
         }
       },
       "avg_score": 4.37,
-      "short_affiliate_url": "https://reurl.cc/LeM1y7"
+      "short_affiliate_url": "https://reurl.cc/LeM1y7",
+      "original_author": "Andrew S. Grove"
     },
     {
       "title": "把話說開的職場溝通術：不隱忍、不對立，不用衝突也能精準破局的雙向對話課",
@@ -1338,8 +1335,8 @@
     },
     {
       "title": "習慣致富 人生實踐版",
-      "author": "楊馥嘉",
-      "original_title": "",
+      "author": "湯姆．柯利",
+      "original_title": "Effort-less Wealth : Smart Money Habits at Every Stage of Your Life",
       "isbn": "3099573288602",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/h_ks0vBvQjGAHT2sRe1_3g",
       "kobo_price": "NT$255",
@@ -1367,20 +1364,19 @@
         "goodreads": {
           "score": 4.06,
           "count": 50,
-          "url": "https://www.goodreads.com/book/show/55217448?from_search=true&from_srp=true&qid=NQExDqzvIr&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09DG5MTMJ/ref=x_gr_bb_kindle",
-          "confidence": 60,
-          "cross_validated": null
+          "url": "https://www.goodreads.com/book/show/50420580-effort-less-wealth?from_search=true&from_srp=true&qid=6TgWLhYlax&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B087KTPBM7/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
-          "score": 4.0,
-          "count": 8,
-          "url": "https://www.amazon.com/gp/product/B09DG5MTMJ/ref=x_gr_bb_kindle"
+          "score": 4.3,
+          "count": 50,
+          "url": "https://www.amazon.com/gp/product/B087KTPBM7/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.13,
-      "short_affiliate_url": "https://reurl.cc/QNbpr5"
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/QNbpr5",
+      "original_author": "Tom Corley"
     },
     {
       "title": "通膨時代，我選擇穩定致富",
@@ -2194,21 +2190,20 @@
         },
         "goodreads": {
           "score": 3.92,
-          "count": 18229,
-          "url": "https://www.goodreads.com/book/show/40549476-this-is-marketing?from_search=true&from_srp=true&qid=ng690gfWjr&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B07DBR1V9S/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "count": 18241,
+          "url": "https://www.goodreads.com/book/show/40549476-this-is-marketing?from_search=true&from_srp=true&qid=p9r4YosvaN&rank=2",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B07DBR1V9S/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 5581,
+          "count": 5583,
           "url": "https://www.amazon.com/gp/product/B07DBR1V9S/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.04,
-      "short_affiliate_url": "https://reurl.cc/zONy3V"
+      "short_affiliate_url": "https://reurl.cc/zONy3V",
+      "original_author": "Seth Godin"
     },
     {
       "title": "炒股的智慧：教你持續、長期、穩定買股，讓錢自然流進來（新修典藏版）",
@@ -3406,7 +3401,8 @@
         }
       },
       "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/beE6Ld"
+      "short_affiliate_url": "https://reurl.cc/beE6Ld",
+      "original_author": "Adam Ferrier"
     },
     {
       "title": "巴菲特的勝券在握之道：在負利率時代，存錢不如存股的4大滾雪球投資法",
@@ -3853,11 +3849,9 @@
         "goodreads": {
           "score": 3.08,
           "count": 754,
-          "url": "https://www.goodreads.com/book/show/36039363-pick-three?from_search=true&from_srp=true&qid=ph9FNxW8HY&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B074SGQR3K/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "url": "https://www.goodreads.com/book/show/36039363-pick-three?from_search=true&from_srp=true&qid=ocep3gs0Ee&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B074SGQR3K/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.0,
@@ -3866,7 +3860,8 @@
         }
       },
       "avg_score": 3.9,
-      "short_affiliate_url": "https://reurl.cc/RRXdpG"
+      "short_affiliate_url": "https://reurl.cc/RRXdpG",
+      "original_author": "Randi Zuckerberg"
     },
     {
       "title": "投資之路",

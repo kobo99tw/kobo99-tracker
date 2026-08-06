@@ -46,7 +46,8 @@
         }
       },
       "avg_score": 4.5,
-      "short_affiliate_url": "https://reurl.cc/DYnZad"
+      "short_affiliate_url": "https://reurl.cc/DYnZad",
+      "original_author": "Eric Jorgenson"
     },
     {
       "title": "臺灣漫遊錄",
@@ -446,21 +447,20 @@
         },
         "goodreads": {
           "score": 4.27,
-          "count": 13548,
-          "url": "https://www.goodreads.com/book/show/54278940-jag-kan-ha-fel-och-andra-visdomar-fr-n-mitt-liv-som-buddhistmunk?from_search=true&from_srp=true&qid=vFftuZK6JM&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B09XXDJ7P1/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "count": 13715,
+          "url": "https://www.goodreads.com/book/show/54278940-jag-kan-ha-fel-och-andra-visdomar-fr-n-mitt-liv-som-buddhistmunk?from_search=true&from_srp=true&qid=Q0BFJ5MCXj&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09XXDJ7P1/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 349,
+          "count": 355,
           "url": "https://www.amazon.com/gp/product/B09XXDJ7P1/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.49,
-      "short_affiliate_url": "https://reurl.cc/Vnp5Kn"
+      "short_affiliate_url": "https://reurl.cc/Vnp5Kn",
+      "original_author": "Caroline Bankler"
     },
     {
       "title": "13．67【10週年紀念全新修訂版】：特別收錄後記．解說＋相關事件地圖",

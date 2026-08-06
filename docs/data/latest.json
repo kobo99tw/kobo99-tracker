@@ -180,7 +180,7 @@
       "publisher": "天下雜誌",
       "publish_date": "2023年5月31日",
       "language": "中文",
-      "original_author": null,
+      "original_author": "Daniel Goleman",
       "description": "當代最具影響力的正念研究權威，超過40年實證，奠定西方靜觀科學基礎。健康的心是可以鍛鍊的，靜觀不只是舒壓或安眠，改變日常生活的行為，有效處理傷害身心的破壞性情緒，冷靜面對煩亂困難，重新掌控內心。",
       "ratings": {
         "kobo": {
@@ -201,19 +201,19 @@
         "goodreads": {
           "score": 3.9,
           "count": 6049,
-          "url": "https://www.goodreads.com/book/show/163794827?from_search=true&from_srp=true&qid=lvty1jS85j&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C6F35D19/ref=x_gr_bb_kindle",
-          "confidence": 65,
-          "cross_validated": true
+          "url": "https://www.goodreads.com/book/show/34272471-altered-traits",
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.amazon.com/gp/product/B0C6F35D19/ref=x_gr_bb_kindle"
+          "score": 4.4,
+          "count": 1475,
+          "url": "https://www.amazon.com/dp/0399184384"
         }
       },
-      "avg_score": 4.06,
+      "avg_score": 4.11,
       "short_affiliate_url": "https://reurl.cc/OQ4ZLD"
     },
     {
@@ -336,7 +336,7 @@
       "publisher": "漫遊者文化",
       "publish_date": "2025年3月17日",
       "language": "中文",
-      "original_author": null,
+      "original_author": "Ronald H. Fritze",
       "description": "在瘋狂神話、邊緣思想和另類事實所構成的曖昧混沌之中，探討將人們推向後真相世界的心理機制和歷史力量。本書將帶你穿越陰謀論、偽歷史與偽科學的暮光世界，踏上一場破除迷思的旅程。",
       "ratings": {
         "kobo": {
@@ -357,11 +357,9 @@
         "goodreads": {
           "score": 3.7,
           "count": 27,
-          "url": "https://www.goodreads.com/book/show/59095232-hope-and-fear?from_search=true&from_srp=true&qid=xSt5Da1fuj&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B09RNB4YSZ/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "url": "https://www.goodreads.com/book/show/59095232-hope-and-fear?from_search=true&from_srp=true&qid=zttOUQF9Xn&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09RNB4YSZ/ref=x_gr_bb_kindle"
         },
         "amazon_com": {
           "score": 4.0,
