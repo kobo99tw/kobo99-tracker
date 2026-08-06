@@ -7,87 +7,89 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:《階級與品味：隱藏在文化審美與流行趨勢背後的
- 地位渴望》
-DESCRIPTION:特價 NT$99｜原價 NT$322｜4.1分\nhttps://reurl.cc/3yjlvO\
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:《早餐店阿姨什麼都記得住：早安，今天的鬼故事
+ 加點洋蔥嗎？》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/Vn1AQY\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/3yjlvO
-UID:kobo99-2026-w31-01@kobo99-tracker
-DTSTAMP:20260804T071816Z
+URL:https://reurl.cc/Vn1AQY
+UID:kobo99-2026-w32-01@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-SUMMARY:《一本書讀懂美元：9堂課解析美元邏輯，如何影響
- 全球經濟和每個人的投資》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.1分\nhttps://reurl.cc/GgoRWA\
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:《落花时节》
+DESCRIPTION:特價 NT$99｜原價 NT$199｜3.9分\nhttps://reurl.cc/GgE8LG\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/GgoRWA
-UID:kobo99-2026-w31-02@kobo99-tracker
-DTSTAMP:20260804T071816Z
+URL:https://reurl.cc/GgE8LG
+UID:kobo99-2026-w32-02@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-SUMMARY:《佣兵天下》
-DESCRIPTION:特價 NT$99｜原價 NT$483｜4.1分\nhttps://reurl.cc/EYpME1\
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:《以我們告終》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜4.4分\nhttps://reurl.cc/eQOR7Q\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/EYpME1
-UID:kobo99-2026-w31-03@kobo99-tracker
-DTSTAMP:20260804T071816Z
+URL:https://reurl.cc/eQOR7Q
+UID:kobo99-2026-w32-03@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:《正念殺機》
-DESCRIPTION:特價 NT$99｜原價 NT$308｜4.2分\nhttps://reurl.cc/eQ641L\
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:《平靜的力量：正念研究經典，科學實證持續練心
+ 即可重塑大腦迴路，提升內心素質，脫離耗損身心的負
+ 面情緒》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜4.1分\nhttps://reurl.cc/OQ4ZLD\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/eQ641L
-UID:kobo99-2026-w31-04@kobo99-tracker
-DTSTAMP:20260804T071816Z
+URL:https://reurl.cc/OQ4ZLD
+UID:kobo99-2026-w32-04@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-SUMMARY:《時間的起源：史蒂芬．霍金的最終理論》
-DESCRIPTION:特價 NT$99｜原價 NT$455｜4.2分\nhttps://reurl.cc/WzkZlx\
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:《資本之道：從孫子兵法到奧地利經濟學派，看透
+ 資本本質的迂迴手段。》
+DESCRIPTION:特價 NT$99｜原價 NT$364｜4.1分\nhttps://reurl.cc/QNbrGO\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/WzkZlx
-UID:kobo99-2026-w31-05@kobo99-tracker
-DTSTAMP:20260804T071816Z
+URL:https://reurl.cc/QNbrGO
+UID:kobo99-2026-w32-05@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
-SUMMARY:《藝術的40堂公開課：透過故事，走進藝術家創作
- 現場，看藝術如何誕生、如何形塑人類生活》
-DESCRIPTION:特價 NT$99｜原價 NT$385｜4.1分\nhttps://reurl.cc/MWbxq3\
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:《箱子》
+DESCRIPTION:特價 NT$99｜原價 NT$479｜4.1分\nhttps://reurl.cc/RRX5Eg\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/MWbxq3
-UID:kobo99-2026-w31-06@kobo99-tracker
-DTSTAMP:20260804T071816Z
+URL:https://reurl.cc/RRX5Eg
+UID:kobo99-2026-w32-06@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:《理當幸福的我們，為何不快樂？：從精神科角度
- ，理解「富足一代」的焦慮、不安與失落》
-DESCRIPTION:特價 NT$99｜原價 NT$308｜4.1分\nhttps://reurl.cc/NOpmVx\
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:《什麼！英國女王是蜥蜴人？！：陰謀論、偽歷史
+ 與偽科學為什麼吸引我們，透過人性的希望與恐懼，影
+ 響我們的決定和行動》
+DESCRIPTION:特價 NT$99｜原價 NT$385｜4.0分\nhttps://reurl.cc/qaN74q\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/NOpmVx
-UID:kobo99-2026-w31-07@kobo99-tracker
-DTSTAMP:20260804T071816Z
+URL:https://reurl.cc/qaN74q
+UID:kobo99-2026-w32-07@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-SUMMARY:《蛋白質的一生》
-DESCRIPTION:特價 NT$99｜原價 NT$240｜4.2分\nhttps://reurl.cc/qaOjQp\
- n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qaOjQp
-UID:kobo99-2026-w31-08@kobo99-tracker
-DTSTAMP:20260804T071816Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:《扁平時代：演算法如何限縮我們的品味與文化》
+DESCRIPTION:特價 NT$99｜4.1分\nhttps://reurl.cc/Vn1AQZ\n查看當週各
+ 書評價: https://kobo99.com/
+URL:https://reurl.cc/Vn1AQZ
+UID:kobo99-2026-w32-08@kobo99-tracker
+DTSTAMP:20260806T031320Z
 END:VEVENT
 END:VCALENDAR

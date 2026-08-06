@@ -1,98 +1,254 @@
 {
   "year": 2026,
-  "week": 31,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w31",
-  "sale_label": "NT$99 特價：7/30（四）～8/5（三）",
-  "sale_start": "2026-07-30",
-  "sale_end": "2026-08-05",
+  "week": 32,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w32",
+  "sale_label": "NT$99 特價：8/6（四）～8/12（三）",
+  "sale_start": "2026-08-06",
+  "sale_end": "2026-08-12",
   "on_sale": true,
-  "updated_at": "2026-07-30T09:34:15.654524+08:00",
+  "updated_at": "2026-08-06T10:59:43.047208+08:00",
   "books": [
     {
-      "title": "階級與品味：隱藏在文化審美與流行趨勢背後的地位渴望",
-      "author": "W‧大衛‧馬克思",
-      "original_title": "Status and Culture: How Our Desire for Social Rank Creates Taste, Identity, Art, Fashion, and Constant Change",
-      "isbn": "9786267445785",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dOyv7QGL5Tuf1BYfzQiq4A?sId=7ffb6f6e-c5dc-4e8c-808d-6a2b4a1298d6&ssId=wBVqWdwdnYceOIka2u4Ok&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
-      "kobo_price": "NT$322",
-      "cover_url": "covers/dOyv7QGL5Tuf1BYfzQiq4A.jpg",
+      "title": "早餐店阿姨什麼都記得住：早安，今天的鬼故事加點洋蔥嗎？",
+      "author": "路邊攤",
+      "original_title": "",
+      "isbn": "9786263585423",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/-PFDMFwipD-7yIphiMDuRw?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/-PFDMFwipD-7yIphiMDuRw.jpg",
       "sale_price": "NT$99",
-      "date": "7/30",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
+      "date": "8/7",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
       "on_sale": true,
-      "publisher": "二十張出版",
-      "publish_date": "2025年1月2日",
+      "publisher": "三采文化",
+      "publish_date": "2024年12月27日",
       "language": "中文",
       "original_author": null,
-      "description": "是階級地位的高低決定了品味的價值？解讀文化品味與階級身分的交織，深入探索流行變遷的特徵，結合跨學科的研究與流行趨勢觀察，解讀文化偏好的誕生、品味機制的運作，人對地位的追求是貫穿一切的關鍵概念。",
+      "description": "走進平凡的早餐店，穿越時間與空間，人鬼溫情互動。巷口的早餐店阿姨，提供的是靈魂的撫慰，喊你帥哥美女的早餐店阿姨化身偵探，給的不僅僅是一頓飽食，更是活下去的力量！",
       "ratings": {
         "kobo": {
-          "score": 3.71,
-          "count": 7,
-          "url": "https://www.kobo.com/tw/zh/ebook/dOyv7QGL5Tuf1BYfzQiq4A?sId=7ffb6f6e-c5dc-4e8c-808d-6a2b4a1298d6&ssId=wBVqWdwdnYceOIka2u4Ok&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
+          "score": 4.25,
+          "count": 8,
+          "url": "https://www.kobo.com/tw/zh/ebook/-PFDMFwipD-7yIphiMDuRw?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
         },
         "books_com": {
           "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/0011009197"
+          "count": 15,
+          "url": "https://www.books.com.tw/products/0011008007"
         },
         "readmoo": {
-          "score": 4.2,
-          "count": 20,
-          "url": "https://readmoo.com/book/210363900000101"
+          "score": 4.6,
+          "count": 504,
+          "url": "https://readmoo.com/book/210363163000101"
         },
         "goodreads": {
-          "score": 3.89,
-          "count": 1491,
-          "url": "https://www.goodreads.com/book/show/223717431?from_search=true&from_srp=true&qid=c1jOPKSKmH&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DS55QYZP/ref=x_gr_bb_kindle",
-          "confidence": 60,
-          "cross_validated": false
+          "score": 3.58,
+          "count": 48,
+          "url": "https://www.goodreads.com/book/show/222903402?from_search=true&from_srp=true&qid=ECP4QfnBtR&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DR87NPM5/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 278,
-          "url": "https://www.amazon.com/-/zh_TW/W-David-Marx-ebook/dp/B09JVG323B/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E8%B7%AF%E9%82%8A%E6%94%A4-ebook/dp/B0DR87NPM5/ref=sr_1_1"
         }
       },
-      "avg_score": 4.11,
-      "short_affiliate_url": "https://reurl.cc/3yjlvO"
+      "avg_score": 4.18,
+      "short_affiliate_url": "https://reurl.cc/Vn1AQY"
     },
     {
-      "title": "一本書讀懂美元：9堂課解析美元邏輯，如何影響全球經濟和每個人的投資",
-      "author": "白釋鉉 백석현",
-      "original_title": "나는 달러로 경제를 읽는다",
-      "isbn": "9786267492987",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/gHNJjsnWDDiOLJTKBIzxhg?sId=67fd5ebc-788b-4e65-bfc8-04ffee6405fe&ssId=aZfJUNw5Fni8E_KS0dpm2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/gHNJjsnWDDiOLJTKBIzxhg.jpg",
+      "title": "落花时节",
+      "author": "阿耐",
+      "original_title": "",
+      "isbn": "7584043281437",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/RdxmrljmXjmRvy_vZlfXog?sId=6b75399d-77c5-4718-94a7-308ac5dfb72e&ssId=Mrx2H6n1lUIC4BxpdA4ln&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
+      "kobo_price": "NT$199",
+      "cover_url": "covers/RdxmrljmXjmRvy_vZlfXog.jpg",
       "sale_price": "NT$99",
-      "date": "7/31",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
+      "date": "8/7",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
       "on_sale": true,
-      "publisher": "商業周刊",
-      "publish_date": "2025年2月20日",
+      "publisher": "",
+      "publish_date": "2021年8月1日",
       "language": "中文",
       "original_author": null,
-      "description": "美國藉由美元掌握世界的錢包，了解美元，才能看透金融市場的流動！\n最強匯率專家用零基礎就能懂的語言，帶你看懂美元，看懂經濟！\n為什麼全世界的人都在用美元？什麼時候適合投資美元？美元匯率，究竟是上升好還是下降好？想避險，該買美元、日圓、歐元還是人民幣？這些問題，你知道嗎？",
+      "description": "一場糾纏二十多年的恩怨，兩代被仇恨吞噬的人。在一場家庭變故後，乖巧的她與弟弟改名換姓，餘生都在逃離父輩的恩怨。面對破裂的婚姻、自私偏心的母親、不肯甘休的仇家後人，她選擇打破命運的安排，改變這一切。",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/gHNJjsnWDDiOLJTKBIzxhg?sId=67fd5ebc-788b-4e65-bfc8-04ffee6405fe&ssId=aZfJUNw5Fni8E_KS0dpm2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
+          "url": "https://www.kobo.com/tw/zh/ebook/RdxmrljmXjmRvy_vZlfXog?sId=6b75399d-77c5-4718-94a7-308ac5dfb72e&ssId=Mrx2H6n1lUIC4BxpdA4ln&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/CN11723453"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210073483000101"
+        },
+        "goodreads": {
+          "score": 3.5,
+          "count": 90,
+          "url": "https://www.goodreads.com/book/show/27815790?from_search=true&from_srp=true&qid=5JRsEKOVxS&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B00ZF30FD4/ref=x_gr_bb_amazon",
+          "confidence": 50,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/dp/B0HC3FS1QG/ref=sr_1_4"
+        }
+      },
+      "avg_score": 3.92,
+      "short_affiliate_url": "https://reurl.cc/GgE8LG"
+    },
+    {
+      "title": "以我們告終",
+      "author": "柯琳．胡佛",
+      "original_title": "It Ends with Us",
+      "isbn": "3150000000727",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WUXemSOXHD6F5kUhTAEb6Q?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/WUXemSOXHD6F5kUhTAEb6Q.jpg",
+      "sale_price": "NT$99",
+      "date": "8/8",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
+      "on_sale": true,
+      "publisher": "大塊文化",
+      "publish_date": "2024年8月5日",
+      "language": "中文",
+      "original_author": "Colleen Hoover",
+      "description": "夏日極致療癒愛情電影《到我們為止》原著小說。超越羅曼史格局，挑戰家暴題材。她離開自小生活的小鎮，搬到波士頓。當她遇到神經外科醫生萊爾，一切似乎美夢成真，但另一方面，她仍心繫著初戀情人亞特拉斯。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/WUXemSOXHD6F5kUhTAEb6Q?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 8,
+          "url": "https://www.books.com.tw/products/0010973896"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 174,
+          "url": "https://readmoo.com/book/210302666000101"
+        },
+        "goodreads": {
+          "score": 4.07,
+          "count": 4799754,
+          "url": "https://www.goodreads.com/book/show/62627512-it-ends-with-us?from_search=true&from_srp=true&qid=Rq0930CrEO&rank=1",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 410301,
+          "url": "https://www.amazon.com/-/zh_TW/Colleen-Hoover-ebook/dp/B0176M3U10/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.39,
+      "short_affiliate_url": "https://reurl.cc/eQOR7Q"
+    },
+    {
+      "title": "平靜的力量：正念研究經典，科學實證持續練心即可重塑大腦迴路，提升內心素質，脫離耗損身心的負面情緒",
+      "author": "丹尼爾．高曼博士(Daniel．Goleman);理查．戴維森博士(Richard J. Davidson)",
+      "original_title": "Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body",
+      "isbn": "9789863988991",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/aI7t-8tEuDSxOauRZizCXQ?sId=c7313409-720d-4429-8dfc-9ddf4cfd2dcc&ssId=1U4snL5nzUo3dpuZdyUlr&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/aI7t-8tEuDSxOauRZizCXQ.jpg",
+      "sale_price": "NT$99",
+      "date": "8/9",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
+      "on_sale": true,
+      "publisher": "天下雜誌",
+      "publish_date": "2023年5月31日",
+      "language": "中文",
+      "original_author": null,
+      "description": "當代最具影響力的正念研究權威，超過40年實證，奠定西方靜觀科學基礎。健康的心是可以鍛鍊的，靜觀不只是舒壓或安眠，改變日常生活的行為，有效處理傷害身心的破壞性情緒，冷靜面對煩亂困難，重新掌控內心。",
+      "ratings": {
+        "kobo": {
+          "score": 4.5,
+          "count": 6,
+          "url": "https://www.kobo.com/tw/zh/ebook/aI7t-8tEuDSxOauRZizCXQ?sId=c7313409-720d-4429-8dfc-9ddf4cfd2dcc&ssId=1U4snL5nzUo3dpuZdyUlr&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0010957753"
+        },
+        "readmoo": {
+          "score": 3.3,
+          "count": 6,
+          "url": "https://readmoo.com/book/210274891000101"
+        },
+        "goodreads": {
+          "score": 3.9,
+          "count": 6049,
+          "url": "https://www.goodreads.com/book/show/163794827?from_search=true&from_srp=true&qid=lvty1jS85j&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C6F35D19/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.amazon.com/gp/product/B0C6F35D19/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.06,
+      "short_affiliate_url": "https://reurl.cc/OQ4ZLD"
+    },
+    {
+      "title": "資本之道：從孫子兵法到奧地利經濟學派，看透資本本質的迂迴手段。",
+      "author": "馬克‧史匹茲納格爾",
+      "original_title": "The Dao of Capital: Austrian Investing in a Distorted World",
+      "isbn": "9786267442234",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DIJ89zVmxTumMdO0ItsyCA?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
+      "kobo_price": "NT$364",
+      "cover_url": "covers/DIJ89zVmxTumMdO0ItsyCA.jpg",
+      "sale_price": "NT$99",
+      "date": "8/10",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
+      "on_sale": true,
+      "publisher": "",
+      "publish_date": "2024年6月5日",
+      "language": "",
+      "original_author": null,
+      "description": "「輸者得之，失者得之」，這就是奧地利式投資。本書首度將米塞斯及其奧地利經濟學派理論，濃縮為高效投資法，提供一種罕見卻易於理解的途徑，帶領你發現市場過程的深沉和諧，這在今日市場，至關重要。",
+      "ratings": {
+        "kobo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/DIJ89zVmxTumMdO0ItsyCA?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
         },
         "books_com": {
           "score": 4.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/0011013924"
+          "count": 4,
+          "url": "https://www.books.com.tw/products/0010990557"
         },
         "readmoo": {
-          "score": 4.5,
-          "count": 8,
-          "url": "https://readmoo.com/book/210372277000101"
+          "score": 4.2,
+          "count": 9,
+          "url": "https://readmoo.com/book/210331435000101"
         },
         "goodreads": {
           "score": null,
@@ -106,323 +262,167 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/-/zh_TW/%E9%A6%AC%E5%85%8B%E2%80%A7%E5%8F%B2%E5%8C%B9%E8%8C%B2%E7%B4%8D%E6%A0%BC%E7%88%BE-ebook/dp/B0D3HLJKFX/ref=sr_1_1"
         }
       },
-      "avg_score": 4.12,
-      "short_affiliate_url": "https://reurl.cc/GgoRWA"
+      "avg_score": 4.11,
+      "short_affiliate_url": "https://reurl.cc/QNbrGO"
     },
     {
-      "title": "佣兵天下",
-      "author": "说不得大师",
-      "original_title": "",
-      "isbn": "7584036121481",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/HAaXOvvFTzGlaWZyoVX3AQ?sId=d9aa4b81-b30e-4c3a-9a19-1d3f912a3092&ssId=UxNb17VybZ8eeTZa8Sm6F&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
-      "kobo_price": "NT$483",
-      "cover_url": "covers/HAaXOvvFTzGlaWZyoVX3AQ.jpg",
+      "title": "箱子",
+      "author": "卡蜜拉‧拉貝格",
+      "original_title": "Box (Mina & Vincent trilogie: 1)",
+      "isbn": "9786263188051",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ehto37BnzjiKIc9_Qik3QQ?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
+      "kobo_price": "NT$479",
+      "cover_url": "covers/Ehto37BnzjiKIc9_Qik3QQ.jpg",
       "sale_price": "NT$99",
-      "date": "7/31",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
+      "date": "8/11",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
       "on_sale": true,
       "publisher": "",
-      "publish_date": "2011年8月1日",
-      "language": "中文",
+      "publish_date": "2023年9月21日",
+      "language": "",
       "original_author": null,
-      "description": "在我們所不熟知的魔法與騎士的大陸上，一群平凡的年輕傭兵被歷史滾滾洪流捲入了三大勢力中，巨大的壓力下引發了魔幻世界中眾神之戰，在創始神被殺死原因即將被揭開的一瞬，才發現在這個世界中沒有真正的勝者。",
+      "description": "遊樂園裡一個被劍刺穿的箱子，裝著一具女屍體，是失誤的魔術？有潔癖強迫症的菜鳥警探米娜，和有亞斯伯格症的讀心術專家文森，因為調查一件魔術殺人案相遇了，只有重新打開魔術箱，才能縫合過去的創傷。",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/HAaXOvvFTzGlaWZyoVX3AQ?sId=d9aa4b81-b30e-4c3a-9a19-1d3f912a3092&ssId=UxNb17VybZ8eeTZa8Sm6F&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/CN11230066"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 5,
-          "url": "https://www.goodreads.com/book/show/18480065-1?from_search=true&from_srp=true&qid=XvN8akY0Oh&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/7802280249/ref=x_gr_bb_amazon",
-          "confidence": 50,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%AF%B4%E4%B8%8D%E5%BE%97%E5%A4%A7%E5%B8%88/dp/7502845798/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/EYpME1"
-    },
-    {
-      "title": "正念殺機",
-      "author": "卡斯登‧杜瑟（Karsten Dusse）",
-      "original_title": "Achtsam morden",
-      "isbn": "9786269876822",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/netflixmurder-mindfully?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
-      "kobo_price": "NT$308",
-      "cover_url": "covers/netflixmurder-mindfully.jpg",
-      "sale_price": "NT$99",
-      "date": "8/1",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
-      "on_sale": true,
-      "publisher": "寂寞",
-      "publish_date": "2024年9月1日",
-      "language": "中文",
-      "original_author": "卡斯登‧杜瑟（Karsten Dusse）",
-      "description": "每個人可能都在心裡殺過人。但是，你絕對無法想像這樣的謀殺。當您閱讀時，請在緊湊的情節中對呼吸保持正念覺察，跟著主角畢永前往犯罪藝術的全新境界。本書結合犯罪懸疑和正念冥想，讀來既讓人舒心，也不失血腥。",
-      "ratings": {
-        "kobo": {
-          "score": 4.48,
-          "count": 31,
-          "url": "https://www.kobo.com/tw/zh/ebook/netflixmurder-mindfully?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 26,
-          "url": "https://www.books.com.tw/products/0010998428"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 4.02,
-          "count": 21634,
-          "url": "https://www.goodreads.com/book/show/46001000-achtsam-morden?from_search=true&from_srp=true&qid=SbR0x1vq38&rank=1",
-          "note": "title",
-          "amazon_url": "",
-          "confidence": 40,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 26331,
-          "url": "https://www.amazon.com/-/zh_TW/Karsten-Dusse-ebook/dp/B07K26YRTL/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.23,
-      "short_affiliate_url": "https://reurl.cc/eQ641L"
-    },
-    {
-      "title": "時間的起源：史蒂芬．霍金的最終理論",
-      "author": "湯瑪仕．赫托",
-      "original_title": "On the Origin of Time: Stephen Hawking's Final Theory",
-      "isbn": "9786267483329",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/4JiAXmkILjq4cCG_5qJG9A?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
-      "kobo_price": "NT$455",
-      "cover_url": "covers/4JiAXmkILjq4cCG_5qJG9A.jpg",
-      "sale_price": "NT$99",
-      "date": "8/2",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
-      "on_sale": true,
-      "publisher": "大塊文化",
-      "publish_date": "2024年6月30日",
-      "language": "中文",
-      "original_author": "Thomas Hertog",
-      "description": "由霍金最密切的研究夥伴回溯他們二十年來的宇宙探索之旅，帶我們一覽這位傳奇物理學家對宇宙起源的最終思考。以清晰深刻的筆觸描繪了霍金的學術與哲學貢獻，提出了他獨特而具前瞻性的宇宙觀。",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/4JiAXmkILjq4cCG_5qJG9A?sId=1afd2267-af99-4a85-876c-8778071030a9&ssId=QPklRbl43t8X2jAo1kuzq&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/0010992596"
-        },
-        "readmoo": {
           "score": 4.3,
           "count": 10,
-          "url": "https://readmoo.com/book/210334595000101"
+          "url": "https://www.kobo.com/tw/zh/ebook/Ehto37BnzjiKIc9_Qik3QQ?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011044947"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210234658000101"
         },
         "goodreads": {
-          "score": 4.06,
-          "count": 2682,
-          "url": "https://www.goodreads.com/book/show/60149512-on-the-origin-of-time?from_search=true&from_srp=true&qid=OZeWuoIfE5&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09N73FX8Q/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "score": 3.93,
+          "count": 20245,
+          "url": "https://www.goodreads.com/book/show/198972217?from_search=true&from_srp=true&qid=nTWrQzCGaq&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B09RPYC52G/ref=x_gr_bb_kindle",
+          "confidence": 65,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.5,
-          "count": 1031,
-          "url": "https://www.amazon.com/gp/product/B09N73FX8Q/ref=x_gr_bb_kindle"
+          "score": 4.2,
+          "count": 4503,
+          "url": "https://www.amazon.com/gp/product/B09RPYC52G/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/WzkZlx"
+      "avg_score": 4.1,
+      "short_affiliate_url": "https://reurl.cc/RRX5Eg"
     },
     {
-      "title": "藝術的40堂公開課：透過故事，走進藝術家創作現場，看藝術如何誕生、如何形塑人類生活",
-      "author": "夏洛特･馬林斯",
-      "original_title": "A Little History of Art",
-      "isbn": "9789864899241",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/zNf6-dflITO0vfi37-KmsQ?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
+      "title": "什麼！英國女王是蜥蜴人？！：陰謀論、偽歷史與偽科學為什麼吸引我們，透過人性的希望與恐懼，影響我們的決定和行動",
+      "author": "羅納德．弗里茨(Ronald H. Fritze)",
+      "original_title": "Hope and Fear: Modern Myths, Conspiracy Theories and Pseudo-History",
+      "isbn": "9786264090674",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/D7GeY5GZkTagNEe9r0i2aw?sId=1b4d35ba-722d-41c4-a194-6861756008c7&ssId=ajSm0BoEFQYwIrndfgNgq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
       "kobo_price": "NT$385",
-      "cover_url": "covers/zNf6-dflITO0vfi37-KmsQ.jpg",
+      "cover_url": "covers/D7GeY5GZkTagNEe9r0i2aw.jpg",
       "sale_price": "NT$99",
-      "date": "8/3",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
+      "date": "8/12",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
       "on_sale": true,
       "publisher": "漫遊者文化",
-      "publish_date": "2024年4月24日",
+      "publish_date": "2025年3月17日",
       "language": "中文",
       "original_author": null,
-      "description": "英國最會說故事的藝評家親自導覽，以電影般的臨場感，帶你走進人類十萬年的藝術創造過程。邀請你從世界上最古老的藝術遺跡開始，結束於二十世紀流行天后碧昂絲在羅浮宮拍攝的MV，一起來一趟橫跨十萬年的旅行。",
+      "description": "在瘋狂神話、邊緣思想和另類事實所構成的曖昧混沌之中，探討將人們推向後真相世界的心理機制和歷史力量。本書將帶你穿越陰謀論、偽歷史與偽科學的暮光世界，踏上一場破除迷思的旅程。",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/zNf6-dflITO0vfi37-KmsQ?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
-        },
-        "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0010986338"
+          "url": "https://www.kobo.com/tw/zh/ebook/D7GeY5GZkTagNEe9r0i2aw?sId=1b4d35ba-722d-41c4-a194-6861756008c7&ssId=ajSm0BoEFQYwIrndfgNgq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/0011015114"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://readmoo.com/book/210326491000101"
+          "score": 3.4,
+          "count": 5,
+          "url": "https://readmoo.com/book/210378082000101"
         },
         "goodreads": {
-          "score": 3.71,
-          "count": 553,
-          "url": "https://www.goodreads.com/book/show/58840189-a-little-history-of-art?from_search=true&from_srp=true&qid=PQEm7852BZ&rank=1",
+          "score": 3.7,
+          "count": 27,
+          "url": "https://www.goodreads.com/book/show/59095232-hope-and-fear?from_search=true&from_srp=true&qid=xSt5Da1fuj&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B09WZ25CL6/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B09RNB4YSZ/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.5,
-          "count": 121,
-          "url": "https://www.amazon.com/gp/product/B09WZ25CL6/ref=x_gr_bb_kindle"
+          "score": 4.0,
+          "count": 11,
+          "url": "https://www.amazon.com/gp/product/B09RNB4YSZ/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/MWbxq3"
+      "avg_score": 4.05,
+      "short_affiliate_url": "https://reurl.cc/qaN74q"
     },
     {
-      "title": "理當幸福的我們，為何不快樂？：從精神科角度，理解「富足一代」的焦慮、不安與失落",
-      "author": "陳俊欽",
-      "original_title": "",
-      "isbn": "9786267406779",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/KVPhDNJ5mDO35AhyZt2RtQ?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
-      "kobo_price": "NT$308",
-      "cover_url": "covers/KVPhDNJ5mDO35AhyZt2RtQ.jpg",
+      "title": "扁平時代：演算法如何限縮我們的品味與文化",
+      "author": "凱爾‧切卡",
+      "original_title": "Filterworld: How Algorithms Flattened Culture",
+      "isbn": "9786267645024",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/eJO-5nFZCD-4O5vIJ_9Rmg",
+      "kobo_price": null,
+      "cover_url": "covers/eJO-5nFZCD-4O5vIJ_9Rmg.jpg",
       "sale_price": "NT$99",
-      "date": "8/4",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
+      "date": "8/6",
+      "sale_start": "2026-08-06",
+      "sale_end": "2026-08-12",
       "on_sale": true,
-      "publisher": "悅知文化",
-      "publish_date": "2024年7月8日",
+      "publisher": "衛城出版",
+      "publish_date": "2025年1月8日",
       "language": "中文",
       "original_author": null,
-      "description": "從家庭、職場、同儕到社會角色，寫給20～40歲青壯世代的超越痛苦之書。為了打破不快樂的循環，要先鬆綁社會對你應該獲得幸福的期待。書中提供了可實際應用的方法，幫助讀者在時代的困局中安頓內心。。",
+      "description": "為什麼一個推崇個性與多元的世界，正在喪失美感與品味？透過本書，我們將理解演算法的推薦機制、意識到它所帶來的巨大影響，並開始懂得掌握演算法，甚至設想一個沒有它的文化圖景，帶我們分析從未多想的數位現實。",
       "ratings": {
         "kobo": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/KVPhDNJ5mDO35AhyZt2RtQ?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
+          "score": 4.14,
+          "count": 7,
+          "url": "https://www.kobo.com/tw/zh/ebook/eJO-5nFZCD-4O5vIJ_9Rmg"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0010992203"
+          "score": 4.5,
+          "count": 10,
+          "url": "https://www.books.com.tw/products/0011010220"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210337842000101"
+          "score": 4.4,
+          "count": 135,
+          "url": "https://readmoo.com/book/210365130000101"
         },
         "goodreads": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/216187888?from_search=true&from_srp=true&qid=eOtmAUw7nT&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D7W1G5L3/ref=x_gr_bb_kindle",
-          "confidence": 45,
+          "score": 3.62,
+          "count": 5364,
+          "url": "https://www.goodreads.com/book/show/134119018-filterworld?from_search=true&from_srp=true&qid=ut6kkyYerF&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C2PDRHZ9/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%99%B3%E4%BF%8A%E6%AC%BD-ebook/dp/B0D7W1G5L3/ref=sr_1_1"
+          "score": 4.2,
+          "count": 368,
+          "url": "https://www.amazon.com/gp/product/B0C2PDRHZ9/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.1,
-      "short_affiliate_url": "https://reurl.cc/NOpmVx"
-    },
-    {
-      "title": "蛋白質的一生",
-      "author": "永田和宏",
-      "original_title": "タンパク質の一生―生命活動の舞台裏",
-      "isbn": "9786263903869",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/GCpb0TAYBzieYXXwoz0HuA?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730",
-      "kobo_price": "NT$240",
-      "cover_url": "covers/GCpb0TAYBzieYXXwoz0HuA.jpg",
-      "sale_price": "NT$99",
-      "date": "8/5",
-      "sale_start": "2026-07-30",
-      "sale_end": "2026-08-05",
-      "on_sale": true,
-      "publisher": "商周出版",
-      "publish_date": "2025年2月25日",
-      "language": "中文",
-      "original_author": null,
-      "description": "讀完本書，你會發現自己原來對人體蛋白質所知那麼少，就讓專攻細胞生物學的專家帶領你從認識蛋白質的生老病死開始，精妙的譬喻和簡明扼要的說明讓人能輕鬆了解人體中蛋白質的重要性和運作方式。",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/GCpb0TAYBzieYXXwoz0HuA?sId=7113c1dd-ff0a-482f-8810-0f3735794661&ssId=1tvfW9BFUA8oS13uIo_NW&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260730"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011014354"
-        },
-        "readmoo": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://readmoo.com/book/210143923000101"
-        },
-        "goodreads": {
-          "score": 4.57,
-          "count": 7,
-          "url": "https://www.goodreads.com/book/show/35597043?from_search=true&from_srp=true&qid=IxlR6ofUmy&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DLMJHXZ8/ref=x_gr_bb_amazon",
-          "confidence": 65,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 82,
-          "url": "https://www.amazon.co.jp/-/zh/dp/400431139X/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/qaOjQp"
+      "avg_score": 4.08,
+      "short_affiliate_url": "https://reurl.cc/Vn1AQZ"
     }
   ]
 }
