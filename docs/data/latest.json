@@ -6,7 +6,7 @@
   "sale_start": "2026-08-06",
   "sale_end": "2026-08-12",
   "on_sale": true,
-  "updated_at": "2026-08-06T10:59:43.047208+08:00",
+  "updated_at": "2026-08-07T21:52:46.628626+08:00",
   "books": [
     {
       "title": "早餐店阿姨什麼都記得住：早安，今天的鬼故事加點洋蔥嗎？",
@@ -14,7 +14,7 @@
       "original_title": "",
       "isbn": "9786263585423",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/-PFDMFwipD-7yIphiMDuRw?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
-      "kobo_price": "NT$315",
+      "kobo_price": null,
       "cover_url": "covers/-PFDMFwipD-7yIphiMDuRw.jpg",
       "sale_price": "NT$99",
       "date": "8/7",
@@ -26,6 +26,7 @@
       "language": "中文",
       "original_author": null,
       "description": "走進平凡的早餐店，穿越時間與空間，人鬼溫情互動。巷口的早餐店阿姨，提供的是靈魂的撫慰，喊你帥哥美女的早餐店阿姨化身偵探，給的不僅僅是一頓飽食，更是活下去的力量！",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F-PFDMFwipD-7yIphiMDuRw",
       "ratings": {
         "kobo": {
           "score": 4.25,
@@ -43,12 +44,12 @@
           "url": "https://readmoo.com/book/210363163000101"
         },
         "goodreads": {
-          "score": 3.58,
-          "count": 48,
+          "score": 3.57,
+          "count": 49,
           "url": "https://www.goodreads.com/book/show/222903402?from_search=true&from_srp=true&qid=ECP4QfnBtR&rank=1",
-          "note": "zh-title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0DR87NPM5/ref=x_gr_bb_kindle",
-          "confidence": 65,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -57,8 +58,7 @@
           "url": "https://www.amazon.com/-/zh_TW/%E8%B7%AF%E9%82%8A%E6%94%A4-ebook/dp/B0DR87NPM5/ref=sr_1_1"
         }
       },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/Vn1AQY"
+      "avg_score": 4.18
     },
     {
       "title": "落花时节",
@@ -78,6 +78,7 @@
       "language": "中文",
       "original_author": null,
       "description": "一場糾纏二十多年的恩怨，兩代被仇恨吞噬的人。在一場家庭變故後，乖巧的她與弟弟改名換姓，餘生都在逃離父輩的恩怨。面對破裂的婚姻、自私偏心的母親、不肯甘休的仇家後人，她選擇打破命運的安排，改變這一切。",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRdxmrljmXjmRvy_vZlfXog",
       "ratings": {
         "kobo": {
           "score": null,
@@ -98,10 +99,10 @@
           "score": 3.5,
           "count": 90,
           "url": "https://www.goodreads.com/book/show/27815790?from_search=true&from_srp=true&qid=5JRsEKOVxS&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/B00ZF30FD4/ref=x_gr_bb_amazon",
-          "confidence": 50,
-          "cross_validated": false
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": null,
@@ -109,8 +110,7 @@
           "url": "https://www.amazon.com/-/zh_TW/dp/B0HC3FS1QG/ref=sr_1_4"
         }
       },
-      "avg_score": 3.92,
-      "short_affiliate_url": "https://reurl.cc/GgE8LG"
+      "avg_score": 3.92
     },
     {
       "title": "以我們告終",
@@ -130,6 +130,7 @@
       "language": "中文",
       "original_author": "Colleen Hoover",
       "description": "夏日極致療癒愛情電影《到我們為止》原著小說。超越羅曼史格局，挑戰家暴題材。她離開自小生活的小鎮，搬到波士頓。當她遇到神經外科醫生萊爾，一切似乎美夢成真，但另一方面，她仍心繫著初戀情人亞特拉斯。",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FWUXemSOXHD6F5kUhTAEb6Q",
       "ratings": {
         "kobo": {
           "score": 4.29,
@@ -148,25 +149,24 @@
         },
         "goodreads": {
           "score": 4.07,
-          "count": 4799754,
+          "count": 4801000,
           "url": "https://www.goodreads.com/book/show/62627512-it-ends-with-us?from_search=true&from_srp=true&qid=Rq0930CrEO&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 40,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 410301,
+          "count": 410310,
           "url": "https://www.amazon.com/-/zh_TW/Colleen-Hoover-ebook/dp/B0176M3U10/ref=sr_1_1"
         }
       },
-      "avg_score": 4.12,
-      "short_affiliate_url": "https://reurl.cc/eQOR7Q"
+      "avg_score": 4.34
     },
     {
       "title": "平靜的力量：正念研究經典，科學實證持續練心即可重塑大腦迴路，提升內心素質，脫離耗損身心的負面情緒",
-      "author": "丹尼爾．高曼博士(Daniel．Goleman);理查．戴維森博士(Richard J. Davidson)",
+      "author": "丹尼爾．高曼博士、理查．戴維森博士",
       "original_title": "Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body",
       "isbn": "9789863988991",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/aI7t-8tEuDSxOauRZizCXQ?sId=c7313409-720d-4429-8dfc-9ddf4cfd2dcc&ssId=1U4snL5nzUo3dpuZdyUlr&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
@@ -180,8 +180,9 @@
       "publisher": "天下雜誌",
       "publish_date": "2023年5月31日",
       "language": "中文",
-      "original_author": "Daniel Goleman",
+      "original_author": "Daniel Goleman; Richard J. Davidson",
       "description": "當代最具影響力的正念研究權威，超過40年實證，奠定西方靜觀科學基礎。健康的心是可以鍛鍊的，靜觀不只是舒壓或安眠，改變日常生活的行為，有效處理傷害身心的破壞性情緒，冷靜面對煩亂困難，重新掌控內心。",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FaI7t-8tEuDSxOauRZizCXQ",
       "ratings": {
         "kobo": {
           "score": 4.5,
@@ -200,7 +201,7 @@
         },
         "goodreads": {
           "score": 3.9,
-          "count": 6049,
+          "count": 6048,
           "url": "https://www.goodreads.com/book/show/34272471-altered-traits",
           "note": "re-fetch",
           "amazon_url": "",
@@ -213,8 +214,7 @@
           "url": "https://www.amazon.com/dp/0399184384"
         }
       },
-      "avg_score": 4.11,
-      "short_affiliate_url": "https://reurl.cc/OQ4ZLD"
+      "avg_score": 4.11
     },
     {
       "title": "資本之道：從孫子兵法到奧地利經濟學派，看透資本本質的迂迴手段。",
@@ -229,11 +229,12 @@
       "sale_start": "2026-08-06",
       "sale_end": "2026-08-12",
       "on_sale": true,
-      "publisher": "",
+      "publisher": "方舟文化",
       "publish_date": "2024年6月5日",
-      "language": "",
-      "original_author": null,
+      "language": "中文",
+      "original_author": "Mark Spitznagel",
       "description": "「輸者得之，失者得之」，這就是奧地利式投資。本書首度將米塞斯及其奧地利經濟學派理論，濃縮為高效投資法，提供一種罕見卻易於理解的途徑，帶領你發現市場過程的深沉和諧，這在今日市場，至關重要。",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FDIJ89zVmxTumMdO0ItsyCA",
       "ratings": {
         "kobo": {
           "score": 4.5,
@@ -252,11 +253,11 @@
         },
         "goodreads": {
           "score": 3.87,
-          "count": 1518,
+          "count": 1519,
           "url": "https://www.goodreads.com/book/show/16599562-the-dao-of-capital?from_search=true&from_srp=true&qid=Q5kxj8xk9m&rank=1",
-          "note": "無原文資訊",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 20,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
@@ -265,12 +266,11 @@
           "url": "https://www.amazon.com/gp/product/B00D7P2K1W/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.01,
-      "short_affiliate_url": "https://reurl.cc/QNbrGO"
+      "avg_score": 4.1
     },
     {
       "title": "箱子",
-      "author": "卡蜜拉‧拉貝格",
+      "author": "卡蜜拉‧拉貝格、亨利克‧費克修斯",
       "original_title": "Box (Mina & Vincent trilogie: 1)",
       "isbn": "9786263188051",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ehto37BnzjiKIc9_Qik3QQ?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
@@ -281,11 +281,12 @@
       "sale_start": "2026-08-06",
       "sale_end": "2026-08-12",
       "on_sale": true,
-      "publisher": "",
+      "publisher": "商周出版",
       "publish_date": "2023年9月21日",
-      "language": "",
-      "original_author": null,
+      "language": "中文",
+      "original_author": "Camilla Läckberg",
       "description": "遊樂園裡一個被劍刺穿的箱子，裝著一具女屍體，是失誤的魔術？有潔癖強迫症的菜鳥警探米娜，和有亞斯伯格症的讀心術專家文森，因為調查一件魔術殺人案相遇了，只有重新打開魔術箱，才能縫合過去的創傷。",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FEhto37BnzjiKIc9_Qik3QQ",
       "ratings": {
         "kobo": {
           "score": 4.3,
@@ -298,18 +299,18 @@
           "url": "https://www.books.com.tw/products/0010968006"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://readmoo.com/book/210234658000101"
+          "score": 4.4,
+          "count": 193,
+          "url": "https://readmoo.com/book/210293030000101"
         },
         "goodreads": {
           "score": 3.93,
-          "count": 20245,
+          "count": 20252,
           "url": "https://www.goodreads.com/book/show/198972217?from_search=true&from_srp=true&qid=nTWrQzCGaq&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/B09RPYC52G/ref=x_gr_bb_kindle",
-          "confidence": 65,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.2,
@@ -317,12 +318,11 @@
           "url": "https://www.amazon.com/gp/product/B09RPYC52G/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 3.98,
-      "short_affiliate_url": "https://reurl.cc/RRX5Eg"
+      "avg_score": 4.15
     },
     {
       "title": "什麼！英國女王是蜥蜴人？！：陰謀論、偽歷史與偽科學為什麼吸引我們，透過人性的希望與恐懼，影響我們的決定和行動",
-      "author": "羅納德．弗里茨(Ronald H. Fritze)",
+      "author": "羅納德．弗里茨",
       "original_title": "Hope and Fear: Modern Myths, Conspiracy Theories and Pseudo-History",
       "isbn": "9786264090674",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/D7GeY5GZkTagNEe9r0i2aw?sId=1b4d35ba-722d-41c4-a194-6861756008c7&ssId=ajSm0BoEFQYwIrndfgNgq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
@@ -338,6 +338,7 @@
       "language": "中文",
       "original_author": "Ronald H. Fritze",
       "description": "在瘋狂神話、邊緣思想和另類事實所構成的曖昧混沌之中，探討將人們推向後真相世界的心理機制和歷史力量。本書將帶你穿越陰謀論、偽歷史與偽科學的暮光世界，踏上一場破除迷思的旅程。",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FD7GeY5GZkTagNEe9r0i2aw",
       "ratings": {
         "kobo": {
           "score": null,
@@ -358,8 +359,10 @@
           "score": 3.7,
           "count": 27,
           "url": "https://www.goodreads.com/book/show/59095232-hope-and-fear?from_search=true&from_srp=true&qid=zttOUQF9Xn&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09RNB4YSZ/ref=x_gr_bb_kindle"
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.0,
@@ -367,8 +370,7 @@
           "url": "https://www.amazon.com/gp/product/B09RNB4YSZ/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/qaN74q"
+      "avg_score": 4.05
     },
     {
       "title": "扁平時代：演算法如何限縮我們的品味與文化",
@@ -376,7 +378,7 @@
       "original_title": "Filterworld: How Algorithms Flattened Culture",
       "isbn": "9786267645024",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/eJO-5nFZCD-4O5vIJ_9Rmg",
-      "kobo_price": null,
+      "kobo_price": "NT$385",
       "cover_url": "covers/eJO-5nFZCD-4O5vIJ_9Rmg.jpg",
       "sale_price": "NT$99",
       "date": "8/6",
@@ -386,8 +388,9 @@
       "publisher": "衛城出版",
       "publish_date": "2025年1月8日",
       "language": "中文",
-      "original_author": null,
+      "original_author": "Kyle Chayka",
       "description": "為什麼一個推崇個性與多元的世界，正在喪失美感與品味？透過本書，我們將理解演算法的推薦機制、意識到它所帶來的巨大影響，並開始懂得掌握演算法，甚至設想一個沒有它的文化圖景，帶我們分析從未多想的數位現實。",
+      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FeJO-5nFZCD-4O5vIJ_9Rmg",
       "ratings": {
         "kobo": {
           "score": 4.14,
@@ -406,21 +409,20 @@
         },
         "goodreads": {
           "score": 3.62,
-          "count": 5364,
+          "count": 5368,
           "url": "https://www.goodreads.com/book/show/134119018-filterworld?from_search=true&from_srp=true&qid=ut6kkyYerF&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C2PDRHZ9/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.2,
-          "count": 368,
+          "count": 369,
           "url": "https://www.amazon.com/gp/product/B0C2PDRHZ9/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.08,
-      "short_affiliate_url": "https://reurl.cc/Vn1AQZ"
+      "avg_score": 4.08
     }
   ]
 }
