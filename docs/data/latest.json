@@ -96,21 +96,21 @@
           "url": "https://readmoo.com/book/210073483000101"
         },
         "goodreads": {
-          "score": 3.5,
-          "count": 90,
-          "url": "https://www.goodreads.com/book/show/27815790?from_search=true&from_srp=true&qid=5JRsEKOVxS&rank=1",
-          "note": "re-fetch",
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "",
           "amazon_url": "",
-          "confidence": 90,
+          "confidence": 0,
           "cross_validated": null
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/dp/B0HC3FS1QG/ref=sr_1_4"
+          "url": ""
         }
       },
-      "avg_score": 3.92
+      "avg_score": 4.12
     },
     {
       "title": "以我們告終",
