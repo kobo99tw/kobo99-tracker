@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-08-06T16:00:26.094879+08:00",
+  "updated_at": "2026-08-07T18:42:44.006679+08:00",
   "books": [
     {
       "title": "花錢的藝術",
@@ -14,6 +14,7 @@
       "sale_end": "8/9",
       "description": "《致富心態》作者力作！如果你不思考如何正確地用錢，錢就會來控制你。無論你早已財富自由，還是持續努力精進自己，這本書將教你如何從已擁有的金錢中，獲取最大的價值。隨著財富逐漸累積，你的人生將享受豐厚複利。 《花錢的藝術》 由 摩根．豪瑟@著 出版社： 平安文化 查看電子書",
       "publish_date": "2026年7月27日",
+      "short_affiliate_url": "https://reurl.cc/GgXZNZ",
       "ratings": {
         "kobo": {
           "score": 5.0,
@@ -22,7 +23,7 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 33,
+          "count": 34,
           "url": "https://www.books.com.tw/products/0011057581"
         },
         "readmoo": {
@@ -32,7 +33,7 @@
         },
         "goodreads": {
           "score": 4.11,
-          "count": 23978,
+          "count": 23981,
           "url": "https://www.goodreads.com/book/show/231148075-the-art-of-spending-money?from_search=true&from_srp=true&qid=bMeYJHHOzv&rank=1",
           "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0F42TZ2FY/ref=x_gr_bb_kindle",
@@ -41,12 +42,11 @@
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 4429,
+          "count": 4436,
           "url": "https://www.amazon.com/gp/product/B0F42TZ2FY/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.3,
-      "short_affiliate_url": "https://reurl.cc/GgXZNZ"
+      "avg_score": 4.3
     },
     {
       "title": "金錢治療",
@@ -60,6 +60,7 @@
       "sale_end": "8/11",
       "description": "我們一生中最重要的關係之一，就是與金錢的關係。英國第一位「財務心理治療師」深入探討各種金錢行為，包括過度消費、過度儉省等，協助你拆解並看懂是什麼在驅動你的金錢行為，從而建立更健康的金錢關係。 《金錢治療》 由 薇琪．雷納爾＠著 出版社： 時報出版 查看電子書",
       "publish_date": "2026年7月24日",
+      "short_affiliate_url": "https://reurl.cc/eQWvkx",
       "ratings": {
         "kobo": {
           "score": null,
@@ -91,8 +92,7 @@
           "url": "https://www.amazon.com/gp/product/B0CSWVF7L1/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/eQWvkx"
+      "avg_score": 4.17
     },
     {
       "title": "最有企圖心的一天",
@@ -106,6 +106,7 @@
       "sale_end": "8/15",
       "description": "《最有生產力的一年》作者克里斯．貝利十年來持續鑽研個人生產力研究。本書講述關於欲望、價值觀與克服拖延的最新科學並融合佛教僧侶的智慧，提供循序漸進的簡單策略，讓你的目標都有始有終！ 《最有企圖心的一天》 由 克里斯．貝利@著 出版社： 天下文化 查看電子書",
       "publish_date": "2026年7月31日",
+      "short_affiliate_url": "https://reurl.cc/MWX1zk",
       "ratings": {
         "kobo": {
           "score": null,
@@ -124,7 +125,7 @@
         },
         "goodreads": {
           "score": 3.87,
-          "count": 347,
+          "count": 346,
           "url": "https://www.goodreads.com/book/show/231108743-intentional?from_search=true&from_srp=true&qid=FR7ixUlcdg&rank=1",
           "note": "re-fetch",
           "amazon_url": "",
@@ -137,8 +138,7 @@
           "url": "https://www.amazon.com/gp/product/B0F3WQM8F9/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.06,
-      "short_affiliate_url": "https://reurl.cc/MWX1zk"
+      "avg_score": 4.06
     },
     {
       "title": "詐騙的14種信號",
@@ -152,6 +152,7 @@
       "sale_end": "8/15",
       "description": "《最有生產力的一年》作者克里斯．貝利十年來持續鑽研個人生產力研究。本書講述關於欲望、價值觀與克服拖延的最新科學並融合佛教僧侶的智慧，提供循序漸進的簡單策略，讓你的目標都有始有終！ 《詐騙的14種信號》 由 喬納森・沃爾頓@著 出版社： 大塊文化 查看電子書",
       "publish_date": "2026年8月1日",
+      "short_affiliate_url": "https://reurl.cc/qaZzYN",
       "ratings": {
         "kobo": {
           "score": null,
@@ -169,8 +170,8 @@
           "url": "https://readmoo.com/book/210489383000101"
         },
         "goodreads": {
-          "score": 3.84,
-          "count": 451,
+          "score": 3.85,
+          "count": 452,
           "url": "https://www.goodreads.com/book/show/221754299-anatomy-of-a-con-artist?from_search=true&from_srp=true&qid=lWxWPAiMRh&rank=1",
           "note": "re-fetch",
           "amazon_url": "",
@@ -183,8 +184,7 @@
           "url": "https://www.amazon.com/gp/product/B0DNN9GBDS/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.12,
-      "short_affiliate_url": "https://reurl.cc/qaZzYN"
+      "avg_score": 4.12
     },
     {
       "title": "超乎常理的款待式領導",
@@ -198,6 +198,7 @@
       "sale_end": "8/15",
       "description": "威爾．吉達拉是麥迪遜花園11號的前總經理暨業主，也是世界50大最佳餐廳的榜首。本書是他將「款待精神」落實到企業組織的應用寶典。不論是企業高階主管還是基層員工，都能參考書中核心理念，邁向卓越。 《超乎常理的款待式領導》 由 威爾．吉達拉@著 出版社： 天下文化 查看電子書",
       "publish_date": "2026年7月31日",
+      "short_affiliate_url": "https://reurl.cc/901onV",
       "ratings": {
         "kobo": {
           "score": null,
@@ -215,13 +216,13 @@
           "url": "https://readmoo.com/book/210490778000101"
         },
         "goodreads": {
-          "score": 4.76,
-          "count": 45,
+          "score": 4.74,
+          "count": 46,
           "url": "https://www.goodreads.com/book/show/239567401-unreasonable-hospitality?from_search=true&from_srp=true&qid=NxJAbWpg7H&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FKS4BV4W/ref=x_gr_bb_amazon",
+          "note": "re-fetch",
+          "amazon_url": "",
           "confidence": 90,
-          "cross_validated": true
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.8,
@@ -229,8 +230,7 @@
           "url": "https://www.amazon.com/gp/product/B0FKS4BV4W/ref=x_gr_bb_amazon"
         }
       },
-      "avg_score": 4.44,
-      "short_affiliate_url": "https://reurl.cc/901onV"
+      "avg_score": 4.44
     },
     {
       "title": "做對大腦練習，表現就升級",
@@ -244,6 +244,7 @@
       "sale_end": "8/18",
       "description": "分心時代，專注力稀缺，心智預演正是你最強的武器。結合神經科學與心理韌性， 英國知名心理體適能教練教你拆除限制性信念，專注在「可能」，而非「侷限」，重塑大腦的成功迴路，讓卓越表現自然發生。 《做對大腦練習，表現就升級》 由 瑪雅・瑞丘拉@著 出版社： 天下雜誌 查看電子書",
       "publish_date": "2026年8月4日",
+      "short_affiliate_url": "https://reurl.cc/eQWvkL",
       "ratings": {
         "kobo": {
           "score": null,
@@ -264,10 +265,10 @@
           "score": 4.19,
           "count": 343,
           "url": "https://www.goodreads.com/book/show/219846699-visualise?from_search=true&from_srp=true&qid=xS8xqgSXhT&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F587LCQY/ref=x_gr_bb_kindle",
+          "note": "re-fetch",
+          "amazon_url": "",
           "confidence": 90,
-          "cross_validated": true
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.7,
@@ -275,12 +276,11 @@
           "url": "https://www.amazon.com/gp/product/B0F587LCQY/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.38,
-      "short_affiliate_url": "https://reurl.cc/eQWvkL"
+      "avg_score": 4.38
     },
     {
       "title": "正常的迷思",
-      "author": "嘉柏‧麥特",
+      "author": "嘉柏‧麥特、丹尼爾‧麥特",
       "original_title": "The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture",
       "isbn": "9786267916223",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/8trTe7L-gUSWoM9RKoKjDQ?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818",
@@ -290,6 +290,7 @@
       "sale_end": "8/18",
       "description": "寫給每一位在高壓社會中努力撐住、卻逐漸失衡的人。創傷不是發生在你身上的事，而是發生在你內在的事。全球創傷醫學權威，提供真正療癒框架，所有反應，都有其原因；而理解，正是改變真正開始的地方！。 《正常的迷思》 由 嘉柏‧麥特, 丹尼爾‧麥特＠著 出版社： 天下雜誌 查看電子書",
       "publish_date": "2026年8月4日",
+      "short_affiliate_url": "https://reurl.cc/QNWna5",
       "ratings": {
         "kobo": {
           "score": null,
@@ -298,7 +299,7 @@
         },
         "books_com": {
           "score": 4.0,
-          "count": 3,
+          "count": 4,
           "url": "https://www.books.com.tw/products/0011058234"
         },
         "readmoo": {
@@ -308,25 +309,24 @@
         },
         "goodreads": {
           "score": 4.3,
-          "count": 38919,
+          "count": 38936,
           "url": "https://www.goodreads.com/book/show/58537332-the-myth-of-normal?from_search=true&from_srp=true&qid=j2q5E2NEG4&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B098PXTS5K/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 8017,
+          "count": 8018,
           "url": "https://www.amazon.com/gp/product/B098PXTS5K/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.36,
-      "short_affiliate_url": "https://reurl.cc/QNWna5"
+      "avg_score": 4.36
     },
     {
       "title": "超級代理效應",
-      "author": "雷德・霍夫曼",
+      "author": "雷德・霍夫曼、葛雷格・比托",
       "original_title": "SUPERAGENCY: What Could Possibly Go Right with Our AI Future",
       "isbn": "9786267916339",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/X2WQ5OyONkK1WfMqABpGmA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818",
@@ -336,6 +336,7 @@
       "sale_end": "8/18",
       "description": "關於AI，LinkedIn共同創辦人霍夫曼提出了另一條路：在真實世界中持續行動、驗證與修正，讓AI提升更多人的判斷力、創造力與行動力。當個人的增能透過社會連結加乘並引爆整體能力躍升，這就是超級代理效應！ 《超級代理效應》 由 雷德・霍夫曼, 葛雷格・比托＠著 出版社： 天下雜誌 查看電子書",
       "publish_date": "2026年8月4日",
+      "short_affiliate_url": "https://reurl.cc/NOG1xx",
       "ratings": {
         "kobo": {
           "score": null,
@@ -356,10 +357,10 @@
           "score": 3.33,
           "count": 1215,
           "url": "https://www.goodreads.com/book/show/216336470-superagency?from_search=true&from_srp=true&qid=kyYW4zhPLd&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D886ZQHY/ref=x_gr_bb_kindle",
+          "note": "re-fetch",
+          "amazon_url": "",
           "confidence": 90,
-          "cross_validated": true
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.4,
@@ -367,8 +368,7 @@
           "url": "https://www.amazon.com/gp/product/B0D886ZQHY/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 3.86,
-      "short_affiliate_url": "https://reurl.cc/NOG1xx"
+      "avg_score": 3.86
     },
     {
       "title": "為工作而活",
@@ -382,6 +382,7 @@
       "sale_end": "8/19",
       "description": "跳脫工作是為了謀生的傳統觀念，全面理解工作的意義。本書從人類誕生一路談到AI時代，解讀不同時代驅使人類工作的動力。如果我們曾經不為工作而活，那麼如今我們究竟是為了自己而工作，還是甘願被工作綁架？ 《為工作而活》 由 詹姆斯．舒茲曼＠著 出版社： 八旗文化 查看電子書",
       "publish_date": "2026年8月5日",
+      "short_affiliate_url": "https://reurl.cc/RROnk9",
       "ratings": {
         "kobo": {
           "score": null,
@@ -400,12 +401,12 @@
         },
         "goodreads": {
           "score": 3.83,
-          "count": 3259,
+          "count": 3260,
           "url": "https://www.goodreads.com/book/show/54550359-work?from_search=true&from_srp=true&qid=AK3W90PBOr&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B08817M9SS/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.4,
@@ -413,8 +414,7 @@
           "url": "https://www.amazon.com/gp/product/B08817M9SS/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/RROnk9"
+      "avg_score": 4.09
     },
     {
       "title": "把話說開的職場溝通術",
@@ -428,6 +428,7 @@
       "sale_end": "8/31",
       "description": "很多人以為自己害怕衝突，其實真正令人害怕的，是不知道該如何在衝突中好好表達自己！本書結合心理學、神經科學，帶你看懂衝突背後的心理機制，學會在高壓、尷尬甚至劍拔弩張的情境中清楚表達需求與界線。 《把話說開的職場溝通術》 由 約書亞．葛瑞夫斯@著 出版社： 遠流出版 查看電子書 Tags 獨家優惠 分享這篇文章 分享到 Facebook Share via Email Related articles 造訪連結 【一週99書單】從閱讀開始，鍛鍊健康的心（8/6-8/12） 沒時間看書？其實許多名人都愛用5小時讀書法，其實只要每天1小時每週5小時，持之以恆，你就能夠發現不一樣的可能。Kobo每週推出「每日99書單」，精選各類優質好書，並簡短介紹書籍內容，讓",
       "publish_date": "2026年8月1日",
+      "short_affiliate_url": "https://reurl.cc/qaZzYp",
       "ratings": {
         "kobo": {
           "score": null,
@@ -459,8 +460,7 @@
           "url": ""
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/qaZzYp"
+      "avg_score": null
     }
   ]
 }
