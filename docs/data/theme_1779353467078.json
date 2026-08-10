@@ -1,466 +1,402 @@
 {
-  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w32",
-  "updated_at": "2026-08-07T18:04:08.519424+08:00",
+  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w33",
+  "updated_at": "2026-08-10T14:49:06.710709+08:00",
   "books": [
     {
-      "title": "你想活出怎樣的主義？資本主義打爆你，存在主義還補刀！22個哲學思想超鬧大亂鬥，帶你在人生荒謬連擊裡笑著破關！",
-      "author": "佐久良剛",
-      "original_title": "君たちはどの主義で生きるか ～バカバカしい例え話でめぐる世の中の主義・思想～",
-      "isbn": "9786267780459",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ix9oux5SbjKGmmZwQXA0zQ?sId=e8536b31-90d2-484d-b407-929f4b442f54&ssId=ahTcN8LgABhu9QPUHfxVj&cPos=1&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$302",
-      "cover_url": "covers/ix9oux5SbjKGmmZwQXA0zQ.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
+      "title": "厭世的人請來泰國",
+      "author": "不良少年",
+      "original_title": "",
+      "isbn": "9786264446952",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/o3e_UqQ47TWZBQ2N5WvbdQ?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/o3e_UqQ47TWZBQ2N5WvbdQ.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
       "sale_end": "",
-      "description": "人生卡關？你卡住的地方，哲學家早就破關了。好消息是：他留下了攻略。爆笑解說22個哲學主義，把「看不懂但很重要」的思想，翻譯成「聽得懂還笑出來」的荒謬比喻！人生就像一連串荒謬連擊，挑個對的主義，帶你笑著破關！",
-      "publish_date": "2026年7月15日",
-      "short_affiliate_url": "https://reurl.cc/om1jY3",
+      "description": "無名小站時代倖存者，不良少年出道近20年的第一本書。毒舌自嘲×厭世哲學，一本靈魂全場裸奔的非虛構作品。人生好爛，但泰國用花襯衫、奶茶、五塔散、夕陽和鬼魂，讓我忘記想要恨誰。原來我不是厭世，只是在某個地方活膩。",
+      "publish_date": "2026年7月10日",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ix9oux5SbjKGmmZwQXA0zQ?sId=e8536b31-90d2-484d-b407-929f4b442f54&ssId=ahTcN8LgABhu9QPUHfxVj&cPos=1&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011055416"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 152,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0CQS74Z2H/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.4
-    },
-    {
-      "title": "為何我們這樣工作，那樣花錢？：從認知心理學角度觀察職場、情緒與消費行為",
-      "author": "金景一",
-      "original_title": "부의 심리학",
-      "isbn": "9786267884560",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/KK1Ip1rLZDKO2WTLFqIU0Q?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=8&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$286",
-      "cover_url": "covers/KK1Ip1rLZDKO2WTLFqIU0Q.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
-      "sale_end": "",
-      "description": "覺得上班無力、目標又沒達成、賺的錢都不知花去哪裡？因為大腦及情緒影響了你的職場生活、花錢習慣、決策方向。64個短篇分析人性痛點，帶你重新校準工作及金錢認知 。跟著本書一同讀懂工作與金錢的認知心理學！",
-      "publish_date": "2026年7月8日",
-      "short_affiliate_url": "https://reurl.cc/LemEnx",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/KK1Ip1rLZDKO2WTLFqIU0Q?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=8&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011055921"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/2svAIR"
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/240000783?from_search=true&from_srp=true&qid=TyFLWe8F7K&rank=2",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FSJF3W1H/ref=x_gr_bb_amazon",
-          "confidence": 10,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.11
-    },
-    {
-      "title": "口感科學：透視剖析食物質地，揭開舌尖美味的背後奧祕",
-      "author": "歐雷．莫西森、克拉夫斯．史帝貝克",
-      "original_title": "Mouthfeel: How Texture Makes Taste",
-      "isbn": "9786267676752",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/_c68K_jurj6u6d1bX8O6ng?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=7&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$510",
-      "cover_url": "covers/_c68K_jurj6u6d1bX8O6ng.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
-      "sale_end": "",
-      "description": "丹麥科學家歐雷・莫西森與主廚克拉夫斯・史帝貝克聯手，穿梭於實驗室和廚房之間，合力探索不同食物的質地如何影響味覺經驗。本書將教我們如何「品嚐」，並了解食物質地與口感之間的交互運作機制，解答食物美味的世紀之謎！",
-      "publish_date": "2026年7月6日",
-      "short_affiliate_url": "https://reurl.cc/XxjzQM",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/_c68K_jurj6u6d1bX8O6ng?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=7&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/0011054792"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/blCGHO"
-        },
-        "goodreads": {
-          "score": 4.02,
-          "count": 49,
-          "url": "https://www.goodreads.com/book/show/30151814-mouthfeel?from_search=true&from_srp=true&qid=G5gxhZdBAc&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 50,
-          "url": "https://www.amazon.com/-/zh_TW/Ole-Mouritsen-ebook/dp/B01N0YWR65/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.16
-    },
-    {
-      "title": "隱藏的世界：揭開隱沒在國界之下的金權版圖",
-      "author": "阿托莎‧阿拉西亞‧亞伯拉罕米安",
-      "original_title": "The Hidden Globe: How Wealth Hacks the World",
-      "isbn": "9786267859476",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/z6VplevFYj6wEPq76-fn1w?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=4&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$370",
-      "cover_url": "covers/z6VplevFYj6wEPq76-fn1w.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
-      "sale_end": "",
-      "description": "地圖上的國界是虛線，金錢畫出的版圖才是實線！在隱形版圖內，富人可購買國籍以避稅；難民被合法異化為「貨物」。本書不僅帶領我們識破權貴階級設計的平行宇宙，更幫助我們建立起不被輕易撼動的判斷標準！",
-      "publish_date": "2026年7月6日",
-      "short_affiliate_url": "https://reurl.cc/be2vmr",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/z6VplevFYj6wEPq76-fn1w?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=4&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/0011055716"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/5jkzNZ"
-        },
-        "goodreads": {
-          "score": 3.59,
-          "count": 750,
-          "url": "https://www.goodreads.com/book/show/205062721-the-hidden-globe?from_search=true&from_srp=true&qid=BHc2sU4L5t&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CRTSKPYR/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 239,
-          "url": "https://www.amazon.com/gp/product/B0CRTSKPYR/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.97
-    },
-    {
-      "title": "幸福檔案：一個哈佛教授的生命洞察，快樂工作與生活的33 個核心法則",
-      "author": "亞瑟．布魯克斯",
-      "original_title": "The Happiness Files: Insights on Work and Life",
-      "isbn": "9786267916100",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/x-amWJpGwjiwgQaNtywk-A?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=5&utm_source=twblog-hksite&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$306",
-      "cover_url": "covers/x-amWJpGwjiwgQaNtywk-A.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
-      "sale_end": "",
-      "description": "《重啟人生》作者新作。你為什麼愈長大愈不快樂？我們都快樂過、痛苦過，卻總是只記得痛苦的，每個人都需學著開啟一份幸福檔案，持續優化生命中的美好。你不必是一個成功人士，也可以擁有成功的人生。",
-      "publish_date": "2026年7月2日",
-      "short_affiliate_url": "https://reurl.cc/4Y1xNV",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/x-amWJpGwjiwgQaNtywk-A?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=5&utm_source=twblog-hksite&utm_medium=8585list&utm_campaign=8585_20260803"
-        },
-        "books_com": {
-          "score": 4.5,
+          "score": 4.67,
           "count": 3,
-          "url": "https://www.books.com.tw/products/0011055596"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 7,
-          "url": "https://moo.im/a/49uCER"
-        },
-        "goodreads": {
-          "score": 3.94,
-          "count": 1720,
-          "url": "https://www.goodreads.com/book/show/231300244-the-happiness-files?from_search=true&from_srp=true&qid=Cyh74U57nm&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F4L4STTN/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 484,
-          "url": "https://www.amazon.com/gp/product/B0F4L4STTN/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.17
-    },
-    {
-      "title": "演算法：馬斯克演算法5步驟，推動特斯拉與SpaceX爆發式成長的祕密",
-      "author": "喬恩．麥克尼爾 Jon McNeill",
-      "original_title": "The Algorithm: The Hypergrowth Formula That Transformed Tesla, Lululemon, General Motors, and SpaceX",
-      "isbn": "9786267862582",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/5-spacex?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=3&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$238",
-      "cover_url": "covers/5-spacex.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
-      "sale_end": "",
-      "description": "《重啟真正驅動特斯拉高速進化、持續突破極限的，是一套可被複製的5步驟「演算法」。首本馬斯克直屬高階主管第一手實錄，真實剖析特斯拉的超高速成長，透過豐富的案例與細節，帶領讀者走進特斯拉的核心決策圈。",
-      "publish_date": "2026年7月2日",
-      "short_affiliate_url": "https://reurl.cc/3yozMV",
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/5-spacex?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=3&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0011055506"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 7,
-          "url": "https://moo.im/a/9muvJK"
-        },
-        "goodreads": {
-          "score": 4.1,
-          "count": 515,
-          "url": "https://www.goodreads.com/book/show/233614087-the-algorithm?from_search=true&from_srp=true&qid=opD8tfDxy6&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FFGQDGN7/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 239,
-          "url": "https://www.amazon.com/gp/product/B0FFGQDGN7/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.21
-    },
-    {
-      "title": "原始智慧：AI無法取代的四種人類天賦",
-      "author": "安格斯．弗萊契",
-      "original_title": "PRIMAL INTELLIGENCE: You Are Smarter Than You Know",
-      "isbn": "9786264179621",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-572?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=6&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$319",
-      "cover_url": "covers/ai-572.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
-      "sale_end": "",
-      "description": "巴菲特當時在所有人恐慌時買進，靠的不是數據模型。你有四種AI學不會的天賦：直覺、想像力、情緒、常識，稱之為「原始智慧」。敘事科學教授弗萊契將透過本書教你如何重啟及運用原始智慧、開發真正的競爭力。",
-      "publish_date": "2026年6月30日",
-      "short_affiliate_url": "https://reurl.cc/WzrnO5",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ai-572?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=6&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
+          "url": "https://www.kobo.com/tw/zh/ebook/o3e_UqQ47TWZBQ2N5WvbdQ?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
         },
         "books_com": {
           "score": 5.0,
           "count": 2,
-          "url": "https://www.books.com.tw/products/0011054753"
+          "url": "https://reurl.cc/6XLpD5"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/09psvD"
-        },
-        "goodreads": {
-          "score": 3.77,
-          "count": 443,
-          "url": "https://www.goodreads.com/book/show/221754320-primal-intelligence?from_search=true&from_srp=true&qid=CY62swOlmP&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DNKRZFW4/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
           "score": 4.6,
-          "count": 126,
-          "url": "https://www.amazon.com/gp/product/B0DNKRZFW4/ref=x_gr_bb_kindle"
-        }
+          "count": 52,
+          "url": "https://moo.im/a/cghqJT"
+        },
+        "goodreads": {},
+        "amazon_com": {}
       },
-      "avg_score": 4.13
+      "avg_score": 4.21,
+      "short_affiliate_url": "https://reurl.cc/MWXYkm"
     },
     {
-      "title": "下一場人類大瘟疫：後疫情時代不可不知的跨物種傳染病",
-      "author": "大衛．逵曼",
-      "original_title": "Spillover: Animal Infections and the Next Human Pandemic",
-      "isbn": "9786264092265",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/UgadkFju5jyCTWQ-NAR7Kg?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=9&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$357",
-      "cover_url": "covers/UgadkFju5jyCTWQ-NAR7Kg.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
+      "title": "大交棒時代：跨越百年的六堂企業必修課",
+      "author": "蔡鴻青",
+      "original_title": "The Great Succession",
+      "isbn": "9786269253777",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/4RP_yq9RnjixVNaYDQ4ZmA?sId=3c054697-5191-4eb4-bec6-361e917e3137&ssId=XRvQHncV77GCcGn7RkGFN&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$425",
+      "cover_url": "covers/4RP_yq9RnjixVNaYDQ4ZmA.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
       "sale_end": "",
-      "description": "21世紀＝瘟疫的時代？在人類大舉入侵野生動物領域的同時，也讓自己成為神祕病原的新宿主，為自己招來下一場大禍！本書講述科學與歷史，揭露重大傳染病的祕辛和人類走過的創痛，並將之化為高潮迭起的劇情。",
-      "publish_date": "2026年6月24日",
-      "short_affiliate_url": "https://reurl.cc/OQAOm9",
+      "description": "倘若大量企業同時出現交棒過程中的經營斷層，影響的不只是個別家族的財富問題，而是攸關整個國家的產業競爭力及供應鏈穩定。本書提供一張宏觀地圖，同時提出具體建議，陪伴台灣企業家族成功走進屬於自己的百年基業。",
+      "publish_date": "2026年7月1日",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/UgadkFju5jyCTWQ-NAR7Kg?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=9&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
+          "url": "https://www.kobo.com/tw/zh/ebook/4RP_yq9RnjixVNaYDQ4ZmA?sId=3c054697-5191-4eb4-bec6-361e917e3137&ssId=XRvQHncV77GCcGn7RkGFN&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://reurl.cc/1l0noG"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/14pHXZ"
+        },
+        "goodreads": {},
+        "amazon_com": {}
+      },
+      "avg_score": 4.15,
+      "short_affiliate_url": "https://reurl.cc/qaZ91R"
+    },
+    {
+      "title": "半憂鬱：給能工作，能生活，內心卻動彈不得的你",
+      "author": "平光源",
+      "original_title": "半うつ　憂鬱以上、うつ未満",
+      "isbn": "9789861367705",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dF4yNyhRDjeEZJFzrrRI5g?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$190",
+      "cover_url": "covers/dF4yNyhRDjeEZJFzrrRI5g.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
+      "sale_end": "",
+      "description": "當心慌不安的狀態有了名字，問題就解決了大半！雖然還稱不上「憂鬱症」，可以去上班，也能做家事，但不適感遠超過心情憂鬱。作者除了說明半憂鬱背後的大腦運作機制，還提供簡潔明瞭易執行的方法，帶你脫離半憂鬱！",
+      "publish_date": "2026年7月1日",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/dF4yNyhRDjeEZJFzrrRI5g?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://reurl.cc/jVRXgy"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 5,
+          "url": "https://moo.im/a/htvAGM"
+        },
+        "goodreads": {},
+        "amazon_com": {
+          "score": 4.5,
+          "count": 381,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4763142542/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/VnRG5b"
+    },
+    {
+      "title": "AI改變了你的客戶：大家買東西不再搜google而是問AI時，行銷該怎麼做？",
+      "author": "馬克・薛佛",
+      "original_title": "How AI Changes Your Customers: The Marketing Guide to Humanity’s Next Chapter",
+      "isbn": "9786269295890",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-googleai?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$269",
+      "cover_url": "covers/ai-googleai.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
+      "sale_end": "",
+      "description": "AI正大規模改變人類的思考的方式，你的客戶會因此更沒耐心、更信任AI。這些雖都是傳統行銷的危機，卻也是新行銷戰術的轉機。無論你是行銷長、企業主，或是創作者，本書將協助你在AI時代超越對手，贏得客戶。",
+      "publish_date": "2026年7月8日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/ai-googleai?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
         },
         "books_com": {
           "score": 4.0,
+          "count": 3,
+          "url": "https://reurl.cc/LeXv7a"
+        },
+        "readmoo": {
+          "score": 4.0,
           "count": 1,
-          "url": "https://www.books.com.tw/products/0011054585"
+          "url": "https://moo.im/a/6gklDX"
+        },
+        "goodreads": {
+          "score": 4.43,
+          "count": 30,
+          "url": "https://www.goodreads.com/book/show/241382051-how-ai-changes-your-customers?from_search=true&from_srp=true&qid=aSm07V5Aso&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FQ67TBHF/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 58,
+          "url": "https://www.amazon.com/gp/product/B0FQ67TBHF/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.22,
+      "short_affiliate_url": "https://reurl.cc/EYXqZA"
+    },
+    {
+      "title": "召喚錢錢來我家：從失業零存款到30歲FIRE！以斷捨離原則重整生活和財務的全方位創富提案",
+      "author": "極簡Takeru",
+      "original_title": "お金の増え方は９割部屋で決まる：人生を豊かにするミニマリスト思考",
+      "isbn": "9786267884607",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/30fire?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/30fire.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
+      "sale_end": "",
+      "description": "6年內從失業欠債，到成功財務自由！全方位重整人生的財務計畫！整理的過程，就是不斷的「找出浪費」。以極簡的「不堆積、不亂買」原則檢視理財計畫，立刻發現會漏財的消費慣性，存款增加、資產累積超有感！",
+      "publish_date": "2026年7月8日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/30fire?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=5&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://reurl.cc/Xx5Ola"
+        },
+        "readmoo": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://moo.im/a/6cuFGW"
+        },
+        "goodreads": {},
+        "amazon_com": {
+          "score": 4.4,
+          "count": 75,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4827215022/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/WzqeX5"
+    },
+    {
+      "title": "因為貓咪很可愛：有時愛你有時不理你，神秘又有趣的貓社會學",
+      "author": "赤川學主筆、新島典子、柄本三代子、秦美香子、出口剛司、齋藤環",
+      "original_title": "貓社會學、はじめます　─どうして貓は私たちにとって特別な存在となったのか？",
+      "isbn": "9786267846285",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/I-G0sIAwUjmBROysSBB0SA?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$268",
+      "cover_url": "covers/I-G0sIAwUjmBROysSBB0SA.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
+      "sale_end": "",
+      "description": "貓，為什麼會成為我們生命中如此特別的一份子呢？貓咪教會我們的，是「純粹存在」的價值。本書將探討這段歷史中的種種面向，勾勒「貓與人類未來幸福」的藍圖。愛貓成癡的社會學家編寫的「貓社會學」誕生！",
+      "publish_date": "2026年4月14日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/I-G0sIAwUjmBROysSBB0SA?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/beGZnd"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/5hnwFK"
+          "url": "https://moo.im/a/8sJMNS"
         },
-        "goodreads": {
-          "score": 4.42,
-          "count": 21046,
-          "url": "https://www.goodreads.com/book/show/17573681-spillover?from_search=true&from_srp=true&qid=USwU7DNTuX&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B00856PC4K/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
+        "goodreads": {},
         "amazon_com": {
-          "score": 4.7,
-          "count": 4910,
-          "url": "https://www.amazon.com/gp/product/B00856PC4K/ref=x_gr_bb_kindle"
+          "score": 4.2,
+          "count": 16,
+          "url": "https://www.amazon.co.jp/dp/4763143123/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_1_1/355-8052565-2452924"
         }
       },
-      "avg_score": 4.4
+      "avg_score": 4.12,
+      "short_affiliate_url": "https://reurl.cc/OQE2k9"
     },
     {
-      "title": "重返世界盡頭的咖啡館：我想要的人生是什麼？",
-      "author": "約翰‧史崔勒基",
-      "original_title": "Return to The Cafe on the Edge of the World",
-      "isbn": "9786263588615",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/XDITagIo_za74Dcxkxhxmw?sId=d3d5fd7c-a601-4d03-8ae7-dcf4f8cc20b9&ssId=tAHg0UjM7hCB3sRd2GRlV&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
+      "title": "逆分工：AI 時代的生產力革命，重構組織、市場到經濟的生存新賽局",
+      "author": "林之晨、蔡祈岩",
+      "original_title": "",
+      "isbn": "9786267916193",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-577?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
       "kobo_price": "NT$319",
-      "cover_url": "covers/XDITagIo_za74Dcxkxhxmw.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
+      "cover_url": "covers/ai-577.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
       "sale_end": "",
-      "description": "《世界盡頭的咖啡館》進階思考版。為何要重返咖啡館？作者發現，儘管有了覺醒，許多人依然欠缺勇氣、害怕失敗。於是，他讓筆下的自己再度回到咖啡館，成了主廚，新客人則是一名看似成功的女子，對他尖銳地發出質疑......",
-      "publish_date": "2026年1月30日",
-      "short_affiliate_url": "https://reurl.cc/QNLMa0",
+      "description": "終結萬年分工異化，從流程螺絲釘進化為一人抵一支團隊的超級個體。第一本引導企業終結無效分工、倍增組織產能的高效策略指引。含3大組織重塑×4大關鍵趨勢×3項實證轉骨，本書帶你用逆分工開創產能上限！",
+      "publish_date": "2026年7月2日",
       "ratings": {
         "kobo": {
-          "score": 4.67,
-          "count": 6,
-          "url": "https://www.kobo.com/tw/zh/ebook/XDITagIo_za74Dcxkxhxmw?sId=d3d5fd7c-a601-4d03-8ae7-dcf4f8cc20b9&ssId=tAHg0UjM7hCB3sRd2GRlV&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/ai-577?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
         },
         "books_com": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0011042948"
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/4YXk3Y"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 122,
-          "url": "https://moo.im/a/1bpMXY"
+          "score": 4.0,
+          "count": 1,
+          "url": "https://moo.im/a/gktDPQ"
         },
-        "goodreads": {
-          "score": 4.64,
-          "count": 14,
-          "url": "https://www.goodreads.com/book/show/247300488?from_search=true&from_srp=true&qid=v0iGJSIBwM&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0GKHNSYHZ/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.8,
-          "count": 9,
-          "url": "https://www.amazon.com/gp/product/B0GKHNSYHZ/ref=x_gr_bb_kindle"
-        }
+        "goodreads": {},
+        "amazon_com": {}
       },
-      "avg_score": 4.27
+      "avg_score": 4.1,
+      "short_affiliate_url": "https://reurl.cc/QNW160"
     },
     {
-      "title": "養野兔",
-      "author": "克蘿伊．達爾頓",
-      "original_title": "Raising Hare",
-      "isbn": "9786263149755",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WTMGL0cH7zuDW_NZU5DpIw?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=2&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803",
-      "kobo_price": "NT$326",
-      "cover_url": "covers/WTMGL0cH7zuDW_NZU5DpIw.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
+      "title": "我真的不想和你待在這裡",
+      "author": "朱莉安娜．柏格特",
+      "original_title": "I'd Really Prefer Not To Be Here With You",
+      "isbn": "9789570880854",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/c3TViFchrTqAnwT2A9hibQ?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$345",
+      "cover_url": "covers/c3TViFchrTqAnwT2A9hibQ.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
       "sale_end": "",
-      "description": "「她沒有改變，變的是我。我並沒有馴化那隻野兔，但她在許多方面都讓我平靜了下來。」本書不僅記錄一段人類與野生動物之間的真實情誼，也讓我們重新思索自由、信任和失落，以及該如何與大自然共存，並從中獲得力量與慰藉。",
+      "description": "當代售出最多影視改編版權的短篇小說集！破壞到重建、驚慌失措到和平處之，不論是人工智慧，還是人類本身。十五種科技帶來的各種省思。全有如影集《黑鏡》般，交織出一則則讓人驚豔無比、狂放扭曲又帶溫馨的暗黑故事集。",
       "publish_date": "2026年7月16日",
-      "short_affiliate_url": "https://reurl.cc/MW0ezn",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/WTMGL0cH7zuDW_NZU5DpIw?sId=6e95ca29-e69a-4e1c-bd91-47d66cd9ddf4&ssId=kEW4Y7lYYB4ro-fS5LKG7&cPos=2&utm_source=twblog&utm_medium=8585list&utm_campaign=8585_20260803"
+          "url": "https://www.kobo.com/tw/zh/ebook/c3TViFchrTqAnwT2A9hibQ?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
         },
         "books_com": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0011055406"
-        },
-        "readmoo": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://reurl.cc/GgXzbD"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 10,
+          "url": "https://moo.im/a/8jqABH"
         },
         "goodreads": {
-          "score": 4.27,
-          "count": 44424,
-          "url": "https://www.goodreads.com/book/show/255010443?from_search=true&from_srp=true&qid=BUEgsBsq0O&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D66BW3FP/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "score": 3.75,
+          "count": 820,
+          "url": "https://www.goodreads.com/book/show/72258694-i-d-really-prefer-not-to-be-here-with-you-and-other-stories?from_search=true&from_srp=true&qid=CeustKt0kM&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BHL52XXQ/ref=x_gr_bb_kindle",
+          "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 9872,
-          "url": "https://www.amazon.com/gp/product/B0D66BW3FP/ref=x_gr_bb_kindle"
+          "score": 4.2,
+          "count": 80,
+          "url": "https://www.amazon.com/gp/product/B0BHL52XXQ/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.34
+      "avg_score": 4.04,
+      "short_affiliate_url": "https://reurl.cc/VnRGj6"
+    },
+    {
+      "title": "婚禮之徒",
+      "author": "艾莉森・艾斯帕克",
+      "original_title": "The Wedding People",
+      "isbn": "9786267721810",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/hz2TBvvmlzOBAQJUcRBYpA?sId=07acb36d-6ce0-43de-bf80-22b8b1be658f&ssId=L5cvQkBaYpK0tfA3wfkP2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$329",
+      "cover_url": "covers/hz2TBvvmlzOBAQJUcRBYpA.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
+      "sale_end": "",
+      "description": "《紐約時報》暢銷書。「即使不夠完美，想要的東西很可恥，我們也能活過每一天。」以時而輕快幽默、時而溫柔感傷的筆法，寫生命中無可避免的失落及缺憾，及我們如何透過那些微小的時刻，慢慢學會重新生活。",
+      "publish_date": "2026年2月2日",
+      "ratings": {
+        "kobo": {
+          "score": 4.59,
+          "count": 34,
+          "url": "https://www.kobo.com/tw/zh/ebook/hz2TBvvmlzOBAQJUcRBYpA?sId=07acb36d-6ce0-43de-bf80-22b8b1be658f&ssId=L5cvQkBaYpK0tfA3wfkP2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 25,
+          "url": "https://reurl.cc/eQW0m7"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 196,
+          "url": "https://moo.im/a/0anvwQ"
+        },
+        "goodreads": {
+          "score": 4.06,
+          "count": 1382111,
+          "url": "https://www.goodreads.com/book/show/198902277-the-wedding-people?from_search=true&from_srp=true&qid=BzZBqTdPXe&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CJ839C56/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 214829,
+          "url": "https://www.amazon.com/gp/product/B0CJ839C56/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.31,
+      "short_affiliate_url": "https://reurl.cc/901dOX"
+    },
+    {
+      "title": "對男人一無所知的我",
+      "author": "賈奎琳．哈普曼",
+      "original_title": "Moi qui n'ai pas connu les hommes",
+      "isbn": "9786267649268",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sWGLud89vTK1XY7IhdqmXA?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810",
+      "kobo_price": "NT$221",
+      "cover_url": "covers/sWGLud89vTK1XY7IhdqmXA.jpg",
+      "sale_price": "8/10-8/16 結帳折扣碼",
+      "sale_end": "",
+      "description": "一場宛如思想實驗的反烏托邦小說；一個女孩在荒蕪的世界裡，探尋身為人的意義。某日，在所有人早已準備在牢籠被囚禁至生命終了的平凡的一天，警報聲突然響起，守衛們消失無蹤，女人們興奮地回到地面，期盼找回往日文明記憶⋯⋯",
+      "publish_date": "2026年6月3日",
+      "ratings": {
+        "kobo": {
+          "score": 3.84,
+          "count": 19,
+          "url": "https://www.kobo.com/tw/zh/ebook/sWGLud89vTK1XY7IhdqmXA?sId=ccbd13fb-1ab9-44df-b6da-8e825bc40e57&ssId=z-CWOrDgV2SYJ-AzLUz1b&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20260810"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 10,
+          "url": "https://reurl.cc/WzqeX7"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 285,
+          "url": "https://moo.im/a/oswBMU"
+        },
+        "goodreads": {
+          "score": 4.04,
+          "count": 666957,
+          "url": "https://www.goodreads.com/book/show/713621.Moi_qui_n_ai_pas_connu_les_hommes?from_search=true&from_srp=true&qid=l6yQoT4Z3M&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09QJ8L8FF/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {}
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/zOr2Me"
     },
     {
       "title": "花錢的藝術",
@@ -470,10 +406,11 @@
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/PbFPwOOHRDKfuTMnY5CT5g",
       "kobo_price": "NT$180",
       "cover_url": "covers/PbFPwOOHRDKfuTMnY5CT5g.jpg",
-      "sale_price": "8/3-8/9 結帳折扣碼",
+      "sale_price": "8/10-8/16 結帳折扣碼",
       "sale_end": "",
       "description": "改革開放20多年來，中國人最大的變化是什麼?一言以蔽之，就是好些人有了好多錢。好事者經常在猜測中國到底有多少億萬富豪、多少千萬富豪、多少百萬富豪，《福布斯》的中國富豪榜更是把許多人的心撩撥得癢癢的。當然，究竟有多少富翁，永遠不可能有準確答案。但中國有錢人與日俱增，卻是不爭的事實。錢幾乎成了衡量一個人成功與否的最重要的標誌。中國人嚴詞譴責“金錢拜物教”的聲音言猶在耳，轉眼之間大亨就成了人們崇拜的偶像和超級英雄。 石地，男，1955 年出生。自小隨家遷徙，在長江邊輾轉長大，初二輟學後在群山中磨礪青春。1978 年考入北師大數學系，畢業後曾任中學校長、機關頭目、公司經理、賓館領導、研究所長等職，2005 - 2303 年任天涯社區編輯部主任，現為自由人，靠智力打工維持生計，筆耕不輟。他是著名網路思想家，著有《壘蟻集》，該書是其數十年對中國社會現實與文化發展的集中思考的集結。他還著有《懵懂的青春》",
       "publish_date": "2025年3月15日",
+      "short_affiliate_url": "https://reurl.cc/xe1YOE",
       "ratings": {
         "kobo": {
           "score": null,
@@ -482,31 +419,30 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 34,
-          "url": "https://www.books.com.tw/products/0011057581"
+          "count": 38,
+          "url": "https://reurl.cc/OQE2kg"
         },
         "readmoo": {
-          "score": 4.6,
-          "count": 12,
+          "score": 4.2,
+          "count": 18,
           "url": "https://moo.im/a/mtDHJM"
         },
         "goodreads": {
           "score": 4.11,
-          "count": 23981,
+          "count": 24171,
           "url": "https://www.goodreads.com/book/show/231148075-the-art-of-spending-money?from_search=true&from_srp=true&qid=JwxemjLjTX&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0F42TZ2FY/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 4436,
+          "count": 4448,
           "url": "https://www.amazon.com/gp/product/B0F42TZ2FY/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.34,
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FPbFPwOOHRDKfuTMnY5CT5g"
+      "avg_score": 4.33
     }
   ]
 }
