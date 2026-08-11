@@ -4,7 +4,7 @@
   "books": [
     {
       "title": "納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧",
-      "author": "艾瑞克‧喬根森(Eric Jorgenson)",
+      "author": "艾瑞克‧喬根森",
       "original_title": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
       "isbn": "9789863989509",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/clrkMasT6T6fQ9bsr29tbw",
@@ -17,31 +17,31 @@
       "ratings": {
         "kobo": {
           "score": 4.44,
-          "count": 299,
+          "count": 306,
           "url": "https://www.kobo.com/tw/zh/ebook/clrkMasT6T6fQ9bsr29tbw"
         },
         "books_com": {
           "score": 4.5,
-          "count": 101,
+          "count": 106,
           "url": "https://www.books.com.tw/products/0010977461"
         },
         "readmoo": {
           "score": 4.7,
-          "count": 1133,
+          "count": 1202,
           "url": "https://readmoo.com/book/210307601000101"
         },
         "goodreads": {
-          "score": 4.38,
-          "count": 75500,
+          "score": 4.37,
+          "count": 76326,
           "url": "https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?from_search=true&from_srp=true&qid=NtQZAuIbNd&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0F9XD4XSY/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 23312,
+          "count": 23521,
           "url": "https://www.amazon.com/gp/product/B0F9XD4XSY/ref=x_gr_bb_kindle"
         }
       },
@@ -52,7 +52,7 @@
     {
       "title": "臺灣漫遊錄",
       "author": "楊双子",
-      "original_title": "",
+      "original_title": "台湾漫遊録",
       "isbn": "9789869866262",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/oh0kIn8V6DmxPOMSGtsPXA",
       "kobo_price": "NT$226",
@@ -69,22 +69,22 @@
         },
         "books_com": {
           "score": 4.5,
-          "count": 156,
+          "count": 181,
           "url": "https://www.books.com.tw/products/0010852315"
         },
         "readmoo": {
           "score": 4.8,
-          "count": 1745,
+          "count": 2049,
           "url": "https://readmoo.com/book/210136729000101"
         },
         "goodreads": {
-          "score": 4.0,
-          "count": 10899,
+          "score": 3.98,
+          "count": 15355,
           "url": "https://www.goodreads.com/book/show/53287534?from_search=true&from_srp=true&qid=I8eYu8XZee&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D9F5ZHL4/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.4,
@@ -93,7 +93,8 @@
         }
       },
       "avg_score": 4.41,
-      "short_affiliate_url": "https://reurl.cc/be4nME"
+      "short_affiliate_url": "https://reurl.cc/be4nME",
+      "original_author": ""
     },
     {
       "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈:終結焦慮、恐慌和憂鬱:實現最佳的心理健康",
@@ -109,42 +110,43 @@
       "publish_date": "2024年5月30日",
       "ratings": {
         "kobo": {
-          "score": 4.35,
-          "count": 167,
+          "score": 4.3,
+          "count": 181,
           "url": "https://www.kobo.com/tw/zh/ebook/rewire-11"
         },
         "books_com": {
           "score": 4.5,
-          "count": 68,
+          "count": 77,
           "url": "https://www.books.com.tw/products/0010990062"
         },
         "readmoo": {
           "score": 4.6,
-          "count": 507,
+          "count": 577,
           "url": "https://readmoo.com/book/210330729000101"
         },
         "goodreads": {
-          "score": 4.2,
-          "count": 2105,
+          "score": 4.19,
+          "count": 2196,
           "url": "https://www.goodreads.com/book/show/156739318-rewire?from_search=true&from_srp=true&qid=wMcQ0fFKbH&rank=1",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CFM233QG/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 433,
+          "count": 452,
           "url": "https://www.amazon.com/gp/product/B0CFM233QG/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.38,
-      "short_affiliate_url": "https://reurl.cc/4Y53EX"
+      "short_affiliate_url": "https://reurl.cc/4Y53EX",
+      "original_author": "Nicole Vignola"
     },
     {
       "title": "絕叫【日本推理四大獎、現象級小說經典復活！】",
       "author": "葉真中顯",
-      "original_title": "",
+      "original_title": "絶叫",
       "isbn": "9789861339979",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/HGf7qjULVD-DxG5igNLieQ",
       "kobo_price": "NT$237",
@@ -155,8 +157,8 @@
       "publish_date": "2025年12月1日",
       "ratings": {
         "kobo": {
-          "score": 4.3,
-          "count": 96,
+          "score": 4.38,
+          "count": 118,
           "url": "https://www.kobo.com/tw/zh/ebook/HGf7qjULVD-DxG5igNLieQ"
         },
         "books_com": {
@@ -166,7 +168,7 @@
         },
         "readmoo": {
           "score": 4.6,
-          "count": 1021,
+          "count": 1176,
           "url": "https://readmoo.com/book/210431673000101"
         },
         "goodreads": {
@@ -184,13 +186,14 @@
           "url": ""
         }
       },
-      "avg_score": 4.3,
-      "short_affiliate_url": "https://reurl.cc/GgZb7A"
+      "avg_score": 4.31,
+      "short_affiliate_url": "https://reurl.cc/GgZb7A",
+      "original_author": ""
     },
     {
       "title": "在小山和小山之間：故事大爆炸年度首獎之作",
       "author": "李停",
-      "original_title": "",
+      "original_title": "在小山和小山之间",
       "isbn": "9786267721841",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/xKL68J9N0DaQviQSifleOw",
       "kobo_price": "NT$241",
@@ -201,37 +204,38 @@
       "publish_date": "2026年1月28日",
       "ratings": {
         "kobo": {
-          "score": 4.3,
-          "count": 77,
+          "score": 4.29,
+          "count": 96,
           "url": "https://www.kobo.com/tw/zh/ebook/xKL68J9N0DaQviQSifleOw"
         },
         "books_com": {
           "score": 4.5,
-          "count": 26,
+          "count": 28,
           "url": "https://www.books.com.tw/products/0011042972"
         },
         "readmoo": {
           "score": 4.6,
-          "count": 909,
+          "count": 998,
           "url": "https://readmoo.com/book/210449730000101"
         },
         "goodreads": {
-          "score": 4.08,
-          "count": 190,
+          "score": 4.06,
+          "count": 216,
           "url": "https://www.goodreads.com/book/show/247203612?from_search=true&from_srp=true&qid=B4c7vU4hWC&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0GJDDF3N6/ref=x_gr_bb_kindle",
-          "confidence": 75,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 14,
+          "score": 4.7,
+          "count": 19,
           "url": "https://www.amazon.com/gp/product/B0GJDDF3N6/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.27,
-      "short_affiliate_url": "https://reurl.cc/EY8Zk1"
+      "avg_score": 4.28,
+      "short_affiliate_url": "https://reurl.cc/EY8Zk1",
+      "original_author": ""
     },
     {
       "title": "竹林姊妹：從中國到美國，雙胞胎拐賣、收養、離散的真實故事【作者印刷簽名扉頁版】",
@@ -247,8 +251,8 @@
       "publish_date": "2025年9月25日",
       "ratings": {
         "kobo": {
-          "score": 4.72,
-          "count": 39,
+          "score": 4.76,
+          "count": 46,
           "url": "https://www.kobo.com/tw/zh/ebook/GLdbbs6kwDmqLGRIVgdRXg"
         },
         "books_com": {
@@ -258,26 +262,27 @@
         },
         "readmoo": {
           "score": 4.8,
-          "count": 613,
+          "count": 638,
           "url": "https://readmoo.com/book/210412637000101"
         },
         "goodreads": {
-          "score": 4.46,
-          "count": 103294,
-          "url": "https://www.goodreads.com/book/show/40604846-nothing-to-envy?from_search=true&from_srp=true&qid=FFiRVDjK8K&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B002ZB26AO/ref=x_gr_bb_kindle",
-          "confidence": 70,
+          "score": 4.23,
+          "count": 8412,
+          "url": "https://www.goodreads.com/book/show/217927688-daughters-of-the-bamboo-grove",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DDSKBJPZ/ref=x_gr_bb_kindle",
+          "confidence": 75,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 11924,
-          "url": "https://www.amazon.com/gp/product/B002ZB26AO/ref=x_gr_bb_kindle"
+          "score": 4.4,
+          "count": 1360,
+          "url": "https://www.amazon.com/gp/product/B0DDSKBJPZ/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.48,
-      "short_affiliate_url": "https://reurl.cc/eQvmqL"
+      "avg_score": 4.4,
+      "short_affiliate_url": "https://reurl.cc/eQvmqL",
+      "original_author": "Barbara Demick"
     },
     {
       "title": "北歐時間：世界第一幸福國度教會我的事",
@@ -293,28 +298,28 @@
       "publish_date": "2025年10月29日",
       "ratings": {
         "kobo": {
-          "score": 3.94,
-          "count": 47,
+          "score": 3.92,
+          "count": 63,
           "url": "https://www.kobo.com/tw/zh/ebook/MFAw_g8T0TSIdiN9wma-Dw"
         },
         "books_com": {
-          "score": 5.0,
-          "count": 48,
+          "score": 4.5,
+          "count": 53,
           "url": "https://www.books.com.tw/products/0011035285"
         },
         "readmoo": {
           "score": 4.3,
-          "count": 327,
+          "count": 397,
           "url": "https://readmoo.com/book/210417698000101"
         },
         "goodreads": {
-          "score": 3.96,
-          "count": 75,
+          "score": 3.86,
+          "count": 95,
           "url": "https://www.goodreads.com/book/show/243324984?from_search=true&from_srp=true&qid=YLv85vxeqK&rank=1",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0FY652VJ7/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
+          "confidence": 90,
+          "cross_validated": false
         },
         "amazon_com": {
           "score": 4.3,
@@ -322,13 +327,14 @@
           "url": "https://www.amazon.com/gp/product/B0FY652VJ7/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/OQ7kdr"
+      "avg_score": 4.14,
+      "short_affiliate_url": "https://reurl.cc/OQ7kdr",
+      "original_author": "いくらしいんこ"
     },
     {
       "title": "世界盡頭的咖啡館：這一生，我為何而存在？（全球每19秒售出1本！療癒千萬人的暢銷經典，定位人生的神奇之書）",
       "author": "約翰‧史崔勒基",
-      "original_title": "",
+      "original_title": "The Cafe on the Edge of the World: A Story About the Meaning of Life",
       "isbn": "9786263585911",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/WSt7R-lHxDedZFAL0zUUzw",
       "kobo_price": "NT$319",
@@ -339,28 +345,28 @@
       "publish_date": "2025年2月27日",
       "ratings": {
         "kobo": {
-          "score": 4.14,
-          "count": 176,
+          "score": 4.15,
+          "count": 185,
           "url": "https://www.kobo.com/tw/zh/ebook/WSt7R-lHxDedZFAL0zUUzw"
         },
         "books_com": {
           "score": 4.0,
-          "count": 59,
+          "count": 61,
           "url": "https://www.books.com.tw/products/0011014199"
         },
         "readmoo": {
           "score": 4.4,
-          "count": 1013,
+          "count": 1051,
           "url": "https://readmoo.com/book/210372403000101"
         },
         "goodreads": {
           "score": 3.52,
-          "count": 72214,
-          "url": "https://www.goodreads.com/book/show/228477460?from_search=true&from_srp=true&qid=jeGKT0pJHc&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DJY32BFQ/ref=x_gr_bb_kindle",
+          "count": 73344,
+          "url": "https://www.goodreads.com/book/show/55536485-the-cafe-on-the-edge-of-the-world?from_search=true&from_srp=true&qid=GM1fJNGzs0&rank=1",
+          "note": "title+author",
+          "amazon_url": "",
           "confidence": 75,
-          "cross_validated": true
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.4,
@@ -368,8 +374,9 @@
           "url": "https://www.amazon.com/gp/product/B0DJY32BFQ/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.07,
-      "short_affiliate_url": "https://reurl.cc/RRnbA9"
+      "avg_score": 4.08,
+      "short_affiliate_url": "https://reurl.cc/RRnbA9",
+      "original_author": "John Strelecky"
     },
     {
       "title": "飄（《亂世佳人》原著小說正式授權完整譯本‧上下冊套書不分售）",
@@ -386,7 +393,7 @@
       "ratings": {
         "kobo": {
           "score": 4.92,
-          "count": 12,
+          "count": 13,
           "url": "https://www.kobo.com/tw/zh/ebook/hI4yghefXDKZ8KyV139b9w"
         },
         "books_com": {
@@ -397,16 +404,16 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://readmoo.com/book/210272555000101"
         },
         "goodreads": {
           "score": 4.31,
-          "count": 1267261,
+          "count": 1269556,
           "url": "https://www.goodreads.com/book/show/34689759-gone-with-the-wind?from_search=true&from_srp=true&qid=Rlj8xCbLQK&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B00YXJ6GWK/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "confidence": 90,
+          "cross_validated": false
         },
         "amazon_com": {
           "score": 4.6,
@@ -415,11 +422,12 @@
         }
       },
       "avg_score": 4.3,
-      "short_affiliate_url": "https://reurl.cc/qaz1yp"
+      "short_affiliate_url": "https://reurl.cc/qaz1yp",
+      "original_author": "Margaret Munnerlyn Mitchell"
     },
     {
       "title": "我可能錯了：森林智者的最後一堂人生課【瑞典每30人就1人閱讀．韓國2022讀者最愛年度之書】",
-      "author": "納維德．莫迪里（Navid Modiri） 封面繪者：托馬斯．桑切斯（Tomás Sánchez）",
+      "author": "比約恩．納提科．林德布勞（Björn Natthiko Lindeblad）",
       "original_title": "Jag kan ha fel och andra visdomar från mitt liv som buddhistmunk",
       "isbn": "9789861344447",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/iqEphzp7HTG1jzn72ezjng",
@@ -431,26 +439,28 @@
       "publish_date": "2023年1月12日",
       "ratings": {
         "kobo": {
-          "score": 4.55,
-          "count": 678,
+          "score": 4.56,
+          "count": 682,
           "url": "https://www.kobo.com/tw/zh/ebook/iqEphzp7HTG1jzn72ezjng"
         },
         "books_com": {
           "score": 4.5,
-          "count": 183,
+          "count": 187,
           "url": "https://www.books.com.tw/products/E050151842?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050151842"
         },
         "readmoo": {
           "score": 4.8,
-          "count": 2834,
+          "count": 2871,
           "url": "https://readmoo.com/book/210260088000101"
         },
         "goodreads": {
           "score": 4.27,
-          "count": 13715,
+          "count": 13744,
           "url": "https://www.goodreads.com/book/show/54278940-jag-kan-ha-fel-och-andra-visdomar-fr-n-mitt-liv-som-buddhistmunk?from_search=true&from_srp=true&qid=Q0BFJ5MCXj&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09XXDJ7P1/ref=x_gr_bb_kindle"
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B09XXDJ7P1/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.5,
@@ -476,8 +486,8 @@
       "publish_date": "2024年7月8日",
       "ratings": {
         "kobo": {
-          "score": 4.5,
-          "count": 62,
+          "score": 4.55,
+          "count": 77,
           "url": "https://www.kobo.com/tw/zh/ebook/mRSMd72SGzKsxAKxQQSH9Q"
         },
         "books_com": {
@@ -487,7 +497,7 @@
         },
         "readmoo": {
           "score": 4.8,
-          "count": 282,
+          "count": 350,
           "url": "https://readmoo.com/book/210337133000101"
         },
         "goodreads": {
@@ -505,13 +515,14 @@
           "url": ""
         }
       },
-      "avg_score": 4.33,
-      "short_affiliate_url": "https://reurl.cc/QNnjbq"
+      "avg_score": 4.34,
+      "short_affiliate_url": "https://reurl.cc/QNnjbq",
+      "original_author": ""
     },
     {
       "title": "被討厭的勇氣：自我啟發之父「阿德勒」的教導",
       "author": "岸見一郎",
-      "original_title": "",
+      "original_title": "嫌われる勇気 : 自己啓発の源流「アドラー」の教え",
       "isbn": "3219861371955",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/nvedXSs0ujimMMwueunJew",
       "kobo_price": "NT$179",
@@ -528,12 +539,12 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 294,
+          "count": 299,
           "url": "https://www.books.com.tw/products/0010653153"
         },
         "readmoo": {
           "score": 4.6,
-          "count": 2431,
+          "count": 2447,
           "url": "https://readmoo.com/book/210072627000101"
         },
         "goodreads": {
@@ -547,12 +558,13 @@
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 877,
+          "count": 884,
           "url": "https://www.amazon.com/%E8%A2%AB%E8%A8%8E%E5%8E%AD%E7%9A%84%E5%8B%87%E6%B0%A3-%E8%87%AA%E6%88%91%E5%95%9F%E7%99%BC%E4%B9%8B%E7%88%B6%E3%80%8C%E9%98%BF%E5%BE%B7%E5%8B%92%E3%80%8D%E7%9A%84%E6%95%99%E5%B0%8E-Traditional-Chinese-%E5%B2%B8%E8%A6%8B%E4%B8%80%E9%83%8E-ebook/dp/B07KC87GT7/ref=sr_1_1"
         }
       },
       "avg_score": 4.55,
-      "short_affiliate_url": "https://reurl.cc/MW1bNK"
+      "short_affiliate_url": "https://reurl.cc/MW1bNK",
+      "original_author": ""
     },
     {
       "title": "持續買進：資料科學家的投資終極解答，存錢及致富的實證方法",
@@ -569,36 +581,37 @@
       "ratings": {
         "kobo": {
           "score": 4.54,
-          "count": 464,
+          "count": 468,
           "url": "https://www.kobo.com/tw/zh/ebook/ycPCkGWyVDKnVw2029lW4Q"
         },
         "books_com": {
           "score": 5.0,
-          "count": 80,
+          "count": 82,
           "url": "https://www.books.com.tw/products/0010957881"
         },
         "readmoo": {
           "score": 4.7,
-          "count": 1316,
+          "count": 1359,
           "url": "https://readmoo.com/book/210274490000101"
         },
         "goodreads": {
           "score": 4.12,
-          "count": 6095,
+          "count": 6188,
           "url": "https://www.goodreads.com/book/show/59046778-just-keep-buying?from_search=true&from_srp=true&qid=x9Zr8SG1sG&rank=1",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B09FYHZXBN/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 3247,
+          "count": 3275,
           "url": "https://www.amazon.com/gp/product/B09FYHZXBN/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.49,
-      "short_affiliate_url": "https://reurl.cc/eQv6yQ"
+      "short_affiliate_url": "https://reurl.cc/eQv6yQ",
+      "original_author": "Nick Maggiulli"
     }
   ]
 }
