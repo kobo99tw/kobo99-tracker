@@ -662,7 +662,11 @@ function render() {
     if (sort === "avg") {
       const _bayesian = x => {
         if (!x.avg_score) return 0;
-        const cnt = Object.values(x.ratings || {}).reduce((s, r) => s + (r?.count || 0), 0);
+        // 則數封頂300（v130，跟exclusive.html同步）：翻譯書常靠Goodreads/Amazon單一
+        // 平台衝到數千甚至上百萬則，未封頂會讓本土書（則數多半在數十~數百）永遠贏不了，
+        // 即使avg_score更高。300是從全站實測資料校準：本土書總則數93%落在300以下
+        // （幾乎不受影響），外文書有67%超過300（封頂才真的發揮作用）。
+        const cnt = Math.min(Object.values(x.ratings || {}).reduce((s, r) => s + (r?.count || 0), 0), 300);
         return (50 * 4.1 + cnt * x.avg_score) / (50 + cnt);
       };
       return _bayesian(b) - _bayesian(a);
