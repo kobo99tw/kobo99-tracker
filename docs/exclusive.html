@@ -104,6 +104,8 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .chip{font-size:.7rem;padding:.18rem .6rem;border-radius:20px;border:1px solid var(--line);color:var(--ink2);background:var(--cream);white-space:nowrap}
 .chip b{color:var(--ink)}
 
+.category-chips{display:none;flex-wrap:wrap;gap:.4rem;padding:.5rem 1.25rem;border-bottom:1px solid var(--line);background:#fff}
+
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:1.25rem;padding:1.25rem;max-width:1400px;margin:0 auto}
 
 .card{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .2s,transform .2s}
@@ -294,6 +296,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   <input type="text" id="searchInput" class="search-input" placeholder="🔍 搜尋書名或作者" oninput="onSearchInput()" style="display:none">
   <div class="stat-chips" id="chips"></div>
 </div>
+<div class="category-chips" id="categoryChips"></div>
 
 <div class="grid" id="grid">
   <div class="empty">⏳ 書單載入中...</div>
@@ -424,6 +427,15 @@ function onSearchInput() {
   render();
 }
 
+// 主題分類篩選（v127，目前只有遠流出版有 category 欄位，其他主題自動不顯示）
+const CATEGORY_ORDER = ['理財投資','管理創業','學習思考力','溝通談判','行銷品牌','人生智慧'];
+const CATEGORY_EMOJI = {'理財投資':'💰','管理創業':'🏢','學習思考力':'🧠','溝通談判':'🗣️','行銷品牌':'📢','人生智慧':'✨'};
+let categoryFilter = '';
+function onCategoryClick(cat) {
+  categoryFilter = (categoryFilter === cat) ? '' : cat;
+  render();
+}
+
 function getSet(key) {
   try { return new Set(JSON.parse(localStorage.getItem(key) || '[]')); }
   catch { return new Set(); }
@@ -524,6 +536,25 @@ function render() {
       (b.title || '').toLowerCase().includes(searchQuery) ||
       (b.author || '').toLowerCase().includes(searchQuery)
     );
+  }
+
+  const chipsWrap = document.getElementById('categoryChips');
+  const hasCategory = DATA.books.some(b => b.category);
+  if (hasCategory) {
+    const counts = {};
+    books.forEach(b => { if (b.category) counts[b.category] = (counts[b.category] || 0) + 1; });
+    let html = `<button class="filter-btn${categoryFilter === '' ? ' active' : ''}" onclick="onCategoryClick('')">全部 (${books.length})</button>`;
+    CATEGORY_ORDER.forEach(cat => {
+      const n = counts[cat] || 0;
+      const active = categoryFilter === cat ? ' active' : '';
+      html += `<button class="filter-btn${active}" onclick="onCategoryClick('${cat}')">${CATEGORY_EMOJI[cat] || ''} ${cat} (${n})</button>`;
+    });
+    chipsWrap.innerHTML = html;
+    chipsWrap.style.display = 'flex';
+    if (categoryFilter) books = books.filter(b => b.category === categoryFilter);
+  } else {
+    chipsWrap.style.display = 'none';
+    chipsWrap.innerHTML = '';
   }
 
   books.sort((a, b) => {
