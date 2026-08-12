@@ -303,12 +303,12 @@
           "url": "https://readmoo.com/book/210360755000101"
         },
         "goodreads": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/222419012?from_search=true&from_srp=true&qid=5CG9HaM2gi&rank=1",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DPQ6L776/ref=x_gr_bb_kindle",
-          "confidence": 20,
+          "score": 4.06,
+          "count": 10082,
+          "url": "https://www.goodreads.com/book/show/165059495-rich-af",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C6G67213/ref=x_gr_bb_kindle",
+          "confidence": 90,
           "cross_validated": false
         },
         "amazon_com": {
@@ -317,7 +317,7 @@
           "url": "https://www.amazon.com/-/zh_TW/Rich-AF-Winning-Mindset-Change/dp/0593714911/ref=sr_1_1"
         }
       },
-      "avg_score": 4.19,
+      "avg_score": 4.17,
       "short_affiliate_url": "https://reurl.cc/dO7NgM"
     },
     {
