@@ -7,112 +7,87 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-SUMMARY:《早餐店阿姨什麼都記得住：早安，今天的鬼故事
- 加點洋蔥嗎？》
-DESCRIPTION:特價 NT$99｜4.2分\nhttps://click.linksynergy.com/deeplink?i
- d=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook
- %2F-PFDMFwipD-7yIphiMDuRw\n查看當週各書評價: https://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F-PFDMFwipD-7yIphiMDuRw
-UID:kobo99-2026-w32-01@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:《正確犯錯：哈佛學者揭開成長心態的關鍵，分辨
+ 失敗類型與應對方式，駕馭不確定的未來》
+DESCRIPTION:特價 NT$99｜4.2分\nhttps://reurl.cc/p8Ll2b\n查看當週各
+ 書評價: https://kobo99.com/
+URL:https://reurl.cc/p8Ll2b
+UID:kobo99-2026-w33-01@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-SUMMARY:《落花时节》
-DESCRIPTION:特價 NT$99｜原價 NT$483｜4.2分\nhttps://click.linksynerg
- y.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2
- Ftw%2Fzh%2Febook%2FRdxmrljmXjmRvy_vZlfXog\n查看當週各書評價: http
- s://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRdxmrljmXjmRvy_vZlfXog
-UID:kobo99-2026-w32-02@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:《你怎樣過一天，就怎樣過一生》
+DESCRIPTION:特價 NT$99｜原價 NT$280｜4.1分\nhttps://reurl.cc/vGkY2j\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/vGkY2j
+UID:kobo99-2026-w33-02@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-SUMMARY:《以我們告終》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.3分\nhttps://click.linksynerg
- y.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2
- Ftw%2Fzh%2Febook%2FWUXemSOXHD6F5kUhTAEb6Q\n查看當週各書評價: http
- s://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FWUXemSOXHD6F5kUhTAEb6Q
-UID:kobo99-2026-w32-03@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:《情感计算》
+DESCRIPTION:特價 NT$99｜原價 NT$258\nhttps://reurl.cc/Ym8gba\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/Ym8gba
+UID:kobo99-2026-w33-03@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-SUMMARY:《平靜的力量：正念研究經典，科學實證持續練心
- 即可重塑大腦迴路，提升內心素質，脫離耗損身心的負
- 面情緒》
-DESCRIPTION:特價 NT$99｜原價 NT$336｜4.1分\nhttps://click.linksynerg
- y.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2
- Ftw%2Fzh%2Febook%2FaI7t-8tEuDSxOauRZizCXQ\n查看當週各書評價: http
- s://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FaI7t-8tEuDSxOauRZizCXQ
-UID:kobo99-2026-w32-04@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:《阿基里斯之歌》
+DESCRIPTION:特價 NT$99｜原價 NT$280｜4.3分\nhttps://reurl.cc/rkLy2O\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/rkLy2O
+UID:kobo99-2026-w33-04@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:《資本之道：從孫子兵法到奧地利經濟學派，看透
- 資本本質的迂迴手段。》
-DESCRIPTION:特價 NT$99｜原價 NT$364｜4.1分\nhttps://click.linksynerg
- y.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2
- Ftw%2Fzh%2Febook%2FDIJ89zVmxTumMdO0ItsyCA\n查看當週各書評價: http
- s://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FDIJ89zVmxTumMdO0ItsyCA
-UID:kobo99-2026-w32-05@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:《說故事的技藝：普立茲獎評審親傳美國大學非虛
+ 構寫作聖經》
+DESCRIPTION:特價 NT$99｜原價 NT$364｜4.2分\nhttps://reurl.cc/5XMjQn\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/5XMjQn
+UID:kobo99-2026-w33-05@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:《箱子》
-DESCRIPTION:特價 NT$99｜原價 NT$479｜4.1分\nhttps://click.linksynerg
- y.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2
- Ftw%2Fzh%2Febook%2FEhto37BnzjiKIc9_Qik3QQ\n查看當週各書評價: http
- s://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FEhto37BnzjiKIc9_Qik3QQ
-UID:kobo99-2026-w32-06@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:《我的有錢富朋友教我的事：關於金錢、財務與自
+ 主，翻轉你一生的致富思維》
+DESCRIPTION:特價 NT$99｜原價 NT$394｜4.2分\nhttps://reurl.cc/dO7NgM\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/dO7NgM
+UID:kobo99-2026-w33-06@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:《什麼！英國女王是蜥蜴人？！：陰謀論、偽歷史
- 與偽科學為什麼吸引我們，透過人性的希望與恐懼，影
- 響我們的決定和行動》
-DESCRIPTION:特價 NT$99｜原價 NT$385｜4.1分\nhttps://click.linksynerg
- y.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2
- Ftw%2Fzh%2Febook%2FD7GeY5GZkTagNEe9r0i2aw\n查看當週各書評價: http
- s://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FD7GeY5GZkTagNEe9r0i2aw
-UID:kobo99-2026-w32-07@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:《從僵硬到優雅！芭蕾舞者的自我調整術》
+DESCRIPTION:特價 NT$99｜原價 NT$252｜4.2分\nhttps://reurl.cc/27W1en\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/27W1en
+UID:kobo99-2026-w33-07@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260807
-SUMMARY:《扁平時代：演算法如何限縮我們的品味與文化》
-DESCRIPTION:特價 NT$99｜原價 NT$385｜4.1分\nhttps://click.linksynerg
- y.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2
- Ftw%2Fzh%2Febook%2FeJO-5nFZCD-4O5vIJ_9Rmg\n查看當週各書評價: http
- s://kobo99.com/
-URL:https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=ht
- tps%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FeJO-5nFZCD-4O5vIJ_9Rmg
-UID:kobo99-2026-w32-08@kobo99-tracker
-DTSTAMP:20260811T115949Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:《為何龍蝦不會變老，水母會逆齡，人類卻無法？
+ ：24個自然界中青春、衰老與生命期限的科學奧祕》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/0kEAGA\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/0kEAGA
+UID:kobo99-2026-w33-08@kobo99-tracker
+DTSTAMP:20260812T163310Z
 END:VEVENT
 END:VCALENDAR

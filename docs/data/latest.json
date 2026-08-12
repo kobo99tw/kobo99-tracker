@@ -1,428 +1,376 @@
 {
   "year": 2026,
-  "week": 32,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w32",
-  "sale_label": "NT$99 特價：8/6（四）～8/12（三）",
-  "sale_start": "2026-08-06",
-  "sale_end": "2026-08-12",
+  "week": 33,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w33",
+  "sale_label": "NT$99 特價：8/13（四）～8/19（三）",
+  "sale_start": "2026-08-13",
+  "sale_end": "2026-08-19",
   "on_sale": true,
-  "updated_at": "2026-08-07T21:52:46.628626+08:00",
+  "updated_at": "2026-08-13T00:22:26.172927+08:00",
   "books": [
     {
-      "title": "早餐店阿姨什麼都記得住：早安，今天的鬼故事加點洋蔥嗎？",
-      "author": "路邊攤",
-      "original_title": "",
-      "isbn": "9786263585423",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/-PFDMFwipD-7yIphiMDuRw?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
+      "title": "正確犯錯：哈佛學者揭開成長心態的關鍵，分辨失敗類型與應對方式，駕馭不確定的未來",
+      "author": "艾美．艾德蒙森",
+      "original_title": "Right Kind of Wrong: The Science of Failing Well",
+      "isbn": "9789863989752",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2Sjwvg6-JTC3YMAhT3pYkA?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
       "kobo_price": null,
-      "cover_url": "covers/-PFDMFwipD-7yIphiMDuRw.jpg",
+      "cover_url": "covers/2Sjwvg6-JTC3YMAhT3pYkA.jpg",
       "sale_price": "NT$99",
-      "date": "8/7",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
-      "on_sale": true,
-      "publisher": "三采文化",
-      "publish_date": "2024年12月27日",
-      "language": "中文",
-      "original_author": null,
-      "description": "走進平凡的早餐店，穿越時間與空間，人鬼溫情互動。巷口的早餐店阿姨，提供的是靈魂的撫慰，喊你帥哥美女的早餐店阿姨化身偵探，給的不僅僅是一頓飽食，更是活下去的力量！",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F-PFDMFwipD-7yIphiMDuRw",
-      "ratings": {
-        "kobo": {
-          "score": 4.25,
-          "count": 8,
-          "url": "https://www.kobo.com/tw/zh/ebook/-PFDMFwipD-7yIphiMDuRw?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 15,
-          "url": "https://www.books.com.tw/products/0011008007"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 504,
-          "url": "https://moo.im/a/49hmJL"
-        },
-        "goodreads": {
-          "score": 3.57,
-          "count": 49,
-          "url": "https://www.goodreads.com/book/show/222903402?from_search=true&from_srp=true&qid=ECP4QfnBtR&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DR87NPM5/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%B7%AF%E9%82%8A%E6%94%A4-ebook/dp/B0DR87NPM5/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.21
-    },
-    {
-      "title": "落花时节",
-      "author": "阿耐",
-      "original_title": "",
-      "isbn": "7584043281437",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/RdxmrljmXjmRvy_vZlfXog?sId=6b75399d-77c5-4718-94a7-308ac5dfb72e&ssId=Mrx2H6n1lUIC4BxpdA4ln&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
-      "kobo_price": "NT$483",
-      "cover_url": "covers/RdxmrljmXjmRvy_vZlfXog.jpg",
-      "sale_price": "NT$99",
-      "date": "8/7",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
-      "on_sale": true,
-      "publisher": "",
-      "publish_date": "2021年8月1日",
-      "language": "中文",
-      "original_author": null,
-      "description": "一場糾纏二十多年的恩怨，兩代被仇恨吞噬的人。在一場家庭變故後，乖巧的她與弟弟改名換姓，餘生都在逃離父輩的恩怨。面對破裂的婚姻、自私偏心的母親、不肯甘休的仇家後人，她選擇打破命運的安排，改變這一切。",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FRdxmrljmXjmRvy_vZlfXog",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/RdxmrljmXjmRvy_vZlfXog?sId=6b75399d-77c5-4718-94a7-308ac5dfb72e&ssId=Mrx2H6n1lUIC4BxpdA4ln&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/CN11723453"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/0ikopU"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "",
-          "amazon_url": "",
-          "confidence": 0,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17
-    },
-    {
-      "title": "以我們告終",
-      "author": "柯琳．胡佛",
-      "original_title": "It Ends with Us",
-      "isbn": "3150000000727",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WUXemSOXHD6F5kUhTAEb6Q?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/WUXemSOXHD6F5kUhTAEb6Q.jpg",
-      "sale_price": "NT$99",
-      "date": "8/8",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
-      "on_sale": true,
-      "publisher": "大塊文化",
-      "publish_date": "2024年8月5日",
-      "language": "中文",
-      "original_author": "Colleen Hoover",
-      "description": "夏日極致療癒愛情電影《到我們為止》原著小說。超越羅曼史格局，挑戰家暴題材。她離開自小生活的小鎮，搬到波士頓。當她遇到神經外科醫生萊爾，一切似乎美夢成真，但另一方面，她仍心繫著初戀情人亞特拉斯。",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FWUXemSOXHD6F5kUhTAEb6Q",
-      "ratings": {
-        "kobo": {
-          "score": 4.29,
-          "count": 7,
-          "url": "https://www.kobo.com/tw/zh/ebook/WUXemSOXHD6F5kUhTAEb6Q?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 8,
-          "url": "https://www.books.com.tw/products/0010973896"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 174,
-          "url": "https://moo.im/a/1byCGR"
-        },
-        "goodreads": {
-          "score": 4.07,
-          "count": 4801000,
-          "url": "https://www.goodreads.com/book/show/62627512-it-ends-with-us?from_search=true&from_srp=true&qid=Rq0930CrEO&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 410310,
-          "url": "https://www.amazon.com/-/zh_TW/Colleen-Hoover-ebook/dp/B0176M3U10/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.34
-    },
-    {
-      "title": "平靜的力量：正念研究經典，科學實證持續練心即可重塑大腦迴路，提升內心素質，脫離耗損身心的負面情緒",
-      "author": "丹尼爾．高曼博士、理查．戴維森博士",
-      "original_title": "Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body",
-      "isbn": "9789863988991",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/aI7t-8tEuDSxOauRZizCXQ?sId=c7313409-720d-4429-8dfc-9ddf4cfd2dcc&ssId=1U4snL5nzUo3dpuZdyUlr&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/aI7t-8tEuDSxOauRZizCXQ.jpg",
-      "sale_price": "NT$99",
-      "date": "8/9",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
+      "date": "8/13",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
       "on_sale": true,
       "publisher": "天下雜誌",
-      "publish_date": "2023年5月31日",
+      "publish_date": "2024年4月2日",
       "language": "中文",
-      "original_author": "Daniel Goleman; Richard J. Davidson",
-      "description": "當代最具影響力的正念研究權威，超過40年實證，奠定西方靜觀科學基礎。健康的心是可以鍛鍊的，靜觀不只是舒壓或安眠，改變日常生活的行為，有效處理傷害身心的破壞性情緒，冷靜面對煩亂困難，重新掌控內心。",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FaI7t-8tEuDSxOauRZizCXQ",
+      "original_author": "Amy Edmondson",
+      "description": "麥肯錫年度最佳商業書獎。每個人都會犯錯，但是每個錯誤的價值並不一樣，別讓不犯錯耽誤了你和團隊的成長。只有經過明智判斷的正確犯錯，才能創造有價值的經驗學習，真正學到東西，達到目標的最大效益。",
       "ratings": {
         "kobo": {
-          "score": 4.5,
-          "count": 6,
-          "url": "https://www.kobo.com/tw/zh/ebook/aI7t-8tEuDSxOauRZizCXQ?sId=c7313409-720d-4429-8dfc-9ddf4cfd2dcc&ssId=1U4snL5nzUo3dpuZdyUlr&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+          "score": 4.53,
+          "count": 17,
+          "url": "https://www.kobo.com/tw/zh/ebook/2Sjwvg6-JTC3YMAhT3pYkA?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/0010957753"
+          "score": 5.0,
+          "count": 12,
+          "url": "https://reurl.cc/zOA3LQ"
         },
         "readmoo": {
-          "score": 3.3,
-          "count": 6,
-          "url": "https://moo.im/a/duLTUX"
+          "score": 4.2,
+          "count": 22,
+          "url": "https://readmoo.com/book/210322693000101"
         },
         "goodreads": {
           "score": 3.9,
-          "count": 6048,
-          "url": "https://www.goodreads.com/book/show/34272471-altered-traits",
-          "note": "re-fetch",
+          "count": 2856,
+          "url": "https://www.goodreads.com/book/show/101162068-right-kind-of-wrong?from_search=true&from_srp=true&qid=kxhMEjSnda&rank=1",
+          "note": "title+author",
           "amazon_url": "",
-          "confidence": 90,
+          "confidence": 75,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 1475,
-          "url": "https://www.amazon.com/dp/0399184384"
+          "score": 4.5,
+          "count": 775,
+          "url": "https://www.amazon.com/-/zh_TW/Amy-C-Edmondson-ebook/dp/B0BTZT9CXV/ref=sr_1_1"
         }
       },
-      "avg_score": 4.11
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/p8Ll2b"
     },
     {
-      "title": "資本之道：從孫子兵法到奧地利經濟學派，看透資本本質的迂迴手段。",
-      "author": "馬克‧史匹茲納格爾",
-      "original_title": "The Dao of Capital: Austrian Investing in a Distorted World",
-      "isbn": "9786267442234",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DIJ89zVmxTumMdO0ItsyCA?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
-      "kobo_price": "NT$364",
-      "cover_url": "covers/DIJ89zVmxTumMdO0ItsyCA.jpg",
+      "title": "你怎樣過一天，就怎樣過一生",
+      "author": "梁爽",
+      "original_title": "",
+      "isbn": "9786263962019",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/MakpL2gJoz6gkqnbCOOkOQ?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
+      "kobo_price": "NT$280",
+      "cover_url": "covers/MakpL2gJoz6gkqnbCOOkOQ.jpg",
       "sale_price": "NT$99",
-      "date": "8/10",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
+      "date": "8/14",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
       "on_sale": true,
-      "publisher": "方舟文化",
-      "publish_date": "2024年6月5日",
+      "publisher": "時報出版",
+      "publish_date": "2024年5月3日",
       "language": "中文",
-      "original_author": "Mark Spitznagel",
-      "description": "「輸者得之，失者得之」，這就是奧地利式投資。本書首度將米塞斯及其奧地利經濟學派理論，濃縮為高效投資法，提供一種罕見卻易於理解的途徑，帶領你發現市場過程的深沉和諧，這在今日市場，至關重要。",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FDIJ89zVmxTumMdO0ItsyCA",
+      "original_author": null,
+      "description": "你二十多歲的生活方式，決定了三十歲的打開方式。走自己的花路，勇於冒險，不畏跨界，將幫助你活出升級版的自己。你怎樣過一天，就怎樣過一生；用心生活的每一天，就是人生中最美好的年華。",
       "ratings": {
         "kobo": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/DIJ89zVmxTumMdO0ItsyCA?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/products/0010990557"
-        },
-        "readmoo": {
-          "score": 4.2,
+          "score": 4.78,
           "count": 9,
-          "url": "https://moo.im/a/9costT"
-        },
-        "goodreads": {
-          "score": 3.87,
-          "count": 1519,
-          "url": "https://www.goodreads.com/book/show/16599562-the-dao-of-capital?from_search=true&from_srp=true&qid=Q5kxj8xk9m&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 707,
-          "url": "https://www.amazon.com/gp/product/B00D7P2K1W/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.1
-    },
-    {
-      "title": "箱子",
-      "author": "卡蜜拉‧拉貝格",
-      "original_title": "Box (Mina & Vincent trilogie: 1)",
-      "isbn": "9786263188051",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ehto37BnzjiKIc9_Qik3QQ?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
-      "kobo_price": "NT$479",
-      "cover_url": "covers/Ehto37BnzjiKIc9_Qik3QQ.jpg",
-      "sale_price": "NT$99",
-      "date": "8/11",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
-      "on_sale": true,
-      "publisher": "商周出版",
-      "publish_date": "2023年9月21日",
-      "language": "中文",
-      "original_author": "Camilla Läckberg",
-      "description": "遊樂園裡一個被劍刺穿的箱子，裝著一具女屍體，是失誤的魔術？有潔癖強迫症的菜鳥警探米娜，和有亞斯伯格症的讀心術專家文森，因為調查一件魔術殺人案相遇了，只有重新打開魔術箱，才能縫合過去的創傷。",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FEhto37BnzjiKIc9_Qik3QQ",
-      "ratings": {
-        "kobo": {
-          "score": 4.3,
-          "count": 10,
-          "url": "https://www.kobo.com/tw/zh/ebook/Ehto37BnzjiKIc9_Qik3QQ?sId=bb0ec736-105e-4ab3-b065-03693e03d13d&ssId=y-Z0crfYn2v1XfycxKLT5&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+          "url": "https://www.kobo.com/tw/zh/ebook/MakpL2gJoz6gkqnbCOOkOQ?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 10,
-          "url": "https://www.books.com.tw/products/0010968006"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://reurl.cc/mzl827"
         },
         "readmoo": {
-          "score": 4.4,
-          "count": 193,
-          "url": "https://moo.im/a/28axVW"
+          "score": 3.4,
+          "count": 14,
+          "url": "https://readmoo.com/book/210327756000101"
         },
         "goodreads": {
-          "score": 3.93,
-          "count": 20252,
-          "url": "https://www.goodreads.com/book/show/198972217?from_search=true&from_srp=true&qid=nTWrQzCGaq&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
+          "score": 2.86,
+          "count": 7,
+          "url": "https://www.goodreads.com/book/show/213093672?from_search=true&from_srp=true&qid=EVV7MU7Xjx&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D3B7HVR4/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
         },
-        "amazon_com": {
-          "score": 4.1,
-          "count": 75,
-          "url": "https://www.amazon.com/-/zh_TW/Box-Camilla-L%C3%A4ckberg/dp/9044362011"
-        }
+        "amazon_com": {}
       },
-      "avg_score": 4.13
+      "avg_score": 4.12,
+      "short_affiliate_url": "https://reurl.cc/vGkY2j"
     },
     {
-      "title": "什麼！英國女王是蜥蜴人？！：陰謀論、偽歷史與偽科學為什麼吸引我們，透過人性的希望與恐懼，影響我們的決定和行動",
-      "author": "羅納德．弗里茨",
-      "original_title": "Hope and Fear: Modern Myths, Conspiracy Theories and Pseudo-History",
-      "isbn": "9786264090674",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/D7GeY5GZkTagNEe9r0i2aw?sId=1b4d35ba-722d-41c4-a194-6861756008c7&ssId=ajSm0BoEFQYwIrndfgNgq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806",
-      "kobo_price": "NT$385",
-      "cover_url": "covers/D7GeY5GZkTagNEe9r0i2aw.jpg",
+      "title": "情感计算",
+      "author": "秦兵 赵妍妍 林鸿飞 王素格 徐睿峰",
+      "original_title": "",
+      "isbn": "7584052661978",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8mR0BctbRDGoQGRAuYtRQQ?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
+      "kobo_price": "NT$258",
+      "cover_url": "covers/8mR0BctbRDGoQGRAuYtRQQ.jpg",
       "sale_price": "NT$99",
-      "date": "8/12",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
+      "date": "8/14",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
       "on_sale": true,
-      "publisher": "漫遊者文化",
-      "publish_date": "2025年3月17日",
+      "publisher": "",
+      "publish_date": "2024年9月1日",
       "language": "中文",
-      "original_author": "Ronald H. Fritze",
-      "description": "在瘋狂神話、邊緣思想和另類事實所構成的曖昧混沌之中，探討將人們推向後真相世界的心理機制和歷史力量。本書將帶你穿越陰謀論、偽歷史與偽科學的暮光世界，踏上一場破除迷思的旅程。",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FD7GeY5GZkTagNEe9r0i2aw",
+      "original_author": null,
+      "description": "在人工智慧的研究中，既包括對於人類理性思維的模擬，還包括對人類感性思維的計算。該書將講述深度學習的情感表示方法，凝聚成多項研究任務和實用技術，已應用於輿情分析等領域，具有重大的社會價值和商業價值。",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/D7GeY5GZkTagNEe9r0i2aw?sId=1b4d35ba-722d-41c4-a194-6861756008c7&ssId=ajSm0BoEFQYwIrndfgNgq&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260806"
+          "url": "https://www.kobo.com/tw/zh/ebook/8mR0BctbRDGoQGRAuYtRQQ?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/0011015114"
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/8YqER7"
         },
         "readmoo": {
-          "score": 3.4,
-          "count": 5,
-          "url": "https://moo.im/a/68oxCH"
+          "score": null,
+          "count": 0,
+          "url": ""
         },
-        "goodreads": {
-          "score": 3.7,
-          "count": 27,
-          "url": "https://www.goodreads.com/book/show/59095232-hope-and-fear?from_search=true&from_srp=true&qid=zttOUQF9Xn&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 11,
-          "url": "https://www.amazon.com/gp/product/B09RNB4YSZ/ref=x_gr_bb_kindle"
-        }
+        "goodreads": {},
+        "amazon_com": {}
       },
-      "avg_score": 4.07
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/Ym8gba"
     },
     {
-      "title": "扁平時代：演算法如何限縮我們的品味與文化",
-      "author": "凱爾‧切卡",
-      "original_title": "Filterworld: How Algorithms Flattened Culture",
-      "isbn": "9786267645024",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/eJO-5nFZCD-4O5vIJ_9Rmg",
-      "kobo_price": "NT$385",
-      "cover_url": "covers/eJO-5nFZCD-4O5vIJ_9Rmg.jpg",
+      "title": "阿基里斯之歌",
+      "author": "瑪德琳‧米勒",
+      "original_title": "The Song of Achilles",
+      "isbn": "9786267156339",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/NE9AXS7w6zygce67wtSIPg?sId=d80114bd-28b5-46f4-98f2-b75a9060368a&ssId=Do0pixf_j0rpqWAm8QCup&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
+      "kobo_price": "NT$280",
+      "cover_url": "covers/NE9AXS7w6zygce67wtSIPg.jpg",
       "sale_price": "NT$99",
-      "date": "8/6",
-      "sale_start": "2026-08-06",
-      "sale_end": "2026-08-12",
+      "date": "8/15",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
       "on_sale": true,
-      "publisher": "衛城出版",
-      "publish_date": "2025年1月8日",
+      "publisher": "馬可孛羅",
+      "publish_date": "2022年11月10日",
       "language": "中文",
-      "original_author": "Kyle Chayka",
-      "description": "為什麼一個推崇個性與多元的世界，正在喪失美感與品味？透過本書，我們將理解演算法的推薦機制、意識到它所帶來的巨大影響，並開始懂得掌握演算法，甚至設想一個沒有它的文化圖景，帶我們分析從未多想的數位現實。",
-      "short_affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2FeJO-5nFZCD-4O5vIJ_9Rmg",
+      "original_author": "Madeline Miller",
+      "description": "(暢銷新版回歸) 禁忌之愛撼動了史詩，英雄阿基里斯封印千年的淒美生死戀。當真愛再也敵不過命定的神諭，勝利能否為你我唱出永恆的頌歌？在這座凡人與神祉共存、人馬與妖精共譜的戰爭宇宙，壯烈的淒美震動了女神的淚。",
       "ratings": {
         "kobo": {
-          "score": 4.14,
-          "count": 7,
-          "url": "https://www.kobo.com/tw/zh/ebook/eJO-5nFZCD-4O5vIJ_9Rmg"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/NE9AXS7w6zygce67wtSIPg?sId=d80114bd-28b5-46f4-98f2-b75a9060368a&ssId=Do0pixf_j0rpqWAm8QCup&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
         },
         "books_com": {
           "score": 4.5,
-          "count": 10,
-          "url": "https://www.books.com.tw/products/0011010220"
+          "count": 5,
+          "url": "https://reurl.cc/aE1Og7"
         },
         "readmoo": {
           "score": 4.4,
-          "count": 135,
-          "url": "https://moo.im/a/0rvGNU"
+          "count": 27,
+          "url": "https://readmoo.com/book/210258508000101"
         },
         "goodreads": {
-          "score": 3.62,
-          "count": 5368,
-          "url": "https://www.goodreads.com/book/show/134119018-filterworld?from_search=true&from_srp=true&qid=ut6kkyYerF&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
+          "score": 4.3,
+          "count": 2149745,
+          "url": "https://www.goodreads.com/book/show/13623848-the-song-of-achilles?from_search=true&from_srp=true&qid=2UN6bEcWkV&rank=2",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B006IE2IO8/ref=x_gr_bb_kindle",
           "confidence": 90,
-          "cross_validated": null
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 369,
-          "url": "https://www.amazon.com/gp/product/B0C2PDRHZ9/ref=x_gr_bb_kindle"
+          "score": 4.5,
+          "count": 131799,
+          "url": "https://www.amazon.com/gp/product/B006IE2IO8/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.08
+      "avg_score": 4.26,
+      "short_affiliate_url": "https://reurl.cc/rkLy2O"
+    },
+    {
+      "title": "說故事的技藝：普立茲獎評審親傳美國大學非虛構寫作聖經",
+      "author": "傑克‧哈特",
+      "original_title": "Storycraft: The Complete Guide to Writing Narrative Nonfiction Second Edition",
+      "isbn": "9786269705221",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ma7dGHFiczKpuUP1gBkWXA?sId=2e6d6ef0-4000-44a2-8496-2654c1676c84&ssId=ri7YCZcRlfVt1s86IGhWN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
+      "kobo_price": "NT$364",
+      "cover_url": "covers/ma7dGHFiczKpuUP1gBkWXA.jpg",
+      "sale_price": "NT$99",
+      "date": "8/16",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
+      "on_sale": true,
+      "publisher": "新樂園",
+      "publish_date": "2023年8月2日",
+      "language": "中文",
+      "original_author": "Jack Hart",
+      "description": "直擊世界頂尖媒體寫作殿堂。會說故事的人有福了，優秀的說故事能力所發揮的影響力，甚至超過大眾媒體，活用敘事弧，幫助你觸及廣大的觀眾，教你用好故事套牢讀者，讓你一下筆如有神，用寫作累積你的影響力。",
+      "ratings": {
+        "kobo": {
+          "score": 3.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/ma7dGHFiczKpuUP1gBkWXA?sId=2e6d6ef0-4000-44a2-8496-2654c1676c84&ssId=ri7YCZcRlfVt1s86IGhWN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/k9lx23"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://readmoo.com/book/210141284000101"
+        },
+        "goodreads": {},
+        "amazon_com": {}
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/5XMjQn"
+    },
+    {
+      "title": "我的有錢富朋友教我的事：關於金錢、財務與自主，翻轉你一生的致富思維",
+      "author": "屠惟安",
+      "original_title": "Rich AF：The Winning Money Mindset That Will Change Your Life",
+      "isbn": "9786267537442",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/cpNHZFO-6TKfWoBBD6du2g?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
+      "kobo_price": "NT$394",
+      "cover_url": "covers/cpNHZFO-6TKfWoBBD6du2g.jpg",
+      "sale_price": "NT$99",
+      "date": "8/17",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
+      "on_sale": true,
+      "publisher": "悅知文化",
+      "publish_date": "2024年12月9日",
+      "language": "中文",
+      "original_author": "Vivian Tu",
+      "description": "逾300萬粉絲的超紅社群創辦人之作！作者成功在27歲前存到100萬美金，以一針見血的專業風格，讓財務世界離我們不再遙遠，在這場財務遊戲之中，賦予讀者與其對抗的力量，揭開了如何創造真正財富的內幕。",
+      "ratings": {
+        "kobo": {
+          "score": 3.7,
+          "count": 10,
+          "url": "https://www.kobo.com/tw/zh/ebook/cpNHZFO-6TKfWoBBD6du2g?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 8,
+          "url": "https://reurl.cc/lnvm2A"
+        },
+        "readmoo": {
+          "score": 3.5,
+          "count": 8,
+          "url": "https://readmoo.com/book/210360755000101"
+        },
+        "goodreads": {},
+        "amazon_com": {
+          "score": 4.6,
+          "count": 1668,
+          "url": "https://www.amazon.com/-/zh_TW/Rich-AF-Winning-Mindset-Change/dp/0593714911/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/dO7NgM"
+    },
+    {
+      "title": "從僵硬到優雅！芭蕾舞者的自我調整術",
+      "author": "島田智史",
+      "original_title": "これで先生のアドバイスどおりに踊れる！　バレエ整体ハンドブック",
+      "isbn": "9789863707875",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/NcThFHXJPz265BwXYE-u1Q?sId=7ba07d75-42da-450c-b078-e37ce6ede1c2&ssId=_6e1eDlsqtvTZvlyDrEd-&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
+      "kobo_price": "NT$252",
+      "cover_url": "covers/NcThFHXJPz265BwXYE-u1Q.jpg",
+      "sale_price": "NT$99",
+      "date": "8/18",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
+      "on_sale": true,
+      "publisher": "楓葉社",
+      "publish_date": "2025年4月29日",
+      "language": "中文",
+      "original_author": null,
+      "description": "芭蕾課堂上，老師的指導語句總是清楚明確，但你的身體卻總是無法順利配合？本書由芭蕾舞者專屬治療院「專心良治」院長親筆撰寫，結合多年治療與調整舞者身體的經驗，歸納出一套適合芭蕾學習者的自我調整術。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/NcThFHXJPz265BwXYE-u1Q?sId=7ba07d75-42da-450c-b078-e37ce6ede1c2&ssId=_6e1eDlsqtvTZvlyDrEd-&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/7YRGNN"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://readmoo.com/book/210383740000101"
+        },
+        "goodreads": {},
+        "amazon_com": {
+          "score": 4.2,
+          "count": 219,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4809679276/ref=sr_1_2"
+        }
+      },
+      "avg_score": 4.15,
+      "short_affiliate_url": "https://reurl.cc/27W1en"
+    },
+    {
+      "title": "為何龍蝦不會變老，水母會逆齡，人類卻無法？：24個自然界中青春、衰老與生命期限的科學奧祕",
+      "author": "尼可拉斯‧潘柏格",
+      "original_title": "Jellyfish Age Backward: Nature Secret’s to Longevity",
+      "isbn": "9786267255605",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VkEcnKTTbDysOeOLwD8Wpg?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/VkEcnKTTbDysOeOLwD8Wpg.jpg",
+      "sale_price": "NT$99",
+      "date": "8/19",
+      "sale_start": "2026-08-13",
+      "sale_end": "2026-08-19",
+      "on_sale": true,
+      "publisher": "鷹出版",
+      "publish_date": "2025年1月2日",
+      "language": "中文",
+      "original_author": "Nicklas Brendborg",
+      "description": "挑戰人類壽命的生物極限，一本最具科幻感的科普書。生老病死，偏偏大自然中有些動植物並不遵循這樣的定律，從基因編輯到抗老化藥物，向大自然拜師學藝，深入挖掘壽命的祕密，探討延長壽命或減緩老化的可能。",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/VkEcnKTTbDysOeOLwD8Wpg?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
+        },
+        "books_com": {
+          "score": 2.5,
+          "count": 2,
+          "url": "https://reurl.cc/yWkd0a"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 17,
+          "url": "https://readmoo.com/book/210363933000101"
+        },
+        "goodreads": {},
+        "amazon_com": {
+          "score": 4.6,
+          "count": 385,
+          "url": "https://www.amazon.com/-/zh_TW/Nicklas-Brendborg-ebook/dp/B0BPSDK64K/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/0kEAGA"
     }
   ]
 }
