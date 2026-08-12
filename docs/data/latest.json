@@ -46,9 +46,9 @@
           "score": 3.9,
           "count": 2856,
           "url": "https://www.goodreads.com/book/show/101162068-right-kind-of-wrong?from_search=true&from_srp=true&qid=kxhMEjSnda&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 75,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
@@ -76,7 +76,7 @@
       "publisher": "時報出版",
       "publish_date": "2024年5月3日",
       "language": "中文",
-      "original_author": null,
+      "original_author": "梁爽",
       "description": "你二十多歲的生活方式，決定了三十歲的打開方式。走自己的花路，勇於冒險，不畏跨界，將幫助你活出升級版的自己。你怎樣過一天，就怎樣過一生；用心生活的每一天，就是人生中最美好的年華。",
       "ratings": {
         "kobo": {
@@ -98,14 +98,18 @@
           "score": 2.86,
           "count": 7,
           "url": "https://www.goodreads.com/book/show/213093672?from_search=true&from_srp=true&qid=EVV7MU7Xjx&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D3B7HVR4/ref=x_gr_bb_kindle",
-          "confidence": 65,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 80,
+          "cross_validated": null
         },
-        "amazon_com": {}
+        "amazon_com": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.amazon.com/-/zh_TW/%E6%A2%81%E7%88%BD-ebook/dp/B0D3B7HVR4/ref=sr_1_1"
+        }
       },
-      "avg_score": 4.12,
+      "avg_score": 4.06,
       "short_affiliate_url": "https://reurl.cc/vGkY2j"
     },
     {
@@ -142,8 +146,20 @@
           "count": 0,
           "url": ""
         },
-        "goodreads": {},
-        "amazon_com": {}
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
       },
       "avg_score": null,
       "short_affiliate_url": "https://reurl.cc/Ym8gba"
@@ -184,11 +200,11 @@
         },
         "goodreads": {
           "score": 4.3,
-          "count": 2149745,
+          "count": 2149880,
           "url": "https://www.goodreads.com/book/show/13623848-the-song-of-achilles?from_search=true&from_srp=true&qid=2UN6bEcWkV&rank=2",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B006IE2IO8/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -234,10 +250,22 @@
           "count": 2,
           "url": "https://readmoo.com/book/210141284000101"
         },
-        "goodreads": {},
-        "amazon_com": {}
+        "goodreads": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/124022202-storycraft-second-edition?from_search=true&from_srp=true&qid=MeR9vCWap8&rank=1",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 10,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
       },
-      "avg_score": 4.16,
+      "avg_score": 4.2,
       "short_affiliate_url": "https://reurl.cc/5XMjQn"
     },
     {
@@ -274,14 +302,22 @@
           "count": 8,
           "url": "https://readmoo.com/book/210360755000101"
         },
-        "goodreads": {},
+        "goodreads": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.goodreads.com/book/show/222419012?from_search=true&from_srp=true&qid=5CG9HaM2gi&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DPQ6L776/ref=x_gr_bb_kindle",
+          "confidence": 20,
+          "cross_validated": false
+        },
         "amazon_com": {
           "score": 4.6,
           "count": 1668,
           "url": "https://www.amazon.com/-/zh_TW/Rich-AF-Winning-Mindset-Change/dp/0593714911/ref=sr_1_1"
         }
       },
-      "avg_score": 4.17,
+      "avg_score": 4.19,
       "short_affiliate_url": "https://reurl.cc/dO7NgM"
     },
     {
@@ -318,7 +354,15 @@
           "count": 3,
           "url": "https://readmoo.com/book/210383740000101"
         },
-        "goodreads": {},
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.goodreads.com/book/show/72244379",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
         "amazon_com": {
           "score": 4.2,
           "count": 219,
@@ -362,14 +406,22 @@
           "count": 17,
           "url": "https://readmoo.com/book/210363933000101"
         },
-        "goodreads": {},
+        "goodreads": {
+          "score": 3.92,
+          "count": 5873,
+          "url": "https://www.goodreads.com/book/show/58950706-jellyfish-age-backwards?from_search=true&from_srp=true&qid=t7Pz0vKS3I&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BPSDK64K/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
         "amazon_com": {
           "score": 4.6,
           "count": 385,
           "url": "https://www.amazon.com/-/zh_TW/Nicklas-Brendborg-ebook/dp/B0BPSDK64K/ref=sr_1_1"
         }
       },
-      "avg_score": 4.19,
+      "avg_score": 4.16,
       "short_affiliate_url": "https://reurl.cc/0kEAGA"
     }
   ]
