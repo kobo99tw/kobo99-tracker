@@ -1,6 +1,23 @@
 // Kobo 555送111 湊單清單 — 跨頁共用（index.html / exclusive.html / 555.html）
 const LS_CART555 = 'kobo99_555cart';
 
+// 湊555入口（書卡按鈕、分頁連結）是否該顯示。
+// cart555VisibleOverride: true/false 時為 Admin 手動強制顯示/隱藏，優先於自動判斷。
+// 為 null/undefined 時走自動判斷：site.json 三個促銷欄位（promo/promo2/promo3）
+// 只要有一個「未下架、未過期、文字含555」就視為活動進行中。cfg 傳入呼叫頁自己的 _siteCfg。
+function cart555Active(cfg) {
+  if (!cfg) return false;
+  if (cfg.cart555VisibleOverride === true) return true;
+  if (cfg.cart555VisibleOverride === false) return false;
+  const todayStr = new Intl.DateTimeFormat('sv', {timeZone: 'Asia/Taipei'}).format(new Date());
+  const slots = [['promoText','promoEnd','promoVisible'], ['promo2Text','promo2End','promo2Visible'], ['promo3Text','promo3End','promo3Visible']];
+  return slots.some(([t, e, v]) => {
+    const text = cfg[t];
+    if (cfg[v] === false || !text || !text.includes('555')) return false;
+    return !(cfg[e] && todayStr > cfg[e]);
+  });
+}
+
 function cart555Load() {
   try { const r = localStorage.getItem(LS_CART555); return r ? JSON.parse(r) : []; }
   catch (e) { return []; }

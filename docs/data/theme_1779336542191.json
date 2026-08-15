@@ -450,7 +450,10 @@
           "score": null,
           "count": 0,
           "url": "https://www.goodreads.com/book/show/256423778-1",
-          "note": "手動核對-確認正確但查無評分"
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B0HCZ7YFRN/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": null,
@@ -459,7 +462,8 @@
         }
       },
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/aE1OOQ"
+      "short_affiliate_url": "https://reurl.cc/aE1OOQ",
+      "original_author": "郝旭烈"
     }
   ]
 }
