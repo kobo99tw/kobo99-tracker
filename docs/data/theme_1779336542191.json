@@ -1,287 +1,12 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-08-13T01:32:01.024098+08:00",
+  "updated_at": "2026-08-20T00:19:17.450304+08:00",
   "books": [
-    {
-      "title": "最有企圖心的一天",
-      "author": "克里斯．貝利",
-      "original_title": "Intentional: How to Finish What You Start",
-      "isbn": "9786264700191",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vvCOyi0QIjaRU9EIF8RGlw?sId=13265738-66f1-4923-872f-6a874d9ce232&ssId=BC1o5b8wEtC5eLVYxSYWW&utm_source=twblog&utm_medium=exclusive&utm_campaign=publicationpicks_20260815",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/vvCOyi0QIjaRU9EIF8RGlw.jpg",
-      "sale_price": "NT$287",
-      "sale_end": "8/15",
-      "description": "《最有生產力的一年》作者克里斯．貝利十年來持續鑽研個人生產力研究。本書講述關於欲望、價值觀與克服拖延的最新科學並融合佛教僧侶的智慧，提供循序漸進的簡單策略，讓你的目標都有始有終！ 《最有企圖心的一天》 由 克里斯．貝利@著 出版社： 天下文化 查看電子書",
-      "publish_date": "2026年7月31日",
-      "short_affiliate_url": "https://reurl.cc/MWX1zk",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/vvCOyi0QIjaRU9EIF8RGlw?sId=13265738-66f1-4923-872f-6a874d9ce232&ssId=BC1o5b8wEtC5eLVYxSYWW&utm_source=twblog&utm_medium=exclusive&utm_campaign=publicationpicks_20260815"
-        },
-        "books_com": {
-          "score": 2.5,
-          "count": 2,
-          "url": "https://reurl.cc/MWRppm"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/7fvyEF"
-        },
-        "goodreads": {
-          "score": 3.87,
-          "count": 346,
-          "url": "https://www.goodreads.com/book/show/231108743-intentional?from_search=true&from_srp=true&qid=FR7ixUlcdg&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F3WQM8F9/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 69,
-          "url": "https://www.amazon.com/gp/product/B0F3WQM8F9/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.11
-    },
-    {
-      "title": "詐騙的14種信號",
-      "author": "喬納森・沃爾頓",
-      "original_title": "Anatomy of a Con Artist: The 14 Red Flags to Spot Scammers, Grifters, and Thieves",
-      "isbn": "9786264332453",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DKdOHb0EPzWq6tiA-xQE9Q?sId=70e2162c-7503-4b90-9808-33cab587b498&ssId=G91pX6OwirAxJXJxvG-8y&utm_source=twblog&utm_medium=exclusive&utm_campaign=publicationpicks_20260815",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/DKdOHb0EPzWq6tiA-xQE9Q.jpg",
-      "sale_price": "NT$287",
-      "sale_end": "8/15",
-      "description": "《最有生產力的一年》作者克里斯．貝利十年來持續鑽研個人生產力研究。本書講述關於欲望、價值觀與克服拖延的最新科學並融合佛教僧侶的智慧，提供循序漸進的簡單策略，讓你的目標都有始有終！ 《詐騙的14種信號》 由 喬納森・沃爾頓@著 出版社： 大塊文化 查看電子書",
-      "publish_date": "2026年8月1日",
-      "short_affiliate_url": "https://reurl.cc/qaZzYN",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/DKdOHb0EPzWq6tiA-xQE9Q?sId=70e2162c-7503-4b90-9808-33cab587b498&ssId=G91pX6OwirAxJXJxvG-8y&utm_source=twblog&utm_medium=exclusive&utm_campaign=publicationpicks_20260815"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://reurl.cc/NOqvvm"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://moo.im/a/zBEOSX"
-        },
-        "goodreads": {
-          "score": 3.84,
-          "count": 455,
-          "url": "https://www.goodreads.com/book/show/221754299-anatomy-of-a-con-artist?from_search=true&from_srp=true&qid=lWxWPAiMRh&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 106,
-          "url": "https://www.amazon.com/gp/product/B0DNN9GBDS/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.13
-    },
-    {
-      "title": "超乎常理的款待式領導",
-      "author": "威爾．吉達拉",
-      "original_title": "Unreasonable Hospitality: The Field Guide",
-      "isbn": "9786264179850",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/b0UfBVhD2zeTMbRKXZM5HA?sId=a8328789-0c6f-4c04-a6cb-3e35878b4ecb&ssId=-LqYXKNZiumnbM2wXmG2S&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260815",
-      "kobo_price": "NT$525",
-      "cover_url": "covers/b0UfBVhD2zeTMbRKXZM5HA.jpg",
-      "sale_price": "NT$446",
-      "sale_end": "8/15",
-      "description": "威爾．吉達拉是麥迪遜花園11號的前總經理暨業主，也是世界50大最佳餐廳的榜首。本書是他將「款待精神」落實到企業組織的應用寶典。不論是企業高階主管還是基層員工，都能參考書中核心理念，邁向卓越。 《超乎常理的款待式領導》 由 威爾．吉達拉@著 出版社： 天下文化 查看電子書",
-      "publish_date": "2026年7月31日",
-      "short_affiliate_url": "https://reurl.cc/901onV",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/b0UfBVhD2zeTMbRKXZM5HA?sId=a8328789-0c6f-4c04-a6cb-3e35878b4ecb&ssId=-LqYXKNZiumnbM2wXmG2S&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260815"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/RRv55G"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/bizEJW"
-        },
-        "goodreads": {
-          "score": 4.74,
-          "count": 46,
-          "url": "https://www.goodreads.com/book/show/239567401-unreasonable-hospitality?from_search=true&from_srp=true&qid=NxJAbWpg7H&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 61,
-          "url": "https://www.amazon.com/gp/product/B0FKS4BV4W/ref=x_gr_bb_amazon"
-        }
-      },
-      "avg_score": 4.28
-    },
-    {
-      "title": "做對大腦練習，表現就升級",
-      "author": "瑪雅・瑞丘拉",
-      "original_title": "Visualise: Think, Feel, Perform Like the Top 1%",
-      "isbn": "9786267916285",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/mbK_2zHX8kOgc6fswSgW3g?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818",
-      "kobo_price": "NT$300",
-      "cover_url": "covers/mbK_2zHX8kOgc6fswSgW3g.jpg",
-      "sale_price": "NT$255",
-      "sale_end": "8/18",
-      "description": "分心時代，專注力稀缺，心智預演正是你最強的武器。結合神經科學與心理韌性， 英國知名心理體適能教練教你拆除限制性信念，專注在「可能」，而非「侷限」，重塑大腦的成功迴路，讓卓越表現自然發生。 《做對大腦練習，表現就升級》 由 瑪雅・瑞丘拉@著 出版社： 天下雜誌 查看電子書",
-      "publish_date": "2026年8月4日",
-      "short_affiliate_url": "https://reurl.cc/eQWvkL",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Title/mbK_2zHX8kOgc6fswSgW3g?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/qak77R"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/0gqEMQ"
-        },
-        "goodreads": {
-          "score": 4.19,
-          "count": 345,
-          "url": "https://www.goodreads.com/book/show/219846699-visualise?from_search=true&from_srp=true&qid=xS8xqgSXhT&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 211,
-          "url": "https://www.amazon.com/gp/product/B0F587LCQY/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.27
-    },
-    {
-      "title": "正常的迷思",
-      "author": "嘉柏・麥特、丹尼爾・麥特",
-      "original_title": "The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture",
-      "isbn": null,
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/8trTe7L-gUSWoM9RKoKjDQ?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818",
-      "kobo_price": "NT$563",
-      "cover_url": "covers/8trTe7L-gUSWoM9RKoKjDQ.jpg",
-      "sale_price": "NT$479",
-      "sale_end": "8/18",
-      "description": "寫給每一位在高壓社會中努力撐住、卻逐漸失衡的人。創傷不是發生在你身上的事，而是發生在你內在的事。全球創傷醫學權威，提供真正療癒框架，所有反應，都有其原因；而理解，正是改變真正開始的地方！。 《正常的迷思》 由 嘉柏‧麥特, 丹尼爾‧麥特＠著 出版社： 天下雜誌 查看電子書",
-      "publish_date": "",
-      "short_affiliate_url": "https://reurl.cc/QNWna5",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Title/8trTe7L-gUSWoM9RKoKjDQ?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://reurl.cc/Vn8AAb"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/epszOY"
-        },
-        "goodreads": {
-          "score": 4.3,
-          "count": 39034,
-          "url": "https://www.goodreads.com/book/show/58537332-the-myth-of-normal?from_search=true&from_srp=true&qid=j2q5E2NEG4&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 8021,
-          "url": "https://www.amazon.com/gp/product/B098PXTS5K/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.31
-    },
-    {
-      "title": "超級代理效應",
-      "author": "雷德．霍夫曼、葛雷格．比托",
-      "original_title": "SUPERAGENCY: What Could Possibly Go Right with Our AI Future",
-      "isbn": null,
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/X2WQ5OyONkK1WfMqABpGmA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818",
-      "kobo_price": "NT$375",
-      "cover_url": "covers/X2WQ5OyONkK1WfMqABpGmA.jpg",
-      "sale_price": "NT$319",
-      "sale_end": "8/18",
-      "description": "關於AI，LinkedIn共同創辦人霍夫曼提出了另一條路：在真實世界中持續行動、驗證與修正，讓AI提升更多人的判斷力、創造力與行動力。當個人的增能透過社會連結加乘並引爆整體能力躍升，這就是超級代理效應！ 《超級代理效應》 由 雷德・霍夫曼, 葛雷格・比托＠著 出版社： 天下雜誌 查看電子書",
-      "publish_date": "",
-      "short_affiliate_url": "https://reurl.cc/NOG1xx",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Title/X2WQ5OyONkK1WfMqABpGmA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260818"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/90Vee8"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/agJLXY"
-        },
-        "goodreads": {
-          "score": 3.33,
-          "count": 1218,
-          "url": "https://www.goodreads.com/book/show/216336470-superagency?from_search=true&from_srp=true&qid=kyYW4zhPLd&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 370,
-          "url": "https://www.amazon.com/gp/product/B0D886ZQHY/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.06
-    },
     {
       "title": "為工作而活",
       "author": "詹姆斯．舒茲曼",
       "original_title": "Work: A History of How We Spend Our Time",
+      "original_author": "James Suzman",
       "isbn": "9786267891360",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/06PvNYpzcUu4tJa6954nyA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260819",
       "kobo_price": "NT$498",
@@ -309,12 +34,12 @@
         },
         "goodreads": {
           "score": 3.83,
-          "count": 3264,
+          "count": 3269,
           "url": "https://www.goodreads.com/book/show/54550359-work?from_search=true&from_srp=true&qid=AK3W90PBOr&rank=1",
           "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
+          "amazon_url": "https://www.amazon.com/gp/product/B08817M9SS/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
@@ -327,16 +52,16 @@
     {
       "title": "把話說開的職場溝通術",
       "author": "約書亞．葛瑞夫斯",
-      "original_title": "WE NEED TO TALK",
-      "isbn": null,
+      "original_title": "",
+      "original_author": "Joshua Graves",
+      "isbn": "9786264187480",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/qWCBUlySoEGnOORealVMuw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260831",
       "kobo_price": "NT$435",
       "cover_url": "covers/qWCBUlySoEGnOORealVMuw.jpg",
       "sale_price": "NT$370",
       "sale_end": "8/31",
       "description": "很多人以為自己害怕衝突，其實真正令人害怕的，是不知道該如何在衝突中好好表達自己！本書結合心理學、神經科學，帶你看懂衝突背後的心理機制，學會在高壓、尷尬甚至劍拔弩張的情境中清楚表達需求與界線。 《把話說開的職場溝通術》 由 約書亞．葛瑞夫斯@著 出版社： 遠流出版 查看電子書",
-      "publish_date": "",
-      "short_affiliate_url": "https://reurl.cc/qaZzYp",
+      "publish_date": "2026年8月1日",
       "ratings": {
         "kobo": {
           "score": null,
@@ -346,7 +71,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://reurl.cc/zOA33V"
+          "url": ""
         },
         "readmoo": {
           "score": null,
@@ -354,27 +79,28 @@
           "url": ""
         },
         "goodreads": {
-          "score": 2.5,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/223926126-we-need-to-talk",
-          "note": "手動修正-原AMZ撞名誤配",
-          "amazon_url": "https://www.amazon.com/dp/B0DVM1N1G7",
-          "confidence": 90,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 30,
-          "url": "https://www.amazon.com/dp/B0DVM1N1G7"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.18,
-      "original_author": "Joshua Graves"
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/RRyazr"
     },
     {
       "title": "惡意是怎麼形成的？",
       "author": "班雅明‧E‧席比",
       "original_title": "Dark Factor - Die Essenz des Bösen in uns",
+      "original_author": "Benjamin E. Hilbig",
       "isbn": "9786264600712",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/vn6YGXio_j-Ts_KHbmphQA?sId=0b462a3a-9368-4f70-8593-76bdc4f969ee&ssId=f5621fVwi_L3LGs0DBTxu&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260820",
       "kobo_price": "NT$340",
@@ -383,6 +109,7 @@
       "sale_end": "8/20",
       "description": "三位心理學家耗時15年，分析全球250萬人的研究資料，發現看似不同的黑暗人格，其實都指向同一個核心。本書能幫助你了解人性的邪惡本質、更快辨識風險。有些人，最好的相處方式，或許就是提早保持距離！ 《惡意是怎麼形成的？》 由 班雅明‧E‧席比, 莫頓‧摩沙根, 英格‧策特勒@著 出版社： 商周出版 查看電子書",
       "publish_date": "2026年8月4日",
+      "short_affiliate_url": "https://reurl.cc/mzl88V",
       "ratings": {
         "kobo": {
           "score": null,
@@ -390,9 +117,9 @@
           "url": "https://www.kobo.com/tw/zh/ebook/vn6YGXio_j-Ts_KHbmphQA?sId=0b462a3a-9368-4f70-8593-76bdc4f969ee&ssId=f5621fVwi_L3LGs0DBTxu&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260820"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0011058800?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011058800"
         },
         "readmoo": {
           "score": null,
@@ -403,9 +130,9 @@
           "score": 4.5,
           "count": 4,
           "url": "https://www.goodreads.com/book/show/230604921-dark-factor---die-essenz-des-b-sen-in-uns",
-          "note": "手動修正-則數規則誤殺後補回",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0F2VCCHJP/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 75,
           "cross_validated": true
         },
         "amazon_com": {
@@ -414,14 +141,13 @@
           "url": "https://www.amazon.com/gp/product/B0F2VCCHJP/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/mzl88V",
-      "original_author": "Benjamin E. Hilbig"
+      "avg_score": 4.14
     },
     {
       "title": "富小孩的商業課1：沙漠的水一瓶一千元？看懂商業經營的16個模式",
       "author": "郝旭烈",
       "original_title": "",
+      "original_author": null,
       "isbn": "9786264660433",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/EUQ5p4r-sTOrGMsQYv7vEA?sId=f7f5dcae-0239-48c9-9920-337cf6139925&ssId=MpDQdbdllpR21YZe1D03b&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260821",
       "kobo_price": "NT$300",
@@ -430,6 +156,7 @@
       "sale_end": "8/21",
       "description": "爸媽工作20年才懂的商業邏輯，孩子聽16個故事就學會！資訊爆炸、AI科技快速更迭的時代，單純的學業成績已不足以決定未來。與其讓孩子盲目摸索，不如從小訓練孩子的商業腦，打造一生受用的價值系統。 《富小孩的商業課1：沙漠的水一瓶一千元？看懂商業經營的16個模式》 由 郝旭烈＠著 出版社： 三采文化 查看電子書",
       "publish_date": "2026年8月7日",
+      "short_affiliate_url": "https://reurl.cc/aE1OOQ",
       "ratings": {
         "kobo": {
           "score": null,
@@ -439,7 +166,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://reurl.cc/xel555"
+          "url": "https://reurl.cc/90Rg7x"
         },
         "readmoo": {
           "score": null,
@@ -458,12 +185,10 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/dp/B0HCZ7YFRN"
+          "url": "https://www.amazon.com/-/zh_TW/%E9%83%9D%E6%97%AD%E7%83%88-ebook/dp/B0HCZ7YFRN/ref=sr_1_1"
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/aE1OOQ",
-      "original_author": "郝旭烈"
+      "avg_score": null
     }
   ]
 }
