@@ -7,87 +7,88 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:《正確犯錯：哈佛學者揭開成長心態的關鍵，分辨
- 失敗類型與應對方式，駕馭不確定的未來》
-DESCRIPTION:特價 NT$99｜4.2分\nhttps://reurl.cc/p8Ll2b\n查看當週各
- 書評價: https://kobo99.com/
-URL:https://reurl.cc/p8Ll2b
-UID:kobo99-2026-w33-01@kobo99-tracker
-DTSTAMP:20260812T200703Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:《你怎樣過一天，就怎樣過一生》
-DESCRIPTION:特價 NT$99｜原價 NT$280｜4.1分\nhttps://reurl.cc/vGkY2j\
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:《頭腦好的人說話前思考的事：第一本！將「思考
+ 維度」融入於「溝通法則」的工具書》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/qa094D\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/vGkY2j
-UID:kobo99-2026-w33-02@kobo99-tracker
-DTSTAMP:20260812T200703Z
+URL:https://reurl.cc/qa094D
+UID:kobo99-2026-w34-01@kobo99-tracker
+DTSTAMP:20260820T005328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:《情感计算》
-DESCRIPTION:特價 NT$99｜原價 NT$258\nhttps://reurl.cc/Ym8gba\n查看
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:《數據的假象：數據識讀是深度偽造時代最重要的
+ 思辨素養，聰明決策不被操弄》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜4.2分\nhttps://reurl.cc/Vn4GQ6\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/Vn4GQ6
+UID:kobo99-2026-w34-02@kobo99-tracker
+DTSTAMP:20260820T005328Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:《皇后是这样炼成的》
+DESCRIPTION:特價 NT$99｜原價 NT$332\nhttps://reurl.cc/90RdLX\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Ym8gba
-UID:kobo99-2026-w33-03@kobo99-tracker
-DTSTAMP:20260812T200703Z
+URL:https://reurl.cc/90RdLX
+UID:kobo99-2026-w34-03@kobo99-tracker
+DTSTAMP:20260820T005328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:《阿基里斯之歌》
-DESCRIPTION:特價 NT$99｜原價 NT$280｜4.3分\nhttps://reurl.cc/rkLy2O\
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:《迫在眉睫：美國五角大廈研究不明異常現象的絕
+ 密內幕》
+DESCRIPTION:特價 NT$99｜原價 NT$434｜4.2分\nhttps://reurl.cc/GgKzLd\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/rkLy2O
-UID:kobo99-2026-w33-04@kobo99-tracker
-DTSTAMP:20260812T200703Z
+URL:https://reurl.cc/GgKzLd
+UID:kobo99-2026-w34-04@kobo99-tracker
+DTSTAMP:20260820T005328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:《說故事的技藝：普立茲獎評審親傳美國大學非虛
- 構寫作聖經》
-DESCRIPTION:特價 NT$99｜原價 NT$364｜4.2分\nhttps://reurl.cc/5XMjQn\
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:《賣茶如金．席捲全球的秘史》
+DESCRIPTION:特價 NT$99｜原價 NT$480｜4.1分\nhttps://reurl.cc/EY1qLn\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/5XMjQn
-UID:kobo99-2026-w33-05@kobo99-tracker
-DTSTAMP:20260812T200703Z
+URL:https://reurl.cc/EY1qLn
+UID:kobo99-2026-w34-05@kobo99-tracker
+DTSTAMP:20260820T005328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:《我的有錢富朋友教我的事：關於金錢、財務與自
- 主，翻轉你一生的致富思維》
-DESCRIPTION:特價 NT$99｜原價 NT$394｜4.6分\nhttps://reurl.cc/dO7NgM\
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:《比賽，從心開始》
+DESCRIPTION:特價 NT$99｜原價 NT$300｜4.2分\nhttps://reurl.cc/eQd07m\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/dO7NgM
-UID:kobo99-2026-w33-06@kobo99-tracker
-DTSTAMP:20260812T200703Z
+URL:https://reurl.cc/eQd07m
+UID:kobo99-2026-w34-06@kobo99-tracker
+DTSTAMP:20260820T005328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:《從僵硬到優雅！芭蕾舞者的自我調整術》
-DESCRIPTION:特價 NT$99｜原價 NT$252｜4.2分\nhttps://reurl.cc/27W1en\
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:《跟達爾文學投資：取經大自然，從物競天擇脫穎
+ 成為市場贏家！》
+DESCRIPTION:特價 NT$99｜原價 NT$364｜4.3分\nhttps://reurl.cc/WzveMk\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/27W1en
-UID:kobo99-2026-w33-07@kobo99-tracker
-DTSTAMP:20260812T200703Z
+URL:https://reurl.cc/WzveMk
+UID:kobo99-2026-w34-07@kobo99-tracker
+DTSTAMP:20260820T005328Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:《為何龍蝦不會變老，水母會逆齡，人類卻無法？
- ：24個自然界中青春、衰老與生命期限的科學奧祕》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/0kEAGA\
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:《以粥養生：清代名著〈老老恆言〉粥品精選，保
+ 健防老，調整體質，活得快樂又長壽》
+DESCRIPTION:特價 NT$99｜原價 NT$235｜4.2分\nhttps://reurl.cc/OQj2LA\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/0kEAGA
-UID:kobo99-2026-w33-08@kobo99-tracker
-DTSTAMP:20260812T200703Z
+URL:https://reurl.cc/OQj2LA
+UID:kobo99-2026-w34-08@kobo99-tracker
+DTSTAMP:20260820T005328Z
 END:VEVENT
 END:VCALENDAR

@@ -1,145 +1,145 @@
 {
   "year": 2026,
-  "week": 33,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w33",
-  "sale_label": "NT$99 特價：8/13（四）～8/19（三）",
-  "sale_start": "2026-08-13",
-  "sale_end": "2026-08-19",
+  "week": 34,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w34",
+  "sale_label": "NT$99 特價：8/20（四）～8/26（三）",
+  "sale_start": "2026-08-20",
+  "sale_end": "2026-08-26",
   "on_sale": true,
-  "updated_at": "2026-08-13T00:22:26.172927+08:00",
+  "updated_at": "2026-08-20T08:35:13.288561+08:00",
   "books": [
     {
-      "title": "正確犯錯：哈佛學者揭開成長心態的關鍵，分辨失敗類型與應對方式，駕馭不確定的未來",
-      "author": "艾美．艾德蒙森",
-      "original_title": "Right Kind of Wrong: The Science of Failing Well",
-      "isbn": "9789863989752",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2Sjwvg6-JTC3YMAhT3pYkA?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": null,
-      "cover_url": "covers/2Sjwvg6-JTC3YMAhT3pYkA.jpg",
+      "title": "頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書",
+      "author": "安達裕哉",
+      "original_title": "頭のいい人が話す前に考えていること",
+      "isbn": "9786267406519",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/kMZm4U1pdDWLhOtu7qRk8g?sId=c4740e43-b277-4923-89fa-e0fcf84ebc6e&ssId=jyDuK1LzXgZli14R2r-Ax&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/kMZm4U1pdDWLhOtu7qRk8g.jpg",
       "sale_price": "NT$99",
-      "date": "8/13",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
+      "date": "8/20",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
       "on_sale": true,
-      "publisher": "天下雜誌",
-      "publish_date": "2024年4月2日",
-      "language": "中文",
-      "original_author": "Amy Edmondson",
-      "description": "麥肯錫年度最佳商業書獎。每個人都會犯錯，但是每個錯誤的價值並不一樣，別讓不犯錯耽誤了你和團隊的成長。只有經過明智判斷的正確犯錯，才能創造有價值的經驗學習，真正學到東西，達到目標的最大效益。",
-      "ratings": {
-        "kobo": {
-          "score": 4.53,
-          "count": 17,
-          "url": "https://www.kobo.com/tw/zh/ebook/2Sjwvg6-JTC3YMAhT3pYkA?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 12,
-          "url": "https://reurl.cc/zOA3LQ"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 22,
-          "url": "https://readmoo.com/book/210322693000101"
-        },
-        "goodreads": {
-          "score": 3.9,
-          "count": 2856,
-          "url": "https://www.goodreads.com/book/show/101162068-right-kind-of-wrong?from_search=true&from_srp=true&qid=kxhMEjSnda&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 775,
-          "url": "https://www.amazon.com/-/zh_TW/Amy-C-Edmondson-ebook/dp/B0BTZT9CXV/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/p8Ll2b"
-    },
-    {
-      "title": "你怎樣過一天，就怎樣過一生",
-      "author": "梁爽",
-      "original_title": "",
-      "isbn": "9786263962019",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/MakpL2gJoz6gkqnbCOOkOQ?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": "NT$280",
-      "cover_url": "covers/MakpL2gJoz6gkqnbCOOkOQ.jpg",
-      "sale_price": "NT$99",
-      "date": "8/14",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
-      "on_sale": true,
-      "publisher": "時報出版",
-      "publish_date": "2024年5月3日",
-      "language": "中文",
-      "original_author": "梁爽",
-      "description": "你二十多歲的生活方式，決定了三十歲的打開方式。走自己的花路，勇於冒險，不畏跨界，將幫助你活出升級版的自己。你怎樣過一天，就怎樣過一生；用心生活的每一天，就是人生中最美好的年華。",
-      "ratings": {
-        "kobo": {
-          "score": 4.78,
-          "count": 9,
-          "url": "https://www.kobo.com/tw/zh/ebook/MakpL2gJoz6gkqnbCOOkOQ?sId=c127eb25-3bed-49aa-9c8d-46a3578b08b8&ssId=ZgqkJvvVKYXKI-zQ_A_u9&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://reurl.cc/mzl827"
-        },
-        "readmoo": {
-          "score": 3.4,
-          "count": 14,
-          "url": "https://readmoo.com/book/210327756000101"
-        },
-        "goodreads": {
-          "score": 2.86,
-          "count": 7,
-          "url": "https://www.goodreads.com/book/show/213093672?from_search=true&from_srp=true&qid=EVV7MU7Xjx&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 80,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A2%81%E7%88%BD-ebook/dp/B0D3B7HVR4/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.06,
-      "short_affiliate_url": "https://reurl.cc/vGkY2j"
-    },
-    {
-      "title": "情感计算",
-      "author": "秦兵 赵妍妍 林鸿飞 王素格 徐睿峰",
-      "original_title": "",
-      "isbn": "7584052661978",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8mR0BctbRDGoQGRAuYtRQQ?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": "NT$258",
-      "cover_url": "covers/8mR0BctbRDGoQGRAuYtRQQ.jpg",
-      "sale_price": "NT$99",
-      "date": "8/14",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
-      "on_sale": true,
-      "publisher": "",
-      "publish_date": "2024年9月1日",
+      "publisher": "悅知文化",
+      "publish_date": "2024年5月16日",
       "language": "中文",
       "original_author": null,
-      "description": "在人工智慧的研究中，既包括對於人類理性思維的模擬，還包括對人類感性思維的計算。該書將講述深度學習的情感表示方法，凝聚成多項研究任務和實用技術，已應用於輿情分析等領域，具有重大的社會價值和商業價值。",
+      "description": "「結果」往往是在你說出口之前就決定好的！作者22年顧問經歷知識濃縮成一冊，只要讀過本書，就能讓你一開口便獲得他人的信任與認可，7大重建心態的黃金法則，5大改善工作的思考法，讓任何人都能成為聰明人。",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/8mR0BctbRDGoQGRAuYtRQQ?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
+          "score": 4.14,
+          "count": 28,
+          "url": "https://www.kobo.com/tw/zh/ebook/kMZm4U1pdDWLhOtu7qRk8g?sId=c4740e43-b277-4923-89fa-e0fcf84ebc6e&ssId=jyDuK1LzXgZli14R2r-Ax&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://reurl.cc/8YqER7"
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 68,
+          "url": "https://readmoo.com/book/210329082000101"
+        },
+        "goodreads": {
+          "score": 4.31,
+          "count": 16,
+          "url": "https://www.goodreads.com/book/show/133548523?from_search=true&from_srp=true&qid=JGlG6rjaG2&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BQQTWB9R/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 5488,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4478116695/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.23,
+      "short_affiliate_url": "https://reurl.cc/qa094D"
+    },
+    {
+      "title": "數據的假象：數據識讀是深度偽造時代最重要的思辨素養，聰明決策不被操弄",
+      "author": "卡爾．伯格斯特姆、杰文．威斯特",
+      "original_title": "Calling Bullshit: The Art of Skepticism in a Data-Driven World",
+      "isbn": "9789863987765",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Z5w2FXtqbjK5RtNdGPC_6w?sId=ee205fc4-a36d-4477-8f0f-5d8463a5c0a9&ssId=TQ-rIx3SvhKrwh81T5t-z&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/Z5w2FXtqbjK5RtNdGPC_6w.jpg",
+      "sale_price": "NT$99",
+      "date": "8/21",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
+      "on_sale": true,
+      "publisher": "天下雜誌",
+      "publish_date": "2022年6月1日",
+      "language": "中文",
+      "original_author": "Carl T. Bergstrom; Jevin D. West",
+      "description": "三位諾貝爾獎得主重磅推薦。如何偵測科學鬼扯？如何識破數據資料不合邏輯的破綻？高度量化時代，數字絕對更會騙人，騙更大。掌握數據的底層邏輯，洞悉科學量化包裝術，資訊批判思考力，是最強自我保護力。",
+      "ratings": {
+        "kobo": {
+          "score": 4.6,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/Z5w2FXtqbjK5RtNdGPC_6w?sId=ee205fc4-a36d-4477-8f0f-5d8463a5c0a9&ssId=TQ-rIx3SvhKrwh81T5t-z&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 43,
+          "url": "https://readmoo.com/book/210231307000101"
+        },
+        "goodreads": {
+          "score": 4.1,
+          "count": 5536,
+          "url": "https://www.goodreads.com/book/show/48889983-calling-bullshit?from_search=true&from_srp=true&qid=8RqIMODJlJ&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B08191DV5T/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 1414,
+          "url": "https://www.amazon.com/gp/product/B08191DV5T/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.24,
+      "short_affiliate_url": "https://reurl.cc/Vn4GQ6"
+    },
+    {
+      "title": "皇后是这样炼成的",
+      "author": "酒小七",
+      "original_title": "",
+      "isbn": "7584029404083",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/rCRugS33IDSsrE38Uew9bg?sId=6fad515a-22e3-478b-bc4a-e02c06ca2cc3&ssId=Pbyc6IbMeiSjOlxHg08Vz&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$332",
+      "cover_url": "covers/rCRugS33IDSsrE38Uew9bg.jpg",
+      "sale_price": "NT$99",
+      "date": "8/21",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
+      "on_sale": true,
+      "publisher": "",
+      "publish_date": "2020年2月1日",
+      "language": "中文",
+      "original_author": null,
+      "description": "這是一本輕鬆幽默的小說。葉槁藻被爺爺嫁給當今皇帝紀無咎為皇后。這場婚姻讓兩個當事人並不滿意。皇帝的寵妃受到謀害，葉秦槁首當其衝被紀無咎責斥，她只好一秒鐘變神探。最後兩個人的心漸漸靠攏，愛上對方。",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/rCRugS33IDSsrE38Uew9bg?sId=6fad515a-22e3-478b-bc4a-e02c06ca2cc3&ssId=Pbyc6IbMeiSjOlxHg08Vz&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "readmoo": {
           "score": null,
@@ -158,271 +158,271 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/-/zh_TW/Author/dp/B013DTF20M/ref=sr_1_2"
         }
       },
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/Ym8gba"
+      "short_affiliate_url": "https://reurl.cc/90RdLX"
     },
     {
-      "title": "阿基里斯之歌",
-      "author": "瑪德琳‧米勒",
-      "original_title": "The Song of Achilles",
-      "isbn": "9786267156339",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/NE9AXS7w6zygce67wtSIPg?sId=d80114bd-28b5-46f4-98f2-b75a9060368a&ssId=Do0pixf_j0rpqWAm8QCup&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": "NT$280",
-      "cover_url": "covers/NE9AXS7w6zygce67wtSIPg.jpg",
+      "title": "迫在眉睫：美國五角大廈研究不明異常現象的絕密內幕",
+      "author": "路易士．埃利桑多",
+      "original_title": "",
+      "isbn": "9786269978434",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Q8-6C7uV2Tic2mhz8UdCLA?sId=fb4baa07-f8c0-4411-b5ec-673b94f8d7f0&ssId=KZ2GZHw5OX2SNk0YOW3jT&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$434",
+      "cover_url": "covers/Q8-6C7uV2Tic2mhz8UdCLA.jpg",
       "sale_price": "NT$99",
-      "date": "8/15",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
+      "date": "8/22",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
       "on_sale": true,
-      "publisher": "馬可孛羅",
-      "publish_date": "2022年11月10日",
+      "publisher": "明白文化",
+      "publish_date": "2025年10月22日",
       "language": "中文",
-      "original_author": "Madeline Miller",
-      "description": "(暢銷新版回歸) 禁忌之愛撼動了史詩，英雄阿基里斯封印千年的淒美生死戀。當真愛再也敵不過命定的神諭，勝利能否為你我唱出永恆的頌歌？在這座凡人與神祉共存、人馬與妖精共譜的戰爭宇宙，壯烈的淒美震動了女神的淚。",
+      "original_author": null,
+      "description": "川普、歐巴馬、柯林頓，親口證實，美國政府最後一個不能說的秘密，終於說出口，不明飛行物。如今被美國官方正面肯定，並坦承威脅已迫在眉睫。這個21世紀最戲劇化翻轉，全歸功於本書作者鍥而不捨的解密。",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/NE9AXS7w6zygce67wtSIPg?sId=d80114bd-28b5-46f4-98f2-b75a9060368a&ssId=Do0pixf_j0rpqWAm8QCup&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
+          "url": "https://www.kobo.com/tw/zh/ebook/Q8-6C7uV2Tic2mhz8UdCLA?sId=fb4baa07-f8c0-4411-b5ec-673b94f8d7f0&ssId=KZ2GZHw5OX2SNk0YOW3jT&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://reurl.cc/aE1Og7"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 27,
-          "url": "https://readmoo.com/book/210258508000101"
-        },
-        "goodreads": {
-          "score": 4.3,
-          "count": 2149880,
-          "url": "https://www.goodreads.com/book/show/13623848-the-song-of-achilles?from_search=true&from_srp=true&qid=2UN6bEcWkV&rank=2",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B006IE2IO8/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 131799,
-          "url": "https://www.amazon.com/gp/product/B006IE2IO8/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.26,
-      "short_affiliate_url": "https://reurl.cc/rkLy2O"
-    },
-    {
-      "title": "說故事的技藝：普立茲獎評審親傳美國大學非虛構寫作聖經",
-      "author": "傑克‧哈特",
-      "original_title": "Storycraft: The Complete Guide to Writing Narrative Nonfiction Second Edition",
-      "isbn": "9786269705221",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ma7dGHFiczKpuUP1gBkWXA?sId=2e6d6ef0-4000-44a2-8496-2654c1676c84&ssId=ri7YCZcRlfVt1s86IGhWN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": "NT$364",
-      "cover_url": "covers/ma7dGHFiczKpuUP1gBkWXA.jpg",
-      "sale_price": "NT$99",
-      "date": "8/16",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
-      "on_sale": true,
-      "publisher": "新樂園",
-      "publish_date": "2023年8月2日",
-      "language": "中文",
-      "original_author": "Jack Hart",
-      "description": "直擊世界頂尖媒體寫作殿堂。會說故事的人有福了，優秀的說故事能力所發揮的影響力，甚至超過大眾媒體，活用敘事弧，幫助你觸及廣大的觀眾，教你用好故事套牢讀者，讓你一下筆如有神，用寫作累積你的影響力。",
-      "ratings": {
-        "kobo": {
-          "score": 3.0,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/ma7dGHFiczKpuUP1gBkWXA?sId=2e6d6ef0-4000-44a2-8496-2654c1676c84&ssId=ri7YCZcRlfVt1s86IGhWN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/k9lx23"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://readmoo.com/book/210141284000101"
-        },
-        "goodreads": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/124022202-storycraft-second-edition?from_search=true&from_srp=true&qid=MeR9vCWap8&rank=1",
-          "note": "title",
-          "amazon_url": "",
-          "confidence": 10,
-          "cross_validated": null
-        },
-        "amazon_com": {
           "score": null,
           "count": 0,
           "url": ""
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/5XMjQn"
-    },
-    {
-      "title": "我的有錢富朋友教我的事：關於金錢、財務與自主，翻轉你一生的致富思維",
-      "author": "屠惟安",
-      "original_title": "Rich AF：The Winning Money Mindset That Will Change Your Life",
-      "isbn": "9786267537442",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/cpNHZFO-6TKfWoBBD6du2g?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": "NT$394",
-      "cover_url": "covers/cpNHZFO-6TKfWoBBD6du2g.jpg",
-      "sale_price": "NT$99",
-      "date": "8/17",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
-      "on_sale": true,
-      "publisher": "悅知文化",
-      "publish_date": "2024年12月9日",
-      "language": "中文",
-      "original_author": "Vivian Tu",
-      "description": "逾300萬粉絲的超紅社群創辦人之作！作者成功在27歲前存到100萬美金，以一針見血的專業風格，讓財務世界離我們不再遙遠，在這場財務遊戲之中，賦予讀者與其對抗的力量，揭開了如何創造真正財富的內幕。",
-      "ratings": {
-        "kobo": {
-          "score": 3.7,
-          "count": 10,
-          "url": "https://www.kobo.com/tw/zh/ebook/cpNHZFO-6TKfWoBBD6du2g?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 8,
-          "url": "https://reurl.cc/lnvm2A"
         },
         "readmoo": {
-          "score": 3.5,
-          "count": 8,
-          "url": "https://readmoo.com/book/210360755000101"
-        },
-        "goodreads": {
-          "score": 4.06,
-          "count": 10082,
-          "url": "https://www.goodreads.com/book/show/165059495-rich-af",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C6G67213/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 1668,
-          "url": "https://www.amazon.com/-/zh_TW/Rich-AF-Winning-Mindset-Change/dp/0593714911/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/dO7NgM"
-    },
-    {
-      "title": "從僵硬到優雅！芭蕾舞者的自我調整術",
-      "author": "島田智史",
-      "original_title": "これで先生のアドバイスどおりに踊れる！　バレエ整体ハンドブック",
-      "isbn": "9789863707875",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/NcThFHXJPz265BwXYE-u1Q?sId=7ba07d75-42da-450c-b078-e37ce6ede1c2&ssId=_6e1eDlsqtvTZvlyDrEd-&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": "NT$252",
-      "cover_url": "covers/NcThFHXJPz265BwXYE-u1Q.jpg",
-      "sale_price": "NT$99",
-      "date": "8/18",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
-      "on_sale": true,
-      "publisher": "楓葉社",
-      "publish_date": "2025年4月29日",
-      "language": "中文",
-      "original_author": null,
-      "description": "芭蕾課堂上，老師的指導語句總是清楚明確，但你的身體卻總是無法順利配合？本書由芭蕾舞者專屬治療院「專心良治」院長親筆撰寫，結合多年治療與調整舞者身體的經驗，歸納出一套適合芭蕾學習者的自我調整術。",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/NcThFHXJPz265BwXYE-u1Q?sId=7ba07d75-42da-450c-b078-e37ce6ede1c2&ssId=_6e1eDlsqtvTZvlyDrEd-&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/7YRGNN"
-        },
-        "readmoo": {
-          "score": 5.0,
+          "score": 4.3,
           "count": 3,
-          "url": "https://readmoo.com/book/210383740000101"
+          "url": "https://readmoo.com/book/210417006000101"
         },
         "goodreads": {
           "score": null,
           "count": 0,
-          "url": "https://www.goodreads.com/book/show/72244379",
+          "url": "",
           "note": "無原文資訊",
           "amazon_url": "",
           "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 219,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4809679276/ref=sr_1_2"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/27W1en"
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/GgKzLd"
     },
     {
-      "title": "為何龍蝦不會變老，水母會逆齡，人類卻無法？：24個自然界中青春、衰老與生命期限的科學奧祕",
-      "author": "尼可拉斯‧潘柏格",
-      "original_title": "Jellyfish Age Backward: Nature Secret’s to Longevity",
-      "isbn": "9786267255605",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VkEcnKTTbDysOeOLwD8Wpg?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/VkEcnKTTbDysOeOLwD8Wpg.jpg",
+      "title": "賣茶如金．席捲全球的秘史",
+      "author": "威廉．H．烏克斯",
+      "original_title": "All About Tea",
+      "isbn": "9786267408421",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/4d2Cs0l8zj2r5ejxGsA0Hw?sId=221b5027-aded-4fde-94b7-35cdc929b6f5&ssId=51KRG22lSCr-WXcjCPJKJ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$480",
+      "cover_url": "covers/4d2Cs0l8zj2r5ejxGsA0Hw.jpg",
       "sale_price": "NT$99",
-      "date": "8/19",
-      "sale_start": "2026-08-13",
-      "sale_end": "2026-08-19",
+      "date": "8/23",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
       "on_sale": true,
-      "publisher": "鷹出版",
-      "publish_date": "2025年1月2日",
+      "publisher": "",
+      "publish_date": "2024年5月23日",
       "language": "中文",
-      "original_author": "Nicklas Brendborg",
-      "description": "挑戰人類壽命的生物極限，一本最具科幻感的科普書。生老病死，偏偏大自然中有些動植物並不遵循這樣的定律，從基因編輯到抗老化藥物，向大自然拜師學藝，深入挖掘壽命的祕密，探討延長壽命或減緩老化的可能。",
+      "original_author": "William H. Ukers",
+      "description": "從庶民到貴族、皇帝都愛喝的黃金甘露，手搖盛世愛茶人必追經典！所有茶葉的蛛絲馬跡，都在這本書裡匯聚成章！開創茶書寫作的「全球觀」和「編年史」！一窺百年前臺灣茶的風味如何推廣到全世界茶葉的貿易如何震盪全球經濟 在早期的幾個世紀裡，茶飲總是被當成藥物服用，而倡導飲茶的中國人和日本人更將其視為所有人類病痛的治療藥物。然而，茶的刺激效果卻引爆了全球性的熱潮，不僅發展成各國不同的「茶道」文化，更對飲茶的器具嚴苛講究。而這一路從產地到茶盞中的千年回甘，又是如何被推廣成世界性的清香芳醇？ 在本書中，茶飲迷兼茶之達人烏克斯將以費時25年的訪查及資料蒐集的研究成果，搭配超過200張珍貴照片，帶著你穿越時空，一起回顧泡茶用具的演進、製作茶飲的要點、各國茶業廣宣史，以及茶葉如何從生產地銷售到世界各地。 ◎那些你一定不知道的茶具進化史＊宜興的茶壺與茶葉一起抵達歐洲，以葡萄牙語名稱boccarro（大嘴）為歐洲人所知",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/VkEcnKTTbDysOeOLwD8Wpg?sId=c087cea7-3b4d-449b-9158-e81517846853&ssId=nsmw4l7l-6P9phxyM2OwT&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260913"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/4d2Cs0l8zj2r5ejxGsA0Hw?sId=221b5027-aded-4fde-94b7-35cdc929b6f5&ssId=51KRG22lSCr-WXcjCPJKJ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
         },
         "books_com": {
-          "score": 2.5,
-          "count": 2,
-          "url": "https://reurl.cc/yWkd0a"
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "readmoo": {
-          "score": 4.4,
-          "count": 17,
-          "url": "https://readmoo.com/book/210363933000101"
+          "score": 3.5,
+          "count": 4,
+          "url": "https://readmoo.com/book/210329010000101"
         },
         "goodreads": {
           "score": 3.92,
-          "count": 5873,
-          "url": "https://www.goodreads.com/book/show/58950706-jellyfish-age-backwards?from_search=true&from_srp=true&qid=t7Pz0vKS3I&rank=1",
+          "count": 12,
+          "url": "https://www.goodreads.com/book/show/6854680-all-about-tea?from_search=true&from_srp=true&qid=j7klbHDZ31&rank=1",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BPSDK64K/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/1578986524/ref=x_gr_bb_amazon",
+          "confidence": 80,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 6,
+          "url": "https://www.amazon.com/gp/product/1578986524/ref=x_gr_bb_amazon"
+        }
+      },
+      "avg_score": 4.12,
+      "short_affiliate_url": "https://reurl.cc/EY1qLn"
+    },
+    {
+      "title": "比賽，從心開始",
+      "author": "提摩西‧高威",
+      "original_title": "The Inner Game of Tennis (50th Anniversary Edition)",
+      "isbn": "9786267195901",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/iyBGzXUHlD2a7YHGrqQNbg?sId=7e2fdea0-955e-47d4-881a-49bd15c63bf0&ssId=KUjh9BcyqCfcOBXUbNwBm&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$300",
+      "cover_url": "covers/iyBGzXUHlD2a7YHGrqQNbg.jpg",
+      "sale_price": "NT$99",
+      "date": "8/24",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
+      "on_sale": true,
+      "publisher": "經濟新潮社",
+      "publish_date": "2025年2月4日",
+      "language": "中文",
+      "original_author": "W. Timothy Gallwey",
+      "description": "★傳說中的經典，暢銷50年的「教練聖經」，全球銷量突破150萬冊！ ★特別收錄比爾‧蓋茲（Bill Gates）的序言、以及出版50週年的後記感言 ★前世界網球球后比莉‧珍‧金（Billie Jean King）稱這本書是她的網球聖經；美國前副總統高爾（Al Gore）用這本書來凝聚他的競選團隊；偉大的小提琴家帕爾曼（Itzhak Perlman）也推薦這本書給年輕的小提琴手 比爾‧蓋茲：「這本書我看了很多次，是我所讀過最棒的網球書籍，當中提到的深刻建議可以應用在生活的許多領域。我到今天還是會買這本書送給朋友。」 50年來，這本書不僅陪伴讀者贏得比賽，更鼓舞他們的人生！ 本書於1974年首次出版時，可說是開先河，是第一本談論「運動心理學」的書。作者提摩西‧高威運用了接近「禪學」的思想，為運動選手缺乏自信、緊張、無法專注等問題，提出了全新的學習方法。 他提倡要用引導（而非技術指導）的方式，拋",
+      "ratings": {
+        "kobo": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/iyBGzXUHlD2a7YHGrqQNbg?sId=7e2fdea0-955e-47d4-881a-49bd15c63bf0&ssId=KUjh9BcyqCfcOBXUbNwBm&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 15,
+          "url": "https://readmoo.com/book/210370481000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 116,
+          "url": "https://www.amazon.com/-/zh_TW/W-Timothy-Gallwey-ebook/dp/B0DSQ5H47M/ref=sr_1_3"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/eQd07m"
+    },
+    {
+      "title": "跟達爾文學投資：取經大自然，從物競天擇脫穎成為市場贏家！",
+      "author": "普拉克．普拉薩德",
+      "original_title": "What I Learned about Investing from Darwin",
+      "isbn": "9786267589038",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2GbehAMHoTu0sMN6faZVjg?sId=f1a6510c-16e9-40c2-a5d3-51c79a4dea9a&ssId=CIYc3D-4IM9Aa_NH6bgpE&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$364",
+      "cover_url": "covers/2GbehAMHoTu0sMN6faZVjg.jpg",
+      "sale_price": "NT$99",
+      "date": "8/25",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
+      "on_sale": true,
+      "publisher": "今周刊出版社",
+      "publish_date": "2024年10月31日",
+      "language": "中文",
+      "original_author": "Pulak Prasad",
+      "description": "★美國亞馬遜4.7顆星好評★納蘭達資本投資管理公司創始人、麥肯錫管理顧問公司資深項目經理，結合演化生物學的啟發與30年管理諮詢與投資經驗，從自然界的生動例子中，看清投資時最重要的事，建立適者生存、遠離風險的長期獲利法則。 《跟達爾文學投資》不僅講投資該怎麼做，也談投資不該踏入的陷阱。作者透過各種原理與實證，完整的闡述每個論點。可以說，只要你是一位股市投資人，就會覺得這本書非常好看。打開此書，了解與吸收作者獨特的投資智慧吧。──綠角，「綠角財經筆記」版主 這本書把演化生物學的智慧巧妙融入投資策略，風趣幽默又充滿洞見，教你如何用全新視角看待投資，幫助你在金融叢林中精準決策。你將學會如何在詭譎多變的複雜市場中從容應對，找到屬於自己的投資法則，輕鬆脫穎而出！──黃貞祥，國立清華大學生命科學系副教授 這是一本幫助投資人在個股質化分析時，讓思考脈絡更加清晰的好書。──Mr. Market市場先生，財經",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/2GbehAMHoTu0sMN6faZVjg?sId=f1a6510c-16e9-40c2-a5d3-51c79a4dea9a&ssId=CIYc3D-4IM9Aa_NH6bgpE&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 19,
+          "url": "https://readmoo.com/book/210355017000101"
+        },
+        "goodreads": {
+          "score": 4.55,
+          "count": 2064,
+          "url": "https://www.goodreads.com/book/show/62792694-what-i-learned-about-investing-from-darwin?from_search=true&from_srp=true&qid=X4TDmrR7FG&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BG99WS31/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 385,
-          "url": "https://www.amazon.com/-/zh_TW/Nicklas-Brendborg-ebook/dp/B0BPSDK64K/ref=sr_1_1"
+          "score": 4.7,
+          "count": 1285,
+          "url": "https://www.amazon.com/gp/product/B0BG99WS31/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.16,
-      "short_affiliate_url": "https://reurl.cc/0kEAGA"
+      "avg_score": 4.34,
+      "short_affiliate_url": "https://reurl.cc/WzveMk"
+    },
+    {
+      "title": "以粥養生：清代名著〈老老恆言〉粥品精選，保健防老，調整體質，活得快樂又長壽",
+      "author": "全方位保健推廣研究室",
+      "original_title": "",
+      "isbn": "3129000000254",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fyMcBbxf-D-GKRvKaP-YAA?sId=01ccdaba-30a1-4aad-b097-1266ae1fdcd2&ssId=3-VsNs5GAg0YUkvj01J6b&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820",
+      "kobo_price": "NT$235",
+      "cover_url": "covers/fyMcBbxf-D-GKRvKaP-YAA.jpg",
+      "sale_price": "NT$99",
+      "date": "8/26",
+      "sale_start": "2026-08-20",
+      "sale_end": "2026-08-26",
+      "on_sale": true,
+      "publisher": "商周出版",
+      "publish_date": "2015年10月1日",
+      "language": "中文",
+      "original_author": null,
+      "description": "彙整超過300冊古籍的養生智慧，以藥治病，以粥扶正，清代養生名著曹庭棟《老老恆言》粥品百方精選重現！ 粥，古往今來最普遍與方便的養生食品。「粥有十利。」「粥能益人，老年尤宜。」「粥飯為世間第一補人之物。」無論是吃慣大魚大肉的達官顯貴，或者習於粗茶淡飯的庶民，想要保健養生，幾乎都少不了粥品。 本書以清代著名養生學家曹庭棟的《老老恆言》為本，拉出「粥譜」部分，從認識養生粥開始，逐一介紹選米、用水、火候與食用重點，並精選80道粥品依食材種類分類，由擅長藥膳調理的中醫師陳玫妃協助專業審訂，補充古本未竟之處，將書中精華與保健觀念以白話整理呈現，方便讀者快速擷取養生要領，應用於日常生活養生、調理體質。 【粥譜特色】★最精華！完整補充古本未列出的材料量、作法與忌避★最合宜！承襲粥譜的傳統基礎，以現代健康觀點轉換重現★最自然！材料以單一食材或藥材為主，可以在地當令食材替換★最安全！粥品溫和性平，養氣補身，",
+      "ratings": {
+        "kobo": {
+          "score": 3.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/fyMcBbxf-D-GKRvKaP-YAA?sId=01ccdaba-30a1-4aad-b097-1266ae1fdcd2&ssId=3-VsNs5GAg0YUkvj01J6b&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260820"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://readmoo.com/book/210122253000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E5%85%A8%E6%96%B9%E4%BD%8D%E4%BF%9D%E5%81%A5%E6%8E%A8%E5%BB%A3%E7%A0%94%E7%A9%B6%E5%AE%A4-ebook/dp/B08CH198R2/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.15,
+      "short_affiliate_url": "https://reurl.cc/OQj2LA"
     }
   ]
 }
