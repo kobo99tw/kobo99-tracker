@@ -1,104 +1,10 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-08-20T00:19:17.450304+08:00",
+  "updated_at": "2026-08-21T14:05:58.117317+08:00",
   "books": [
     {
-      "title": "為工作而活",
-      "author": "詹姆斯．舒茲曼",
-      "original_title": "Work: A History of How We Spend Our Time",
-      "original_author": "James Suzman",
-      "isbn": "9786267891360",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/06PvNYpzcUu4tJa6954nyA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260819",
-      "kobo_price": "NT$498",
-      "cover_url": "covers/06PvNYpzcUu4tJa6954nyA.jpg",
-      "sale_price": "NT$423",
-      "sale_end": "8/19",
-      "description": "跳脫工作是為了謀生的傳統觀念，全面理解工作的意義。本書從人類誕生一路談到AI時代，解讀不同時代驅使人類工作的動力。如果我們曾經不為工作而活，那麼如今我們究竟是為了自己而工作，還是甘願被工作綁架？ 《為工作而活》 由 詹姆斯．舒茲曼＠著 出版社： 八旗文化 查看電子書",
-      "publish_date": "2026年8月5日",
-      "short_affiliate_url": "https://reurl.cc/RROnk9",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Title/06PvNYpzcUu4tJa6954nyA?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260819"
-        },
-        "books_com": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://reurl.cc/nx7aa8"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 3.83,
-          "count": 3269,
-          "url": "https://www.goodreads.com/book/show/54550359-work?from_search=true&from_srp=true&qid=AK3W90PBOr&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B08817M9SS/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 427,
-          "url": "https://www.amazon.com/gp/product/B08817M9SS/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.14
-    },
-    {
-      "title": "把話說開的職場溝通術",
-      "author": "約書亞．葛瑞夫斯",
-      "original_title": "",
-      "original_author": "Joshua Graves",
-      "isbn": "9786264187480",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/qWCBUlySoEGnOORealVMuw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260831",
-      "kobo_price": "NT$435",
-      "cover_url": "covers/qWCBUlySoEGnOORealVMuw.jpg",
-      "sale_price": "NT$370",
-      "sale_end": "8/31",
-      "description": "很多人以為自己害怕衝突，其實真正令人害怕的，是不知道該如何在衝突中好好表達自己！本書結合心理學、神經科學，帶你看懂衝突背後的心理機制，學會在高壓、尷尬甚至劍拔弩張的情境中清楚表達需求與界線。 《把話說開的職場溝通術》 由 約書亞．葛瑞夫斯@著 出版社： 遠流出版 查看電子書",
-      "publish_date": "2026年8月1日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Title/qWCBUlySoEGnOORealVMuw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260831"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/RRyazr"
-    },
-    {
       "title": "惡意是怎麼形成的？",
-      "author": "班雅明‧E‧席比",
+      "author": "班雅明‧E‧席比、莫頓‧摩沙根、英格‧策特勒",
       "original_title": "Dark Factor - Die Essenz des Bösen in uns",
       "original_author": "Benjamin E. Hilbig",
       "isbn": "9786264600712",
@@ -107,7 +13,7 @@
       "cover_url": "covers/vn6YGXio_j-Ts_KHbmphQA.jpg",
       "sale_price": "NT$289",
       "sale_end": "8/20",
-      "description": "三位心理學家耗時15年，分析全球250萬人的研究資料，發現看似不同的黑暗人格，其實都指向同一個核心。本書能幫助你了解人性的邪惡本質、更快辨識風險。有些人，最好的相處方式，或許就是提早保持距離！ 《惡意是怎麼形成的？》 由 班雅明‧E‧席比, 莫頓‧摩沙根, 英格‧策特勒@著 出版社： 商周出版 查看電子書",
+      "description": "三位心理學家耗時15年，分析全球250萬人的研究資料，發現看似不同的黑暗人格，其實都指向同一個核心。本書能幫助你了解人性的邪惡本質、更快辨識風險。有些人，最好的相處方式，或許就是提早保持距離！ 《惡意是怎麼形成的？》 由 班雅明‧E‧席比, 莫頓‧摩沙根, 英格‧策特勒@著 出版社： 商周出版",
       "publish_date": "2026年8月4日",
       "short_affiliate_url": "https://reurl.cc/mzl88V",
       "ratings": {
@@ -154,7 +60,7 @@
       "cover_url": "covers/EUQ5p4r-sTOrGMsQYv7vEA.jpg",
       "sale_price": "NT$255",
       "sale_end": "8/21",
-      "description": "爸媽工作20年才懂的商業邏輯，孩子聽16個故事就學會！資訊爆炸、AI科技快速更迭的時代，單純的學業成績已不足以決定未來。與其讓孩子盲目摸索，不如從小訓練孩子的商業腦，打造一生受用的價值系統。 《富小孩的商業課1：沙漠的水一瓶一千元？看懂商業經營的16個模式》 由 郝旭烈＠著 出版社： 三采文化 查看電子書",
+      "description": "爸媽工作20年才懂的商業邏輯，孩子聽16個故事就學會！資訊爆炸、AI科技快速更迭的時代，單純的學業成績已不足以決定未來。與其讓孩子盲目摸索，不如從小訓練孩子的商業腦，打造一生受用的價值系統。 《富小孩的商業課1：沙漠的水一瓶一千元？看懂商業經營的16個模式》 由 郝旭烈＠著 出版社： 三采文化",
       "publish_date": "2026年8月7日",
       "short_affiliate_url": "https://reurl.cc/aE1OOQ",
       "ratings": {
@@ -166,7 +72,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://reurl.cc/90Rg7x"
+          "url": "https://www.books.com.tw/products/0011057995?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011057995"
         },
         "readmoo": {
           "score": null,
@@ -178,9 +84,9 @@
           "count": 0,
           "url": "https://www.goodreads.com/book/show/256423778-1",
           "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0HCZ7YFRN/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": null,
@@ -189,6 +95,100 @@
         }
       },
       "avg_score": null
+    },
+    {
+      "title": "把話說開的職場溝通術",
+      "author": "約書亞．葛瑞夫斯",
+      "original_title": "WE NEED TO TALK",
+      "original_author": "Joshua Graves",
+      "isbn": "9786264187480",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/qWCBUlySoEGnOORealVMuw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260831",
+      "kobo_price": "NT$435",
+      "cover_url": "covers/qWCBUlySoEGnOORealVMuw.jpg",
+      "sale_price": "NT$370",
+      "sale_end": "8/31",
+      "description": "很多人以為自己害怕衝突，其實真正令人害怕的，是不知道該如何在衝突中好好表達自己！本書結合心理學、神經科學，帶你看懂衝突背後的心理機制，學會在高壓、尷尬甚至劍拔弩張的情境中清楚表達需求與界線。 《把話說開的職場溝通術》 由 約書亞．葛瑞夫斯@著",
+      "publish_date": "2026年8月1日",
+      "short_affiliate_url": "https://reurl.cc/RRyazr",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/qWCBUlySoEGnOORealVMuw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260831"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/0011060578?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011060578"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null
+    },
+    {
+      "title": "植物妻子【諾貝爾文學獎得主韓江「植物性抗爭」的序曲，與《素食者》相互輝映的短篇集】",
+      "author": "한강(韓江)",
+      "original_title": "내 여자의 열매",
+      "original_author": null,
+      "isbn": "9786264450669",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1LejyfCO7TOTc3S6YFVNwQ",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/1LejyfCO7TOTc3S6YFVNwQ.jpg",
+      "sale_price": "NT$268",
+      "sale_end": "8/31",
+      "description": "◎〈童佛〉榮獲第 25 屆韓國小說文學獎，後於 2011 年改編為電影《傷痕》\n◎〈植物妻子〉與《素食者》互為表裡，是韓江植物變形主題的深刻初探\n一本凝視痛苦，卻仍相信生命會向光伸展的小說集。\n八則關於愛的失能、靈魂疏離與人如何在破碎中重新感受世界的寓言韓江作品。\n與震撼國際的巨作《素食者》相互呼應，選擇化身植物追求自由的妻子，一輩子專注於臨摹三千張佛像的母親，他們都帶著生活的傷痕，在孤獨與暴力的世界中沉浮，縱使靈魂快要枯萎，仍渴望擁抱生命的光亮。",
+      "publish_date": "2026年8月12日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/1LejyfCO7TOTc3S6YFVNwQ"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 18,
+          "url": "https://www.books.com.tw/products/0011059440?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011059440"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/18pDKN"
+        },
+        "goodreads": {
+          "score": 4.05,
+          "count": 224,
+          "url": "https://www.goodreads.com/book/show/29957046",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.goodreads.com/book/show/29957046"
+        }
+      },
+      "avg_score": 4.21,
+      "short_affiliate_url": "https://reurl.cc/DY4x4e"
     }
   ]
 }
