@@ -7,88 +7,89 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:《頭腦好的人說話前思考的事：第一本！將「思考
- 維度」融入於「溝通法則」的工具書》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/qa094D\
- n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qa094D
-UID:kobo99-2026-w34-01@kobo99-tracker
-DTSTAMP:20260820T040804Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:《正念老化：擺脫年齡焦慮，提早開始練習！透過
+ 覺察適應，愈老愈快樂》
+DESCRIPTION:特價 NT$99｜4.1分\nhttps://reurl.cc/WzNkGD\n查看當週各
+ 書評價: https://kobo99.com/
+URL:https://reurl.cc/WzNkGD
+UID:kobo99-2026-w35-01@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:《數據的假象：數據識讀是深度偽造時代最重要的
- 思辨素養，聰明決策不被操弄》
-DESCRIPTION:特價 NT$99｜原價 NT$336｜4.2分\nhttps://reurl.cc/Vn4GQ6\
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:《我們為什麼對好事麻木、對壞事容忍？：習慣化
+ 如何左右人生》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜4.1分\nhttps://reurl.cc/QNEjXZ\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Vn4GQ6
-UID:kobo99-2026-w34-02@kobo99-tracker
-DTSTAMP:20260820T040804Z
+URL:https://reurl.cc/QNEjXZ
+UID:kobo99-2026-w35-02@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:《皇后是这样炼成的》
-DESCRIPTION:特價 NT$99｜原價 NT$332\nhttps://reurl.cc/90RdLX\n查看
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:《人工智能未来简史：基于脑机接口的超人制造愿
+ 景》
+DESCRIPTION:特價 NT$99｜原價 NT$300\nhttps://reurl.cc/MWjb84\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/90RdLX
-UID:kobo99-2026-w34-03@kobo99-tracker
-DTSTAMP:20260820T040804Z
+URL:https://reurl.cc/MWjb84
+UID:kobo99-2026-w35-03@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:《迫在眉睫：美國五角大廈研究不明異常現象的絕
- 密內幕》
-DESCRIPTION:特價 NT$99｜原價 NT$434｜4.2分\nhttps://reurl.cc/GgKzLd\
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:《穿透〈心經〉：原來，你以為的只是假象》
+DESCRIPTION:特價 NT$99｜原價 NT$285｜4.2分\nhttps://reurl.cc/RRejze\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/GgKzLd
-UID:kobo99-2026-w34-04@kobo99-tracker
-DTSTAMP:20260820T040804Z
+URL:https://reurl.cc/RRejze
+UID:kobo99-2026-w35-04@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:《賣茶如金．席捲全球的秘史》
-DESCRIPTION:特價 NT$99｜原價 NT$480｜4.1分\nhttps://reurl.cc/EY1qLn\
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:《人類怎麼學：比大數據更重要的事，人類學教你
+ 顛覆成見、突破盲點的洞察思考》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜4.1分\nhttps://reurl.cc/qavOLn\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/EY1qLn
-UID:kobo99-2026-w34-05@kobo99-tracker
-DTSTAMP:20260820T040804Z
+URL:https://reurl.cc/qavOLn
+UID:kobo99-2026-w35-05@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:《比賽，從心開始》
-DESCRIPTION:特價 NT$99｜原價 NT$300｜4.2分\nhttps://reurl.cc/eQd07m\
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:《不安到受不了時，念念佛洛姆：首爾大學名師講
+ 座，帶你遠離焦慮與孤獨，發現內在力量的紙上哲學課
+ 》
+DESCRIPTION:特價 NT$99｜原價 NT$226｜4.2分\nhttps://reurl.cc/VnMjLY\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/eQd07m
-UID:kobo99-2026-w34-06@kobo99-tracker
-DTSTAMP:20260820T040804Z
+URL:https://reurl.cc/VnMjLY
+UID:kobo99-2026-w35-06@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:《跟達爾文學投資：取經大自然，從物競天擇脫穎
- 成為市場贏家！》
-DESCRIPTION:特價 NT$99｜原價 NT$364｜4.3分\nhttps://reurl.cc/WzveMk\
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:《前男友的遺書》
+DESCRIPTION:特價 NT$99｜原價 NT$238｜4.1分\nhttps://reurl.cc/903O4n\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/WzveMk
-UID:kobo99-2026-w34-07@kobo99-tracker
-DTSTAMP:20260820T040804Z
+URL:https://reurl.cc/903O4n
+UID:kobo99-2026-w35-07@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:《以粥養生：清代名著〈老老恆言〉粥品精選，保
- 健防老，調整體質，活得快樂又長壽》
-DESCRIPTION:特價 NT$99｜原價 NT$235｜4.1分\nhttps://reurl.cc/OQj2LA\
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:《深刻認識一個人：發現自己與他人的非凡之處》
+DESCRIPTION:特價 NT$99｜原價 NT$338｜4.3分\nhttps://reurl.cc/zODMYQ\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/OQj2LA
-UID:kobo99-2026-w34-08@kobo99-tracker
-DTSTAMP:20260820T040804Z
+URL:https://reurl.cc/zODMYQ
+UID:kobo99-2026-w35-08@kobo99-tracker
+DTSTAMP:20260827T052606Z
 END:VEVENT
 END:VCALENDAR
