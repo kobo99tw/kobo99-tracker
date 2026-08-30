@@ -347,6 +347,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
 </div>
 <div id="promoBar2">
   <span class="promo-text" id="promoBar2Text"></span>
+  <button class="promo-btn" id="promoBar2Copy" style="display:none" onclick="copyPromoCode(this)"></button>
   <a class="promo-link" id="promoBar2Link" href="#" target="_blank" rel="noopener" style="display:none">詳情 →</a>
   <button class="promo-btn" id="promoBar2Btn" style="display:none" onclick="openPromoModal2()">詳情 ▸</button>
   <button id="promoBar2Close" onclick="closePromoBar2()" title="關閉">✕</button>
@@ -786,7 +787,7 @@ function render() {
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
     const copyCodeBtn = book.promo_code
-      ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'香港')}用戶結帳時輸入此代碼">🇭🇰 複製代碼</button>`
+      ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'限定地區')}用戶結帳時輸入此代碼">🎟️ 複製代碼</button>`
       : '';
 
     const markBtns = `
@@ -920,6 +921,12 @@ loadData();
         const expired2 = cfg.promo2End && todayStr2 > cfg.promo2End;
         if (!expired2) {
           document.getElementById('promoBar2Text').textContent = cfg.promo2Text;
+          if (cfg.promo2Code) {
+            const cbtn2 = document.getElementById('promoBar2Copy');
+            cbtn2.textContent = `📋 ${cfg.promo2Code}`;
+            cbtn2.dataset.code = cfg.promo2Code;
+            cbtn2.style.display = '';
+          }
           if (cfg.promo2Desc) {
             document.getElementById('promoModal2Title').textContent  = cfg.promo2Text;
             document.getElementById('promoModal2Body').innerHTML = autolinkText(cfg.promo2Desc);
@@ -928,7 +935,7 @@ loadData();
           if (cfg.promo2Url) {
             const lnk2 = document.getElementById('promoBar2Link');
             lnk2.href = cfg.promo2Url;
-            lnk2.textContent = '購買連結 →';
+            lnk2.textContent = '活動介紹 →';
             lnk2.style.display = '';
           }
           document.getElementById('promoBar2').style.display = 'flex';

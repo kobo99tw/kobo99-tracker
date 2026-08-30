@@ -1,9 +1,37 @@
 [
   {
     "defaultSort": "avg",
+    "file": "theme_gaobao_wealth.json",
+    "headTitle": "高寶書版 創造財富書展",
+    "hide_after": "2026-10-11",
+    "key": "theme_gaobao_wealth",
+    "label": "【高寶書版】創造財富書展",
+    "sale": "單本85折起至10/11止",
+    "seoDesc": "整理高寶書版「創造財富」主題書展書單，單本85折起優惠至10/11止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購理財好書。",
+    "subtitle": "單本85折起至10/11止",
+    "tabEmoji": "💵",
+    "tabLabel": "高寶財富",
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/zbm-L-LH0Mk0egje-B5knA"
+  },
+  {
+    "defaultSort": "avg",
+    "file": "theme_bizweekly_wealth.json",
+    "headTitle": "設計你的富足人生 自我升級主題書展",
+    "hide_after": "2026-09-19",
+    "key": "theme_bizweekly_wealth",
+    "label": "【商業周刊】設計你的富足人生",
+    "sale": "單本85折至9/19止",
+    "seoDesc": "整理商業周刊「設計你的富足人生，自我升級」主題書展書單，單本85折優惠至9/19止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購好書。",
+    "subtitle": "單本85折至9/19止",
+    "tabEmoji": "💼",
+    "tabLabel": "商業周刊",
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/ny8qAfjVvsXQkwje_aWaRA"
+  },
+  {
+    "defaultSort": "avg",
     "file": "theme_yuanliou.json",
     "headTitle": "遠流出版全書系：單本85折",
-    "hide_after": "2026-09-02",
+    "hide_after": "2026-08-31",
     "key": "theme_yuanliou",
     "label": "【遠流出版】勇敢與世界對話",
     "sale": "單本85折，3本再折$99至8/31止",
