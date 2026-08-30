@@ -85,6 +85,11 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .promo-btn{color:#FED7AA;font-weight:700;white-space:nowrap;background:rgba(255,255,255,.18);
   padding:.18rem .65rem;border-radius:20px;border:none;cursor:pointer;font-size:.82rem;flex-shrink:0}
 .promo-btn:hover{background:rgba(255,255,255,.3)}
+@media(max-width:640px){
+  #promoBar,#promoBar2,#promoBar3{position:relative;padding:.45rem 2rem .45rem .75rem;gap:.4rem}
+  #promoBar .promo-text,#promoBar2 .promo-text,#promoBar3 .promo-text{width:100%;text-align:center}
+  #promoBarClose,#promoBar2Close,#promoBar3Close{position:absolute;top:.35rem;right:.4rem;margin-left:0}
+}
 #promoModal,#promoModal2,#promoModal3{display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.45);align-items:center;justify-content:center}
 #promoModal.open,#promoModal2.open,#promoModal3.open{display:flex}
 .promo-modal-box{background:#fff;border-radius:14px;padding:1.5rem 1.75rem;width:420px;max-width:92vw;max-height:80vh;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.2)}
