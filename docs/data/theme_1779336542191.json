@@ -1,100 +1,53 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-08-21T14:05:58.117317+08:00",
+  "updated_at": "2026-08-30T16:54:59.311832+08:00",
   "books": [
     {
-      "title": "惡意是怎麼形成的？",
-      "author": "班雅明‧E‧席比、莫頓‧摩沙根、英格‧策特勒",
-      "original_title": "Dark Factor - Die Essenz des Bösen in uns",
-      "original_author": "Benjamin E. Hilbig",
-      "isbn": "9786264600712",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vn6YGXio_j-Ts_KHbmphQA?sId=0b462a3a-9368-4f70-8593-76bdc4f969ee&ssId=f5621fVwi_L3LGs0DBTxu&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260820",
-      "kobo_price": "NT$340",
-      "cover_url": "covers/vn6YGXio_j-Ts_KHbmphQA.jpg",
-      "sale_price": "NT$289",
-      "sale_end": "8/20",
-      "description": "三位心理學家耗時15年，分析全球250萬人的研究資料，發現看似不同的黑暗人格，其實都指向同一個核心。本書能幫助你了解人性的邪惡本質、更快辨識風險。有些人，最好的相處方式，或許就是提早保持距離！ 《惡意是怎麼形成的？》 由 班雅明‧E‧席比, 莫頓‧摩沙根, 英格‧策特勒@著 出版社： 商周出版",
-      "publish_date": "2026年8月4日",
-      "short_affiliate_url": "https://reurl.cc/mzl88V",
+      "title": "自我批評也是愛，但不是我們要的愛",
+      "author": "戴蒙．札哈里斯",
+      "original_title": "Silence Your Inner Critic: a step-by-step guide to stopping negative self-talk, overcoming self-doubt, and embracing the power of self-acceptance!",
+      "original_author": "Damon Zahariades",
+      "isbn": "9786269316229",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/PjQxcMHLTjSNziMiltjL1Q",
+      "kobo_price": "NT$316",
+      "cover_url": "covers/PjQxcMHLTjSNziMiltjL1Q.jpg",
+      "sale_price": "NT$269",
+      "sale_end": "8/26",
+      "description": "深入意識，一一攻破自我懷疑心態，才能真正愛自己；每章附上具體的心理強化練習，帶你改變看待自己、愛自己的方式。內在批評像一把雙面刃，未仔細察覺就容易誤傷自己，本書溫柔引導你識別讓自己變得渺小的自我批評聲音，並提供切實步驟平息它、重塑它。《自我批評也是愛，但不是我們要的愛：一步一步克服自我懷疑，接納你就是你的美好和信心》 由 戴蒙．札哈里斯＠著 龐元媛＠譯 出版社： 真文化",
+      "publish_date": "2026年8月12日",
+      "short_affiliate_url": "https://reurl.cc/7Yd6D9",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/vn6YGXio_j-Ts_KHbmphQA?sId=0b462a3a-9368-4f70-8593-76bdc4f969ee&ssId=f5621fVwi_L3LGs0DBTxu&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260820"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/0011058800?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011058800"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 4.5,
-          "count": 4,
-          "url": "https://www.goodreads.com/book/show/230604921-dark-factor---die-essenz-des-b-sen-in-uns",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0F2VCCHJP/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 3.7,
-          "count": 6,
-          "url": "https://www.amazon.com/gp/product/B0F2VCCHJP/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.14
-    },
-    {
-      "title": "富小孩的商業課1：沙漠的水一瓶一千元？看懂商業經營的16個模式",
-      "author": "郝旭烈",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786264660433",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/EUQ5p4r-sTOrGMsQYv7vEA?sId=f7f5dcae-0239-48c9-9920-337cf6139925&ssId=MpDQdbdllpR21YZe1D03b&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260821",
-      "kobo_price": "NT$300",
-      "cover_url": "covers/EUQ5p4r-sTOrGMsQYv7vEA.jpg",
-      "sale_price": "NT$255",
-      "sale_end": "8/21",
-      "description": "爸媽工作20年才懂的商業邏輯，孩子聽16個故事就學會！資訊爆炸、AI科技快速更迭的時代，單純的學業成績已不足以決定未來。與其讓孩子盲目摸索，不如從小訓練孩子的商業腦，打造一生受用的價值系統。 《富小孩的商業課1：沙漠的水一瓶一千元？看懂商業經營的16個模式》 由 郝旭烈＠著 出版社： 三采文化",
-      "publish_date": "2026年8月7日",
-      "short_affiliate_url": "https://reurl.cc/aE1OOQ",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/EUQ5p4r-sTOrGMsQYv7vEA?sId=f7f5dcae-0239-48c9-9920-337cf6139925&ssId=MpDQdbdllpR21YZe1D03b&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260821"
+          "url": "https://www.kobo.com/tw/zh/ebook/PjQxcMHLTjSNziMiltjL1Q"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0011057995?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011057995"
+          "url": "https://www.books.com.tw/products/E050350086?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050350086"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://readmoo.com/book/210492245000101"
+          "url": "https://moo.im/a/37crJO"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.goodreads.com/book/show/256423778-1",
-          "note": "re-fetch",
-          "amazon_url": "",
+          "score": 3.84,
+          "count": 44,
+          "url": "https://www.goodreads.com/book/show/239418804-silence-your-inner-critic",
+          "note": "使用者提供並人工核對書名/作者一致",
+          "amazon_url": "https://www.amazon.com/dp/B0FK5PTTL5",
           "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%83%9D%E6%97%AD%E7%83%88-ebook/dp/B0HCZ7YFRN/ref=sr_1_1"
+          "score": 4.3,
+          "count": 82,
+          "url": "https://www.amazon.com/dp/B0FK5PTTL5"
         }
       },
-      "avg_score": null
+      "avg_score": 4.16
     },
     {
       "title": "把話說開的職場溝通術",
@@ -119,7 +72,147 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/0011060578?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011060578"
+          "url": "https://www.books.com.tw/products/E050354440?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050354440"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/1bstAV"
+        },
+        "goodreads": {
+          "score": 2.5,
+          "count": 2,
+          "url": "https://www.goodreads.com/book/show/223926126-we-need-to-talk?from_search=true&from_srp=true&qid=AbwDiSOcjX&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DVM1N1G7/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 30,
+          "url": "https://www.amazon.com/-/zh_TW/Joshua-Graves-ebook/dp/B0DVM1N1G7/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.18
+    },
+    {
+      "title": "植物妻子",
+      "author": "韓江",
+      "original_title": "내 여자의 열매",
+      "original_author": null,
+      "isbn": "9786264092616",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/16WeVLLeOz-tXUc5cn7lNQ?sId=a92c3837-66eb-40a1-b4b3-308812bd9c0a&ssId=-aexHpkaOzJX3euGH8WJ3&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/16WeVLLeOz-tXUc5cn7lNQ.jpg",
+      "sale_price": "NT$268",
+      "sale_end": "8/31",
+      "description": "韓江作品。與震撼國際的巨作《素食者》相互呼應，選擇化身植物追求自由的妻子，一輩子專注於臨摹三千張佛像的母親，他們都帶著生活的傷痕，在孤獨與暴力的世界中沉浮，縱使靈魂快要枯萎，仍渴望擁抱生命的光亮。 《植物妻子》 由 韓江@著 出版社： 漫遊者文化 查看電子書",
+      "publish_date": "2026年8月12日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/16WeVLLeOz-tXUc5cn7lNQ?sId=a92c3837-66eb-40a1-b4b3-308812bd9c0a&ssId=-aexHpkaOzJX3euGH8WJ3&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 18,
+          "url": "https://www.books.com.tw/products/0011059440?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011059440"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/18pDKN"
+        },
+        "goodreads": {
+          "score": 4.06,
+          "count": 226,
+          "url": "https://www.goodreads.com/book/show/29957046",
+          "note": "使用者提供並人工核對韓文原文書名一致",
+          "amazon_url": "https://www.amazon.com/dp/B00JLAC9MW",
+          "confidence": 85,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/dp/B00JLAC9MW"
+        }
+      },
+      "avg_score": 4.24,
+      "short_affiliate_url": "https://reurl.cc/6XdAlO"
+    },
+    {
+      "title": "心理治療師都在做的正向改變練習",
+      "author": "丹．托馬蘇洛 Dan Tomasulo",
+      "original_title": "Learned Hopefulness: The Power of Positivity to Overcome Depression",
+      "original_author": "Dan Tomasulo",
+      "isbn": "9786267862728",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/g8EtkQYU0Ta0mjRUfLxt1w?sId=a0c3b869-2542-41db-bdc0-e1257e17239c&ssId=G8hwBCYPmuHxx-PadIAcm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/g8EtkQYU0Ta0mjRUfLxt1w.jpg",
+      "sale_price": "NT$226",
+      "sale_end": "9/3",
+      "description": "心理治療師親身走過重度憂鬱，將自我復原歷程結合科學研究，整理出7堂啟動神經可塑性的正向練習。打破負面思考慣性，你將開始改變：不再總是往壞處想，習慣期待好事發生；不再讓糟糕的今天，決定你的明天！ 《心理治療師都在做的正向改變練習》 由 丹．托馬蘇洛＠著 出版社： 商業周刊 查看電子書",
+      "publish_date": "2026年8月20日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/g8EtkQYU0Ta0mjRUfLxt1w?sId=a0c3b869-2542-41db-bdc0-e1257e17239c&ssId=G8hwBCYPmuHxx-PadIAcm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050352120?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050352120"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/9aszAS"
+        },
+        "goodreads": {
+          "score": 4.14,
+          "count": 267,
+          "url": "https://www.goodreads.com/book/show/51043829-learned-hopefulness?from_search=true&from_srp=true&qid=LjzTAHYNaa&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B07YW6G9V2/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 224,
+          "url": "https://www.amazon.com/gp/product/B07YW6G9V2/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.24,
+      "short_affiliate_url": "https://reurl.cc/1lbr4V"
+    },
+    {
+      "title": "我看起來很好欺負嗎？",
+      "author": "耿向順",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267880838",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/EFnY52nwZzKYy_8GJRGbag?sId=3dcb0450-9e9c-481f-91e1-d9e5e17a2a1d&ssId=exD3ZAPXxNGxm8CATa-wm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$340",
+      "cover_url": "covers/EFnY52nwZzKYy_8GJRGbag.jpg",
+      "sale_price": "NT$289",
+      "sale_end": "9/9",
+      "description": "吞下委屈，只會養大別人的貪婪。從討好型變討伐型，逆天改命，掌握命運！這一次，我們甩開軟柿子的好掐好捏，練就強者的自信從容，脫掉軟柿子外衣的那一刻，就是改寫命運的開始。 《我看起來很好欺負嗎？》 由 耿向順＠著 出版社： 野人 查看電子書 Tags 獨家優惠 分享這篇文章 分享到 Facebook Share via Email Related articles 造訪連結 【本月推薦書單】地圖上沒有的路——沒有被寫進課本的山海與歸途 說到台灣文學，你馬上會想到哪幾個作者或者哪幾本代表書籍？如果提及原住民文學，你腦海中又會浮現哪幾本書？或是毫無頭緒呢？原住民的語言沒有文字，所有的知識傳承與文化習俗，全仰賴部落族系的口述傳承以及日常生活中的體驗式學習。然而",
+      "publish_date": "2026年8月25日",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/EFnY52nwZzKYy_8GJRGbag?sId=3dcb0450-9e9c-481f-91e1-d9e5e17a2a1d&ssId=exD3ZAPXxNGxm8CATa-wm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/products/E050352179?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050352179"
         },
         "readmoo": {
           "score": null,
@@ -141,54 +234,8 @@
           "url": ""
         }
       },
-      "avg_score": null
-    },
-    {
-      "title": "植物妻子【諾貝爾文學獎得主韓江「植物性抗爭」的序曲，與《素食者》相互輝映的短篇集】",
-      "author": "한강(韓江)",
-      "original_title": "내 여자의 열매",
-      "original_author": null,
-      "isbn": "9786264450669",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1LejyfCO7TOTc3S6YFVNwQ",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/1LejyfCO7TOTc3S6YFVNwQ.jpg",
-      "sale_price": "NT$268",
-      "sale_end": "8/31",
-      "description": "◎〈童佛〉榮獲第 25 屆韓國小說文學獎，後於 2011 年改編為電影《傷痕》\n◎〈植物妻子〉與《素食者》互為表裡，是韓江植物變形主題的深刻初探\n一本凝視痛苦，卻仍相信生命會向光伸展的小說集。\n八則關於愛的失能、靈魂疏離與人如何在破碎中重新感受世界的寓言韓江作品。\n與震撼國際的巨作《素食者》相互呼應，選擇化身植物追求自由的妻子，一輩子專注於臨摹三千張佛像的母親，他們都帶著生活的傷痕，在孤獨與暴力的世界中沉浮，縱使靈魂快要枯萎，仍渴望擁抱生命的光亮。",
-      "publish_date": "2026年8月12日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/1LejyfCO7TOTc3S6YFVNwQ"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 18,
-          "url": "https://www.books.com.tw/products/0011059440?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011059440"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/18pDKN"
-        },
-        "goodreads": {
-          "score": 4.05,
-          "count": 224,
-          "url": "https://www.goodreads.com/book/show/29957046",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.goodreads.com/book/show/29957046"
-        }
-      },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/DY4x4e"
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/KElVjg"
     }
   ]
 }
