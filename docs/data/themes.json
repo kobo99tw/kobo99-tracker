@@ -86,6 +86,7 @@
   {
     "file": "theme_1779353467078.json",
     "headTitle": "本週精選書單",
+    "hidden": true,
     "key": "theme_1779353467078",
     "label": "【8/24-8/30精選書單】",
     "promo_code": "WKSelect0824",
