@@ -1,5 +1,18 @@
 [
   {
+    "defaultSort": "order",
+    "file": "theme_kobo_top100.json",
+    "headTitle": "Kobo歷年百大暢銷",
+    "key": "theme_kobo_top100",
+    "label": "【Kobo歷年百大暢銷】",
+    "sale": "Kobo即時排行榜．10週年慶全站73折代碼10HBD可用（至9/10止）",
+    "seoDesc": "整理 Kobo 歷年百大暢銷書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購經典好書，適用 Kobo 10週年慶全站73折代碼 10HBD（至9/10止）。",
+    "subtitle": "Kobo即時排行榜．10週年慶全站73折代碼10HBD可用（至9/10止）",
+    "tabEmoji": "💯",
+    "tabLabel": "歷年百大",
+    "url": "https://www.kobo.com/tw/zh/list/sep-10hbd/dLL5Emr5BMMGBgje9DUvZQ"
+  },
+  {
     "defaultSort": "avg",
     "file": "theme_gaobao_wealth.json",
     "headTitle": "高寶書版 創造財富書展",

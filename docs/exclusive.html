@@ -434,8 +434,8 @@ function onSearchInput() {
 }
 
 // 主題分類篩選（v127，目前只有遠流出版有 category 欄位，其他主題自動不顯示）
-const CATEGORY_ORDER = ['理財投資','管理創業','學習思考力','溝通談判','行銷品牌','人生智慧'];
-const CATEGORY_EMOJI = {'理財投資':'💰','管理創業':'🏢','學習思考力':'🧠','溝通談判':'🗣️','行銷品牌':'📢','人生智慧':'✨'};
+const CATEGORY_ORDER = ['理財投資','管理創業','學習思考力','溝通談判','行銷品牌','人生智慧','商業管理','投資理財','自我成長','情緒心理','知識人文','小說文學','傳記回憶錄','科幻奇幻','推理懸疑','漫畫','其他'];
+const CATEGORY_EMOJI = {'理財投資':'💰','管理創業':'🏢','學習思考力':'🧠','溝通談判':'🗣️','行銷品牌':'📢','人生智慧':'✨','投資理財':'💰','商業管理':'🏢','情緒心理':'🧠','自我成長':'🌱','小說文學':'📖','知識人文':'🌍','傳記回憶錄':'🎤','科幻奇幻':'🚀','推理懸疑':'🔍','漫畫':'🎨','其他':'📚'};
 let categoryFilter = '';
 function onCategoryClick(cat) {
   categoryFilter = (categoryFilter === cat) ? '' : cat;
@@ -553,6 +553,7 @@ function render() {
     let html = `<button class="filter-btn${categoryFilter === '' ? ' active' : ''}" onclick="onCategoryClick('')">全部 (${books.length})</button>`;
     CATEGORY_ORDER.forEach(cat => {
       const n = counts[cat] || 0;
+      if (n === 0) return;
       const active = categoryFilter === cat ? ' active' : '';
       html += `<button class="filter-btn${active}" onclick="onCategoryClick('${cat}')">${CATEGORY_EMOJI[cat] || ''} ${cat} (${n})</button>`;
     });
