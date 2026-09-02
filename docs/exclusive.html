@@ -751,24 +751,23 @@ async function copyPromoCode() {
     window.getSelection().addRange(range);
   }
 }
-// 單本書價格下方的折扣碼提示：點擊後就地展開小卡片顯示代碼＋複製鈕，
-// 不用像原本那樣點了才發現複製成功訊息只出現在頁面最上方看不到
-// （使用者2026-09-03反映：書卡片在頁面很下面時，點擊複製看不到頂部按鈕的回饋）
+// 單本書價格下方的折扣碼提示：點下去直接複製到剪貼簿，回饋文字直接改在
+// 使用者剛剛點的那個連結上（不用捲到頁面最上方才看得到）——原本v155做成
+// 點下去展開一張說明卡片，使用者反映介面太複雜，改回單純點擊直接複製
+// （2026-09-03）
 function bookPromoWidget(idx) {
-  const code   = esc(window._themePromoCode || '');
-  const period = esc(window._themePromoPeriod || '');
-  return `<span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="toggleBookPromo(${idx})">↑ 複製折扣碼</span>
-    <div id="bookPromo${idx}" style="display:none;margin-top:.3rem;padding:.4rem .6rem;background:var(--card-bg2,#f4f4f4);border-radius:6px;font-size:.75rem;align-items:center;gap:.4rem;flex-wrap:wrap">
-      <span>🏷️ ${period} 折扣碼：<b>${code}</b></span>
-      <button class="copy-btn" data-code="${code}" onclick="copyBannerCode(this)" style="margin:0 .3rem">📋 複製</button>
-      <span style="color:var(--ink3)">結帳時貼上套用折扣</span>
-      <span style="cursor:pointer;color:var(--ink3);text-decoration:underline" onclick="document.getElementById('bookPromo${idx}').style.display='none'">取消</span>
-    </div>`;
+  return `<span id="bookPromo${idx}" style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="copyBookPromo(${idx})">↑ 複製折扣碼</span>`;
 }
-function toggleBookPromo(idx) {
+async function copyBookPromo(idx) {
   const el = document.getElementById('bookPromo' + idx);
   if (!el) return;
-  el.style.display = (el.style.display === 'none' || !el.style.display) ? 'flex' : 'none';
+  const code = window._themePromoCode || '';
+  try {
+    await navigator.clipboard.writeText(code);
+    const orig = el.textContent;
+    el.textContent = '✓ 已複製折扣碼';
+    setTimeout(() => { el.textContent = orig; }, 1500);
+  } catch(e) {}
 }
 
 loadData();

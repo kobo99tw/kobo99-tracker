@@ -1,185 +1,97 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue",
-  "updated_at": "2026-05-22T00:04:18.435189+08:00",
+  "updated_at": "2026-09-03T01:49:23.363506+08:00",
   "books": [
     {
       "title": "臺灣漫遊錄",
       "author": "楊双子",
       "original_title": "台湾漫遊録",
+      "original_author": "Yáng Shuāng-zǐ",
       "isbn": "9789869866262",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/oh0kIn8V6DmxPOMSGtsPXA?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Shuang-zi",
       "kobo_price": "NT$266",
       "cover_url": "covers/oh0kIn8V6DmxPOMSGtsPXA.jpg",
-      "sale_price": "NT$226",
+      "sale_price": "",
+      "price_source": "kobo",
       "sale_end": "",
-      "description": "臺灣文學第一本\n2024****美國國家圖書獎翻譯文學大獎\n2024****日本翻譯大賞\n2021****臺灣金鼎獎文學圖書獎\n昭和臺灣縱貫鐵道美食之旅",
+      "description": "2024**美國國家圖書獎翻譯文學大獎 2021臺灣金鼎獎文學圖書獎 「我們一起吃遍臺島吧！」**――青山千鶴子（日本九州小說家） 「這個世間，再也沒有比自以為是的善意更難拒絕的燙手山芋了。",
       "publish_date": "2020年3月31日",
+      "last_updated": "2026-09-03T01:49:23.363506+08:00",
+      "short_affiliate_url": "https://reurl.cc/r0mmp4",
+      "genre_tags": [
+        "小說與文學",
+        "LGBT",
+        "女同性戀",
+        "小說與文學"
+      ],
       "ratings": {
         "kobo": {
-          "score": 4.65,
-          "count": 178,
+          "score": 4.64,
+          "count": 189,
           "url": "https://www.kobo.com/tw/zh/ebook/oh0kIn8V6DmxPOMSGtsPXA?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Shuang-zi"
         },
         "books_com": {
           "score": 4.5,
-          "count": 181,
-          "url": "https://www.books.com.tw/products/0010852315"
+          "count": 189,
+          "url": "https://reurl.cc/jV9gV2"
         },
         "readmoo": {
           "score": 4.8,
-          "count": 2050,
-          "url": "https://moo.im/a/stxEVZ",
-          "raw_url": "https://readmoo.com/book/210136729000101"
+          "count": 2164,
+          "url": "https://moo.im/a/stxEVZ"
         },
         "goodreads": {
-          "score": 3.98,
-          "count": 15355,
+          "score": 3.97,
+          "count": 18086,
           "url": "https://www.goodreads.com/book/isbn/9789869866262",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D9F5ZHL4/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 330,
-          "url": "https://www.amazon.co.jp/-/zh/dp/412005652X/ref=sr_1_2"
-        }
-      },
-      "avg_score": 4.43,
-      "short_affiliate_url": "https://reurl.cc/r0mmp4",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Foh0kIn8V6DmxPOMSGtsPXA",
-      "original_author": "Yáng Shuāng-zǐ",
-      "last_updated": "2026-09-02T23:26:53.258344+08:00"
-    },
-    {
-      "title": "Taiwan Travelogue",
-      "author": "Yáng Shuāng-zǐ",
-      "original_title": "Winner of the 2026 International Booker Prize",
-      "isbn": "9781916751668",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue-3?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Shuang-zi_ennew",
-      "kobo_price": "NT$490",
-      "cover_url": "covers/taiwan-travelogue-3.jpg",
-      "sale_price": "NT$417",
-      "sale_end": "",
-      "description": "Shortlisted for the International Booker Prize 2026",
-      "publish_date": "2026年2月24日",
-      "ratings": {
-        "kobo": {
-          "score": 3.92,
-          "count": 25,
-          "url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue-3?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Shuang-zi_ennew"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/F01c481973"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/26lTUW",
-          "raw_url": "https://readmoo.com/book/210067393000101"
-        },
-        "goodreads": {
-          "score": 3.98,
-          "count": 15355,
-          "url": "https://www.goodreads.com/book/show/205363984-taiwan-travelogue?from_search=true&from_srp=true&qid=ynVZ4puShm&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D9F5ZHL4/ref=x_gr_bb_kindle",
-          "confidence": 60,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 36,
-          "url": "https://a.co/d/0d18EczM"
-        }
-      },
-      "avg_score": 4.1,
-      "short_affiliate_url": "https://reurl.cc/5366ez",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Ftaiwan-travelogue-3",
-      "original_author": "Yáng Shuāng-zǐ",
-      "last_updated": "2026-09-02T23:26:53.258344+08:00"
-    },
-    {
-      "title": "Taiwan Travelogue",
-      "author": "Shuang-zi Yang",
-      "original_title": "A Novel",
-      "isbn": "9781644453162",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_en",
-      "kobo_price": "NT$415",
-      "cover_url": "covers/taiwan-travelogue.jpg",
-      "sale_price": "NT$340",
-      "sale_end": "",
-      "description": "WINNER OF THE 2024 NATIONAL BOOK AWARD FOR TRANSLATED LITERATURE\nWINNER OF THE 2026 INTERNATIONAL BOOKER PRIZE\nA bittersweet story of love between two women, nested in an artful exploration of language, history, and power",
-      "publish_date": "2024年11月12日",
-      "ratings": {
-        "kobo": {
-          "score": 4.29,
-          "count": 59,
-          "url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_en"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/products/F01a647796"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/26lTUW",
-          "raw_url": "https://readmoo.com/book/210067393000101"
-        },
-        "goodreads": {
-          "score": 4.0,
-          "count": 10311,
-          "url": "https://www.goodreads.com/book/isbn/9781644453162",
           "note": "re-fetch",
           "amazon_url": "",
           "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 647,
-          "url": "https://www.amazon.com/-/zh_TW/Taiwan-Travelogue-Novel-Shuang-zi-Yang/dp/1644453150/ref=sr_1_1"
+          "score": 4.5,
+          "count": 353,
+          "url": "https://www.amazon.co.jp/-/zh/dp/412005652X/ref=sr_1_1"
         }
       },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/2a22XO",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2Ftaiwan-travelogue",
-      "original_author": "Shuang-zi Yang",
-      "last_updated": "2026-09-02T23:26:53.258344+08:00"
+      "avg_score": 4.43
     },
     {
       "title": "臺灣漫遊錄（特別收錄作者楊双子親唸〈後記〉）",
       "author": "楊双子",
       "original_title": "",
+      "original_author": null,
       "isbn": "9786267440858",
       "kobo_url": "https://www.kobo.com/tw/zh/audiobook/XOXPa_5BZjucbRJMATdoKg?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_audiobook",
-      "kobo_price": "NT$383",
+      "kobo_price": "NT$450",
       "cover_url": "covers/XOXPa_5BZjucbRJMATdoKg.jpg",
       "sale_price": "",
+      "price_source": "kobo",
       "sale_end": "",
-      "description": "有聲書由鏡好聽主播張怡沁颯爽詮釋，特別收錄楊双子朗讀〈後記〉，以及楊双子與蔡珠兒暢談本書創作理念。\n----\n【有聲書特色】\n✓ 作者楊双子朗讀〈後記〉\n✓ 特別收錄：楊双子X蔡珠兒談《臺灣漫遊錄》",
+      "description": "臺灣文學第一本，2024美國國家圖書獎翻譯文學大獎、2024日本翻譯大賞、2021臺灣金鼎獎文學圖書獎。昭和臺灣縱貫鐵道美食之旅，楊双子《臺灣漫遊錄》華麗面世。",
       "publish_date": "2025年5月12日",
+      "last_updated": "2026-09-03T01:49:23.363506+08:00",
+      "short_affiliate_url": "https://reurl.cc/0m55Lb",
+      "genre_tags": [
+        "小說與文學"
+      ],
+      "format": "audiobook",
       "ratings": {
         "kobo": {
-          "score": 4.0,
+          "score": 3.78,
           "count": 9,
           "url": "https://www.kobo.com/tw/zh/audiobook/XOXPa_5BZjucbRJMATdoKg?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_audiobook"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E070006758"
+          "url": "https://reurl.cc/Lea7ex"
         },
         "readmoo": {
           "score": 4.9,
-          "count": 70,
-          "url": "https://moo.im/a/4delxZ",
-          "raw_url": "https://readmoo.com/book/290387804000101"
+          "count": 80,
+          "url": "https://moo.im/a/4delxZ"
         },
         "goodreads": {
           "score": null,
@@ -191,29 +103,33 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.amazon.com/-/zh_TW/%E6%A5%8A-%E5%8F%8C%E5%AD%90-ebook/dp/B0G8JLXM6H/ref=sr_1_1"
         }
       },
-      "avg_score": 4.25,
-      "short_affiliate_url": "https://reurl.cc/0m55Lb",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Faudiobook%2FXOXPa_5BZjucbRJMATdoKg",
-      "original_author": "",
-      "last_updated": "2026-09-02T23:26:53.258344+08:00"
+      "avg_score": 4.2
     },
     {
       "title": "花開時節（全新修訂版）",
       "author": "楊双子",
       "original_title": "",
+      "original_author": "Yáng Shuāng-zǐ",
       "isbn": "9786267739693",
       "kobo_url": "https://www.kobo.com/tw/zh/audiobook/Op18wU8UUzKBXB5eQ2kgbg?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_audiobook",
-      "kobo_price": "NT$391",
+      "kobo_price": "NT$460",
       "cover_url": "covers/Op18wU8UUzKBXB5eQ2kgbg.jpg",
       "sale_price": "",
+      "price_source": "kobo",
       "sale_end": "",
-      "description": "「這是花開時節，也是花落時節。」美國國家圖書獎得主楊双子第一部長篇歷史小說。有聲書由專業配音員郭雅瑂傾心演繹，靈活的情緒轉換與流利優美的台語詮釋，帶領我們穿越時空、走進花季，見證美麗與淚水交織的少女之愛，以及臺灣女性殊異卻又各自美麗綻放的生命史。",
+      "description": "「這是花開時節，也是花落時節。」美國國家圖書獎得主楊双子第一部長篇歷史小說。",
       "publish_date": "2026年3月25日",
+      "last_updated": "2026-09-03T01:49:23.363506+08:00",
+      "short_affiliate_url": "https://reurl.cc/6G11WO",
+      "genre_tags": [
+        "小說與文學"
+      ],
+      "format": "audiobook",
       "ratings": {
         "kobo": {
           "score": null,
@@ -221,19 +137,18 @@
           "url": "https://www.kobo.com/tw/zh/audiobook/Op18wU8UUzKBXB5eQ2kgbg?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_audiobook"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 7,
-          "url": "https://www.books.com.tw/products/E050308130"
+          "score": 5.0,
+          "count": 8,
+          "url": "https://reurl.cc/XxAlxM"
         },
         "readmoo": {
           "score": 4.9,
-          "count": 72,
-          "url": "https://moo.im/a/lLQSYZ",
-          "raw_url": "https://readmoo.com/book/210435886000101"
+          "count": 73,
+          "url": "https://moo.im/a/lLQSYZ"
         },
         "goodreads": {
-          "score": 4.04,
-          "count": 52,
+          "score": 4.06,
+          "count": 54,
           "url": "https://www.goodreads.com/book/show/245459468?from_search=true&from_srp=true&qid=qGnJLlpq9O&rank=1",
           "note": "re-fetch",
           "amazon_url": "",
@@ -243,27 +158,31 @@
         "amazon_com": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A5%8A-%E5%8F%8C%E5%AD%90-ebook/dp/B0G8JLXM6H/ref=sr_1_1"
+          "url": "https://www.amazon.com/%E8%8A%B1%E9%96%8B%E6%99%82%E7%AF%80%EF%BC%88%E5%85%A8%E6%96%B0%E4%BF%AE%E8%A8%82%E7%89%88%EF%BC%89-Traditional-Chinese-%E6%98%A5%E5%B1%B1%E6%96%87%E8%97%9DLiterati-Book-ebook/dp/B0G8JLXM6H/ref=sr_1_1"
         }
       },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/6G11WO",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Faudiobook%2FOp18wU8UUzKBXB5eQ2kgbg",
-      "original_author": "Yáng Shuāng-zǐ",
-      "last_updated": "2026-09-02T23:26:53.258344+08:00"
+      "avg_score": 4.23
     },
     {
       "title": "我家住在張日興隔壁",
       "author": "楊双子",
       "original_title": "",
+      "original_author": "Yáng Shuāng-zǐ",
       "isbn": "9786267054765",
       "kobo_url": "https://www.kobo.com/tw/zh/audiobook/814Nie6R-DO4JwZ0A5XZWA?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_audiobook",
-      "kobo_price": "NT$281",
+      "kobo_price": "NT$330",
       "cover_url": "covers/814Nie6R-DO4JwZ0A5XZWA.jpg",
       "sale_price": "",
+      "price_source": "kobo",
       "sale_end": "",
-      "description": "「我們」成為「我」之後，她仍彷彿兩個人並肩而立。\n\n由鏡好聽聲音主播張怡沁，掏空自己傾心投入，以眼淚與愛真誠展演。",
+      "description": "「我們」成為「我」之後，她仍彷彿兩個人並肩而立。由鏡好聽聲音主播張怡沁，掏空自己傾心投入，以眼淚與愛真誠展演。",
       "publish_date": "2022年9月25日",
+      "last_updated": "2026-09-03T01:49:23.363506+08:00",
+      "short_affiliate_url": "https://reurl.cc/grOO9X",
+      "genre_tags": [
+        "小說與文學"
+      ],
+      "format": "audiobook",
       "ratings": {
         "kobo": {
           "score": 5.0,
@@ -273,17 +192,16 @@
         "books_com": {
           "score": 5.0,
           "count": 17,
-          "url": "https://www.books.com.tw/products/E050082679"
+          "url": "https://reurl.cc/beWner"
         },
         "readmoo": {
           "score": 4.8,
           "count": 19,
-          "url": "https://moo.im/a/1qEGLR",
-          "raw_url": "https://readmoo.com/book/290247119000101"
+          "url": "https://moo.im/a/1qEGLR"
         },
         "goodreads": {
-          "score": 4.19,
-          "count": 75,
+          "score": 4.2,
+          "count": 83,
           "url": "https://www.goodreads.com/book/show/57070552",
           "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B08W2LVGP8/ref=x_gr_bb_kindle",
@@ -291,16 +209,125 @@
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 9,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A5%8A%E5%8F%8C%E5%AD%90-ebook/dp/B08W2LVGP8/ref=sr_1_1"
+          "score": 4.8,
+          "count": 10,
+          "url": "https://www.amazon.com/%E6%88%91%E5%AE%B6%E4%BD%8F%E5%9C%A8%E5%BC%B5%E6%97%A5%E8%88%88%E9%9A%94%E5%A3%81-Traditional-Chinese-%E6%A5%8A%E5%8F%8C%E5%AD%90-ebook/dp/B08W2LVGP8/ref=sr_1_1"
         }
       },
-      "avg_score": 4.22,
-      "short_affiliate_url": "https://reurl.cc/grOO9X",
-      "affiliate_url": "https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Faudiobook%2F814Nie6R-DO4JwZ0A5XZWA",
+      "avg_score": 4.23
+    },
+    {
+      "title": "Taiwan Travelogue",
+      "author": "Yáng Shuāng-zǐ",
+      "original_title": "Winner of the 2026 International Booker Prize",
       "original_author": "Yáng Shuāng-zǐ",
-      "last_updated": "2026-09-02T23:26:53.258344+08:00"
+      "isbn": "9781916751668",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue-3?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Shuang-zi_ennew",
+      "kobo_price": "NT$417",
+      "cover_url": "covers/taiwan-travelogue-3.jpg",
+      "sale_price": "",
+      "price_source": "kobo",
+      "sale_end": "",
+      "description": "Winner of the International Booker Prize 2026 Disguised as a translation of a rediscovered text by a Japanese writer,Taiwan Travelogueis a bittersweet story of love between two women, nested in an art…",
+      "publish_date": "2026年2月24日",
+      "last_updated": "2026-09-03T01:49:23.363506+08:00",
+      "short_affiliate_url": "https://reurl.cc/5366ez",
+      "genre_tags": [
+        "小說與文學",
+        "LGBT",
+        "小說與文學",
+        "文學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": 4.04,
+          "count": 27,
+          "url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue-3?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Shuang-zi_ennew"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/om8xm3"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/26lTUW"
+        },
+        "goodreads": {
+          "score": 3.97,
+          "count": 18086,
+          "url": "https://www.goodreads.com/book/show/205363984-taiwan-travelogue?from_search=true&from_srp=true&qid=z5TSMQGapS&rank=1",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D9F5ZHL4/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 1141,
+          "url": "https://www.amazon.com/-/zh_TW/Shuang-zi-Yang-ebook/dp/B0D9F5ZHL4/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.17
+    },
+    {
+      "title": "Taiwan Travelogue",
+      "author": "Shuang-zi Yang",
+      "original_title": "Taiwan Travelogue: A Novel",
+      "original_author": "Shuang-zi Yang",
+      "isbn": "9781644453162",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_en",
+      "kobo_price": "NT$342",
+      "cover_url": "covers/taiwan-travelogue.jpg",
+      "sale_price": "",
+      "price_source": "kobo",
+      "sale_end": "",
+      "description": "WINNER OF THE 2024 NATIONAL BOOK AWARD FOR TRANSLATED LITERATUREWINNER OF THE 2026 INTERNATIONAL BOOKER PRIZE A bittersweet story of love between two women, nested in an artful exploration of language…",
+      "publish_date": "2024年11月12日",
+      "last_updated": "2026-09-03T01:49:23.363506+08:00",
+      "short_affiliate_url": "https://reurl.cc/2a22XO",
+      "genre_tags": [
+        "小說與文學",
+        "LGBT",
+        "女同性戀",
+        "小說與文學",
+        "歷史文學",
+        "小說與文學",
+        "文學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": 4.32,
+          "count": 63,
+          "url": "https://www.kobo.com/tw/zh/ebook/taiwan-travelogue?=undefined&utm_source=twblog&utm_medium=booklist&utm_campaign=Yang+Sh_uang-zi_en"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://reurl.cc/yWRell"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/26lTUW"
+        },
+        "goodreads": {
+          "score": 3.97,
+          "count": 18086,
+          "url": "https://www.goodreads.com/book/show/205363984-taiwan-travelogue",
+          "note": "same-work-as-9781916751668（同書不同版本，共用GR作品評分，人工核對修正2026-09-03）",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D9F5ZHL4/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 1141,
+          "url": "https://www.amazon.com/-/zh_TW/Taiwan-Travelogue-Novel-Shuang-zi-Yang/dp/1644453150/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.2
     }
   ]
 }

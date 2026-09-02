@@ -792,7 +792,7 @@ function render() {
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
     const copyCodeBtn = book.promo_code
-      ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'限定地區')}用戶結帳時輸入此代碼">🎟️ 複製代碼</button>`
+      ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'限定地區')}用戶結帳時輸入此代碼">🎟️ 複製99折扣代碼</button>`
       : '';
 
     const markBtns = `
