@@ -324,7 +324,7 @@ footer .feedback-btn:hover{background:rgba(0,0,0,.05)}
   <a href="https://readmoo.com" target="_blank">讀墨</a>、
   <a href="https://www.goodreads.com" target="_blank">Goodreads</a>、
   <a href="https://www.amazon.com" target="_blank">Amazon</a><br>
-  評分為自動抓取，僅供參考。價格資訊以 Kobo 官網為準。<br>
+  評分與相關資訊整理自各大網站，僅供參考，可能有時間差或誤差。價格、優惠、庫存等實際交易內容，請以各大官網當下顯示為準。<br>
   <a href="/">← 回到每週 99 書單</a>
 </footer>
 
@@ -379,16 +379,11 @@ function parsePrices(book) {
     if (m) origAmt = parseInt(m[0].replace(",",""));
   }
   if (book.sale_price && /^\s*NT\$/.test(book.sale_price)) {
-    // 實際優惠價（如 NT$313）
+    // 實際優惠價（如 NT$313）：只信任真實抓到的數字（Kobo 曾經是/目前是，
+    // 或 Kobo 沒有前後價時改抓讀墨電子書售價/特價），不用折數字樣用猜的——
+    // 折數用乘的容易失真（可能是結帳輸代碼才生效、或該書實際折數跟主題標示不同）
     const m = book.sale_price.match(/[\d,]+/);
     if (m) saleAmt = parseInt(m[0].replace(",",""));
-  } else {
-    // 折數（如 85折）：優先從 book.sale_price 取，找不到則用主題預設 _themeSale
-    const sp = (book.sale_price && /^\d+折$/.test(book.sale_price.trim()))
-      ? book.sale_price.trim()
-      : (window._themeSale || '');
-    const rm = sp.match(/^(\d+)折$/);
-    if (rm && origAmt) saleAmt = Math.round(origAmt * parseInt(rm[1]) / 100);
   }
   return { saleAmt, origAmt };
 }
@@ -434,8 +429,8 @@ function onSearchInput() {
 }
 
 // 主題分類篩選（v127，目前只有遠流出版有 category 欄位，其他主題自動不顯示）
-const CATEGORY_ORDER = ['理財投資','管理創業','學習思考力','溝通談判','行銷品牌','人生智慧','投資理財','職場經營','決策思維','情緒心理','高效習慣','人生思考','溝通說服','身心健康','知識人文','小說文學','傳記回憶錄','科幻奇幻','推理懸疑','漫畫','其他'];
-const CATEGORY_EMOJI = {'理財投資':'💰','管理創業':'🏢','學習思考力':'🧠','溝通談判':'🗣️','行銷品牌':'📢','人生智慧':'✨','投資理財':'💰','職場經營':'🏢','決策思維':'🧩','情緒心理':'🧠','高效習慣':'⏱️','人生思考':'🧭','溝通說服':'🗣️','身心健康':'🧘','小說文學':'📖','知識人文':'🌍','傳記回憶錄':'🎤','科幻奇幻':'🚀','推理懸疑':'🔍','漫畫':'🎨','其他':'📚'};
+const CATEGORY_ORDER = ['理財投資','管理創業','學習思考力','溝通談判','行銷品牌','人生智慧','投資理財','職場經營','決策思維','情緒心理','高效習慣','人生思考','溝通說服','身心健康','知識人文','兒童教養','小說文學','傳記回憶錄','科幻奇幻','推理懸疑','漫畫','繪本','食譜','其他'];
+const CATEGORY_EMOJI = {'理財投資':'💰','管理創業':'🏢','學習思考力':'🧠','溝通談判':'🗣️','行銷品牌':'📢','人生智慧':'✨','投資理財':'💰','職場經營':'🏢','決策思維':'🧩','情緒心理':'🧠','高效習慣':'⏱️','人生思考':'🧭','溝通說服':'🗣️','身心健康':'🧘','小說文學':'📖','知識人文':'🌍','兒童教養':'👶','傳記回憶錄':'🎤','科幻奇幻':'🚀','推理懸疑':'🔍','漫畫':'🎨','繪本':'🖼️','食譜':'🍳','其他':'📚'};
 let categoryFilter = '';
 function onCategoryClick(cat) {
   categoryFilter = (categoryFilter === cat) ? '' : cat;
@@ -506,6 +501,9 @@ function rakutenDeepLink(url) {
 
 const _DEFAULT_FILE = 'theme_1779336542191.json'; // 新書優惠：exclusive.json 停用後的預設落點
 const _CURRENT_FILE = (() => { const p = new URLSearchParams(location.search); return p.get('file') || _DEFAULT_FILE; })();
+// 只在本機預覽（localhost/preview.py）才顯示price_source除錯標記，外網正式站絕對不顯示
+// （使用者2026-09-02要求：本機方便自己核對哪些原價是借讀墨的，但外網不能露出比價痕跡）
+const _IS_LOCAL_PREVIEW = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
 
 async function loadData() {
   const params   = new URLSearchParams(location.search);
@@ -624,34 +622,48 @@ function render() {
 
     const { saleAmt, origAmt } = parsePrices(book);
     const hasPromoCode = !!(window._themePromoCode);
+    const hasRealDiscount = !!(saleAmt && origAmt && origAmt > saleAmt);
     let priceInfo;
-    if (hasPromoCode) {
-      // 折扣碼模式：顯示原價 + 提示複製折扣碼
+    if (hasRealDiscount) {
+      // 真實折扣資料優先：不管主題是不是代碼制，只要這本書頁面本身有真實折扣
+      // 就照實顯示（例如 top100 裡剛好也在別的折扣書展的書）
+      // 原價來源（Kobo自己banner／讀墨電子書售價補位）只記錄在book.price_source
+      // 欄位——外網正式站絕對不顯示，顯示出來等於在頁面上明示「這是讀墨的定價」，
+      // 會有比價的觀感問題（使用者2026-09-02明確要求）。只有本機預覽（_IS_LOCAL_PREVIEW）
+      // 才用紅色星號標出來，方便自己核對哪些原價是借讀墨補的。
+      const rmMark = (_IS_LOCAL_PREVIEW && book.price_source === 'readmoo_orig')
+        ? '<span style="color:#e11d48;font-weight:bold" title="原價來源：讀墨（僅本機預覽可見）">★</span>' : '';
+      // 主題本身若還有結帳折扣碼（如top100的10HBD），這本書即使已經有真實折扣，
+      // 代碼通常還是可以疊加使用，兩者不是互斥關係，折扣碼提示要照樣顯示
+      // （使用者2026-09-02反映：剛開始誤判成互斥，代碼實際上可以疊加用）
+      const promoHint = hasPromoCode
+        ? `<span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="copyPromoCode()">↑ 複製折扣碼${/^\d+折$/.test(window._themeSale||'') ? '享'+esc(window._themeSale) : ''}（可能可疊加）</span>` : '';
+      priceInfo = `<div class="price-info" style="flex-direction:column;align-items:flex-start;gap:.2rem">
+        <div>
+          <span class="price-sale">NT$${saleAmt}</span>
+          <span class="price-original">NT$${origAmt}${rmMark}</span>
+          ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
+        </div>
+        ${promoHint}
+      </div>`;
+    } else if (hasPromoCode) {
+      // 折扣碼模式：這本書頁面本身沒有真實折扣資料，顯示現價 + 提示複製折扣碼
       priceInfo = `<div class="price-info" style="flex-direction:column;align-items:flex-start;gap:.2rem">
         <span class="price-sale">${origAmt ? `NT$${origAmt}` : esc(book.kobo_price || '—')}</span>
         <span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="copyPromoCode()">↑ 複製折扣碼${/^\d+折$/.test(window._themeSale||'') ? '享'+esc(window._themeSale) : ''}</span>
       </div>`;
     } else {
-      if (saleAmt && origAmt && origAmt > saleAmt) {
-        // 有折扣：顯示優惠價 + 畫線原價 + 省了多少
-        priceInfo = `<div class="price-info">
-          <span class="price-sale">NT$${saleAmt}</span>
-          <span class="price-original">NT$${origAmt}</span>
-          ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
-        </div>`;
-      } else {
-        // 無折扣：直接顯示原價，不畫橫線
-        const displayPrice = origAmt ? `NT$${origAmt}` : esc(book.kobo_price || '—');
-        priceInfo = `<div class="price-info">
-          <span class="price-sale">${displayPrice}</span>
-        </div>`;
-      }
+      // 無折扣：直接顯示現價，不畫橫線
+      const displayPrice = origAmt ? `NT$${origAmt}` : esc(book.kobo_price || '—');
+      priceInfo = `<div class="price-info">
+        <span class="price-sale">${displayPrice}</span>
+      </div>`;
     }
     const buyBtn = book.kobo_url
       ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
-    // 折扣碼模式下實際結帳金額未知，不預填，交給使用者到 555.html 自己填
-    const cartPrice = hasPromoCode ? 0 : (saleAmt || origAmt || 0);
+    // 折扣碼模式（且無真實折扣資料）下實際結帳金額未知，不預填，交給使用者到 555.html 自己填
+    const cartPrice = (hasPromoCode && !hasRealDiscount) ? 0 : (saleAmt || origAmt || 0);
 
     const markBtns = `
       <div class="card-actions">
