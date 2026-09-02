@@ -636,8 +636,7 @@ function render() {
       // 主題本身若還有結帳折扣碼（如top100的10HBD），這本書即使已經有真實折扣，
       // 代碼通常還是可以疊加使用，兩者不是互斥關係，折扣碼提示要照樣顯示
       // （使用者2026-09-02反映：剛開始誤判成互斥，代碼實際上可以疊加用）
-      const promoHint = hasPromoCode
-        ? `<span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="copyPromoCode()">↑ 複製折扣碼${/^\d+折$/.test(window._themeSale||'') ? '享'+esc(window._themeSale) : ''}（可能可疊加）</span>` : '';
+      const promoHint = hasPromoCode ? bookPromoWidget(idx) : '';
       priceInfo = `<div class="price-info" style="flex-direction:column;align-items:flex-start;gap:.2rem">
         <div>
           <span class="price-sale">NT$${saleAmt}</span>
@@ -650,7 +649,7 @@ function render() {
       // 折扣碼模式：這本書頁面本身沒有真實折扣資料，顯示現價 + 提示複製折扣碼
       priceInfo = `<div class="price-info" style="flex-direction:column;align-items:flex-start;gap:.2rem">
         <span class="price-sale">${origAmt ? `NT$${origAmt}` : esc(book.kobo_price || '—')}</span>
-        <span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="copyPromoCode()">↑ 複製折扣碼${/^\d+折$/.test(window._themeSale||'') ? '享'+esc(window._themeSale) : ''}</span>
+        ${bookPromoWidget(idx)}
       </div>`;
     } else {
       // 無折扣：直接顯示現價，不畫橫線
@@ -751,6 +750,25 @@ async function copyPromoCode() {
     window.getSelection().removeAllRanges();
     window.getSelection().addRange(range);
   }
+}
+// 單本書價格下方的折扣碼提示：點擊後就地展開小卡片顯示代碼＋複製鈕，
+// 不用像原本那樣點了才發現複製成功訊息只出現在頁面最上方看不到
+// （使用者2026-09-03反映：書卡片在頁面很下面時，點擊複製看不到頂部按鈕的回饋）
+function bookPromoWidget(idx) {
+  const code   = esc(window._themePromoCode || '');
+  const period = esc(window._themePromoPeriod || '');
+  return `<span style="font-size:.72rem;color:var(--teal);cursor:pointer" onclick="toggleBookPromo(${idx})">↑ 複製折扣碼</span>
+    <div id="bookPromo${idx}" style="display:none;margin-top:.3rem;padding:.4rem .6rem;background:var(--card-bg2,#f4f4f4);border-radius:6px;font-size:.75rem;align-items:center;gap:.4rem;flex-wrap:wrap">
+      <span>🏷️ ${period} 折扣碼：<b>${code}</b></span>
+      <button class="copy-btn" data-code="${code}" onclick="copyBannerCode(this)" style="margin:0 .3rem">📋 複製</button>
+      <span style="color:var(--ink3)">結帳時貼上套用折扣</span>
+      <span style="cursor:pointer;color:var(--ink3);text-decoration:underline" onclick="document.getElementById('bookPromo${idx}').style.display='none'">取消</span>
+    </div>`;
+}
+function toggleBookPromo(idx) {
+  const el = document.getElementById('bookPromo' + idx);
+  if (!el) return;
+  el.style.display = (el.style.display === 'none' || !el.style.display) ? 'flex' : 'none';
 }
 
 loadData();
@@ -861,6 +879,7 @@ loadData();
       if (currentFile === t.file) {
         if (t.sale) window._themeSale = t.sale;
         window._themePromoCode = t.promo_code || '';
+        window._themePromoPeriod = t.promo_period || '';
         // 更新頁面標題與 header
         const lm = t.label.match(/【([^】]*)】([\s\S]*)/);
         const autoHead = t.tabLabel || (lm ? lm[1].trim() : t.label.slice(0,20));
@@ -891,7 +910,7 @@ loadData();
         // sale period 行（saleNote 或 promo_code）
         const spEl = document.getElementById('salePeriod');
         if (spEl) {
-          const spText = t.saleNote || (t.promo_code ? '折扣碼：' + t.promo_code + (t.promo_period ? '（' + t.promo_period + '）' : '') : '');
+          const spText = t.saleNote || (t.promo_code && t.promo_code !== '10HBD' ? '折扣碼：' + t.promo_code + (t.promo_period ? '（' + t.promo_period + '）' : '') : '');
           spEl.textContent = spText || ' ';
         }
         // 更新 seo-intro
@@ -902,7 +921,7 @@ loadData();
         if (seoStrong) seoStrong.textContent = mainTitle;
         if (t.seoDesc && seoDesc) seoDesc.textContent = t.seoDesc;
         // 折扣碼橫幅
-        if (t.promo_code) {
+        if (t.promo_code && t.promo_code !== '10HBD') {
           document.getElementById('promoCodeText').textContent   = t.promo_code;
           document.getElementById('promoperiodText').textContent = t.promo_period || '';
           document.getElementById('promoCodeBar').style.display  = '';

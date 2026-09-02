@@ -26,7 +26,9 @@
     "subtitle": "單本85折起至10/11止",
     "tabEmoji": "💵",
     "tabLabel": "高寶財富",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/zbm-L-LH0Mk0egje-B5knA"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/zbm-L-LH0Mk0egje-B5knA",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   },
   {
     "defaultSort": "avg",
@@ -40,7 +42,9 @@
     "subtitle": "單本85折至9/19止",
     "tabEmoji": "💼",
     "tabLabel": "商業周刊",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/ny8qAfjVvsXQkwje_aWaRA"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/ny8qAfjVvsXQkwje_aWaRA",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   },
   {
     "defaultSort": "avg",
@@ -55,7 +59,9 @@
     "subtitle": "單本85折，3本再折$99至9/30止",
     "tabEmoji": "🌊",
     "tabLabel": "遠流出版",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/Wryjji5BE86pQQjfAzWTRA"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/Wryjji5BE86pQQjfAzWTRA",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   },
   {
     "defaultSort": "avg",
@@ -69,7 +75,9 @@
     "subtitle": "單本85折至9/30止",
     "tabEmoji": "📚",
     "tabLabel": "大塊文化",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/U1Be4vWn8cCOMgjfAzaSLw"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/U1Be4vWn8cCOMgjfAzaSLw",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   },
   {
     "defaultSort": "avg",
@@ -83,7 +91,9 @@
     "subtitle": "單本85折至9/15止",
     "tabEmoji": "🎨",
     "tabLabel": "三采文化",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/RILX4jIjQcPffgjfAzbOEw"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/RILX4jIjQcPffgjfAzbOEw",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   },
   {
     "defaultSort": "avg",
@@ -97,7 +107,9 @@
     "subtitle": "單本85折至9/30止",
     "tabEmoji": "🏛️",
     "tabLabel": "聯經出版",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/4zJQ2hCkKsCZBQjfAzifNg"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/4zJQ2hCkKsCZBQjfAzifNg",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   },
   {
     "file": "theme_1783301118689.json",
@@ -155,7 +167,9 @@
     "subtitle": "用閱讀豐富你我的人生（每週更新）",
     "tabEmoji": "🎁",
     "tabLabel": "新書優惠",
-    "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
+    "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   },
   {
     "file": "theme_1779378338324.json",
@@ -167,6 +181,8 @@
     "subtitle": "首次有臺灣文學作品獲頒國際布克獎",
     "tabEmoji": "🏆",
     "tabLabel": "《臺灣漫遊錄》",
-    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
+    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue",
+    "promo_code": "10HBD",
+    "promo_period": "至9/10止"
   }
 ]
