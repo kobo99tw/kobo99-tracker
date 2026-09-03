@@ -1,154 +1,7 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-08-30T16:54:59.311832+08:00",
+  "updated_at": "2026-09-03T07:59:02.002053+08:00",
   "books": [
-    {
-      "title": "自我批評也是愛，但不是我們要的愛",
-      "author": "戴蒙．札哈里斯",
-      "original_title": "Silence Your Inner Critic: a step-by-step guide to stopping negative self-talk, overcoming self-doubt, and embracing the power of self-acceptance!",
-      "original_author": "Damon Zahariades",
-      "isbn": "9786269316229",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/PjQxcMHLTjSNziMiltjL1Q",
-      "kobo_price": "NT$316",
-      "cover_url": "covers/PjQxcMHLTjSNziMiltjL1Q.jpg",
-      "sale_price": "NT$269",
-      "sale_end": "8/26",
-      "description": "深入意識，一一攻破自我懷疑心態，才能真正愛自己；每章附上具體的心理強化練習，帶你改變看待自己、愛自己的方式。內在批評像一把雙面刃，未仔細察覺就容易誤傷自己，本書溫柔引導你識別讓自己變得渺小的自我批評聲音，並提供切實步驟平息它、重塑它。《自我批評也是愛，但不是我們要的愛：一步一步克服自我懷疑，接納你就是你的美好和信心》 由 戴蒙．札哈里斯＠著 龐元媛＠譯 出版社： 真文化",
-      "publish_date": "2026年8月12日",
-      "short_affiliate_url": "https://reurl.cc/7Yd6D9",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/PjQxcMHLTjSNziMiltjL1Q"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050350086?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050350086"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/37crJO",
-          "raw_url": "https://readmoo.com/book/210492629000101"
-        },
-        "goodreads": {
-          "score": 3.84,
-          "count": 44,
-          "url": "https://www.goodreads.com/book/show/239418804-silence-your-inner-critic",
-          "note": "使用者提供並人工核對書名/作者一致",
-          "amazon_url": "https://www.amazon.com/dp/B0FK5PTTL5",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 82,
-          "url": "https://www.amazon.com/dp/B0FK5PTTL5"
-        }
-      },
-      "avg_score": 4.16,
-      "last_updated": "2026-09-02T23:26:41.822413+08:00"
-    },
-    {
-      "title": "把話說開的職場溝通術",
-      "author": "約書亞．葛瑞夫斯",
-      "original_title": "WE NEED TO TALK",
-      "original_author": "Joshua Graves",
-      "isbn": "9786264187480",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/qWCBUlySoEGnOORealVMuw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260831",
-      "kobo_price": "NT$435",
-      "cover_url": "covers/qWCBUlySoEGnOORealVMuw.jpg",
-      "sale_price": "NT$370",
-      "sale_end": "8/31",
-      "description": "很多人以為自己害怕衝突，其實真正令人害怕的，是不知道該如何在衝突中好好表達自己！本書結合心理學、神經科學，帶你看懂衝突背後的心理機制，學會在高壓、尷尬甚至劍拔弩張的情境中清楚表達需求與界線。 《把話說開的職場溝通術》 由 約書亞．葛瑞夫斯@著",
-      "publish_date": "2026年8月1日",
-      "short_affiliate_url": "https://reurl.cc/RRyazr",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Title/qWCBUlySoEGnOORealVMuw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive_20260831"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/products/E050354440?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050354440"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/1bstAV",
-          "raw_url": "https://readmoo.com/book/210497740000101"
-        },
-        "goodreads": {
-          "score": 2.5,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/223926126-we-need-to-talk?from_search=true&from_srp=true&qid=AbwDiSOcjX&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DVM1N1G7/ref=x_gr_bb_kindle",
-          "confidence": 60,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 30,
-          "url": "https://www.amazon.com/-/zh_TW/Joshua-Graves-ebook/dp/B0DVM1N1G7/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.18,
-      "last_updated": "2026-09-02T23:26:41.822413+08:00"
-    },
-    {
-      "title": "植物妻子",
-      "author": "韓江",
-      "original_title": "내 여자의 열매",
-      "original_author": null,
-      "isbn": "9786264092616",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/16WeVLLeOz-tXUc5cn7lNQ?sId=a92c3837-66eb-40a1-b4b3-308812bd9c0a&ssId=-aexHpkaOzJX3euGH8WJ3&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/16WeVLLeOz-tXUc5cn7lNQ.jpg",
-      "sale_price": "NT$268",
-      "sale_end": "8/31",
-      "description": "韓江作品。與震撼國際的巨作《素食者》相互呼應，選擇化身植物追求自由的妻子，一輩子專注於臨摹三千張佛像的母親，他們都帶著生活的傷痕，在孤獨與暴力的世界中沉浮，縱使靈魂快要枯萎，仍渴望擁抱生命的光亮。 《植物妻子》 由 韓江@著 出版社： 漫遊者文化 查看電子書",
-      "publish_date": "2026年8月12日",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/16WeVLLeOz-tXUc5cn7lNQ?sId=a92c3837-66eb-40a1-b4b3-308812bd9c0a&ssId=-aexHpkaOzJX3euGH8WJ3&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 18,
-          "url": "https://www.books.com.tw/products/0011059440?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=0011059440"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/18pDKN",
-          "raw_url": "https://readmoo.com/book/210492619000101"
-        },
-        "goodreads": {
-          "score": 4.06,
-          "count": 226,
-          "url": "https://www.goodreads.com/book/show/29957046",
-          "note": "使用者提供並人工核對韓文原文書名一致",
-          "amazon_url": "https://www.amazon.com/dp/B00JLAC9MW",
-          "confidence": 85,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/dp/B00JLAC9MW"
-        }
-      },
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/6XdAlO",
-      "last_updated": "2026-09-02T23:26:41.822413+08:00"
-    },
     {
       "title": "心理治療師都在做的正向改變練習",
       "author": "丹．托馬蘇洛 Dan Tomasulo",
@@ -159,9 +12,27 @@
       "kobo_price": "NT$266",
       "cover_url": "covers/g8EtkQYU0Ta0mjRUfLxt1w.jpg",
       "sale_price": "NT$226",
+      "price_source": "readmoo_orig",
       "sale_end": "9/3",
       "description": "心理治療師親身走過重度憂鬱，將自我復原歷程結合科學研究，整理出7堂啟動神經可塑性的正向練習。打破負面思考慣性，你將開始改變：不再總是往壞處想，習慣期待好事發生；不再讓糟糕的今天，決定你的明天！ 《心理治療師都在做的正向改變練習》 由 丹．托馬蘇洛＠著 出版社： 商業周刊 查看電子書",
       "publish_date": "2026年8月20日",
+      "last_updated": "2026-09-03T07:59:02.002053+08:00",
+      "short_affiliate_url": "https://reurl.cc/1lbr4V",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "心理學",
+        "諮詢",
+        "非小說",
+        "宗教與靈性",
+        "新世代",
+        "個人轉變",
+        "非小說",
+        "健康與幸福",
+        "自助",
+        "自我改善",
+        "勵志"
+      ],
       "ratings": {
         "kobo": {
           "score": null,
@@ -171,21 +42,20 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050352120?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050352120"
+          "url": "https://reurl.cc/xeNO71"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/9aszAS",
-          "raw_url": "https://readmoo.com/book/210494650000101"
+          "url": "https://moo.im/a/9aszAS"
         },
         "goodreads": {
           "score": 4.14,
-          "count": 267,
+          "count": 268,
           "url": "https://www.goodreads.com/book/show/51043829-learned-hopefulness?from_search=true&from_srp=true&qid=LjzTAHYNaa&rank=1",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B07YW6G9V2/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -194,9 +64,7 @@
           "url": "https://www.amazon.com/gp/product/B07YW6G9V2/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/1lbr4V",
-      "last_updated": "2026-09-02T23:26:41.822413+08:00"
+      "avg_score": 4.24
     },
     {
       "title": "我看起來很好欺負嗎？",
@@ -208,9 +76,16 @@
       "kobo_price": "NT$340",
       "cover_url": "covers/EFnY52nwZzKYy_8GJRGbag.jpg",
       "sale_price": "NT$289",
+      "price_source": "kobo",
       "sale_end": "9/9",
-      "description": "吞下委屈，只會養大別人的貪婪。從討好型變討伐型，逆天改命，掌握命運！這一次，我們甩開軟柿子的好掐好捏，練就強者的自信從容，脫掉軟柿子外衣的那一刻，就是改寫命運的開始。 《我看起來很好欺負嗎？》 由 耿向順＠著 出版社： 野人 查看電子書 Tags 獨家優惠 分享這篇文章 分享到 Facebook Share via Email Related articles 造訪連結 【本月推薦書單】地圖上沒有的路——沒有被寫進課本的山海與歸途 說到台灣文學，你馬上會想到哪幾個作者或者哪幾本代表書籍？如果提及原住民文學，你腦海中又會浮現哪幾本書？或是毫無頭緒呢？原住民的語言沒有文字，所有的知識傳承與文化習俗，全仰賴部落族系的口述傳承以及日常生活中的體驗式學習。然而",
+      "description": "吞下委屈，只會養大別人的貪婪。從討好型變討伐型，逆天改命，掌握命運！這一次，我們甩開軟柿子的好掐好捏，練就強者的自信從容，脫掉軟柿子外衣的那一刻，就是改寫命運的開始。 《我看起來很好欺負嗎？》 由 耿向順＠著 出版社： 野人 查看電子書",
       "publish_date": "2026年8月25日",
+      "last_updated": "2026-09-03T07:59:02.002053+08:00",
+      "short_affiliate_url": "https://reurl.cc/KElVjg",
+      "genre_tags": [
+        "非小說",
+        "家庭與關係"
+      ],
       "ratings": {
         "kobo": {
           "score": null,
@@ -220,7 +95,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/products/E050352179?utm_source=www&utm_medium=share&utm_content=copy&utm_campaign=product&utm_term=E050352179"
+          "url": "https://reurl.cc/mzxGDl"
         },
         "readmoo": {
           "score": null,
@@ -242,8 +117,225 @@
           "url": ""
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/KElVjg"
+      "avg_score": null
+    },
+    {
+      "title": "異見溝通術",
+      "author": "朱莉亞・明森",
+      "original_title": "HOW TO DISAGREE BETTER",
+      "original_author": "Julia Minson",
+      "isbn": "9786264332637",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xljF9lWmuTy9a3Kyq6Gxkw?sId=880af17b-2209-4412-ad3b-37b098de59b4&ssId=1q2A34bAUm0UvYvo188Sl&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/xljF9lWmuTy9a3Kyq6Gxkw.jpg",
+      "sale_price": "NT$286",
+      "price_source": "readmoo_orig",
+      "sale_end": "9/11",
+      "description": "為什麼越是努力解釋自身觀點，越是把對方推得更遠？跟著哈佛明星教授，按步就班改善溝通技巧，練習如何有效表達歧見、堅定立場，開展建設性對話。擺脫異見陷阱，探詢多元意見共存共融的可能。 《異見溝通術》 由 朱莉亞・明森@著 出版社： 大塊文化 查看電子書",
+      "publish_date": "2026年9月1日",
+      "last_updated": "2026-09-03T07:59:02.002053+08:00",
+      "category": "溝通說服",
+      "genre_tags": [
+        "企業與金融",
+        "管理與領導",
+        "談判"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/xljF9lWmuTy9a3Kyq6Gxkw?sId=880af17b-2209-4412-ad3b-37b098de59b4&ssId=1q2A34bAUm0UvYvo188Sl&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://reurl.cc/8YDWjj"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/05enuF"
+        },
+        "goodreads": {
+          "score": 1.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/258036779?from_search=true&from_srp=true&qid=Wro0tZp9IC&rank=1",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B0HGPNXFQ7/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 49,
+          "url": "https://www.amazon.com/How-Disagree-Better-Julia-Minson/dp/0593855000/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/aEekV4"
+    },
+    {
+      "title": "用腦說話",
+      "author": "羅伯．波多內、喬埃．薩利納斯",
+      "original_title": "Conflict Resilience",
+      "original_author": "Robert Bordone",
+      "isbn": "9786267859629",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wZ-r_6IXTDOVblmpyxSG0Q?sId=1559f51a-12ce-4879-8ec8-4769518e8ce2&ssId=ZMsGRHp0y5S2iHTiXjxsg&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$415",
+      "cover_url": "covers/wZ-r_6IXTDOVblmpyxSG0Q.jpg",
+      "sale_price": "NT$353",
+      "price_source": "readmoo_orig",
+      "sale_end": "9/13",
+      "description": "哈佛法學院溝通專家波多內與美國神經科學會院士薩利納斯，共同提出一套經過科學方法與數十年驗證的完整溝通技巧，能幫助我們應對各種艱難對話。就像鍛鍊肌肉能提升身體能力，用腦說話的能力也可以透過練習來培養！ 《用腦說話》 由 羅伯．波多內, 喬埃．薩利納斯＠著 出版社： 平安文化 查看電子書",
+      "publish_date": "2026年8月31日",
+      "last_updated": "2026-09-03T07:59:02.002053+08:00",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "自助"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/wZ-r_6IXTDOVblmpyxSG0Q?sId=1559f51a-12ce-4879-8ec8-4769518e8ce2&ssId=ZMsGRHp0y5S2iHTiXjxsg&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210497745000101"
+        },
+        "goodreads": {
+          "score": 3.94,
+          "count": 102,
+          "url": "https://www.goodreads.com/book/show/199793694-conflict-resilience?from_search=true&from_srp=true&qid=jJyYR3hekh&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CW1FVP7G/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 54,
+          "url": "https://www.amazon.com/gp/product/B0CW1FVP7G/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/k9n7Xr"
+    },
+    {
+      "title": "情緒過勞：如何自我修復，在職場帶人又帶心",
+      "author": "迪娜．鄧翰．史密斯、艾莉西亞．格蘭迪",
+      "original_title": "Emotionally Charged: How to Lead in the New World of Work",
+      "original_author": "Dina Denham Smith",
+      "isbn": "9786264701082",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/jOsfrfgdPDmwgHybpaVRig?sId=faf68447-5b1e-4bf5-ac62-c75c77493477&ssId=LhcIQv1nXVR5L0kO1vybj&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/jOsfrfgdPDmwgHybpaVRig.jpg",
+      "sale_price": "NT$287",
+      "price_source": "readmoo_orig",
+      "sale_end": "9/14",
+      "description": "Google、OpenAl、美國空軍與陸軍等各領域領導者一致推薦。本書融合職場工作者面臨的真實案例，以情緒科學為基礎，提供實用的策略和工具，幫助讀者破除常見迷思，學習應對高壓工作場景！ 《情緒過勞：如何自我修復，在職場帶人又帶心》 由 迪娜．鄧翰．史密斯, 艾莉西亞．格蘭迪＠著 出版社： 天下文化 查看電子書",
+      "publish_date": "2026年8月31日",
+      "last_updated": "2026-09-03T07:59:02.002053+08:00",
+      "genre_tags": [
+        "企業與金融",
+        "管理與領導",
+        "管理",
+        "企業與金融",
+        "生涯規劃與求職"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/jOsfrfgdPDmwgHybpaVRig?sId=faf68447-5b1e-4bf5-ac62-c75c77493477&ssId=LhcIQv1nXVR5L0kO1vybj&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210496541000101"
+        },
+        "goodreads": {
+          "score": 4.06,
+          "count": 18,
+          "url": "https://www.goodreads.com/book/show/217984425-emotionally-charged?from_search=true&from_srp=true&qid=GusDdTiRWk&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DTHWCNDY/ref=x_gr_bb_kindle",
+          "confidence": 80,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 5.0,
+          "count": 139,
+          "url": "https://www.amazon.com/gp/product/B0DTHWCNDY/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.29,
+      "short_affiliate_url": "https://reurl.cc/lnz9DQ"
+    },
+    {
+      "title": "人類",
+      "author": "藤井太洋",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786264187763",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sf-7?sId=69e8eea9-654d-4117-9113-df288a478048&ssId=jA9yUP_l7b5BYjSEjfIxU&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$458",
+      "cover_url": "covers/sf-7.jpg",
+      "sale_price": "NT$362",
+      "price_source": "kobo",
+      "sale_end": "9/15",
+      "description": "日本星雲賞得獎作品，當代本格推理科幻小說的高峰。以多重視角描寫AI事實認證平臺、戰地直播影像與資訊戰爭，合理預測人工智慧即將演化成判定真相的社會化系統。人類是否仍能相信自己的記憶、證詞與選擇？ 《人類》 由 藤井太洋＠著 出版社： 遠流出版 查看電子書",
+      "publish_date": "2026年9月1日",
+      "last_updated": "2026-09-03T07:59:02.002053+08:00",
+      "genre_tags": [
+        "科幻小說與奇幻小說",
+        "科幻小說"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/sf-7?sId=69e8eea9-654d-4117-9113-df288a478048&ssId=jA9yUP_l7b5BYjSEjfIxU&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 10,
+          "url": "https://readmoo.com/book/210487651000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/%E4%BA%BA%E9%A1%9E%E5%AD%B8%EF%BC%9A%E4%BA%BA%E9%A1%9E%E4%B9%8B%E6%97%85-Traditional-Chinese-Diego-Ramirez-ebook/dp/B0DFL4587M/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/7YKekd"
     }
   ]
 }

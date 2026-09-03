@@ -7,89 +7,88 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:《正念老化：擺脫年齡焦慮，提早開始練習！透過
- 覺察適應，愈老愈快樂》
-DESCRIPTION:特價 NT$99｜4.1分\nhttps://reurl.cc/WzNkGD\n查看當週各
- 書評價: https://kobo99.com/
-URL:https://reurl.cc/WzNkGD
-UID:kobo99-2026-w35-01@kobo99-tracker
-DTSTAMP:20260830T101607Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:《我們為什麼對好事麻木、對壞事容忍？：習慣化
- 如何左右人生》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜4.1分\nhttps://reurl.cc/QNEjXZ\
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:《高效原力：用愉悅心態激發生產力，做更多重要
+ 的事》
+DESCRIPTION:特價 NT$99｜原價 NT$338｜4.2分\nhttps://reurl.cc/1lK2eX\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/QNEjXZ
-UID:kobo99-2026-w35-02@kobo99-tracker
-DTSTAMP:20260830T101607Z
+URL:https://reurl.cc/1lK2eX
+UID:kobo99-2026-w36-01@kobo99-tracker
+DTSTAMP:20260903T000739Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:《人工智能未来简史：基于脑机接口的超人制造愿
- 景》
-DESCRIPTION:特價 NT$99｜原價 NT$300\nhttps://reurl.cc/MWjb84\n查看
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:《完成：把不了了之的待辦目標變成以實現的有效
+ 練習》
+DESCRIPTION:特價 NT$99｜原價 NT$245｜4.3分\nhttps://reurl.cc/gNR0ZR\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/gNR0ZR
+UID:kobo99-2026-w36-02@kobo99-tracker
+DTSTAMP:20260903T000739Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:《三生三世倾君心》
+DESCRIPTION:特價 NT$99｜原價 NT$261\nhttps://reurl.cc/KE8pM9\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/MWjb84
-UID:kobo99-2026-w35-03@kobo99-tracker
-DTSTAMP:20260830T101607Z
+URL:https://reurl.cc/KE8pM9
+UID:kobo99-2026-w36-03@kobo99-tracker
+DTSTAMP:20260903T000739Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:《穿透〈心經〉：原來，你以為的只是假象》
-DESCRIPTION:特價 NT$99｜原價 NT$285｜4.5分\nhttps://reurl.cc/RRejze\
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:《天防者》
+DESCRIPTION:特價 NT$99｜原價 NT$294｜4.4分\nhttps://reurl.cc/jV9klm\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/RRejze
-UID:kobo99-2026-w35-04@kobo99-tracker
-DTSTAMP:20260830T101607Z
+URL:https://reurl.cc/jV9klm
+UID:kobo99-2026-w36-04@kobo99-tracker
+DTSTAMP:20260903T000739Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:《人類怎麼學：比大數據更重要的事，人類學教你
- 顛覆成見、突破盲點的洞察思考》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜3.9分\nhttps://reurl.cc/qavOLn\
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:《種子的勝利（暢銷改版）：穀類、堅果、果仁、
+ 豆類、核籽如何征服植物王國，形塑人類歷史》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜4.2分\nhttps://reurl.cc/om8e0v\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qavOLn
-UID:kobo99-2026-w35-05@kobo99-tracker
-DTSTAMP:20260830T101607Z
+URL:https://reurl.cc/om8e0v
+UID:kobo99-2026-w36-05@kobo99-tracker
+DTSTAMP:20260903T000739Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:《不安到受不了時，念念佛洛姆：首爾大學名師講
- 座，帶你遠離焦慮與孤獨，發現內在力量的紙上哲學課
- 》
-DESCRIPTION:特價 NT$99｜原價 NT$226｜4.7分\nhttps://reurl.cc/VnMjLY\
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:《顏值：從第一印象到刻板印象，臉孔社交價值的
+ 科學解密》
+DESCRIPTION:特價 NT$99｜原價 NT$350｜4.1分\nhttps://reurl.cc/LeapNe\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/VnMjLY
-UID:kobo99-2026-w35-06@kobo99-tracker
-DTSTAMP:20260830T101607Z
+URL:https://reurl.cc/LeapNe
+UID:kobo99-2026-w36-06@kobo99-tracker
+DTSTAMP:20260903T000739Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:《前男友的遺書》
-DESCRIPTION:特價 NT$99｜原價 NT$238｜4.1分\nhttps://reurl.cc/903O4n\
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:《人類時代：我們所塑造的世界》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜4.1分\nhttps://reurl.cc/DYqdme\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/903O4n
-UID:kobo99-2026-w35-07@kobo99-tracker
-DTSTAMP:20260830T101607Z
+URL:https://reurl.cc/DYqdme
+UID:kobo99-2026-w36-07@kobo99-tracker
+DTSTAMP:20260903T000739Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:《深刻認識一個人：發現自己與他人的非凡之處》
-DESCRIPTION:特價 NT$99｜原價 NT$338｜4.3分\nhttps://reurl.cc/zODMYQ\
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:《瑞秋的青春事件簿：邦諾書店年度十大好書，橫
+ 掃歐美書市千禧世代成長小說！》
+DESCRIPTION:特價 NT$99｜原價 NT$379｜4.2分\nhttps://reurl.cc/XxA4L3\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/zODMYQ
-UID:kobo99-2026-w35-08@kobo99-tracker
-DTSTAMP:20260830T101607Z
+URL:https://reurl.cc/XxA4L3
+UID:kobo99-2026-w36-08@kobo99-tracker
+DTSTAMP:20260903T000739Z
 END:VEVENT
 END:VCALENDAR
