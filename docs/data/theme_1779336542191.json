@@ -1,106 +1,37 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-09-03T07:59:02.002053+08:00",
+  "updated_at": "2026-09-10T23:30:46.762222+08:00",
   "books": [
-    {
-      "title": "心理治療師都在做的正向改變練習",
-      "author": "丹．托馬蘇洛 Dan Tomasulo",
-      "original_title": "Learned Hopefulness: The Power of Positivity to Overcome Depression",
-      "original_author": "Dan Tomasulo",
-      "isbn": "9786267862728",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/g8EtkQYU0Ta0mjRUfLxt1w?sId=a0c3b869-2542-41db-bdc0-e1257e17239c&ssId=G8hwBCYPmuHxx-PadIAcm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/g8EtkQYU0Ta0mjRUfLxt1w.jpg",
-      "sale_price": "NT$226",
-      "price_source": "readmoo_orig",
-      "sale_end": "9/3",
-      "description": "心理治療師親身走過重度憂鬱，將自我復原歷程結合科學研究，整理出7堂啟動神經可塑性的正向練習。打破負面思考慣性，你將開始改變：不再總是往壞處想，習慣期待好事發生；不再讓糟糕的今天，決定你的明天！ 《心理治療師都在做的正向改變練習》 由 丹．托馬蘇洛＠著 出版社： 商業周刊 查看電子書",
-      "publish_date": "2026年8月20日",
-      "last_updated": "2026-09-03T07:59:02.002053+08:00",
-      "short_affiliate_url": "https://reurl.cc/1lbr4V",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "心理學",
-        "諮詢",
-        "非小說",
-        "宗教與靈性",
-        "新世代",
-        "個人轉變",
-        "非小說",
-        "健康與幸福",
-        "自助",
-        "自我改善",
-        "勵志"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/g8EtkQYU0Ta0mjRUfLxt1w?sId=a0c3b869-2542-41db-bdc0-e1257e17239c&ssId=G8hwBCYPmuHxx-PadIAcm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/xeNO71"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/9aszAS"
-        },
-        "goodreads": {
-          "score": 4.14,
-          "count": 268,
-          "url": "https://www.goodreads.com/book/show/51043829-learned-hopefulness?from_search=true&from_srp=true&qid=LjzTAHYNaa&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B07YW6G9V2/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 224,
-          "url": "https://www.amazon.com/gp/product/B07YW6G9V2/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.24
-    },
     {
       "title": "我看起來很好欺負嗎？",
       "author": "耿向順",
       "original_title": "",
       "original_author": null,
       "isbn": "9786267880838",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/EFnY52nwZzKYy_8GJRGbag?sId=3dcb0450-9e9c-481f-91e1-d9e5e17a2a1d&ssId=exD3ZAPXxNGxm8CATa-wm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/EFnY52nwZzKYy_8GJRGbag",
       "kobo_price": "NT$340",
       "cover_url": "covers/EFnY52nwZzKYy_8GJRGbag.jpg",
       "sale_price": "NT$289",
       "price_source": "kobo",
       "sale_end": "9/9",
-      "description": "吞下委屈，只會養大別人的貪婪。從討好型變討伐型，逆天改命，掌握命運！這一次，我們甩開軟柿子的好掐好捏，練就強者的自信從容，脫掉軟柿子外衣的那一刻，就是改寫命運的開始。 《我看起來很好欺負嗎？》 由 耿向順＠著 出版社： 野人 查看電子書",
-      "publish_date": "2026年8月25日",
-      "last_updated": "2026-09-03T07:59:02.002053+08:00",
-      "short_affiliate_url": "https://reurl.cc/KElVjg",
-      "genre_tags": [
-        "非小說",
-        "家庭與關係"
-      ],
+      "description": "吞下委屈，只會養大別人的貪婪。從討好型變討伐型，逆天改命，掌握命運！這一次，我們甩開軟柿子的好掐好捏，練就強者的自信從容，脫掉軟柿子外衣的那一刻，就是改寫命運的開始。 《我看起來很好欺負嗎？》 由 耿向順＠著 出版社：野人 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/EFnY52nwZzKYy_8GJRGbag?sId=3dcb0450-9e9c-481f-91e1-d9e5e17a2a1d&ssId=exD3ZAPXxNGxm8CATa-wm&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+          "url": "https://www.kobo.com/tw/zh/ebook/EFnY52nwZzKYy_8GJRGbag"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://reurl.cc/mzxGDl"
+          "url": "https://reurl.cc/nxlMAd"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://readmoo.com/book/210498461000101"
         },
         "goodreads": {
           "score": null,
@@ -117,7 +48,9 @@
           "url": ""
         }
       },
-      "avg_score": null
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/mzkQA1",
+      "genre_tags": []
     },
     {
       "title": "異見溝通術",
@@ -125,31 +58,27 @@
       "original_title": "HOW TO DISAGREE BETTER",
       "original_author": "Julia Minson",
       "isbn": "9786264332637",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xljF9lWmuTy9a3Kyq6Gxkw?sId=880af17b-2209-4412-ad3b-37b098de59b4&ssId=1q2A34bAUm0UvYvo188Sl&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xljF9lWmuTy9a3Kyq6Gxkw",
       "kobo_price": "NT$336",
       "cover_url": "covers/xljF9lWmuTy9a3Kyq6Gxkw.jpg",
       "sale_price": "NT$286",
-      "price_source": "readmoo_orig",
+      "price_source": "kobo",
       "sale_end": "9/11",
-      "description": "為什麼越是努力解釋自身觀點，越是把對方推得更遠？跟著哈佛明星教授，按步就班改善溝通技巧，練習如何有效表達歧見、堅定立場，開展建設性對話。擺脫異見陷阱，探詢多元意見共存共融的可能。 《異見溝通術》 由 朱莉亞・明森@著 出版社： 大塊文化 查看電子書",
-      "publish_date": "2026年9月1日",
-      "last_updated": "2026-09-03T07:59:02.002053+08:00",
+      "description": "為什麼越是努力解釋自身觀點，越是把對方推得更遠？跟著哈佛明星教授，按步就班改善溝通技巧，練習如何有效表達歧見、堅定立場，開展建設性對話。擺脫異見陷阱，探詢多元意見共存共融的可能。 《異見溝通術》 由 朱莉亞・明森@著 出版社：大塊文化 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
+      "short_affiliate_url": "https://reurl.cc/8YbV8g",
       "category": "溝通說服",
-      "genre_tags": [
-        "企業與金融",
-        "管理與領導",
-        "談判"
-      ],
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/xljF9lWmuTy9a3Kyq6Gxkw?sId=880af17b-2209-4412-ad3b-37b098de59b4&ssId=1q2A34bAUm0UvYvo188Sl&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+          "url": "https://www.kobo.com/tw/zh/ebook/xljF9lWmuTy9a3Kyq6Gxkw"
         },
         "books_com": {
           "score": 3.0,
           "count": 1,
-          "url": "https://reurl.cc/8YDWjj"
+          "url": "https://reurl.cc/xeK8AV"
         },
         "readmoo": {
           "score": null,
@@ -161,49 +90,44 @@
           "count": 1,
           "url": "https://www.goodreads.com/book/show/258036779?from_search=true&from_srp=true&qid=Wro0tZp9IC&rank=1",
           "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0HGPNXFQ7/ref=x_gr_bb_kindle",
+          "amazon_url": "",
           "confidence": 60,
-          "cross_validated": false
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 49,
-          "url": "https://www.amazon.com/How-Disagree-Better-Julia-Minson/dp/0593855000/ref=sr_1_1"
+          "count": 50,
+          "url": "https://www.amazon.com/-/zh_TW/How-Disagree-Better-Julia-Minson/dp/0593855000/ref=sr_1_1"
         }
       },
       "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/aEekV4"
+      "genre_tags": []
     },
     {
       "title": "用腦說話",
       "author": "羅伯．波多內、喬埃．薩利納斯",
       "original_title": "Conflict Resilience",
-      "original_author": "Robert Bordone",
+      "original_author": "Robert Bordone; Joel Salinas",
       "isbn": "9786267859629",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wZ-r_6IXTDOVblmpyxSG0Q?sId=1559f51a-12ce-4879-8ec8-4769518e8ce2&ssId=ZMsGRHp0y5S2iHTiXjxsg&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wZ-r_6IXTDOVblmpyxSG0Q",
       "kobo_price": "NT$415",
       "cover_url": "covers/wZ-r_6IXTDOVblmpyxSG0Q.jpg",
       "sale_price": "NT$353",
-      "price_source": "readmoo_orig",
+      "price_source": "kobo",
       "sale_end": "9/13",
-      "description": "哈佛法學院溝通專家波多內與美國神經科學會院士薩利納斯，共同提出一套經過科學方法與數十年驗證的完整溝通技巧，能幫助我們應對各種艱難對話。就像鍛鍊肌肉能提升身體能力，用腦說話的能力也可以透過練習來培養！ 《用腦說話》 由 羅伯．波多內, 喬埃．薩利納斯＠著 出版社： 平安文化 查看電子書",
-      "publish_date": "2026年8月31日",
-      "last_updated": "2026-09-04T16:25:54.255815+08:00",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "自助"
-      ],
+      "description": "哈佛法學院溝通專家波多內與美國神經科學會院士薩利納斯，共同提出一套經過科學方法與數十年驗證的完整溝通技巧，能幫助我們應對各種艱難對話。就像鍛鍊肌肉能提升身體能力，用腦說話的能力也可以透過練習來培養！ 《用腦說話》 由 羅伯．波多內, 喬埃．薩利納斯＠著 出版社：平安文化 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/wZ-r_6IXTDOVblmpyxSG0Q?sId=1559f51a-12ce-4879-8ec8-4769518e8ce2&ssId=ZMsGRHp0y5S2iHTiXjxsg&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+          "url": "https://www.kobo.com/tw/zh/ebook/wZ-r_6IXTDOVblmpyxSG0Q"
         },
         "books_com": {
           "score": 5.0,
           "count": 1,
-          "url": "https://reurl.cc/gNRXzN"
+          "url": "https://reurl.cc/k98WYn"
         },
         "readmoo": {
           "score": null,
@@ -213,7 +137,7 @@
         "goodreads": {
           "score": 3.94,
           "count": 102,
-          "url": "https://www.goodreads.com/book/show/199793694-conflict-resilience?from_search=true&from_srp=true&qid=jJyYR3hekh&rank=1",
+          "url": "https://www.goodreads.com/book/show/199793694-conflict-resilience?from_search=true&from_srp=true&qid=tRMm9KEYj2&rank=1",
           "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0CW1FVP7G/ref=x_gr_bb_kindle",
           "confidence": 90,
@@ -226,40 +150,34 @@
         }
       },
       "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/k9n7Xr"
+      "short_affiliate_url": "https://reurl.cc/aEMDA3",
+      "genre_tags": []
     },
     {
       "title": "情緒過勞：如何自我修復，在職場帶人又帶心",
       "author": "迪娜．鄧翰．史密斯、艾莉西亞．格蘭迪",
-      "original_title": "Emotionally Charged: How to Lead in the New World of Work",
-      "original_author": "Dina Denham Smith",
+      "original_title": "Emotionally Charged : How to Lead in the New World of Work",
+      "original_author": "Dina Denham Smith; Alicia A. Grandey",
       "isbn": "9786264701082",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/jOsfrfgdPDmwgHybpaVRig?sId=faf68447-5b1e-4bf5-ac62-c75c77493477&ssId=LhcIQv1nXVR5L0kO1vybj&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/jOsfrfgdPDmwgHybpaVRig",
       "kobo_price": "NT$338",
       "cover_url": "covers/jOsfrfgdPDmwgHybpaVRig.jpg",
       "sale_price": "NT$287",
-      "price_source": "readmoo_orig",
+      "price_source": "kobo",
       "sale_end": "9/14",
-      "description": "Google、OpenAl、美國空軍與陸軍等各領域領導者一致推薦。本書融合職場工作者面臨的真實案例，以情緒科學為基礎，提供實用的策略和工具，幫助讀者破除常見迷思，學習應對高壓工作場景！ 《情緒過勞：如何自我修復，在職場帶人又帶心》 由 迪娜．鄧翰．史密斯, 艾莉西亞．格蘭迪＠著 出版社： 天下文化 查看電子書",
-      "publish_date": "2026年8月31日",
-      "last_updated": "2026-09-04T16:25:54.255815+08:00",
-      "genre_tags": [
-        "企業與金融",
-        "管理與領導",
-        "管理",
-        "企業與金融",
-        "生涯規劃與求職"
-      ],
+      "description": "Google、OpenAl、美國空軍與陸軍等各領域領導者一致推薦。本書融合職場工作者面臨的真實案例，以情緒科學為基礎，提供實用的策略和工具，幫助讀者破除常見迷思，學習應對高壓工作場景！ 《情緒過勞：如何自我修復，在職場帶人又帶心》 由 迪娜．鄧翰．史密斯, 艾莉西亞．格蘭迪＠著 出版社：天下文化 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/jOsfrfgdPDmwgHybpaVRig?sId=faf68447-5b1e-4bf5-ac62-c75c77493477&ssId=LhcIQv1nXVR5L0kO1vybj&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+          "url": "https://www.kobo.com/tw/zh/ebook/jOsfrfgdPDmwgHybpaVRig"
         },
         "books_com": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://reurl.cc/jV9Kgp"
+          "score": 4.5,
+          "count": 5,
+          "url": "https://reurl.cc/lnaOrY"
         },
         "readmoo": {
           "score": null,
@@ -269,7 +187,7 @@
         "goodreads": {
           "score": 4.06,
           "count": 18,
-          "url": "https://www.goodreads.com/book/show/217984425-emotionally-charged?from_search=true&from_srp=true&qid=GusDdTiRWk&rank=1",
+          "url": "https://www.goodreads.com/book/show/217984425-emotionally-charged?from_search=true&from_srp=true&qid=R7vuVH2ePQ&rank=1",
           "note": "title+author",
           "amazon_url": "https://www.amazon.com/gp/product/B0DTHWCNDY/ref=x_gr_bb_kindle",
           "confidence": 80,
@@ -281,8 +199,9 @@
           "url": "https://www.amazon.com/gp/product/B0DTHWCNDY/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.27,
-      "short_affiliate_url": "https://reurl.cc/lnz9DQ"
+      "avg_score": 4.28,
+      "short_affiliate_url": "https://reurl.cc/k98Wgx",
+      "genre_tags": []
     },
     {
       "title": "人類",
@@ -290,33 +209,29 @@
       "original_title": "",
       "original_author": null,
       "isbn": "9786264187763",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sf-7?sId=69e8eea9-654d-4117-9113-df288a478048&ssId=jA9yUP_l7b5BYjSEjfIxU&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sf-7",
       "kobo_price": "NT$458",
       "cover_url": "covers/sf-7.jpg",
       "sale_price": "NT$362",
       "price_source": "kobo",
       "sale_end": "9/15",
-      "description": "日本星雲賞得獎作品，當代本格推理科幻小說的高峰。以多重視角描寫AI事實認證平臺、戰地直播影像與資訊戰爭，合理預測人工智慧即將演化成判定真相的社會化系統。人類是否仍能相信自己的記憶、證詞與選擇？ 《人類》 由 藤井太洋＠著 出版社： 遠流出版 查看電子書",
-      "publish_date": "2026年9月1日",
-      "last_updated": "2026-09-04T16:25:54.255815+08:00",
-      "genre_tags": [
-        "科幻小說與奇幻小說",
-        "科幻小說"
-      ],
+      "description": "日本星雲賞得獎作品，當代本格推理科幻小說的高峰。以多重視角描寫AI事實認證平臺、戰地直播影像與資訊戰爭，合理預測人工智慧即將演化成判定真相的社會化系統。人類是否仍能相信自己的記憶、證詞與選擇？ 《人類》 由 藤井太洋＠著 出版社：遠流出版 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/sf-7?sId=69e8eea9-654d-4117-9113-df288a478048&ssId=jA9yUP_l7b5BYjSEjfIxU&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+          "url": "https://www.kobo.com/tw/zh/ebook/sf-7"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/om8Exq"
+          "score": 4.5,
+          "count": 1,
+          "url": "https://reurl.cc/yWKaNO"
         },
         "readmoo": {
           "score": 5.0,
-          "count": 10,
+          "count": 11,
           "url": "https://readmoo.com/book/210487651000101"
         },
         "goodreads": {
@@ -331,11 +246,312 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/%E4%BA%BA%E9%A1%9E%E5%AD%B8%EF%BC%9A%E4%BA%BA%E9%A1%9E%E4%B9%8B%E6%97%85-Traditional-Chinese-Diego-Ramirez-ebook/dp/B0DFL4587M/ref=sr_1_1"
+          "url": "https://www.amazon.com/-/zh_TW/Diego-Vega-Ramirez-ebook/dp/B0DFL4587M/ref=sr_1_4"
         }
       },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/7YKekd"
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/lnaOAq",
+      "genre_tags": []
+    },
+    {
+      "title": "混亂的力量",
+      "author": "提姆．哈福德",
+      "original_title": "Messy : How to Be Creative and Resilient in a Tidy-Minded World",
+      "original_author": "Tim Harford",
+      "isbn": "9786264187855",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/S_HPF_vJDTiIv96rsQDvxQ",
+      "kobo_price": "NT$379",
+      "cover_url": "covers/S_HPF_vJDTiIv96rsQDvxQ.jpg",
+      "sale_price": "NT$303",
+      "price_source": "kobo",
+      "sale_end": "9/15",
+      "description": "混亂始終存在於創新、成就與人際連結的核心之中──換句話說，它正是成功的重要來源。本書將帶你深入探討混亂在我們生活中所帶來的真實優勢，幫助你跳脫盲點、製造機會，掌握「亂中取勝」的訣竅。 《混亂的力量》 由 提姆．哈福德＠著 出版社：遠流出版 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/S_HPF_vJDTiIv96rsQDvxQ"
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://reurl.cc/p8KR08"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210496708000101"
+        },
+        "goodreads": {
+          "score": 3.91,
+          "count": 4118,
+          "url": "https://www.goodreads.com/book/show/143714579-messy?from_search=true&from_srp=true&qid=R6OYJblaZX&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B01BD1SU2E/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 876,
+          "url": "https://www.amazon.com/gp/product/B01BD1SU2E/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/7Ybqm5",
+      "genre_tags": []
+    },
+    {
+      "title": "訊號",
+      "author": "塔拉‧史瓦特醫師",
+      "original_title": "The Signs : The New Science of How to Trust Your Instincts",
+      "original_author": "Tara Swart MD PhD",
+      "isbn": "9786267916261",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wZkhMZJYkjmRbtMX8hsyCg",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/wZkhMZJYkjmRbtMX8hsyCg.jpg",
+      "sale_price": "NT$268",
+      "price_source": "kobo",
+      "sale_end": "9/16",
+      "description": "全球讀者追隨的神經科學家，首度揭露「直覺」的實證，帶你聽懂身體和宇宙要傳達的關鍵訊號。當你開始留意訊號，世界將不再只有冰冷的數據與現實，更能成為專屬於你的生命指引系統，看見宇宙為你預留的轉機！ 《訊號》 由 塔拉‧史瓦特醫師＠著 出版社：天下雜誌 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/wZkhMZJYkjmRbtMX8hsyCg"
+        },
+        "books_com": {
+          "score": 0.5,
+          "count": 1,
+          "url": "https://reurl.cc/vGKxOo"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210498520000101"
+        },
+        "goodreads": {
+          "score": 3.67,
+          "count": 1429,
+          "url": "https://www.goodreads.com/book/show/228407242-the-signs?from_search=true&from_srp=true&qid=xHUdKAi5O8&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DQLC9VGZ/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 735,
+          "url": "https://www.amazon.com/gp/product/B0DQLC9VGZ/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.12,
+      "short_affiliate_url": "https://reurl.cc/yWKaG2",
+      "genre_tags": []
+    },
+    {
+      "title": "思維模型1",
+      "author": "夏恩・派瑞許",
+      "original_title": "The Great Mental Models, Volume 1 : General Thinking Concepts",
+      "original_author": "Shane Parrish",
+      "isbn": "9786267916308",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/XK20lLwIYE2bXgoC84yKYg",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/XK20lLwIYE2bXgoC84yKYg.jpg",
+      "sale_price": "NT$268",
+      "price_source": "kobo",
+      "sale_end": "9/16",
+      "description": "無論人生還是事業，盲點最少的人將獲得優勢。席捲華爾街的思維鍛鍊，9種最通用的思維模型，協助讀者看清事物表層底下的脈絡與連結，提升決策成功率！ 《思維模型1》 由 夏恩・派瑞許@著 出版社：天下雜誌 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/XK20lLwIYE2bXgoC84yKYg"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/YmkoNn"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210498429000101"
+        },
+        "goodreads": {
+          "score": 4.07,
+          "count": 10993,
+          "url": "https://www.goodreads.com/book/show/205435070-the-great-mental-models-volume-1?from_search=true&from_srp=true&qid=6MzGgCZrKg&rank=1",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 4674,
+          "url": "https://www.amazon.com/-/zh_TW/Shane-Parrish-ebook/dp/B0CSFH8VQS/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.21,
+      "short_affiliate_url": "https://reurl.cc/p8KRAQ",
+      "genre_tags": []
+    },
+    {
+      "title": "昨年",
+      "author": "卡羅．克萊兒．柏克",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9789573344650",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/n5HV0bstgTeIa_dSMbMn2w",
+      "kobo_price": "NT$365",
+      "cover_url": "covers/n5HV0bstgTeIa_dSMbMn2w.jpg",
+      "sale_price": "NT$310",
+      "price_source": "kobo",
+      "sale_end": "9/17",
+      "description": "年度話題神作，席捲歐美文壇！娜塔莉原本是一名生活風格網紅，她歌頌幸福的傳統生活，但這份完美背後藏著滿滿偽裝。直到某天，她一覺醒來，門框上看見刻滿名字與年份的痕跡，而最新的一道刻痕寫著一八五五年。 《昨年》 由 卡羅．克萊兒．柏克＠著 出版社：皇冠文化 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
+      "ratings": {
+        "kobo": {
+          "score": 4.78,
+          "count": 9,
+          "url": "https://www.kobo.com/tw/zh/ebook/n5HV0bstgTeIa_dSMbMn2w"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 74,
+          "url": "https://reurl.cc/rkKVG4"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 3.87,
+          "count": 903135,
+          "url": "https://www.goodreads.com/book/show/257180030?from_search=true&from_srp=true&qid=rwxPz6tAv9&rank=1",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FH1V3D9M/ref=x_gr_bb_kindle",
+          "confidence": 50,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/dp/B0FGJZKJXD/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.26,
+      "short_affiliate_url": "https://reurl.cc/vGKxAy",
+      "genre_tags": []
+    },
+    {
+      "title": "洗錢揭密",
+      "author": "傑夫．懷特",
+      "original_title": "Rinsed︰From Cartels to Crypto : How the Tech Industry Washes Money for the World’s Deadliest Crooks",
+      "original_author": "Geoff White",
+      "isbn": "9786267859599",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6iE_i6ysMTabV4fAfRG0Pg",
+      "kobo_price": "NT$365",
+      "cover_url": "covers/6iE_i6ysMTabV4fAfRG0Pg.jpg",
+      "sale_price": "NT$310",
+      "price_source": "kobo",
+      "sale_end": "9/20",
+      "description": "詐騙氾濫時代，必讀之書。英國備受讚譽的犯罪調查記者，對「洗錢產業鏈」最震撼人心的獨家揭露！在這個一切都更加方便，卻也更不安全的時代，本書帶給你的，不只是看透犯罪的慧眼，更是保護自己的珍貴智慧。 《洗錢揭密》 由 傑夫．懷特＠著 出版社：平安文化 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/6iE_i6ysMTabV4fAfRG0Pg"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 5,
+          "url": "https://reurl.cc/5XbNWz"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210498832000101"
+        },
+        "goodreads": {
+          "score": 4.01,
+          "count": 727,
+          "url": "https://www.goodreads.com/book/show/211199433-rinsed?from_search=true&from_srp=true&qid=MI1p7fdjHd&rank=1",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CPBLXQH6/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 308,
+          "url": "https://www.amazon.com/gp/product/B0CPBLXQH6/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": "https://reurl.cc/Z8loga",
+      "genre_tags": []
+    },
+    {
+      "title": "工作大重組",
+      "author": "萊恩‧羅斯蘭斯基、阿尼許‧拉曼",
+      "original_title": "OPEN TO WORK : How to Get ahead in the Age of AI",
+      "original_author": "Ryan Roslansky; Aneesh Raman",
+      "isbn": "9786267916360",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/linkedin-ai",
+      "kobo_price": "NT$375",
+      "cover_url": "covers/linkedin-ai.jpg",
+      "sale_price": "NT$319",
+      "price_source": "kobo",
+      "sale_end": "9/23",
+      "description": "全球最大職場平台LinkedIn畫出AI時代的工作轉型地圖。即使你沒有換工作，你的工作也已經改變！未來真正拉開差距的，是自我進化的速度。本書將帶領你重新拆解工作、升級能力，打造AI時代新競爭優勢。 《工作大重組》 由 萊恩‧羅斯蘭斯基, 阿尼許‧拉曼＠著 出版社：天下雜誌 查看電子書",
+      "publish_date": "",
+      "last_updated": "2026-09-10T23:30:46.762222+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/linkedin-ai"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 5,
+          "url": "https://reurl.cc/dOqokg"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210499682000101"
+        },
+        "goodreads": {
+          "score": 3.41,
+          "count": 531,
+          "url": "https://www.goodreads.com/book/show/243013855-open-to-work?from_search=true&from_srp=true&qid=XFvGysQZkW&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FX519BHF/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 231,
+          "url": "https://www.amazon.com/gp/product/B0FX519BHF/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.09,
+      "short_affiliate_url": "https://reurl.cc/Ymkobl",
+      "genre_tags": []
     }
   ]
 }
