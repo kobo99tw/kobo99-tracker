@@ -1,152 +1,150 @@
 {
   "year": 2026,
-  "week": 36,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w36",
-  "sale_label": "NT$99 特價：9/3（四）～9/9（三）",
-  "sale_start": "2026-09-03",
-  "sale_end": "2026-09-09",
+  "week": 37,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w37",
+  "sale_label": "NT$99 特價：9/10（四）～9/16（三）",
+  "sale_start": "2026-09-10",
+  "sale_end": "2026-09-16",
   "on_sale": true,
-  "updated_at": "2026-09-03T07:52:36.769561+08:00",
+  "updated_at": "2026-09-10T08:54:03.608296+08:00",
   "books": [
     {
-      "title": "高效原力：用愉悅心態激發生產力，做更多重要的事",
-      "author": "阿里．阿布達爾",
-      "original_title": "Feel-Good Productivity: How to Do More of What Matters to You",
-      "isbn": "9786263583207",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fsKFTWFTwDCYx-pyWBYO3A?sId=a15d879a-582c-414f-97bc-0edad08a41f7&ssId=skzaM9lf70gtKHrhwUZF1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/fsKFTWFTwDCYx-pyWBYO3A.jpg",
+      "title": "人類存在的意義：一個生物學家對生命的思索",
+      "author": "愛德華．威爾森",
+      "original_title": "The Meaning of Human Existence",
+      "isbn": "9786267498767",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/eWgNZKFarzGLpEthRM-_6w?sId=41750b34-1ae5-45f9-b0dd-6d0250e2e64d&ssId=-A0fKWToikPvFLy-CJWg3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$300",
+      "cover_url": "covers/eWgNZKFarzGLpEthRM-_6w.jpg",
       "sale_price": "NT$99",
-      "date": "9/3",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
+      "date": "9/10",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
       "on_sale": true,
-      "publisher": "",
-      "publish_date": "2024年3月29日",
+      "publisher": "如果出版",
+      "publish_date": "2025年4月23日",
       "language": "中文",
-      "original_author": null,
-      "description": "劍橋學霸，首次公開人生管理術。本書結合豐富的企業名人故事案例和完整的架構，帶領你巧妙運用正向情緒科學，完成激勵、解鎖、續航三大步驟，從此無痛展開高效率的全方位人生，開啟成功的自動導航模式。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
+      "original_author": "Edward O. Wilson",
+      "description": "我們在宇宙中是否有一個特殊的地位或命運？作者以他當代科學大儒、頂尖生物演化學家的身分，在書中討論了當前生物學界最受矚目的議題，並由此以科學的角度重新思考人類存在的意義，為我們指點一個可能的未來。",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.53,
-          "count": 68,
-          "url": "https://www.kobo.com/tw/zh/ebook/fsKFTWFTwDCYx-pyWBYO3A?sId=a15d879a-582c-414f-97bc-0edad08a41f7&ssId=skzaM9lf70gtKHrhwUZF1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/eWgNZKFarzGLpEthRM-_6w?sId=41750b34-1ae5-45f9-b0dd-6d0250e2e64d&ssId=-A0fKWToikPvFLy-CJWg3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
         },
         "books_com": {
           "score": 4.5,
-          "count": 21,
-          "url": "https://www.books.com.tw/products/E050208900"
+          "count": 4,
+          "url": "https://www.books.com.tw/products/E050262177"
         },
         "readmoo": {
-          "score": 4.6,
-          "count": 150,
-          "url": "https://readmoo.com/book/210321038000101"
+          "score": 2.5,
+          "count": 2,
+          "url": "https://readmoo.com/book/210383975000101"
         },
         "goodreads": {
-          "score": 3.96,
-          "count": 21804,
-          "url": "https://www.goodreads.com/book/isbn/9786263583207",
-          "note": "isbn",
+          "score": 3.85,
+          "count": 5063,
+          "url": "https://www.goodreads.com/book/show/20665570-the-meaning-of-human-existence?from_search=true&from_srp=true&qid=2VzaTLpyUe&rank=1",
+          "note": "title+author",
           "amazon_url": "",
-          "confidence": 50,
+          "confidence": 75,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 8,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%98%BF%E9%87%8C-%E9%98%BF%E5%B8%83%E9%81%94%E7%88%BE-ebook/dp/B0CYZSQ84J/ref=sr_1_1"
+          "score": 4.3,
+          "count": 1632,
+          "url": "https://www.amazon.com/-/zh_TW/Meaning-Human-Existence%E3%80%8B-Edward-Wilson/dp/1631491148/ref=sr_1_1"
         }
       },
       "promo_region": "台灣和香港",
-      "promo_code": "kobo03Sep",
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/1lK2eX"
+      "promo_code": "kobo10Sep",
+      "avg_score": 4.1,
+      "short_affiliate_url": "https://reurl.cc/xeKaae"
     },
     {
-      "title": "完成：把不了了之的待辦目標變成以實現的有效練習",
-      "author": "喬恩‧阿考夫 Jon Acuff",
-      "original_title": "FINISH: GIVE YOURSELF THE GIFT OF DONE",
-      "isbn": "3329863983712",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/J6OmdSqMHDKveaWHJlTvUA?utm_source=koboblog",
-      "kobo_price": "NT$245",
-      "cover_url": "covers/J6OmdSqMHDKveaWHJlTvUA.jpg",
+      "title": "一如既往：不變的人性法則與致富心態",
+      "author": "摩根‧豪瑟",
+      "original_title": "Same as Ever: A Guide to What Never Changes",
+      "isbn": "9786263556423",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/XPbdYYUKgDKZnHEy48R0kQ?sId=b869ddc0-1a06-402d-819e-a55be69f6d57&ssId=_eAlJrtsQtCoA_HiUbjX5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/XPbdYYUKgDKZnHEy48R0kQ.jpg",
       "sale_price": "NT$99",
-      "date": "9/4",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
+      "date": "9/11",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
       "on_sale": true,
-      "publisher": "天下雜誌",
-      "publish_date": "2018年10月1日",
+      "publisher": "天下文化",
+      "publish_date": "2024年2月1日",
       "language": "中文",
-      "original_author": "Jon Acuff",
-      "description": "開始很重要，但不是最重要。完成目標，你就勝過92％的人！沒有完成目標，就像打破對自己的承諾。只要遵循幾個簡單的原則，調整心態，你健身有成或提升績效的機會，就多了將近一半。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
+      "original_author": "Morgan Housel",
+      "description": "全球暢銷書《致富心態》作者力作，迎接難以預測的未來與種種人生挑戰最有效的新工具。關於金錢、歷史與人性不變的23件事。唯有當你不再執著於預測未知，才能在人生與投資路上獲得最大的滿足與成就。",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.43,
-          "count": 53,
-          "url": "https://www.kobo.com/tw/zh/ebook/J6OmdSqMHDKveaWHJlTvUA?utm_source=koboblog"
+          "score": 4.4,
+          "count": 139,
+          "url": "https://www.kobo.com/tw/zh/ebook/XPbdYYUKgDKZnHEy48R0kQ?sId=b869ddc0-1a06-402d-819e-a55be69f6d57&ssId=_eAlJrtsQtCoA_HiUbjX5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 9,
-          "url": "https://www.books.com.tw/products/E050033592"
+          "score": 5.0,
+          "count": 75,
+          "url": "https://www.books.com.tw/products/E050199140"
         },
         "readmoo": {
-          "score": 4.3,
-          "count": 251,
-          "url": "https://readmoo.com/book/210096519000101"
+          "score": 4.7,
+          "count": 673,
+          "url": "https://readmoo.com/book/210312800000101"
         },
         "goodreads": {
-          "score": 4.13,
-          "count": 12985,
-          "url": "https://www.goodreads.com/book/show/35397160-finish?from_search=true&from_srp=true&qid=1A3AYlKNb8&rank=1",
+          "score": 4.15,
+          "count": 26664,
+          "url": "https://www.goodreads.com/book/show/125116554-same-as-ever?from_search=true&from_srp=true&qid=14R3SuY86Q&rank=1",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B01N4VVT1Z/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C1685PDK/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 2683,
-          "url": "https://www.amazon.com/-/zh_TW/Jon-Acuff-ebook/dp/B01N4VVT1Z/ref=sr_1_1"
+          "score": 4.6,
+          "count": 5832,
+          "url": "https://www.amazon.com/gp/product/B0C1685PDK/ref=x_gr_bb_kindle"
         }
       },
-      "promo_region": "台灣和香港",
-      "promo_code": "kobo04Sep",
-      "avg_score": 4.3,
-      "short_affiliate_url": "https://reurl.cc/gNR0ZR"
+      "avg_score": 4.47,
+      "short_affiliate_url": "https://reurl.cc/mzkMM7"
     },
     {
-      "title": "三生三世倾君心",
-      "author": "女巫的猫",
+      "title": "天赐之日",
+      "author": "高罗佩",
       "original_title": "",
-      "isbn": "7584024289558",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lPkm7-VZ0jSvR1KIfYmVnw?sId=348ff536-47de-45f7-a3bb-689bcaa6737e&ssId=vR4blnrwmG12wB4Ov9uLu&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903",
-      "kobo_price": "NT$261",
-      "cover_url": "covers/lPkm7-VZ0jSvR1KIfYmVnw.jpg",
+      "isbn": "7574532791422",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Up5On9RQrzG02JWLGSn7hA?sId=640ccf8a-16aa-4c82-a6ef-8c777230556b&ssId=BuTPQpiU75gQLI2w9-UWJ&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$498",
+      "cover_url": "covers/Up5On9RQrzG02JWLGSn7hA.jpg",
       "sale_price": "NT$99",
-      "date": "9/4",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
+      "date": "9/11",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
       "on_sale": true,
-      "publisher": "",
-      "publish_date": "2015年8月1日",
+      "publisher": "上海译文出版社",
+      "publish_date": "2023年4月1日",
       "language": "中文",
       "original_author": null,
-      "description": "殺手阿九受命盜取千年玉璽，卻無意中綁架皇帝君卿舞，成為了君卿舞厭惡的人。這場奪權篡位之爭讓兩人走向聯合，彼此之間產生了真摯的感情。為了消除爭鬥、保護腹中的骨血，君卿舞剷除莫丞相的反叛勢力。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
+      "description": "★“大唐狄公案”之外，高罗佩创作的唯一侦探小说 ★摘下狄公面具，重返昨日阿姆斯特丹 ★中文版首度推出 高罗佩之子托马斯·范古利克特别作序 【作者简介】高罗佩（1910—1967），荷兰外交官，著名汉学家，先后在荷兰驻日本、中国、印度、马来西亚等国的使馆工作，精通多种欧亚语言，是中西文化交流史上的传奇人物。他曾评价自己一身三任：外交官是他的职业，汉学是他的终身事业，写小说是他的业余爱好。代表作有《琴道》《秘戏图考》《中国古代房内考》等，而大型推理探案小说系列“大唐狄公案”在东西方读者中影响巨大。 【内容简介】《天赐之日》是高罗佩在“大唐狄公案”系列之外唯一一部以阿姆斯特丹为背景的侦探小说，故事情节曲折离奇，既有对二战期间及战后普通人艰难生活的叙写，包括种种现实与心理困境，同时还有对于东方文化，尤其是禅宗思想的考察，在东西方文化的碰撞和交锋中，追寻人类的精神救赎与出路，从中折射出高罗佩本人所具",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/lPkm7-VZ0jSvR1KIfYmVnw?sId=348ff536-47de-45f7-a3bb-689bcaa6737e&ssId=vR4blnrwmG12wB4Ov9uLu&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903"
+          "url": "https://www.kobo.com/tw/zh/ebook/Up5On9RQrzG02JWLGSn7hA?sId=640ccf8a-16aa-4c82-a6ef-8c777230556b&ssId=BuTPQpiU75gQLI2w9-UWJ&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.books.com.tw/products/CN11865951"
         },
         "readmoo": {
           "score": null,
@@ -165,288 +163,276 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E5%80%BE%E5%90%9B%E5%BF%83-%E5%A5%B3%E5%B7%AB%E7%9A%84%E7%8C%AB/dp/B00WCH98LQ/ref=sr_1_1"
+          "url": "https://www.amazon.com/-/zh_TW/%E5%A4%A9%E8%B5%90%E4%B9%8B%E6%97%A5-%E9%AB%98%E7%BD%97%E4%BD%A9/dp/7532791424/ref=sr_1_1"
         }
       },
-      "promo_region": "台灣和香港",
-      "promo_code": "kobo04Sep2",
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/KE8pM9"
+      "short_affiliate_url": "https://reurl.cc/8Ybvv7"
     },
     {
-      "title": "天防者",
-      "author": "布蘭登．山德森",
-      "original_title": "Skyward",
-      "isbn": "3119869762809",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/uPEC1olYKz28VmK31wyKGw?sId=16071d2c-9664-4573-80e5-e18214452be5&ssId=BxX9ijiGKrSBMyJXdueua&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/uPEC1olYKz28VmK31wyKGw.jpg",
+      "title": "宮廷風暴 : 溫莎王室的動蕩與真相",
+      "author": "堤娜‧布朗",
+      "original_title": "The Palace Papers: Inside the house of Windsor - the truth and the turmoil.",
+      "isbn": "9786263907027",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6_x-bhTp0ji6YhVkZpgGoQ?sId=075d4818-4db2-4227-9fdd-93419626c6b8&ssId=tsE0eY0ao7ZJJHM0JkVaQ&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$576",
+      "cover_url": "covers/6_x-bhTp0ji6YhVkZpgGoQ.jpg",
       "sale_price": "NT$99",
-      "date": "9/5",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
-      "on_sale": true,
-      "publisher": "奇幻基地",
-      "publish_date": "2019年6月4日",
-      "language": "中文",
-      "original_author": "Brandon Sanderson",
-      "description": "奇幻界最高榮耀雨果獎得主布蘭登．山德森力作。衝入天際，邀遊星辰，撼動宇宙，有如《戰爭遊戲》般暢快淋漓、熱血沸騰的太空史詩。我將會成為「無畏者」，成為天空中的英雄， 只有迎向挑戰，才能生存下去。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 4.16,
-          "count": 25,
-          "url": "https://www.kobo.com/tw/zh/ebook/uPEC1olYKz28VmK31wyKGw?sId=16071d2c-9664-4573-80e5-e18214452be5&ssId=BxX9ijiGKrSBMyJXdueua&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/products/E050048188"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 126,
-          "url": "https://readmoo.com/book/210109642000101"
-        },
-        "goodreads": {
-          "score": 4.48,
-          "count": 291,
-          "url": "https://www.goodreads.com/book/show/59536000-skyward-boxed-set?from_search=true&from_srp=true&qid=mRxnOtxsf6&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/059356877X/ref=x_gr_bb_amazon",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.9,
-          "count": 339,
-          "url": "https://www.amazon.com/gp/product/059356877X/ref=x_gr_bb_amazon"
-        }
-      },
-      "promo_region": "台灣和香港",
-      "promo_code": "kobo05Sep",
-      "avg_score": 4.4,
-      "short_affiliate_url": "https://reurl.cc/jV9klm"
-    },
-    {
-      "title": "種子的勝利（暢銷改版）：穀類、堅果、果仁、豆類、核籽如何征服植物王國，形塑人類歷史",
-      "author": "索爾．漢森",
-      "original_title": "The Triumph of Seeds: How Grains, Nuts, Kernels, Pulses, and Pips Conquered the Plant Kingdom and Shaped Human History",
-      "isbn": "3117702110444",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/5QDJLtIngjueJzA7WicCdQ?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/5QDJLtIngjueJzA7WicCdQ.jpg",
-      "sale_price": "NT$99",
-      "date": "9/6",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
+      "date": "9/12",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
       "on_sale": true,
       "publisher": "商周出版",
-      "publish_date": "2014年12月25日",
+      "publish_date": "2025年11月25日",
       "language": "中文",
-      "original_author": "Thor Hanson",
-      "description": "從浣熊小屋到亞馬遜的咖啡農場，從後院花圃到印度喀拉拉邦的香料之路，本書將帶給你一場知識、冒險以及驚奇的饗宴。本書富含知識、洋溢人文氣息，不論你是否喜愛拈花惹草，都會著迷於作者精彩生動的種子故事。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
+      "original_author": "Tina Brown",
+      "description": "王室之於現代國家的意義為何？一本以最辛辣筆調，揭露英國王室二十五年權力，與媒體糾纏的終極真相，徹底顛覆你對溫莎家族的想像。她讓我們看見皇冠背後，不只是童話，而是一面映照人性、欲望的巨大鏡子。",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/5QDJLtIngjueJzA7WicCdQ?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903"
+          "url": "https://www.kobo.com/tw/zh/ebook/6_x-bhTp0ji6YhVkZpgGoQ?sId=075d4818-4db2-4227-9fdd-93419626c6b8&ssId=tsE0eY0ao7ZJJHM0JkVaQ&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
         },
         "books_com": {
           "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050084474"
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050307072"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 13,
-          "url": "https://readmoo.com/book/210167090000101"
+          "score": 4.4,
+          "count": 7,
+          "url": "https://readmoo.com/book/210436947000101"
         },
         "goodreads": {
-          "score": 4.1,
-          "count": 3158,
-          "url": "https://www.goodreads.com/book/show/23013818-the-triumph-of-seeds?from_search=true&from_srp=true&qid=9yuIbXnCcj&rank=1",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B00PWX7S4G/ref=x_gr_bb_kindle",
-          "confidence": 70,
+          "score": 4.03,
+          "count": 20561,
+          "url": "https://www.goodreads.com/book/show/59089872-the-palace-papers?from_search=true&from_srp=true&qid=dDOs6cOF6I&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B09H2DTK15/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 457,
-          "url": "https://www.amazon.com/gp/product/B00PWX7S4G/ref=x_gr_bb_kindle"
+          "score": 4.5,
+          "count": 11702,
+          "url": "https://www.amazon.com/gp/product/B09H2DTK15/ref=x_gr_bb_kindle"
         }
       },
-      "promo_region": "台灣和香港",
-      "promo_code": "kobo06Sep",
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/om8e0v"
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/k98OO3"
     },
     {
-      "title": "顏值：從第一印象到刻板印象，臉孔社交價值的科學解密",
-      "author": "亞歷山大・托多洛夫",
-      "original_title": "Face Value : The Irresistible Influence of the First Impressions",
-      "isbn": "9789860632842",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/p4RqHEQ3ITOhXEyVAszoLg?sId=6f4a7710-5ff7-402c-a0e3-2b461738e71d&ssId=Q5ibwVxh_zOomm-sB-iyy&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903",
-      "kobo_price": "NT$350",
-      "cover_url": "covers/p4RqHEQ3ITOhXEyVAszoLg.jpg",
+      "title": "統計操控的真相與謊言：別再讓數字騙了你！一眼看穿投資詐局、不實廣告與虛假民調，打造最強的自我保護力與決策判斷力",
+      "author": "德瑞爾．赫夫",
+      "original_title": "How To Lie With Statistics",
+      "isbn": "9786267321669",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/u2UbROMWrzaBuSXLcRobIg?sId=47255f54-ab3f-4453-876b-f9de9ee98527&ssId=R25VjQvLJpxd3JKUxmwSw&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$238",
+      "cover_url": "covers/u2UbROMWrzaBuSXLcRobIg.jpg",
       "sale_price": "NT$99",
-      "date": "9/7",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
+      "date": "9/13",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
       "on_sale": true,
-      "publisher": "鷹出版",
-      "publish_date": "2021年5月5日",
+      "publisher": "樂金文化",
+      "publish_date": "2024年2月27日",
       "language": "中文",
-      "original_author": "Alexander Todorov",
-      "description": "人雖自認理性，在決策和判斷時，卻還是會受一張臉的眉毛和下巴線條所影響。一部解開臉孔諸多纖細幽微的訊息如何影響大腦建構第一印象的奇書。儘管臉孔始終誤導我們，但這本書卻讓我們用不同方式來觀看臉。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
+      "original_author": "Darrell Huff",
+      "description": "投資大師肯恩．費雪權威背書。五大祕訣！立即識破數字詐術，捍衛自己的荷包與權益。解說統計學方法與概念，帶領讀者一一破解謊言、宣傳與不實的宣稱，老實人終於不必再被數字的伎倆欺騙。",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
       "ratings": {
         "kobo": {
-          "score": 3.55,
-          "count": 11,
-          "url": "https://www.kobo.com/tw/zh/ebook/p4RqHEQ3ITOhXEyVAszoLg?sId=6f4a7710-5ff7-402c-a0e3-2b461738e71d&ssId=Q5ibwVxh_zOomm-sB-iyy&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/u2UbROMWrzaBuSXLcRobIg?sId=47255f54-ab3f-4453-876b-f9de9ee98527&ssId=R25VjQvLJpxd3JKUxmwSw&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
         },
         "books_com": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050093869"
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/E050204300"
         },
         "readmoo": {
-          "score": 4.2,
-          "count": 25,
-          "url": "https://readmoo.com/book/210179072000101"
+          "score": 3.8,
+          "count": 6,
+          "url": "https://readmoo.com/book/210315643000101"
         },
         "goodreads": {
-          "score": 3.97,
-          "count": 117,
-          "url": "https://www.goodreads.com/book/show/32889403-face-value?from_search=true&from_srp=true&qid=tMy7GT8FMs&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B06X97L78F/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "score": 3.83,
+          "count": 18592,
+          "url": "https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics?from_search=true&from_srp=true&qid=A2CIdJUZYd&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B00351DSX2/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 70,
-          "url": "https://www.amazon.com/gp/product/B06X97L78F/ref=x_gr_bb_kindle"
+          "count": 4533,
+          "url": "https://www.amazon.com/gp/product/B00351DSX2/ref=x_gr_bb_kindle"
         }
       },
-      "promo_region": "台灣和香港",
-      "promo_code": "kobo07Sep",
-      "avg_score": 4.1,
-      "short_affiliate_url": "https://reurl.cc/LeapNe"
+      "avg_score": 4.11,
+      "short_affiliate_url": "https://reurl.cc/7Yb00N"
     },
     {
-      "title": "人類時代：我們所塑造的世界",
-      "author": "黛安．艾克曼",
-      "original_title": "The Human Age: The World Shaped By Us",
-      "isbn": "9789571386591",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6HDoFHhaVjC_qe1SIHY4Vw?sId=8c0508ff-4d9a-4906-ab8f-a888d88edb94&ssId=1vwodvr78492oRKmt3pfZ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/6HDoFHhaVjC_qe1SIHY4Vw.jpg",
+      "title": "加密騙局",
+      "author": "艾瑞卡‧史坦福",
+      "original_title": "Crypto Wars: Faked Deaths, Missing Billions and Industry Disruption",
+      "isbn": "9786267240847",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dt0Hlzv9uzysJZHREpCL_Q?sId=640ccf8a-16aa-4c82-a6ef-8c777230556b&ssId=BuTPQpiU75gQLI2w9-UWJ&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$350",
+      "cover_url": "covers/dt0Hlzv9uzysJZHREpCL_Q.jpg",
       "sale_price": "NT$99",
-      "date": "9/8",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
+      "date": "9/14",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
       "on_sale": true,
-      "publisher": "時報出版",
-      "publish_date": "2021年3月12日",
+      "publisher": "堡壘文化",
+      "publish_date": "2023年6月20日",
       "language": "中文",
-      "original_author": "Diane Ackerman",
-      "description": "從適應自然到創造自然，我們進入一個真正以人類為主宰的全新時代。在這本劃時代的新作中，作者細膩描繪「智人」這種聰明絕頂卻又自以為是的生物，如何主宰地球的現狀，又如何掌控地球未來的命運。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
+      "original_author": "Erica Stanford",
+      "description": "當全世界開始一窩蜂投入加密貨幣的浪潮中，夢想著一夜致富，卻不知一場場宛如「惡血」翻版的騙局正虎視眈眈地等待無辜者落入網中，等著將你的畢生財富徹底掏空，揭開這些市場醜聞、解開加密系統背後的運作。",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/6HDoFHhaVjC_qe1SIHY4Vw?sId=8c0508ff-4d9a-4906-ab8f-a888d88edb94&ssId=1vwodvr78492oRKmt3pfZ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/dt0Hlzv9uzysJZHREpCL_Q?sId=640ccf8a-16aa-4c82-a6ef-8c777230556b&ssId=BuTPQpiU75gQLI2w9-UWJ&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
         },
         "books_com": {
           "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/products/E050090246"
+          "count": 1,
+          "url": "https://www.books.com.tw/products/E050166602"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 10,
-          "url": "https://readmoo.com/book/210176670000101"
+          "score": 5.0,
+          "count": 3,
+          "url": "https://readmoo.com/book/210277884000101"
         },
         "goodreads": {
-          "score": 3.68,
-          "count": 1431,
-          "url": "https://www.goodreads.com/book/show/25622255-the-human-age?from_search=true&from_srp=true&qid=edjCRY1CAl&rank=2",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B00J8R3M4C/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "score": 3.45,
+          "count": 152,
+          "url": "https://www.goodreads.com/book/show/55876485-crypto-wars?from_search=true&from_srp=true&qid=ByeSweyTZa&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B092GTXGYQ/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.3,
-          "count": 218,
-          "url": "https://www.amazon.com/gp/product/B00J8R3M4C/ref=x_gr_bb_kindle"
+          "count": 97,
+          "url": "https://www.amazon.com/gp/product/B092GTXGYQ/ref=x_gr_bb_kindle"
         }
       },
-      "promo_region": "台灣和香港",
-      "promo_code": "kobo08Sep",
-      "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/DYqdme"
+      "avg_score": 4.06,
+      "short_affiliate_url": "https://reurl.cc/yWKLLa"
     },
     {
-      "title": "瑞秋的青春事件簿：邦諾書店年度十大好書，橫掃歐美書市千禧世代成長小說！",
-      "author": "卡洛琳．歐丹娜修",
-      "original_title": "The Rachel Incident",
-      "isbn": "9786267721506",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/bCIjDCxK7jSCkxNzwT2wAw?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903",
-      "kobo_price": "NT$379",
-      "cover_url": "covers/bCIjDCxK7jSCkxNzwT2wAw.jpg",
+      "title": "集合體",
+      "author": "娜塔夏．布朗",
+      "original_title": "Assembly",
+      "isbn": "9786269737673",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/gMcariVCpDGjYwIfkUvNcw?sId=4cecf90c-222f-4481-bb3c-a8fdcc6a33ea&ssId=zMxF_TrrIt3jASOgDtjc6&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/gMcariVCpDGjYwIfkUvNcw.jpg",
       "sale_price": "NT$99",
-      "date": "9/9",
-      "sale_start": "2026-09-03",
-      "sale_end": "2026-09-09",
+      "date": "9/15",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
       "on_sale": true,
-      "publisher": "悅知文化",
-      "publish_date": "2025年11月3日",
+      "publisher": "啟明出版事業股份有限公司",
+      "publish_date": "2023年8月9日",
       "language": "中文",
-      "original_author": "Caroline O’Donoghue",
-      "description": "在最壞的時代，我們仍能擁有最好的人生。二十幾歲的我們，如何在世上尋找一席之地？以笑中帶淚的筆調，描繪一個青春熾熱的故事。站在成年的路口，我們陪著瑞秋經歷年輕的迷茫與掙扎，也體驗著最肆無忌憚的愛與狂歡。。",
-      "last_updated": "2026-09-03T07:52:36.769561+08:00",
+      "original_author": "Natasha Brown",
+      "description": "本書是一個關於我們生活在其中的故事，關於種族和階級、安全和自由、贏家和輸家的故事。這是關於一個女人敢於掌控自己生命敘事的故事。隨著時間的流逝，她無法迴避這個問題：是時候把它們全部拆散了嗎？",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.0,
-          "count": 4,
-          "url": "https://www.kobo.com/tw/zh/ebook/bCIjDCxK7jSCkxNzwT2wAw?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260903"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/gMcariVCpDGjYwIfkUvNcw?sId=4cecf90c-222f-4481-bb3c-a8fdcc6a33ea&ssId=zMxF_TrrIt3jASOgDtjc6&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
         },
         "books_com": {
           "score": 5.0,
-          "count": 15,
-          "url": "https://www.books.com.tw/products/E050299041"
+          "count": 2,
+          "url": "https://www.books.com.tw/products/0010963964"
         },
         "readmoo": {
-          "score": 4.4,
-          "count": 56,
-          "url": "https://readmoo.com/book/210424341000101"
+          "score": 4.1,
+          "count": 24,
+          "url": "https://readmoo.com/book/210282485000101"
         },
         "goodreads": {
-          "score": 4.05,
-          "count": 157103,
-          "url": "https://www.goodreads.com/book/show/63094957-the-rachel-incident?from_search=true&from_srp=true&qid=oJzEG9TUpD&rank=2",
+          "score": 3.78,
+          "count": 37385,
+          "url": "https://www.goodreads.com/book/show/56646330-assembly?from_search=true&from_srp=true&qid=KDIgQvoutv&rank=1",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BGPQCQS7/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B097NRT7TN/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 16935,
-          "url": "https://www.amazon.com/gp/product/B0BGPQCQS7/ref=x_gr_bb_kindle"
+          "score": 4.0,
+          "count": 2282,
+          "url": "https://www.amazon.com/gp/product/B097NRT7TN/ref=x_gr_bb_kindle"
         }
       },
-      "promo_region": "台灣和香港",
-      "promo_code": "kobo09Sep",
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/XxA4L3"
+      "avg_score": 4.03,
+      "short_affiliate_url": "https://reurl.cc/vGKaaj"
+    },
+    {
+      "title": "身體要你動：十項自我檢測和提升訓練，找回你該有的靈活與健康",
+      "author": "凱利‧史達雷、茱麗葉‧史達雷",
+      "original_title": "Built to Move: The Ten Essential Habits to Help You Move Freely and Live Fully",
+      "isbn": "9786267561126",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1fFtc2uZajeZn1HVx2-Hsg?sId=4f36abfb-41f6-4e55-a3fa-93dbf7f2ee1d&ssId=_VJRMOcc73KLisAd4VNeO&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910",
+      "kobo_price": "NT$455",
+      "cover_url": "covers/1fFtc2uZajeZn1HVx2-Hsg.jpg",
+      "sale_price": "NT$99",
+      "date": "9/16",
+      "sale_start": "2026-09-10",
+      "sale_end": "2026-09-16",
+      "on_sale": true,
+      "publisher": "大家出版",
+      "publish_date": "2024年10月23日",
+      "language": "中文",
+      "original_author": "Kelly Starrett; Juliet Starrett",
+      "description": "人體這部精密機械，如何保養才能避免故障？在家就能做的十項身體機能檢測和練習，從肌肉、關節、身體平衡、呼吸到睡眠，再怎麼不想運動，都能在日常生活中培養出強韌的身體，長期下來累積出明顯有感的成效。",
+      "last_updated": "2026-09-10T08:54:03.608296+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/1fFtc2uZajeZn1HVx2-Hsg?sId=4f36abfb-41f6-4e55-a3fa-93dbf7f2ee1d&ssId=_VJRMOcc73KLisAd4VNeO&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260910"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/products/E050237944"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210355830000101"
+        },
+        "goodreads": {
+          "score": 4.22,
+          "count": 6621,
+          "url": "https://www.goodreads.com/book/show/61423854-built-to-move?from_search=true&from_srp=true&qid=PjDMLymvLt&rank=1",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B5STDSC8/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 1688,
+          "url": "https://www.amazon.com/gp/product/B0B5STDSC8/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.27,
+      "short_affiliate_url": "https://reurl.cc/YmkEEa"
     }
   ]
 }

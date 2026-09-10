@@ -7,88 +7,86 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:《高效原力：用愉悅心態激發生產力，做更多重要
- 的事》
-DESCRIPTION:特價 NT$99｜原價 NT$338｜4.2分\nhttps://reurl.cc/1lK2eX\
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:《人類存在的意義：一個生物學家對生命的思索》
+DESCRIPTION:特價 NT$99｜原價 NT$300｜4.1分\nhttps://reurl.cc/xeKaae\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/1lK2eX
-UID:kobo99-2026-w36-01@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/xeKaae
+UID:kobo99-2026-w37-01@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:《完成：把不了了之的待辦目標變成以實現的有效
- 練習》
-DESCRIPTION:特價 NT$99｜原價 NT$245｜4.3分\nhttps://reurl.cc/gNR0ZR\
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:《一如既往：不變的人性法則與致富心態》
+DESCRIPTION:特價 NT$99｜原價 NT$338｜4.5分\nhttps://reurl.cc/mzkMM7\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/gNR0ZR
-UID:kobo99-2026-w36-02@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/mzkMM7
+UID:kobo99-2026-w37-02@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:《三生三世倾君心》
-DESCRIPTION:特價 NT$99｜原價 NT$261\nhttps://reurl.cc/KE8pM9\n查看
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:《天赐之日》
+DESCRIPTION:特價 NT$99｜原價 NT$498\nhttps://reurl.cc/8Ybvv7\n查看
  當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/KE8pM9
-UID:kobo99-2026-w36-03@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/8Ybvv7
+UID:kobo99-2026-w37-03@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:《天防者》
-DESCRIPTION:特價 NT$99｜原價 NT$294｜4.4分\nhttps://reurl.cc/jV9klm\
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:《宮廷風暴 : 溫莎王室的動蕩與真相》
+DESCRIPTION:特價 NT$99｜原價 NT$576｜4.2分\nhttps://reurl.cc/k98OO3\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/jV9klm
-UID:kobo99-2026-w36-04@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/k98OO3
+UID:kobo99-2026-w37-04@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:《種子的勝利（暢銷改版）：穀類、堅果、果仁、
- 豆類、核籽如何征服植物王國，形塑人類歷史》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.2分\nhttps://reurl.cc/om8e0v\
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:《統計操控的真相與謊言：別再讓數字騙了你！一
+ 眼看穿投資詐局、不實廣告與虛假民調，打造最強的自
+ 我保護力與決策判斷力》
+DESCRIPTION:特價 NT$99｜原價 NT$238｜4.1分\nhttps://reurl.cc/7Yb00N\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/om8e0v
-UID:kobo99-2026-w36-05@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/7Yb00N
+UID:kobo99-2026-w37-05@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:《顏值：從第一印象到刻板印象，臉孔社交價值的
- 科學解密》
-DESCRIPTION:特價 NT$99｜原價 NT$350｜4.1分\nhttps://reurl.cc/LeapNe\
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:《加密騙局》
+DESCRIPTION:特價 NT$99｜原價 NT$350｜4.1分\nhttps://reurl.cc/yWKLLa\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/LeapNe
-UID:kobo99-2026-w36-06@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/yWKLLa
+UID:kobo99-2026-w37-06@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:《人類時代：我們所塑造的世界》
-DESCRIPTION:特價 NT$99｜原價 NT$336｜4.1分\nhttps://reurl.cc/DYqdme\
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:《集合體》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜4.0分\nhttps://reurl.cc/vGKaaj\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/DYqdme
-UID:kobo99-2026-w36-07@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/vGKaaj
+UID:kobo99-2026-w37-07@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:《瑞秋的青春事件簿：邦諾書店年度十大好書，橫
- 掃歐美書市千禧世代成長小說！》
-DESCRIPTION:特價 NT$99｜原價 NT$379｜4.2分\nhttps://reurl.cc/XxA4L3\
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:《身體要你動：十項自我檢測和提升訓練，找回你
+ 該有的靈活與健康》
+DESCRIPTION:特價 NT$99｜原價 NT$455｜4.3分\nhttps://reurl.cc/YmkEEa\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/XxA4L3
-UID:kobo99-2026-w36-08@kobo99-tracker
-DTSTAMP:20260903T000739Z
+URL:https://reurl.cc/YmkEEa
+UID:kobo99-2026-w37-08@kobo99-tracker
+DTSTAMP:20260910T011320Z
 END:VEVENT
 END:VCALENDAR
