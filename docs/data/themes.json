@@ -1,15 +1,26 @@
 [
   {
+    "defaultSort": "expiry",
+    "file": "theme_1779336542191.json",
+    "headTitle": "Kobo 新書獨家優惠",
+    "key": "theme_1779336542191",
+    "label": "【Kobo 獨家優惠】用閱讀豐富你我的人生（每週更新）",
+    "sale": "新書限時特價",
+    "seoDesc": "Kobo 獨家優惠書單整理 Kobo 台灣近兩個月新書 85 折特惠，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，幫你找到心目中的好書。",
+    "subtitle": "用閱讀豐富你我的人生（每週更新）",
+    "tabEmoji": "🎁",
+    "tabLabel": "新書優惠",
+    "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
+  },
+  {
     "defaultSort": "order",
     "file": "theme_kobo_top100.json",
     "headTitle": "Kobo歷年百大暢銷",
     "key": "theme_kobo_top100",
     "label": "【Kobo歷年百大暢銷】",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止",
-    "sale": "Kobo即時排行榜．10週年慶全站73折代碼10HBD可用（至9/10止）",
-    "seoDesc": "整理 Kobo 歷年百大暢銷書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購經典好書，適用 Kobo 10週年慶全站73折代碼 10HBD（至9/10止）。",
-    "subtitle": "Kobo即時排行榜．10週年慶全站73折代碼10HBD可用（至9/10止）",
+    "sale": "Kobo即時排行榜",
+    "seoDesc": "整理 Kobo 歷年百大暢銷書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購經典好書。",
+    "subtitle": "Kobo即時排行榜",
     "tabEmoji": "💯",
     "tabLabel": "歷年百大",
     "url": "https://www.kobo.com/tw/zh/list/sep-10hbd/dLL5Emr5BMMGBgje9DUvZQ"
@@ -26,9 +37,7 @@
     "subtitle": "單本85折起至10/11止",
     "tabEmoji": "💵",
     "tabLabel": "高寶財富",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/zbm-L-LH0Mk0egje-B5knA",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/zbm-L-LH0Mk0egje-B5knA"
   },
   {
     "defaultSort": "avg",
@@ -42,9 +51,7 @@
     "subtitle": "單本85折至9/19止",
     "tabEmoji": "💼",
     "tabLabel": "商業周刊",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/ny8qAfjVvsXQkwje_aWaRA",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/ny8qAfjVvsXQkwje_aWaRA"
   },
   {
     "defaultSort": "avg",
@@ -54,14 +61,11 @@
     "key": "theme_yuanliou",
     "label": "【遠流出版】你無法阻擋海浪，但能學會衝浪",
     "sale": "單本85折，3本再折$99至9/30止",
-    "saleNote": "⚠️ 3本再折$99與10HBD不可疊加，系統預設套用$99；想用10HBD請選2本以下結帳",
     "seoDesc": "整理遠流出版「你無法阻擋海浪，但能學會衝浪」療癒書展書單，單本85折，3本再折$99，優惠至9/30止，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購好書。",
     "subtitle": "單本85折，3本再折$99至9/30止",
     "tabEmoji": "🌊",
     "tabLabel": "遠流出版",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/Wryjji5BE86pQQjfAzWTRA",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/Wryjji5BE86pQQjfAzWTRA"
   },
   {
     "defaultSort": "avg",
@@ -75,9 +79,7 @@
     "subtitle": "單本85折至9/30止",
     "tabEmoji": "📚",
     "tabLabel": "大塊文化",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/U1Be4vWn8cCOMgjfAzaSLw",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/U1Be4vWn8cCOMgjfAzaSLw"
   },
   {
     "defaultSort": "avg",
@@ -91,9 +93,7 @@
     "subtitle": "單本85折至9/15止",
     "tabEmoji": "🎨",
     "tabLabel": "三采文化",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/RILX4jIjQcPffgjfAzbOEw",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/RILX4jIjQcPffgjfAzbOEw"
   },
   {
     "defaultSort": "avg",
@@ -107,9 +107,7 @@
     "subtitle": "單本85折至9/30止",
     "tabEmoji": "🏛️",
     "tabLabel": "聯經出版",
-    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/4zJQ2hCkKsCZBQjfAzifNg",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
+    "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/4zJQ2hCkKsCZBQjfAzifNg"
   },
   {
     "file": "theme_1783301118689.json",
@@ -157,21 +155,6 @@
     "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w35"
   },
   {
-    "defaultSort": "expiry",
-    "file": "theme_1779336542191.json",
-    "headTitle": "Kobo 新書獨家優惠",
-    "key": "theme_1779336542191",
-    "label": "【Kobo 獨家優惠】用閱讀豐富你我的人生（每週更新）",
-    "sale": "新書限時特價",
-    "seoDesc": "Kobo 獨家優惠書單整理 Kobo 台灣近兩個月新書 85 折特惠，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，幫你找到心目中的好書。",
-    "subtitle": "用閱讀豐富你我的人生（每週更新）",
-    "tabEmoji": "🎁",
-    "tabLabel": "新書優惠",
-    "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
-  },
-  {
     "file": "theme_1779378338324.json",
     "headTitle": "《臺灣漫遊錄》楊双子作品集",
     "key": "theme_1779378338324",
@@ -181,8 +164,6 @@
     "subtitle": "首次有臺灣文學作品獲頒國際布克獎",
     "tabEmoji": "🏆",
     "tabLabel": "《臺灣漫遊錄》",
-    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue",
-    "promo_code": "10HBD",
-    "promo_period": "至9/10止"
+    "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
   }
 ]
