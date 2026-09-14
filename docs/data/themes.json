@@ -13,19 +13,6 @@
     "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
   },
   {
-    "defaultSort": "order",
-    "file": "theme_kobo_top100.json",
-    "headTitle": "Kobo歷年百大暢銷",
-    "key": "theme_kobo_top100",
-    "label": "【Kobo歷年百大暢銷】",
-    "sale": "Kobo即時排行榜",
-    "seoDesc": "整理 Kobo 歷年百大暢銷書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購經典好書。",
-    "subtitle": "Kobo即時排行榜",
-    "tabEmoji": "💯",
-    "tabLabel": "歷年百大",
-    "url": "https://www.kobo.com/tw/zh/list/sep-10hbd/dLL5Emr5BMMGBgje9DUvZQ"
-  },
-  {
     "file": "theme_1779353467078.json",
     "headTitle": "本週精選書單",
     "hidden": false,
@@ -40,6 +27,19 @@
     "tabEmoji": "✨",
     "tabLabel": "第38週精選",
     "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w38"
+  },
+  {
+    "defaultSort": "order",
+    "file": "theme_kobo_top100.json",
+    "headTitle": "Kobo歷年百大暢銷",
+    "key": "theme_kobo_top100",
+    "label": "【Kobo歷年百大暢銷】",
+    "sale": "Kobo即時排行榜",
+    "seoDesc": "整理 Kobo 歷年百大暢銷書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購經典好書。",
+    "subtitle": "Kobo即時排行榜",
+    "tabEmoji": "💯",
+    "tabLabel": "歷年百大",
+    "url": "https://www.kobo.com/tw/zh/list/sep-10hbd/dLL5Emr5BMMGBgje9DUvZQ"
   },
   {
     "defaultSort": "avg",
