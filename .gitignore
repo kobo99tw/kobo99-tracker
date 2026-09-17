@@ -32,6 +32,13 @@ SITE_BUILD_GUIDE.md
 DESIGN_SYSTEM.md
 SCRAPER_RULES.md
 REFACTOR_METHOD.md
+AGENTS.md
+KOBO_CLOUDFLARE_BLOCKING_ISSUE.md
+RAKUTEN_AFFILIATE_TRACKING_ISSUE.md
+RAKUTEN_REPLY_DRAFT_*.md
+
+# Claude Code 子代理/技能設定（本機用，不公開）
+.agents/
 
 # 書單存檔與 Admin 暫存（只需本機）
 docs/data/books-*.json
@@ -57,3 +64,10 @@ scrape.py
 
 # 本機封存區（含舊爬蟲程式，絕不上傳）
 _archive/
+
+# 專用 Chrome 設定檔（真實瀏覽器自動化試點用，體積大且含瀏覽狀態，絕不上傳）
+_chrome_profile_kobo/
+_chrome_profile_kobo2/
+
+# 測試資料（本機驗證用，不上傳）
+docs/data/test/
