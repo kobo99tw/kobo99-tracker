@@ -624,9 +624,10 @@
         "readmoo": {
           "score": 4.4,
           "count": 334,
-          "url": "https://readmoo.com/book/210345281000101",
+          "url": "https://moo.im/a/09czLW",
           "price_reg": 250,
-          "price_promo": 212
+          "price_promo": 212,
+          "raw_url": "https://readmoo.com/book/210345281000101"
         },
         "goodreads": {
           "score": 4.02,

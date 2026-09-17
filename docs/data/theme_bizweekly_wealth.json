@@ -983,9 +983,10 @@
         "readmoo": {
           "score": 4.7,
           "count": 166,
-          "url": "https://readmoo.com/book/210346288000101",
+          "url": "https://moo.im/a/5qJNPR",
           "price_reg": 252,
-          "price_promo": null
+          "price_promo": null,
+          "raw_url": "https://readmoo.com/book/210346288000101"
         },
         "goodreads": {
           "score": 4.28,
@@ -1301,9 +1302,10 @@
         "readmoo": {
           "score": 4.6,
           "count": 189,
-          "url": "https://readmoo.com/book/210326895000101",
+          "url": "https://moo.im/a/eghiDW",
           "price_reg": 350,
-          "price_promo": null
+          "price_promo": null,
+          "raw_url": "https://readmoo.com/book/210326895000101"
         },
         "goodreads": {
           "score": 4.39,
