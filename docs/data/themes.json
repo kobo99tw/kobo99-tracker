@@ -29,19 +29,6 @@
     "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w38"
   },
   {
-    "defaultSort": "order",
-    "file": "theme_kobo_top100.json",
-    "headTitle": "Kobo歷年百大暢銷",
-    "key": "theme_kobo_top100",
-    "label": "【Kobo歷年百大暢銷】",
-    "sale": "Kobo即時排行榜",
-    "seoDesc": "整理 Kobo 歷年百大暢銷書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購經典好書。",
-    "subtitle": "Kobo即時排行榜",
-    "tabEmoji": "💯",
-    "tabLabel": "歷年百大",
-    "url": "https://www.kobo.com/tw/zh/list/sep-10hbd/dLL5Emr5BMMGBgje9DUvZQ"
-  },
-  {
     "defaultSort": "avg",
     "file": "theme_gaobao_wealth.json",
     "headTitle": "高寶書版 創造財富書展",
@@ -101,6 +88,7 @@
     "defaultSort": "avg",
     "file": "theme_sancai.json",
     "headTitle": "三采文化精彩樂讀人氣暢銷精選",
+    "hidden": true,
     "hide_after": "2026-09-15",
     "key": "theme_sancai",
     "label": "【三采文化】精彩樂讀人氣暢銷精選",
@@ -153,6 +141,19 @@
     "tabEmoji": "💰",
     "tabLabel": "財富人生",
     "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA"
+  },
+  {
+    "defaultSort": "order",
+    "file": "theme_kobo_top100.json",
+    "headTitle": "Kobo歷年百大暢銷",
+    "key": "theme_kobo_top100",
+    "label": "【Kobo歷年百大暢銷】",
+    "sale": "Kobo即時排行榜",
+    "seoDesc": "整理 Kobo 歷年百大暢銷書單，整合 Kobo、博客來、讀墨、Goodreads、Amazon 五大平台評分，方便讀者快速比較選購經典好書。",
+    "subtitle": "Kobo即時排行榜",
+    "tabEmoji": "💯",
+    "tabLabel": "歷年百大",
+    "url": "https://www.kobo.com/tw/zh/list/sep-10hbd/dLL5Emr5BMMGBgje9DUvZQ"
   },
   {
     "file": "theme_1779378338324.json",
