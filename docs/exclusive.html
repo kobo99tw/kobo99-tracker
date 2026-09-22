@@ -665,12 +665,20 @@ function render() {
 
     const origTitle = `<div class="book-original">${book.original_title ? esc(book.original_title) : ''}</div>`;
 
-    // 讀墨每日優惠完全不查Kobo（身分來源是讀墨本身，不是Kobo商品），Kobo
-    // 這一列對這個主題永遠是空的，不是「還沒抓到」，顯示出來只是雜訊，
-    // 直接跳過不顯示（v182，使用者要求；博客來則保留——跟其他主題一樣只是
-    // 目前全域搜尋被擋還沒人工補，之後補得到，不是結構性缺席）
+    // 讀墨每日優惠完全不查Kobo（身分來源是讀墨本身，不是Kobo商品），Kobo這
+    // 一列對這個主題永遠是空的，一律隱藏。博客來理論上之後補得到，但這個
+    // 主題每天輪替、博客來人工回補又受限於Cloudflare只能慢慢補，跟不上換
+    // 內容的速度，實際上幾乎永遠是空——沒資料時一起隱藏，避免整排「暫無
+    // 評分」雜訊；哪天真的手動補到某本書的博客來資料，那本書的這一列會
+    // 自動重新出現（不是寫死永久隱藏，只隱藏「目前沒資料」的情況）
+    // （v182，使用者要求）
     const ratingsHtml = Object.keys(SRC_META)
-      .filter(k => !(k === 'kobo' && window._themeDateDriven))
+      .filter(k => {
+        if (!window._themeDateDriven) return true;
+        if (k === 'kobo') return false;
+        if (k === 'books_com') return !!(r.books_com && (r.books_com.score != null || r.books_com.url));
+        return true;
+      })
       .map(k => ratingRow(k, r[k])).join("");
 
     const { saleAmt, origAmt } = parsePrices(book);
