@@ -657,11 +657,21 @@ function render() {
     const isSaved = saved.has(book.isbn);
     const isRead  = read.has(book.isbn);
     const isToday = window._themeDateDriven && book.date === todayMD;
-    const buyUrl  = book.kobo_url ? rakutenDeepLink(book.kobo_url) : (book.readmoo_url || '');
+    // 沒有kobo_url時優先用ratings.readmoo.url（不是book.readmoo_url）——讀墨
+    // 聯盟連結回補工具（readmoo_queue.py/readmoo_write.py）只會寫回
+    // ratings.readmoo.url，補之前兩者相同、補之後這裡才會自動變成moo.im聯盟
+    // 連結，購買按鈕不用另外改（v182修正，發現時還沒接起來）
+    const buyUrl  = book.kobo_url ? rakutenDeepLink(book.kobo_url) : (r.readmoo?.url || book.readmoo_url || '');
 
     const origTitle = `<div class="book-original">${book.original_title ? esc(book.original_title) : ''}</div>`;
 
-    const ratingsHtml = Object.keys(SRC_META).map(k => ratingRow(k, r[k])).join("");
+    // 讀墨每日優惠完全不查Kobo（身分來源是讀墨本身，不是Kobo商品），Kobo
+    // 這一列對這個主題永遠是空的，不是「還沒抓到」，顯示出來只是雜訊，
+    // 直接跳過不顯示（v182，使用者要求；博客來則保留——跟其他主題一樣只是
+    // 目前全域搜尋被擋還沒人工補，之後補得到，不是結構性缺席）
+    const ratingsHtml = Object.keys(SRC_META)
+      .filter(k => !(k === 'kobo' && window._themeDateDriven))
+      .map(k => ratingRow(k, r[k])).join("");
 
     const { saleAmt, origAmt } = parsePrices(book);
     const hasPromoCode = !!(window._themePromoCode);
