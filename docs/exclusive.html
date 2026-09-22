@@ -114,6 +114,11 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:1.25rem;padding:1.25rem;max-width:1400px;margin:0 auto}
 
 .card{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .2s,transform .2s}
+.card--today{border:2px solid var(--sale);background:var(--sale-bg);box-shadow:0 0 0 3px rgba(249,115,22,.1),0 6px 24px rgba(249,115,22,.14)}
+.card--today:hover{box-shadow:0 0 0 3px rgba(249,115,22,.18),0 8px 28px rgba(249,115,22,.2);transform:translateY(-2px)}
+.date-banner{text-align:center;background:var(--cream);color:var(--ink2);font-size:.85rem;font-weight:600;padding:.4rem .5rem;border-radius:8px;margin-bottom:.6rem;border:1px solid var(--line)}
+.today-banner{text-align:center;background:var(--sale);color:#fff;font-size:.88rem;font-weight:700;padding:.42rem .5rem;border-radius:8px;letter-spacing:.04em;margin-bottom:.6rem;animation:pulse-sale 2s ease-in-out infinite}
+@keyframes pulse-sale{0%,100%{box-shadow:0 0 0 0 rgba(249,115,22,.4)}60%{box-shadow:0 0 0 6px rgba(249,115,22,0)}}
 .card:hover{box-shadow:0 4px 20px rgba(0,0,0,.09);transform:translateY(-2px)}
 
 .spine{height:5px;flex-shrink:0}
@@ -343,6 +348,22 @@ const SRC_META = {
   amazon_com: { label: "Amazon",     color: "#EA580C" },
 };
 
+// 台灣今日日期，格式 "M/D"（日期驅動主題用，如讀墨每日優惠判斷今日特價書）
+const todayMD = (() => {
+  const fmt   = new Intl.DateTimeFormat("zh-TW", { timeZone: "Asia/Taipei", month: "numeric", day: "numeric" });
+  const parts = fmt.formatToParts(new Date());
+  const m     = parts.find(p => p.type === "month")?.value;
+  const d     = parts.find(p => p.type === "day")?.value;
+  return m && d ? `${m}/${d}` : "";
+})();
+function dateVal(md) {
+  if (!md) return 0;
+  const [m, d] = md.split("/").map(Number);
+  if (isNaN(m) || isNaN(d)) return 9999;
+  return m * 100 + d;
+}
+const todayVal = dateVal(todayMD);
+
 function scClass(s) {
   if (!s) return "sc-none";
   if (s >= 4.3) return "sc-high";
@@ -377,6 +398,9 @@ function parsePrices(book) {
   if (book.kobo_price) {
     const m = book.kobo_price.match(/[\d,]+/);
     if (m) origAmt = parseInt(m[0].replace(",",""));
+  } else if (book.daily_price_reg) {
+    // 日期驅動主題（讀墨每日優惠）沒有kobo_price，原價來自讀墨商品頁「電子書售價」
+    origAmt = book.daily_price_reg;
   }
   if (book.sale_price && /^\s*NT\$/.test(book.sale_price)) {
     // 實際優惠價（如 NT$313）：只信任真實抓到的數字（Kobo 曾經是/目前是，
@@ -384,6 +408,9 @@ function parsePrices(book) {
     // 折數用乘的容易失真（可能是結帳輸代碼才生效、或該書實際折數跟主題標示不同）
     const m = book.sale_price.match(/[\d,]+/);
     if (m) saleAmt = parseInt(m[0].replace(",",""));
+  } else if (book.daily_price) {
+    // 讀墨每日優惠：這天的真實活動價，直接抓自活動頁，不用折數反推
+    saleAmt = book.daily_price;
   }
   return { saleAmt, origAmt };
 }
@@ -585,8 +612,22 @@ function render() {
       const vb = (db === null || db < 0) ? 99999 : db;
       return va - vb;
     }
+    if (sort === "date") {
+      const av = dateVal(a.date), bv = dateVal(b.date);
+      const aToday = av === todayVal, bToday = bv === todayVal;
+      if (aToday !== bToday) return aToday ? -1 : 1;
+      const aFuture = av > todayVal, bFuture = bv > todayVal;
+      if (aFuture !== bFuture) return aFuture ? -1 : 1;
+      return av - bv;
+    }
     return 0; // 書單順序
   });
+
+  // 日期驅動主題：不管選哪種排序，今天的書一律強制排第一（比照index.html週99的today-card邏輯）
+  if (window._themeDateDriven && sort !== "date") {
+    const todayIdx = books.findIndex(b => b.date === todayMD);
+    if (todayIdx > 0) books.unshift(books.splice(todayIdx, 1)[0]);
+  }
 
   document.getElementById("weekBadge").textContent = `共 ${books.length} 本`;
 
@@ -615,6 +656,8 @@ function render() {
     const spine   = SPINES[idx % SPINES.length];
     const isSaved = saved.has(book.isbn);
     const isRead  = read.has(book.isbn);
+    const isToday = window._themeDateDriven && book.date === todayMD;
+    const buyUrl  = book.kobo_url ? rakutenDeepLink(book.kobo_url) : (book.readmoo_url || '');
 
     const origTitle = `<div class="book-original">${book.original_title ? esc(book.original_title) : ''}</div>`;
 
@@ -653,13 +696,19 @@ function render() {
       </div>`;
     } else {
       // 無折扣：直接顯示現價，不畫橫線
-      const displayPrice = origAmt ? `NT$${origAmt}` : esc(book.kobo_price || '—');
+      // saleAmt後備：讀墨每日優惠只有當天價（daily_price進到saleAmt），沒有可比較
+      // 的原價（daily_price_reg）時，origAmt會是0，不能顯示「—」蓋掉真實抓到的價格
+      const displayPrice = origAmt ? `NT$${origAmt}` : (saleAmt ? `NT$${saleAmt}` : esc(book.kobo_price || '—'));
       priceInfo = `<div class="price-info">
         <span class="price-sale">${displayPrice}</span>
       </div>`;
     }
-    const buyBtn = book.kobo_url
-      ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
+    // 沒有kobo_url、只有readmoo_url時，購買連結導向讀墨而非Kobo——按鈕文字
+    // 明講平台名稱，避免使用者以為整站都是Kobo導購，點下去卻到別的網站
+    // 覺得意外（v182，讀墨每日優惠專用，使用者要求辨識機制）
+    const buyLabel = (!book.kobo_url && book.readmoo_url) ? '🛒 前往讀墨購買' : '🛒 立即購買';
+    const buyBtn = buyUrl
+      ? `<a class="btn-buy" href="${buyUrl}" target="_blank">${buyLabel}</a>`
       : `<span class="btn-dis">連結待補</span>`;
     // 折扣碼模式（且無真實折扣資料）下實際結帳金額未知，不預填，交給使用者到 555.html 自己填
     const cartPrice = (hasPromoCode && !hasRealDiscount) ? 0 : (saleAmt || origAmt || 0);
@@ -672,13 +721,13 @@ function render() {
           data-isbn="${esc(book.isbn||'')}"
           data-title="${esc(book.title)}"
           data-price="${cartPrice}"
-          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">🧮 ${cart555Has(book.isbn)?'已加入':'湊555'}</button>` : ''}
+          data-url="${esc(book.short_affiliate_url || buyUrl||'')}">🧮 ${cart555Has(book.isbn)?'已加入':'湊555'}</button>` : ''}
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
           data-score="${avg ? avg.toFixed(2) : 'null'}"
-          data-price="${esc(book.kobo_price||'')}"
-          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">📤 分享</button>
+          data-price="${esc(book.kobo_price||(book.daily_price?('NT$'+book.daily_price):'')||'')}"
+          data-url="${esc(book.short_affiliate_url || buyUrl||'')}">📤 分享</button>
         <span class="score-badge ${cls}"${avg && avgCount < 30 ? ` title="評分人數較少（${avgCount}人），僅供參考"` : ''}>${avg ? avg.toFixed(2) : "—"}${avg && avgCount < 30 ? '<span style="font-size:.75em;opacity:.75"> ⚠</span>' : ''}</span>
       </div>`;
 
@@ -687,11 +736,16 @@ function render() {
       : '';
 
     return `
-    <div class="${['card', isRead?'card--read':''].filter(Boolean).join(' ')}">
-      <div class="spine" style="background:${spine}"></div>
+    <div class="${['card', isRead?'card--read':'', isToday?'card--today':''].filter(Boolean).join(' ')}">
+      <div class="spine" style="background:${isToday ? 'var(--sale)' : spine}"></div>
       ${coverHtml}
       <div class="card-body">
         <div class="card-top">${markBtns}</div>
+        ${window._themeDateDriven && book.date ? (
+          isToday
+            ? `<div class="today-banner">🔥 今日特價 · ${esc(book.date)}</div>`
+            : `<div class="date-banner">${esc(book.date)} 特價</div>`
+        ) : ''}
         ${(() => {
           if (!book.sale_end) return '';
           const dl = daysLeft(book.sale_end);
@@ -901,9 +955,22 @@ loadData();
         if (_twTitle) _twTitle.setAttribute('content', mainTitle + ' | kobo99.com');
         const h1 = document.querySelector('.site-name');
         if (h1) h1.textContent = emoji + ' ' + mainTitle;
-        // 預設排序
+        // 日期驅動主題（如讀墨每日優惠）：today-card效果+「依日期」排序選項
+        window._themeDateDriven = !!t.dateDriven;
         const sortSel = document.getElementById('sortSel');
-        if (sortSel) sortSel.value = t.defaultSort || 'order';
+        if (sortSel) {
+          const hasDateOpt = !!sortSel.querySelector('option[value="date"]');
+          if (t.dateDriven && !hasDateOpt) {
+            const opt = document.createElement('option');
+            opt.value = 'date';
+            opt.textContent = '依日期';
+            sortSel.insertBefore(opt, sortSel.firstChild);
+          } else if (!t.dateDriven && hasDateOpt) {
+            sortSel.querySelector('option[value="date"]').remove();
+          }
+          // 預設排序
+          sortSel.value = t.defaultSort || 'order';
+        }
         const sub = document.querySelector('.site-sub');
         if (sub) sub.textContent = subTitle;
         // sale period 行（saleNote 或 promo_code）

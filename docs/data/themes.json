@@ -166,5 +166,19 @@
     "tabEmoji": "🏆",
     "tabLabel": "《臺灣漫遊錄》",
     "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
+  },
+  {
+    "dateDriven": true,
+    "defaultSort": "date",
+    "file": "theme_readmoo_daily.json",
+    "headTitle": "讀墨每日優惠",
+    "key": "theme_readmoo_daily",
+    "label": "【讀墨每日優惠】每天一本，價格不固定",
+    "sale": "",
+    "seoDesc": "整理讀墨電子書平台「每日優惠」活動書單，每天一本特價書，價格每天不同，並補上博客來、Goodreads、Amazon 評分方便比較（此書單購買連結導向讀墨，非Kobo商品）。",
+    "subtitle": "每天一本，價格每天不同（購買連結導向讀墨）",
+    "tabEmoji": "📅",
+    "tabLabel": "讀墨每日優惠",
+    "url": "https://readmoo.com/campaign/specialoffer/index"
   }
 ]
