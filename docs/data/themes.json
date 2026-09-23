@@ -180,5 +180,19 @@
     "tabEmoji": "📅",
     "tabLabel": "讀墨每日優惠",
     "url": "https://readmoo.com/campaign/specialoffer/index"
+  },
+  {
+    "dateDriven": true,
+    "defaultSort": "date",
+    "file": "theme_books_dailye99.json",
+    "headTitle": "博客來每日e書99",
+    "key": "theme_books_dailye99",
+    "label": "【博客來每日e書99】特價活動，價格依日期不同",
+    "sale": "",
+    "seoDesc": "整理博客來電子書平台「每日e書99」活動書單，每天一本特價書，價格依日期不同，並補上博客來、Goodreads、Amazon 評分方便比較（此書單購買連結導向博客來，非Kobo商品）。",
+    "subtitle": "特價活動，價格依日期不同（購買連結導向博客來）",
+    "tabEmoji": "🗓️",
+    "tabLabel": "博客來每日e書",
+    "url": "https://activity.books.com.tw/crosscat/show/A00000062854"
   }
 ]

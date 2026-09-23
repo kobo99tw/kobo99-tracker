@@ -363,6 +363,35 @@ function dateVal(md) {
   return m * 100 + d;
 }
 const todayVal = dateVal(todayMD);
+// 日期區間輔助（博客來每日e書99專用，v183新增）：讀墨每日優惠是「一天一筆」
+// 只有book.date；博客來每日e書99週末是「一個區間一筆」，多了book.date_end
+// （平日兩者相同，date_end會等於date_start）。這三個函式對兩種主題通用，
+// 沒有date_end的書（date_end undefined）自動退化成單日判斷，不影響讀墨那頁。
+function dateStart(book) { return book.date_start || book.date; }
+function dateEnd(book)   { return book.date_end || dateStart(book); }
+function isTodayRange(book) {
+  const s = dateStart(book), e = dateEnd(book);
+  if (!s) return false;
+  return todayVal >= dateVal(s) && todayVal <= dateVal(e);
+}
+// 日期banner顯示文字：博客來每日e書99自己算好date_label（含星期，週末區間
+// 格式如「9/26(六)-9/28(一)」）直接用；讀墨每日優惠沒有date_label，只有
+// 單日的book.date（如「9/24」），退回用WD陣列自己補星期——2026-09-23使用者
+// 發現讀墨/博客來的今日卡banner都缺星期（每週99的index.html有、這裡沒有），
+// 才發現這裡從來沒實作過，比照index.html的fmtDate()邏輯補上
+const WD = ["日","一","二","三","四","五","六"];
+function fmtDateLabel(book) {
+  if (book.date_label) return book.date_label;
+  const md = book.date;
+  if (!md) return "";
+  const [m, d] = md.split("/").map(Number);
+  if (isNaN(m) || isNaN(d)) return md;
+  const twYear = parseInt(new Intl.DateTimeFormat("en", {
+    timeZone: "Asia/Taipei", year: "numeric"
+  }).format(new Date()));
+  const dt = new Date(twYear, m - 1, d);
+  return `${m}/${d}(${WD[dt.getDay()]})`;
+}
 
 function scClass(s) {
   if (!s) return "sc-none";
@@ -613,8 +642,8 @@ function render() {
       return va - vb;
     }
     if (sort === "date") {
-      const av = dateVal(a.date), bv = dateVal(b.date);
-      const aToday = av === todayVal, bToday = bv === todayVal;
+      const av = dateVal(dateStart(a)), bv = dateVal(dateStart(b));
+      const aToday = isTodayRange(a), bToday = isTodayRange(b);
       if (aToday !== bToday) return aToday ? -1 : 1;
       const aFuture = av > todayVal, bFuture = bv > todayVal;
       if (aFuture !== bFuture) return aFuture ? -1 : 1;
@@ -625,7 +654,7 @@ function render() {
 
   // 日期驅動主題：不管選哪種排序，今天的書一律強制排第一（比照index.html週99的today-card邏輯）
   if (window._themeDateDriven && sort !== "date") {
-    const todayIdx = books.findIndex(b => b.date === todayMD);
+    const todayIdx = books.findIndex(isTodayRange);
     if (todayIdx > 0) books.unshift(books.splice(todayIdx, 1)[0]);
   }
 
@@ -656,12 +685,15 @@ function render() {
     const spine   = SPINES[idx % SPINES.length];
     const isSaved = saved.has(book.isbn);
     const isRead  = read.has(book.isbn);
-    const isToday = window._themeDateDriven && book.date === todayMD;
+    const isToday = window._themeDateDriven && isTodayRange(book);
     // 沒有kobo_url時優先用ratings.readmoo.url（不是book.readmoo_url）——讀墨
     // 聯盟連結回補工具（readmoo_queue.py/readmoo_write.py）只會寫回
     // ratings.readmoo.url，補之前兩者相同、補之後這裡才會自動變成moo.im聯盟
-    // 連結，購買按鈕不用另外改（v182修正，發現時還沒接起來）
-    const buyUrl  = book.kobo_url ? rakutenDeepLink(book.kobo_url) : (r.readmoo?.url || book.readmoo_url || '');
+    // 連結，購買按鈕不用另外改（v182修正，發現時還沒接起來）。博客來每日
+    // e書99（book.product_url存在）沒有kobo_url/readmoo_url，退回
+    // ratings.books_com.url或product_url（v183新增）
+    const buyUrl  = book.kobo_url ? rakutenDeepLink(book.kobo_url)
+      : (r.readmoo?.url || book.readmoo_url || r.books_com?.url || book.product_url || '');
 
     const origTitle = `<div class="book-original">${book.original_title ? esc(book.original_title) : ''}</div>`;
 
@@ -671,10 +703,14 @@ function render() {
     // 內容的速度，實際上幾乎永遠是空——沒資料時一起隱藏，避免整排「暫無
     // 評分」雜訊；哪天真的手動補到某本書的博客來資料，那本書的這一列會
     // 自動重新出現（不是寫死永久隱藏，只隱藏「目前沒資料」的情況）
-    // （v182，使用者要求）
+    // （v182，使用者要求）。博客來每日e書99剛好相反：身分來源是博客來
+    // 本身（一定有資料），完全不查Kobo/讀墨，這兩個永遠沒資料一律隱藏，
+    // 博客來則永遠顯示（v183，使用者定案評分只保留博客來/GR/Amazon）
+    const isBooksDailyTheme = window._themeKey === 'theme_books_dailye99';
     const ratingsHtml = Object.keys(SRC_META)
       .filter(k => {
         if (!window._themeDateDriven) return true;
+        if (isBooksDailyTheme) return k !== 'kobo' && k !== 'readmoo';
         if (k === 'kobo') return false;
         if (k === 'books_com') return !!(r.books_com && (r.books_com.score != null || r.books_com.url));
         return true;
@@ -723,8 +759,10 @@ function render() {
     }
     // 沒有kobo_url、只有readmoo_url時，購買連結導向讀墨而非Kobo——按鈕文字
     // 明講平台名稱，避免使用者以為整站都是Kobo導購，點下去卻到別的網站
-    // 覺得意外（v182，讀墨每日優惠專用，使用者要求辨識機制）
-    const buyLabel = (!book.kobo_url && book.readmoo_url) ? '🛒 前往讀墨購買' : '🛒 立即購買';
+    // 覺得意外（v182，讀墨每日優惠專用，使用者要求辨識機制；v183比照套用
+    // 到博客來每日e書99的product_url）
+    const buyLabel = (!book.kobo_url && book.readmoo_url) ? '🛒 前往讀墨購買'
+      : (!book.kobo_url && book.product_url) ? '🛒 前往博客來購買' : '🛒 立即購買';
     const buyBtn = buyUrl
       ? `<a class="btn-buy" href="${buyUrl}" target="_blank">${buyLabel}</a>`
       : `<span class="btn-dis">連結待補</span>`;
@@ -759,11 +797,16 @@ function render() {
       ${coverHtml}
       <div class="card-body">
         <div class="card-top">${markBtns}</div>
-        ${window._themeDateDriven && book.date ? (
-          isToday
-            ? `<div class="today-banner">🔥 今日特價 · ${esc(book.date)}</div>`
-            : `<div class="date-banner">${esc(book.date)} 特價</div>`
-        ) : ''}
+        ${window._themeDateDriven && dateStart(book) ? (() => {
+          // fmtDateLabel()：博客來每日e書99的date_label已含星期直接用
+          // （週末區間格式如「9/26(六)-9/28(一)」）；讀墨每日優惠沒有這個
+          // 欄位，用book.date（單日）自動補星期（v183修正，之前這裡兩個
+          // 主題的今日卡banner都缺星期）
+          const label = fmtDateLabel(book);
+          return isToday
+            ? `<div class="today-banner">🔥 今日特價 · ${esc(label)}</div>`
+            : `<div class="date-banner">${esc(label)} 特價</div>`;
+        })() : ''}
         ${(() => {
           if (!book.sale_end) return '';
           const dl = daysLeft(book.sale_end);
@@ -975,6 +1018,9 @@ loadData();
         if (h1) h1.textContent = emoji + ' ' + mainTitle;
         // 日期驅動主題（如讀墨每日優惠）：today-card效果+「依日期」排序選項
         window._themeDateDriven = !!t.dateDriven;
+        // 兩個日期驅動主題（讀墨每日優惠／博客來每日e書99）身分來源平台不同，
+        // 評分列顯示/購買連結要分開判斷，光看_themeDateDriven分不出是哪一個（v183新增）
+        window._themeKey = t.key || '';
         const sortSel = document.getElementById('sortSel');
         if (sortSel) {
           const hasDateOpt = !!sortSel.querySelector('option[value="date"]');
