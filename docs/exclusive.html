@@ -1014,6 +1014,21 @@ loadData();
         if (_ogUrl) _ogUrl.setAttribute('content', 'https://kobo99.com/exclusive.html?file=' + encodeURIComponent(t.file));
         const _twTitle = document.querySelector('meta[name="twitter:title"]');
         if (_twTitle) _twTitle.setAttribute('content', mainTitle + ' | kobo99.com');
+        // JSON-LD結構化資料：title/canonical/meta description都已經跟著主題動態更新，
+        // 但這段一直是寫死的靜態內容（name永遠是「Kobo 精選書單」、url永遠是不帶
+        // ?file=參數的頁面），導致Google看到的結構化資料跟頁面實際顯示內容永遠對不上，
+        // 每個主題頁面（含讀墨每日優惠、博客來每日e書99這兩個新頁面）都受影響，不只
+        // 這兩個新頁面——2026-09-24補上跟其他meta欄位一致的動態更新
+        const _ld = document.querySelector('script[type="application/ld+json"]');
+        if (_ld) {
+          try {
+            const _ldData = JSON.parse(_ld.textContent);
+            _ldData.name = mainTitle;
+            _ldData.description = _desc;
+            _ldData.url = 'https://kobo99.com/exclusive.html?file=' + encodeURIComponent(t.file);
+            _ld.textContent = JSON.stringify(_ldData);
+          } catch(e) {}
+        }
         const h1 = document.querySelector('.site-name');
         if (h1) h1.textContent = emoji + ' ' + mainTitle;
         // 日期驅動主題（如讀墨每日優惠）：today-card效果+「依日期」排序選項
