@@ -1,151 +1,150 @@
 {
   "year": 2026,
-  "week": 38,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w38",
-  "sale_label": "NT$99 特價：9/17（四）～9/23（三）",
-  "sale_start": "2026-09-17",
-  "sale_end": "2026-09-23",
+  "week": 39,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w39",
+  "sale_label": "NT$99 特價：9/24（四）～9/30（三）",
+  "sale_start": "2026-09-24",
+  "sale_end": "2026-09-30",
   "on_sale": true,
-  "updated_at": "2026-09-17T11:40:15.446975+08:00",
+  "updated_at": "2026-09-24T10:16:07.245728+08:00",
   "books": [
     {
-      "title": "太空商業時代 ：馬斯克引發的太空經濟革命",
-      "author": "艾胥黎．范思",
-      "original_title": "When the Heavens Went on Sale: The Misfits and Geniuses Racing to Put Space Within Reach",
-      "isbn": "9786263556324",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/TRkMTBrAmj-ik8ly6bhQ_Q?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917",
+      "title": "億萬救援：從白宮壓力到貨幣決策，鮑爾與川普的聯準會權力之戰",
+      "author": "尼克‧提米羅斯",
+      "original_title": "Trillion Dollar Triage: How Jay Powell and the Fed Battled a President and a Pandemic—And Prevented Economic Disaster",
+      "isbn": "9786267523537",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vXmlpU6XfzWb7jzN7osKTw?sId=dcf07912-2561-4124-ad07-b58c49fc5aba&ssId=aIpdCQ-A2lU3ip8aOWNco&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
       "kobo_price": "NT$99",
-      "cover_url": "covers/TRkMTBrAmj-ik8ly6bhQ_Q.jpg",
+      "cover_url": "covers/vXmlpU6XfzWb7jzN7osKTw.jpg",
       "sale_price": "NT$99",
-      "date": "9/17",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
+      "date": "9/24",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
       "on_sale": true,
-      "publisher": "天下文化",
-      "publish_date": "2024年2月5日",
+      "publisher": "感電出版",
+      "publish_date": "2025年6月25日",
       "language": "中文",
-      "original_author": "Ashlee Vance",
-      "description": "摩爾定律塑造我們熟悉的現代世界，當新創公司將這股力量帶至太空，對科技發展，以及人類生活造成巨大改變。本書描繪了工程師、投資人的夢想，述說這群人為何著迷於太空，又是以什麼樣的勇氣追逐夢想並克服挑戰。",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
+      "original_author": "Nick Timiraos",
+      "description": "聯準會有雙重使命：提升就業率、穩定物價。以聯準會主席鮑爾為主角的政經角力，詳細描述新冠疫情席捲全球後，美國如何迅速從經濟蓬勃的狀態，進入一場猶如醫學誘導的昏迷，大大小小的企業面臨崩潰的邊緣。",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/TRkMTBrAmj-ik8ly6bhQ_Q?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/vXmlpU6XfzWb7jzN7osKTw?sId=dcf07912-2561-4124-ad07-b58c49fc5aba&ssId=aIpdCQ-A2lU3ip8aOWNco&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
         },
         "books_com": {
           "score": 3.5,
-          "count": 5,
-          "url": "https://reurl.cc/DYYLm6"
+          "count": 3,
+          "url": "https://reurl.cc/AXDW8Z"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 19,
-          "url": "https://moo.im/a/3cfktE",
-          "raw_url": "https://readmoo.com/book/210313773000101"
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/1uwFNQ",
+          "raw_url": "https://readmoo.com/book/210396178000101"
         },
         "goodreads": {
-          "score": 4.24,
-          "count": 2391,
-          "url": "https://www.goodreads.com/book/show/62050244-when-the-heavens-went-on-sale?from_search=true&from_srp=true&qid=YSMPrYvigZ&rank=1",
+          "score": 4.15,
+          "count": 800,
+          "url": "https://www.goodreads.com/book/show/58450272",
           "note": "title+author",
           "amazon_url": "",
           "confidence": 75,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 406,
-          "url": "https://www.amazon.com/-/zh_TW/Ashlee-Vance-ebook/dp/B0B9SLZX9M/ref=sr_1_1"
+          "score": 4.5,
+          "count": 312,
+          "url": "https://www.amazon.com/-/zh_TW/Nick-Timiraos-ebook/dp/B09B74MC63/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.21,
+      "short_affiliate_url": "https://reurl.cc/4Y8MbV"
+    },
+    {
+      "title": "人人都有數學腦：打破天賦論，史丹佛頂尖學者裘．波勒帶孩子從學不會到養成多元學習力",
+      "author": "裘．波勒",
+      "original_title": "Math-ish: Finding Creativity, Diversity, and Meaning in Mathematics",
+      "isbn": "9786263559134",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Z240eRYJijSpL42PiyyRaQ?sId=73a42535-effa-4446-9205-4477b7d66ba5&ssId=cAcNmf8yce8_LjopCN9PY&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/Z240eRYJijSpL42PiyyRaQ.jpg",
+      "sale_price": "NT$99",
+      "date": "9/25",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
+      "on_sale": true,
+      "publisher": "天下文化出版社",
+      "publish_date": "2024年8月30日",
+      "language": "中文",
+      "original_author": "Jo Boaler",
+      "description": "數學並不只是生搬照套公式和硬背一個個困難的解法，而是我們用科學方式看待世界所有現象的方法。任何數學概念都能有多種思考、觀察和解決的方法，善用多元化的方式教授數學，學生就能順利進入數學世界。",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Z240eRYJijSpL42PiyyRaQ?sId=73a42535-effa-4446-9205-4477b7d66ba5&ssId=cAcNmf8yce8_LjopCN9PY&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://reurl.cc/1lzL49"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://moo.im/a/9dzDNT",
+          "raw_url": "https://readmoo.com/book/210346758000101"
+        },
+        "goodreads": {
+          "score": 4.22,
+          "count": 612,
+          "url": "https://www.goodreads.com/book/show/206029533",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CF2H7GY5/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 218,
+          "url": "https://www.amazon.com/gp/product/B0CF2H7GY5/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.25,
-      "short_affiliate_url": "https://reurl.cc/KEEvVR"
+      "short_affiliate_url": "https://reurl.cc/3ymQbV"
     },
     {
-      "title": "金錢的七大迷思：通往財務自由的真相",
-      "author": "羅伯．迪克斯",
-      "original_title": "Seven Myths About Money：And the Truth About Finding Financial Freedom",
-      "isbn": "9786267728574",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fQiNGfNwZj2MIKl6ZOx5-g?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=5&utm_source=twblog-hksite&utm_medium=99list&utm_campaign=coin99_20260917",
-      "kobo_price": "NT$300",
-      "cover_url": "covers/fQiNGfNwZj2MIKl6ZOx5-g.jpg",
+      "title": "车轮上的历史",
+      "author": "[英]汤姆·斯丹迪奇",
+      "original_title": "A Brief History of Motion",
+      "isbn": "7553521749649",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZOeUMVGiTTSQ_U_oiqzeag?sId=5363f356-e704-4769-af04-0ba2c9ccd287&ssId=rNAcQtWzPKJJKtod3pBRt&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
+      "kobo_price": "NT$270",
+      "cover_url": "covers/ZOeUMVGiTTSQ_U_oiqzeag.jpg",
       "sale_price": "NT$99",
-      "date": "9/18",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
+      "date": "9/25",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
       "on_sale": true,
-      "publisher": "堡壘文化",
-      "publish_date": "2025年12月24日",
+      "publisher": "中信出版集团股份有限公司",
+      "publish_date": "2023年2月1日",
       "language": "中文",
-      "original_author": "Rob Dix",
-      "description": "如果你一直以來被灌輸的金錢觀念，其實全都錯了呢？這本書，絕對可以顛覆你過去對於金錢與財富自由的看法。揭穿七個最常見的金錢迷思，並解釋為何通往財富的真正道路，與你所聽到的截然不同。",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/fQiNGfNwZj2MIKl6ZOx5-g?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=5&utm_source=twblog-hksite&utm_medium=99list&utm_campaign=coin99_20260917"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 1,
-          "url": "https://reurl.cc/beea7X"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 4,
-          "url": "https://moo.im/a/rGHMUZ",
-          "raw_url": "https://readmoo.com/book/210437065000101",
-          "full_description": "如果買房其實才是虧錢，租房子才是省錢呢？\n如果複利，只是那些投資專家騙你入會的說法呢？\n如果你一直以來被灌輸的金錢觀念，\n其實全都錯了呢？\n這本書，絕對可以顛覆你過去對於金錢與財富自由的看法！\n有沒有人跟妳說過，省錢是通往財務自由的關鍵？或者是只有笨蛋才會試著想靠主動選股來賺錢？又或者買一間自己的房子，永遠是個明智的投資？\n我們大多數人都從親朋好友，甚至是金融專家那裡聽過這些至理名言。它們被視為永恆智慧的結晶。但問題只有一個：這些全都不是真的。\n過去十年，金錢的世界已經徹底改變——但主流的理財建議卻沒有跟上。結果就是：我們所聽到的理財建議，只會讓我們離自己的財務目標越來越遠。\n在本書中，一位頂尖的投資者（就是作者），將揭穿七個最常見的金錢迷思，並解釋為何通往財富的真正道路，與你所聽到的截然不同。\n這本《金錢的七大迷思》既顛覆傳統又極其實用，為二十一世紀的我們描繪了一條通往財務自由的全新道路。\n關於金錢的七大迷思：\n1. 通往財富的道路始於健康的儲蓄帳戶餘額。\n2. 如果你今天努力工作，退休將是你的回報。\n3. 正確的投資方式是盡可能降低風險。\n4. 你應該永遠以購買自己的房屋為目標：房價上漲會讓你致富，而租房是在浪費錢。\n5. 複利是世界第八大奇蹟：即使是小額投資也能轉化為可觀的財富。\n6. 分散投資於股票和債券是保持安全的方式。\n7. 像選股和創業這樣的冒險行為風險極高。大多數人應該盡量避開。\n【作者簡介】\n羅伯．迪克斯（Rob Dix）\n一開始只是用閒錢投資當作興趣，但很快就徹底迷上了。接下來的十年，他全力鑽研金融世界，並致力於把自己學到的知識分享給更多人。\n如今，羅伯是英國最受尊敬的財經專家之一。無論是主持英國下載量最高的投資節目《房地產Podcast》，還是為《星期日泰晤士報》撰寫每週的房地產專欄，他的使命都是讓更多人了解金錢、經濟和投資的真實運作方式。\n羅伯的上一本書《金錢的價值》一出版就成為《星期日泰晤士報》暢銷書，點明過去十年間全球經濟出了哪些問題。而在本書中，羅伯要告訴大家：這個全新的金融時代，對於想建立長久財富的人來說，究竟意味著什麼。\n【譯者簡介】\n陳珮榆\n曾任海外媒體編譯多年，現為專職譯者，譯有《AI威脅》、《瞬間吸睛行銷力》、《普丁正傳》、《羅傑費德勒》、《花蝴蝶回憶錄》、《光鮮亮麗：傳奇時尚雜誌Vogue，從書報攤小報到時尚雜誌巨頭的精彩旅程》等書。"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 296,
-          "url": "https://www.amazon.com/-/zh_TW/Seven-Myths-About-Money-Rob/dp/1804945625/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.16,
-      "short_affiliate_url": "https://reurl.cc/ommqO3"
-    },
-    {
-      "title": "了不起的中国名画",
-      "author": "徐爽 刘畅 阮璐迪",
-      "original_title": "",
-      "isbn": "7584050053076",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/85OZaaKlxTiLPLCiHPRPjw?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=8&utm_source=koboblog",
-      "kobo_price": "NT$1073",
-      "cover_url": "covers/85OZaaKlxTiLPLCiHPRPjw.jpg",
-      "sale_price": "NT$99",
-      "date": "9/18",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
-      "on_sale": true,
-      "publisher": "",
-      "publish_date": "2024年3月1日",
-      "language": "中文",
-      "original_author": null,
-      "description": "中國畫作為華夏藝術的瑰寶，擁有悠久的歷史和獨特的藝術風貌。本書以期引領讀者朋友在閱讀中提升審美觀念，通曉基本的賞析方法，真切感受中國畫的匠心獨運，品味中國優秀傳統文化的魅力所在。。",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
+      "original_author": "Tom Standage",
+      "description": "這是一次穿越了5500年人類歷史、令人眼界大開的公路之旅。深入探究了汽車發展的歷史，以及在汽車被廣泛使用過程中社會所發生的劇變。思考了那些我們未曾選擇的道路，並引領我們用新的眼光來看待過去。",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/85OZaaKlxTiLPLCiHPRPjw?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=8&utm_source=koboblog"
+          "url": "https://www.kobo.com/tw/zh/ebook/ZOeUMVGiTTSQ_U_oiqzeag?sId=5363f356-e704-4769-af04-0ba2c9ccd287&ssId=rNAcQtWzPKJJKtod3pBRt&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://reurl.cc/4YYvQ3"
+          "url": "https://reurl.cc/gNlbmV"
         },
         "readmoo": {
           "score": null,
@@ -153,6 +152,222 @@
           "url": ""
         },
         "goodreads": {
+          "score": 3.79,
+          "count": 691,
+          "url": "https://www.goodreads.com/book/show/54860184",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B08TMZBD47/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 190,
+          "url": "https://www.amazon.com/gp/product/B08TMZBD47/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.15,
+      "short_affiliate_url": "https://reurl.cc/EYDvbA"
+    },
+    {
+      "title": "流浪者之歌",
+      "author": "赫曼．赫塞",
+      "original_title": "Siddhartha",
+      "isbn": "9786263744417",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SSmAUWRnWD-200t2EoH_qQ?sId=e15f02bf-def5-49ae-9f61-c40b5e1d1742&ssId=lVji4WIwhDYjoPxqrz9Gn&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
+      "kobo_price": "NT$245",
+      "cover_url": "covers/SSmAUWRnWD-200t2EoH_qQ.jpg",
+      "sale_price": "NT$99",
+      "date": "9/26",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
+      "on_sale": true,
+      "publisher": "時報出版",
+      "publish_date": "2023年10月20日",
+      "language": "中文",
+      "original_author": "Hermann Hesse",
+      "description": "諾貝爾文學獎得主赫塞小說代表作。一部融匯中、印、歐三大文明的跨界之作，一本如詩又如歌的悟道之書，帶你踏上靈性開悟的智慧之旅，走出人生低谷，我學會了接受這世界，以它本來如此的樣子。",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "ratings": {
+        "kobo": {
+          "score": 2.6,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/SSmAUWRnWD-200t2EoH_qQ?sId=e15f02bf-def5-49ae-9f61-c40b5e1d1742&ssId=lVji4WIwhDYjoPxqrz9Gn&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://reurl.cc/omXbdl"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 78,
+          "url": "https://moo.im/a/prJRSV",
+          "raw_url": "https://readmoo.com/book/210302426000101"
+        },
+        "goodreads": {
+          "score": 4.52,
+          "count": 21,
+          "url": "https://www.goodreads.com/book/show/60487534",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09HQN6Q1Z/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 18157,
+          "url": "https://www.amazon.com/gp/product/B09HQN6Q1Z/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.27,
+      "short_affiliate_url": "https://reurl.cc/OQDoR9"
+    },
+    {
+      "title": "土壤下的迷你工程師：如果少了蚯蚓，人類還能生存嗎？",
+      "author": "莎莉．庫特哈德",
+      "original_title": "The Book of the Earthworm",
+      "isbn": "9786267465684",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sYH1mXEstz2dGqRhQJtl3g?sId=f72bf814-2f3f-4035-9c56-7c6104beb0f9&ssId=behqy8PMma-u-I5Ah3yC_&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/sYH1mXEstz2dGqRhQJtl3g.jpg",
+      "sale_price": "NT$99",
+      "date": "9/27",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
+      "on_sale": true,
+      "publisher": "本事出版",
+      "publish_date": "2025年7月16日",
+      "language": "中文",
+      "original_author": "Sally Coulthard",
+      "description": "生物學家達爾文認為，地球上最重要的動物是那些在雨後濕滑地面上蠢蠢蠕動的條狀生物──蚯蚓這是一本與我們生活息息相關的自然科普書，將為我們揭露地球上最重要生物的趣味八卦，下次遇到蚯蚓，請留意你的腳步！",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/sYH1mXEstz2dGqRhQJtl3g?sId=f72bf814-2f3f-4035-9c56-7c6104beb0f9&ssId=behqy8PMma-u-I5Ah3yC_&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 1,
+          "url": "https://reurl.cc/LeDxd9"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/myDIVW",
+          "raw_url": "https://readmoo.com/book/210399885000101"
+        },
+        "goodreads": {
+          "score": 4.1,
+          "count": 330,
+          "url": "https://www.goodreads.com/book/show/54578903",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B08D3W8GF4/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 54,
+          "url": "https://www.amazon.com/gp/product/B08D3W8GF4/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/QNDoV0"
+    },
+    {
+      "title": "好人≠耗人：從內耗中抽身的東大情緒整理",
+      "author": "東大CARPE DIEM、西岡壹誠",
+      "original_title": "「悩む」を時短する！東大式感情コントロール術",
+      "isbn": "9789863708094",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/aXFhfBbf6jyQI9hgYYq07g?sId=32b679e7-53fa-435b-b6b6-3bc13c2d8260&ssId=SPaAZCkCgkGBpk1cgCJzU&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/aXFhfBbf6jyQI9hgYYq07g.jpg",
+      "sale_price": "NT$99",
+      "date": "9/28",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
+      "on_sale": true,
+      "publisher": "楓葉社",
+      "publish_date": "2025年6月27日",
+      "language": "中文",
+      "original_author": null,
+      "description": "日本高材生的逆轉心法，助你重新開啟人生。本書開頭透過10個小問題，將大家的思考模式分為4個類型。並依據各種情況與類型，參考東大生的情緒處理，給予最佳解方，說不定換個角度，便能迎來屬於你的柳暗花明。",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/aXFhfBbf6jyQI9hgYYq07g?sId=32b679e7-53fa-435b-b6b6-3bc13c2d8260&ssId=SPaAZCkCgkGBpk1cgCJzU&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/DYDM6N"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/8sDKNV",
+          "raw_url": "https://readmoo.com/book/210394632000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 7,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4074535521/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.14,
+      "short_affiliate_url": "https://reurl.cc/NODoN5"
+    },
+    {
+      "title": "70％繭居族都能自立",
+      "author": "二神能基、久世芽亞里",
+      "original_title": "引きこもりの7 割は自立できる",
+      "isbn": "9786267448854",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/PuJaC7wtfTi5yUA8aoeEIA?sId=b78d13b7-bd53-4c7c-bd7b-7d6db794549b&ssId=0BQcEet6tiKQFnNJouD6y&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
+      "kobo_price": "NT$265",
+      "cover_url": "covers/PuJaC7wtfTi5yUA8aoeEIA.jpg",
+      "sale_price": "NT$99",
+      "date": "9/29",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
+      "on_sale": true,
+      "publisher": "大是文化",
+      "publish_date": "2024年7月30日",
+      "language": "中文",
+      "original_author": null,
+      "description": "什麼是繭居族？不上學、不上班，生活自我封閉的人。從在家啃老到獨立生活，日本最大輔導機構靠三步驟，幫助超過1,700位繭居族破繭而出，自立更生。本書內附臺灣專業協助機構，幫助繭居族破繭而出。。",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/PuJaC7wtfTi5yUA8aoeEIA?sId=b78d13b7-bd53-4c7c-bd7b-7d6db794549b&ssId=0BQcEet6tiKQFnNJouD6y&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://reurl.cc/Xx3reD"
+        },
+        "readmoo": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://moo.im/a/457rwA",
+          "raw_url": "https://readmoo.com/book/210340556000101"
+        },
+        "goodreads": {
           "score": null,
           "count": 0,
           "url": "",
@@ -164,286 +379,65 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%8D%E7%94%BB-%E5%BE%90%E7%88%BD-%E5%88%98%E7%95%85-%E9%98%AE%E7%92%90%E8%BF%AA/dp/711175168X/ref=sr_1_3"
+          "url": ""
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/LeeZ9x"
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/RRDo2n"
     },
     {
-      "title": "背叛者",
-      "author": "保羅．貝提",
-      "original_title": "The Sellout",
-      "isbn": "9786263351257",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wxqHTncymTSVpVC46NMKMw?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917",
+      "title": "我們身體裡的生命演化史：演化如何打造出身體，而身體的演化又如何構成新的物種？ 一部關於器官、組織、細胞、DNA長達40億年的故事",
+      "author": "尼爾‧蘇賓",
+      "original_title": "SOME ASSEMBLY REQUIRED : Decoding Four Billion Years of Life, from Ancient Fossils to DNA",
+      "isbn": "9789860632873",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dna40?sId=9424c642-a25e-48e1-bf46-eca9a5f09d62&ssId=na-iQ7LAge6vtoNQRWzdW&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
       "kobo_price": "NT$315",
-      "cover_url": "covers/wxqHTncymTSVpVC46NMKMw.jpg",
+      "cover_url": "covers/dna40.jpg",
       "sale_price": "NT$99",
-      "date": "9/19",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
+      "date": "9/30",
+      "sale_start": "2026-09-24",
+      "sale_end": "2026-09-30",
       "on_sale": true,
-      "publisher": "時報出版",
-      "publish_date": "2022年3月4日",
+      "publisher": "鷹出版",
+      "publish_date": "2021年7月28日",
       "language": "中文",
-      "original_author": "Paul Beatty",
-      "description": "第一本贏得布克獎的美國小說。正當所有人以為「後種族時代」已然來臨，這本小說卻在歐巴馬兩任總統任期尾聲出版，犀利而精準地戳中了美國種族問題的表面風光與隱憂，看似幽默自嘲，內在卻尖銳地挑戰了美國憲法。",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
+      "original_author": "Neil Shubin",
+      "description": "達爾文當時無法回答的問題，蘇賓給出了解答！身體的出現，打開了新的演化方式，它就像是個什麼都有的材料箱，演化出你想不到的生命形態，從共通的材料箱中，製造出生命之樹上許多不同分支的物種。",
+      "last_updated": "2026-09-24T10:16:07.245728+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.0,
+          "score": 5.0,
           "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/wxqHTncymTSVpVC46NMKMw?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917"
+          "url": "https://www.kobo.com/tw/zh/ebook/dna40?sId=9424c642-a25e-48e1-bf46-eca9a5f09d62&ssId=na-iQ7LAge6vtoNQRWzdW&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
         },
         "books_com": {
           "score": 4.5,
-          "count": 2,
-          "url": "https://reurl.cc/3yypOj"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 16,
-          "url": "https://moo.im/a/ikqJPZ",
-          "raw_url": "https://readmoo.com/book/210218509000101"
-        },
-        "goodreads": {
-          "score": 3.74,
-          "count": 77121,
-          "url": "https://www.goodreads.com/book/show/22237161-the-sellout?from_search=true&from_srp=true&qid=4mV2MNizYU&rank=8",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B00MLN1TT0/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 11720,
-          "url": "https://www.amazon.com/gp/product/B00MLN1TT0/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.06,
-      "short_affiliate_url": "https://reurl.cc/DYY8WQ"
-    },
-    {
-      "title": "薩提爾的故事溝通",
-      "author": "李儀婷",
-      "original_title": "",
-      "isbn": "9789573294931",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3P1-_VPFSjuRIQItAujswg?sId=dc13cc8f-3898-44a1-b4f7-590a78d07dc8&ssId=07DVMVtsinwk2EjrotLHX&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917",
-      "kobo_price": "NT$300",
-      "cover_url": "covers/3P1-_VPFSjuRIQItAujswg.jpg",
-      "sale_price": "NT$99",
-      "date": "9/20",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
-      "on_sale": true,
-      "publisher": "",
-      "publish_date": "2022年3月1日",
-      "language": "中文",
-      "original_author": null,
-      "description": "這是一份送給孩子認識愛的禮物，陪伴孩子從故事中理解自己，真誠表達自我，並在愛的包圍下，長出力量與希望。以薩提爾模式為核心概念，引導孩子認識愛，以更正向的眼光看待事物，成就完滿的自己。",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 4.8,
-          "count": 5,
-          "url": "https://www.kobo.com/tw/zh/ebook/3P1-_VPFSjuRIQItAujswg?sId=dc13cc8f-3898-44a1-b4f7-590a78d07dc8&ssId=07DVMVtsinwk2EjrotLHX&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 17,
-          "url": "https://reurl.cc/GggLex"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 28,
-          "url": "https://moo.im/a/1deMPR",
-          "raw_url": "https://readmoo.com/book/210221649000101",
-          "full_description": "這些難以開門見山，卻對孩童發展而言十分重要的議題，都因著故事的溫柔承載而變得容易接觸了。\n──蘇益賢│臨床心理師\n教養專家  李儀婷  首度為親子創作的薩提爾入門書\n薩提爾模式 ╳ 愛的故事 ╳ 親子對話\n這是一份送給孩子認識「愛」的禮物，\n陪伴孩子從故事中理解自己，真誠表達自我，\n並在愛的包圍下，長出力量與希望……\n親子教養專家也是小說家的李儀婷，創作出適合孩子讀的故事，以薩提爾模式為核心概念，引導孩子認識「愛」，學習真實貼近自我。\n書中的五篇故事，各別帶出期待、感受、表達、觀點、渴望的概念，而每則故事中間穿插一篇母親想告訴孩子的話，溫暖的對孩子訴說「愛」的意義，並帶領孩子覺察理想的愛的樣貌。孩子和大人在閱讀過程中，可以重新塑造對生命問題的理解與觀點，也能以更正向的眼光看待事物，成就完滿的自己。\n※ 內附「薩提爾的Tips」，快速得到「愛的提醒」。\n作者簡介\n李儀婷\n小說家，親子教養暢銷作家。現任「新店炫心星自學團」閱讀課專業教師、親子教養與溝通專業講師。\n是臺灣六年級最具史詩敘述魅力的小說家，文學創作有《流動的郵局》、《10個男人11個壞》、《生命的眼睛》、《風雨中的郵路》、《卡里布彎．數學獵人》、《九份地底有條龍》等，亦曾任紀錄片副導、音樂舞臺劇總監製等。\n養育三個可愛的孩子，分別是三三、川川、一一。從親子關係的衝突中，體察教養的重要，學習將薩提爾模式導入家庭關係中，開啟家庭和諧的契機。多年來融合多方學習和自身教養的經驗，於臺灣、新加坡、馬來西亞開辦親子教養與溝通工作坊，亦受邀至各級學校演講，以薩提爾模式處理親子溝通與人際溝通。\n著有教養書《薩提爾的親子對話》、《薩提爾的親子情緒課》（天下文化），以及《孩子永遠是對的》（遠流）。\n繪者簡介\n林韋達\n出生台北，小時候住台中神岡，喜歡畫畫，偶而說故事，喜歡動物，喜歡大自然。希望能用繪畫讓世界變有趣。\nEmail: darling.darling.artstudio@gmail.com",
-          "media_recommend": "【感動推薦】（依姓名筆劃排序）\n王意中│王意中心理治療所所長、臨床心理師\n成蒂│薩提爾模式資深家庭婚姻治療師\n邢小萍│臺北市永安國小校長\n林世仁│兒童文學作家\n林怡辰│國小教師、閱讀推動者\n洪仲清│臨床心理師\n胡展誥│諮商心理師\n陳郁如│作家\n葉丙成│臺大電機系教授\n溫美玉│溫老師備課Party創始人\n劉冠吟│華山品牌長\n顏安秀│資深教師、家庭素養教育推動者\n魏瑋志（澤爸）│親職教育講師\n羅怡君│親職溝通作家與講師\n蘇益賢│臨床心理師\nTey Cheng│臉書「小學生都看什麼書」社團團長\n各界推薦\n透過書中作者與孩子真誠的對話，以及動人故事的詮釋，讓親子關係更緊密。\n──王意中 │王意中心理治療所所長、臨床心理師\n篇篇都為讀者帶來對人性渴望和生死議題深刻的啟發。\n──成蒂│薩提爾模式資深家庭婚姻治療師\n喜歡聽故事嗎？這本書裡的故事都是關於「愛」。我反覆的讀，每讀一回就對「愛」有不同的體悟且深受感動。\n──邢小萍│臺北市永安國小校長\n因為思考後而清澈、重要卻難以啟齒的那些人生議題，都在這本書裡完滿。誠摯推薦您和孩子一起共讀！\n──林怡辰│國小教師、閱讀推動者\n儀婷老師這本書將讓你體會到：原來這樣說故事，就能陪伴孩子感受到你的愛，也滿足被愛的渴望。\n──胡展誥│諮商心理師\n這是一本有溫度的書，不管是短篇故事，還是親子書信，都讓人可以回味再回味，值得閱讀。\n──陳郁如│作家\n透過故事來學習愛，我認為沒有比這更好的方式了。讓大人和孩子都更加了解愛的真諦，不再因愛而傷人。這份薩提爾的禮物，無比珍貴。\n──葉丙成│臺大電機系教授\n大人可以從中得到親密關係相處的指引……；親子間也能從討論中獲得暖心的閱讀、對話時光，進一步在彼此身上，好好練習愛！\n──溫美玉│溫老師備課Party創始人\n是一份適合親子共享的禮物，那些你長年在人生中不得其解的痛點，那些孩子還無力面對的情緒，都會漸漸變得清晰且輕盈。\n──劉冠吟│華山品牌長\n透過這樣「一加一」的設計，家長得到很實際的幫助，我們更能清楚知道如何引導孩子去看這篇故事，以及我們能跟與孩子討論什麼。\n──顏安秀│資深教師、家庭素養教育推動者\n藉由故事的魔力，讓我們更加深刻的領會到冰山下的意涵，……內化成生活上的實踐範本。\n──魏瑋志（澤爸）│親職教育講師\n不必《一千零一夜》，透過反覆細嚼儀婷的故事，相信我們也能呼喚屬於自己辨認愛、靠近愛和表達愛的能力。\n──羅怡君│親職溝通作家與講師\n這些難以開門見山，卻對孩童發展而言十分重要的議題，都因著故事的溫柔承載而變得容易接觸了。\n──蘇益賢│臨床心理師\n這是一本超多工的親子教養書，既是闡述薩提爾理論的教養書，也是一本能讓孩子專注聆聽的故事書。\n──Tey Cheng│臉書「小學生都看什麼書」社團團長"
-        },
-        "goodreads": {
-          "score": 3.75,
-          "count": 4,
-          "url": "https://www.goodreads.com/book/show/61031570?from_search=true&from_srp=true&qid=G4ngcEzYXt&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09WTLVQRT/ref=x_gr_bb_kindle",
-          "confidence": 45,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 5.0,
-          "count": 5,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%9D%8E%E5%84%80%E5%A9%B7-ebook/dp/B09WTLVQRT/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.22,
-      "short_affiliate_url": "https://reurl.cc/Xxx9vM"
-    },
-    {
-      "title": "像律師一樣思考：打破學生學不到、老師不會教、學了不知怎麼用的困境，釋放所有人的批判性思考潛能",
-      "author": "柯林．希爾",
-      "original_title": "Thinking Like a Lawyer: A Framework for Teaching Critical Thinking to All Students",
-      "isbn": "9786267283691",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/J-c5o_2JCT6V1-P7uFJZ3A?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917",
-      "kobo_price": null,
-      "cover_url": "covers/J-c5o_2JCT6V1-P7uFJZ3A.jpg",
-      "sale_price": "NT$99",
-      "date": "9/21",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
-      "on_sale": true,
-      "publisher": "大家出版",
-      "publish_date": "2024年3月13日",
-      "language": "中文",
-      "original_author": "Colin Seale",
-      "description": "全美40州採用的新式批判性思考教學法，用新的觀點與作法，重啟21世紀必備技能。逐步理解律師的思考方式，一步步跳脫框架，從多個角度剖析事實，並提出不同主張，找到辦法，以有效且相關的證據支持這些主張。",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/J-c5o_2JCT6V1-P7uFJZ3A?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://reurl.cc/EYYLGR"
-        },
-        "readmoo": {
-          "score": 3.8,
-          "count": 5,
-          "url": "https://moo.im/a/14ghlP",
-          "raw_url": "https://readmoo.com/book/210318370000101",
-          "full_description": "「教育改革」四個字陪伴每一代人長大，每一次教改處理的問題與擘畫的願景都不盡相同，引起的討論與爭議也總難以停歇，僅有的共同點，就是面對變遷與尋找應對方法的焦慮，以及是否真能讓學生獲得深度學習的疑惑。\n現今課綱的重點從「學知識」轉向「學素養」。舊式的應試教育早已過時，改為強調學生主動發展思辨能力、跨領域運用技能，而這些要求的核心皆為批判性思考。同時，批判性思考還能讓學生有動力也有能力發現、探尋、操作自己有興趣的事物。但現實讓學校教學常得花大量心力縮小學生的成績差距，無暇顧及這項基本素養，而所謂資優教育，著重的也常是超前學習，而非激發學生的潛能。\n所有人都認知到批判性思考的重要性甚至迫切性，問題只出在學生學不到、老師沒有時間教或不知道怎麼教。更大的隱患則是，教育改革常無意間擴大城鄉及階級差距。本書作者希爾為訴訟律師，兒時是學校頭痛的頑劣學生，憑著資質及中低收入家庭小孩求生存的街頭智慧，在轉型教育及法學院大放異彩。他從自己的學習過程及長期參與第一線弱勢學生國高中教育現場的經驗出發，體認到批判性思考是任何背景、學校的學生都能學習的技巧，並發現法律判例和律師的思維模式是培養批判性思考的極佳工具，由於過程充滿辦案的樂趣，且涉及青少年格外敏感的不公不義，學生都很踴躍動腦，並提出自己的主張。\n例如一樁老婦人遭得來速熱咖啡燙傷而狀告麥當勞的案例，學生一開始都反射性認為是奧客濫訴牟利 ，但在開始練習擴大尋找證人證物後，便踏上了一場翻天覆地的思考革命：該蒐集哪些證人的論點（並辨識證人的偏見）？客觀資訊在哪裡（熱咖啡的溫度多高、老婦人是否有帕金森氏症）？為何必須衡量判決會對社會產生什麼影響？最後學生恍然大悟，不但理解法院判決麥當勞應付高額賠償金實屬應該，更能認識是非對錯的深層邏輯，而這一點在當代生活的重要性再如何強調都不為過。\n跟隨這些奇特且涉及重要價值的判例，搭配明確的DRAAW+C系統性步驟，當學生接受「像律師一樣思考」的訓練之後，就可以逐步理解律師的思考方式，一步步跳脫框架，從多個角度剖析事實、習慣以提問去取得所需資訊，並提出不同主張，找到辦法，以有效且相關的證據支持這些主張。從多元觀點分析案例，還能幫助學生提升解決衝突的技能。\n本書不但提供了思考骨架與策略，還有方便整理思緒的各式表格，以及應用在不同科目的實際範例，協助老師與父母打造出適合孩子發展批判性思考的環境。\n「如果沒有明確著重於使用批判性思考來消除仇恨和無知，那麼光是批判性思考，不足以滿足我們的需求。」\n作者簡介\n柯林．希爾（Colin Seale）\n電腦科學學士、公共管理碩士，在擔任數學教師時取得法學博士學位，之後在全美第九大律師事務所Greenberg Traurig擔任律師。就讀法學院間，獲得全美黑人法律學生協會 (NBLSA) 最傑出學生獎。\n成長於紐約布魯克林低收入單親家庭但意外在轉型教育中改變人生的經歷，使他體認到消弭教育不平等的迫切性。商學院及法學院內容不同架構卻一致的思考訓練，以及法律訴訟的實務經驗，使他成為批判性思考專家。最後，身為父親的他，領悟了「唯有讓學生在質疑世界的應有面貌時具備所需的工具，教育才會完整」。\n他創立教育組織thinkLaw，發展以深入探究問題為基礎的教學策略，幫助教育工作者縮小批判性思考的教學落差，讓更多人得以把批判性思考納入教學。因成果斐然，thinkLaw連續兩年獲得Supe’s Choice Awards for Critical Thinking，希爾本人也獲得表彰資優教育貢獻的The Advocate For The Gifted Award。\n如今，柯林利用自己的專業訓練支持thinkLaw的工作、制定專題演講的題目，並在《富比士》（Forbes）、《教育郵報》（Education Post）、《The 74》上倡導批判性思考及平等議題。\n譯者簡介\n涂瑋瑛\n國立臺灣大學獸醫學系畢業，國立臺灣師範大學翻譯研究所碩士，曾任動物醫院獸醫師，現為專職譯者，譯有《三十九種拯救地球的方法》、《視覺設計大師的數據溝通聖經》、《超能力恐龍百科》、《隔離》、《超簡單生物課》、《博物學家的動物分類圖鑑》、《寂寞的誕生》、《AI 醫療 DEEP MEDICINE》、《骰子能扮演上帝嗎？》。\n賜教信箱：bailey.tu@gmail.com。"
-        },
-        "goodreads": {
-          "score": 3.87,
-          "count": 458,
-          "url": "https://www.goodreads.com/book/show/53658062-thinking-like-a-lawyer?from_search=true&from_srp=true&qid=ncw8xVjKgs&rank=1",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B088BF6JPJ/ref=x_gr_bb_amazon",
-          "confidence": 75,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 8,
-          "url": "https://www.amazon.com/-/zh_TW/Colin-Seale-ebook/dp/B0DDL266JV/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.07,
-      "short_affiliate_url": "https://reurl.cc/beey1r"
-    },
-    {
-      "title": "三體前傳：球狀閃電",
-      "author": "劉慈欣",
-      "original_title": "",
-      "isbn": "9789862627167",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/uKj-a1G3mziIredMj_f3SA?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/uKj-a1G3mziIredMj_f3SA.jpg",
-      "sale_price": "NT$99",
-      "date": "9/22",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
-      "on_sale": true,
-      "publisher": "貓頭鷹出版",
-      "publish_date": "2026年1月26日",
-      "language": "中文",
-      "original_author": null,
-      "description": "全宇宙暢銷書《三體》系列前傳！球狀閃電究竟是什麼？超過一百七十年的研究，兩千份科學論文，卻仍然沒有定論，有研究認為一切只是人類的幻覺，球狀閃電成為武器，會有多危險？人類真的能夠掌控球狀閃電嗎？",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/uKj-a1G3mziIredMj_f3SA?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/eQQ7XW"
+          "count": 1,
+          "url": "https://reurl.cc/bexbz6"
         },
         "readmoo": {
           "score": 4.7,
-          "count": 42,
-          "url": "https://moo.im/a/25mvBD",
-          "raw_url": "https://readmoo.com/book/210450335000101"
+          "count": 6,
+          "url": "https://moo.im/a/2xzEMV",
+          "raw_url": "https://readmoo.com/book/210188628000101"
         },
         "goodreads": {
-          "score": 3.86,
-          "count": 7,
-          "url": "https://www.goodreads.com/book/show/247174839?from_search=true&from_srp=true&qid=lnmk7f4PS9&rank=1",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0GHZSJB7H/ref=x_gr_bb_kindle",
-          "confidence": 65,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.amazon.com/gp/product/B0GHZSJB7H/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/3yyZdV"
-    },
-    {
-      "title": "完全跑步聖經【暢銷10週年紀念版】：輕鬆持久跑，運動傷害OUT",
-      "author": "維杰‧費德、戴夫‧艾倫",
-      "original_title": "The New Rules of Running: Five Steps to Run Faster and Longer for Life",
-      "isbn": "9786267299814",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/10-out?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917https://www.kobo.com/tw/zh/ebook/10-out?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917",
-      "kobo_price": "NT$350",
-      "cover_url": "covers/10-out.jpg",
-      "sale_price": "NT$99",
-      "date": "9/23",
-      "sale_start": "2026-09-17",
-      "sale_end": "2026-09-23",
-      "on_sale": true,
-      "publisher": "天下生活",
-      "publish_date": "2025年6月4日",
-      "language": "中文",
-      "original_author": "Vijay Vad",
-      "description": "每位跑者都該擁有一本。美國紐約運動醫學專科醫師費德，也是預防及治療運動傷害的專家，針對跑步提出一套黃金訓練法，能幫助不同程度的跑者找到最適合的跑法，有效提升持續力，達到最佳表現，同時防止運動傷害。",
-      "last_updated": "2026-09-17T11:40:15.446975+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/10-out?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917https://www.kobo.com/tw/zh/ebook/10-out?sId=d34b3d04-1f02-4245-988c-36cb6b6e04b7&ssId=-d_FMo69odh2BBM8NarWD&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260917"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://reurl.cc/WzzMDD"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 8,
-          "url": "https://moo.im/a/cgkvJR",
-          "raw_url": "https://readmoo.com/book/210391899000101",
-          "full_description": "每位跑者都該擁有一本！\n美國紐約運動醫學專科醫師費德，也是預防及治療運動傷害的專家，針對跑步提出了一套黃金訓練法，能幫助不同程度的跑者找到最適合的跑法，有效提升持續力，達到最佳表現，同時防止運動傷害。\n無論你是初階或進階跑者，想要縮短個人紀錄、快速復原運動傷害，或者只是為了健康、身材、快樂而跑，都應該先讀過這本書。\n本書特色：\n• 完整的半馬及全馬訓練菜單\n• 馬拉松比賽的十大完賽策略\n• 詳盡的能量補充和營養建議\n• 跑步前、後的伸展運動圖解\n• 訓練時必做事項、必知禁忌\n• 如何預防各種常見運動傷害\n• 重新大步跑的漸進復原計畫\n隨書附贈\n紐約馬拉松金牌常勝軍佛萊明設計「10天週期馬拉松訓練計畫表」\n作者簡介\n維杰．費德 Vijay Vad, MD\n美國紐約特種手術醫院（Hospital for Special Surgery）運動醫學專科醫師、康乃爾大學威爾醫學院教授。創辦費德基金會，致力於醫學研究及全球弱勢少女教育。\n戴夫．艾倫 Dave Allen\n與費德醫師共同撰寫了十多本書，也是一位優秀馬拉松跑者。著作有《高爾夫處方簽》（Golf Rx）、《安妮卡的高爾夫球打法》（Golf Annika's Way）。",
-          "media_recommend": "★【好評推薦】★\n本書內容不僅涵蓋了多數跑者關注的重要議題，更以醫學研究結果結合馬拉松冠軍跑者的經驗，提出許多根本而實用的方法與心法。 ──李吉仁 台灣大學國際企業學系名譽教授\n《完全跑步聖經》是一本以科學知識為基礎，以說故事方式提供關於跑步的正確觀念，也有現代人跑步時需要注意的各面向。我從第一章開始就被吸引！──胡杰 街頭路跑創辦人\n作者以醫師的角度來說明常見的運動傷害，從「現象、成因、治療和預防」四個面向，詳細解釋清楚常見的跑步運動傷害，對於跑者有莫大的幫助。 ──郭豐州 中華民國超級馬拉松運動協會理事長\n在我開始想了解一些專業的跑步資訊時，《完全跑步聖經》的確是書訊市場裡很被推薦的一本入門書。這是一本提供你為何而跑、如何跑、順順跑、不受傷、健康跑的「聖經」。──蔡詩萍 台北市文化局局長\n李吉仁 台灣大學國際企業學系名譽教授\n胡杰 街頭路跑創辦人\n陳幸蕙 作家、《我的馬拉松故事》作者\n郭豐州 中華民國超級馬拉松運動協會理事長\n蔡詩萍 台北市文化局局長"
-        },
-        "goodreads": {
-          "score": 3.49,
-          "count": 223,
-          "url": "https://www.goodreads.com/book/show/18667824-the-new-rules-of-running?from_search=true&from_srp=true&qid=fnLetBNnvH&rank=1",
+          "score": 4.14,
+          "count": 2841,
+          "url": "https://www.goodreads.com/book/show/51199750",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B00G3L7TRC/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B07RYHNGZY/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.1,
-          "count": 36,
-          "url": "https://www.amazon.com/gp/product/B00G3L7TRC/ref=x_gr_bb_kindle"
+          "score": 4.7,
+          "count": 1045,
+          "url": "https://www.amazon.com/gp/product/B07RYHNGZY/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/GgglM3"
+      "avg_score": 4.24,
+      "short_affiliate_url": "https://reurl.cc/Vneo26"
     }
   ]
 }
