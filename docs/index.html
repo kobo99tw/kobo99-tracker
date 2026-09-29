@@ -639,7 +639,7 @@ function cleanKoboUrl(url) {
   if (!url) return url;
   try { return new URL(url).origin + new URL(url).pathname; } catch { return url; }
 }
-// u1 追蹤標記＝書單代碼-上架日[-來源]；?src=fb 進站時記進 sessionStorage，跨頁保留（2026-09-29，對照表見NEXT_DESIGN.md）
+// u1 追蹤標記＝書單代碼-上架日[-e結束日][-來源]；?src=fb 進站時記進 sessionStorage，跨頁保留（2026-09-29，對照表見NEXT_DESIGN.md）
 const _U1_SRC = (() => {
   try {
     const s = new URLSearchParams(location.search).get('src');
@@ -647,9 +647,13 @@ const _U1_SRC = (() => {
     return sessionStorage.getItem('kobo99_src') || '';
   } catch (e) { return ''; }
 })();
-function makeU1(code, dateIso) {
-  const m = /^(\d{4})-(\d{1,2})-(\d{1,2})/.exec(dateIso || '');
-  return [code, m ? m[1] + '-' + (+m[2]) + '-' + (+m[3]) : '', _U1_SRC].filter(Boolean).join('-');
+function _u1Day(iso) {
+  const m = /^(\d{4})-(\d{1,2})-(\d{1,2})/.exec(iso || '');
+  return m ? m[1] + '-' + (+m[2]) + '-' + (+m[3]) : '';
+}
+function makeU1(code, dateIso, endIso) {
+  const e = _u1Day(endIso);
+  return [code, _u1Day(dateIso), e ? 'e' + e : '', _U1_SRC].filter(Boolean).join('-');
 }
 // 週99的「上架日」＝該書的特價日（book.date "9/24"）＋latest.json的sale_start推年份；月份比週起始月小代表跨年
 function week99Iso(book) {
@@ -661,7 +665,7 @@ function week99Iso(book) {
 }
 function rakutenDeepLink(url, dateIso) {
   if (!url) return url;
-  return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url)) + '&u1=' + encodeURIComponent(makeU1('week99', dateIso));
+  return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url)) + '&u1=' + encodeURIComponent(makeU1('week99', dateIso, DATA && DATA.sale_end));
 }
 
 async function loadData() {

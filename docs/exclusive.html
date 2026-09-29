@@ -550,7 +550,7 @@ function cleanKoboUrl(url) {
   if (!url) return url;
   try { return new URL(url).origin + new URL(url).pathname; } catch { return url; }
 }
-// u1 追蹤標記＝書單代碼-上架日[-來源]；?src=fb 進站時記進 sessionStorage，跨頁保留（2026-09-29，對照表見NEXT_DESIGN.md）
+// u1 追蹤標記＝書單代碼-上架日[-e結束日][-來源]；?src=fb 進站時記進 sessionStorage，跨頁保留（2026-09-29，對照表見NEXT_DESIGN.md）
 const _U1_SRC = (() => {
   try {
     const s = new URLSearchParams(location.search).get('src');
@@ -558,16 +558,20 @@ const _U1_SRC = (() => {
     return sessionStorage.getItem('kobo99_src') || '';
   } catch (e) { return ''; }
 })();
-function makeU1(code, dateIso) {
-  const m = /^(\d{4})-(\d{1,2})-(\d{1,2})/.exec(dateIso || '');
-  return [code, m ? m[1] + '-' + (+m[2]) + '-' + (+m[3]) : '', _U1_SRC].filter(Boolean).join('-');
+function _u1Day(iso) {
+  const m = /^(\d{4})-(\d{1,2})-(\d{1,2})/.exec(iso || '');
+  return m ? m[1] + '-' + (+m[2]) + '-' + (+m[3]) : '';
+}
+function makeU1(code, dateIso, endIso) {
+  const e = _u1Day(endIso);
+  return [code, _u1Day(dateIso), e ? 'e' + e : '', _U1_SRC].filter(Boolean).join('-');
 }
 function rakutenDeepLink(url, dateIso) {
   if (!url) return url;
   // 書單代碼取自themes.json的u1欄位（loadData先讀好）；讀不到退回檔名推導
   const code = window._themeU1 || _CURRENT_FILE.replace(/^theme_|\.json$/g, '');
   return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url))
-    + '&u1=' + encodeURIComponent(makeU1(code, dateIso));
+    + '&u1=' + encodeURIComponent(makeU1(code, dateIso, window._themeEnd));
 }
 
 const _DEFAULT_FILE = 'theme_1779336542191.json'; // 新書優惠：exclusive.json 停用後的預設落點
@@ -591,6 +595,7 @@ async function loadData() {
         const tl = await tr.json();
         const hit = tl.find(t => t.file === safeFile);
         if (hit && hit.u1) window._themeU1 = hit.u1;
+        if (hit && hit.hide_after) window._themeEnd = hit.hide_after;
       }
     } catch(e) {}
     render();

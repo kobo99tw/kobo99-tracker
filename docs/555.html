@@ -399,7 +399,7 @@ function cleanKoboUrl(url) {
   if (!url) return url;
   try { return new URL(url).origin + new URL(url).pathname; } catch { return url; }
 }
-// u1 追蹤標記＝書單代碼-上架日[-來源]；?src=fb 進站時記進 sessionStorage，跨頁保留（2026-09-29，對照表見NEXT_DESIGN.md）
+// u1 追蹤標記＝書單代碼-上架日[-e結束日][-來源]；?src=fb 進站時記進 sessionStorage，跨頁保留（2026-09-29，對照表見NEXT_DESIGN.md）
 const _U1_SRC = (() => {
   try {
     const s = new URLSearchParams(location.search).get('src');
@@ -407,9 +407,13 @@ const _U1_SRC = (() => {
     return sessionStorage.getItem('kobo99_src') || '';
   } catch (e) { return ''; }
 })();
-function makeU1(code, dateIso) {
-  const m = /^(\d{4})-(\d{1,2})-(\d{1,2})/.exec(dateIso || '');
-  return [code, m ? m[1] + '-' + (+m[2]) + '-' + (+m[3]) : '', _U1_SRC].filter(Boolean).join('-');
+function _u1Day(iso) {
+  const m = /^(\d{4})-(\d{1,2})-(\d{1,2})/.exec(iso || '');
+  return m ? m[1] + '-' + (+m[2]) + '-' + (+m[3]) : '';
+}
+function makeU1(code, dateIso, endIso) {
+  const e = _u1Day(endIso);
+  return [code, _u1Day(dateIso), e ? 'e' + e : '', _U1_SRC].filter(Boolean).join('-');
 }
 function rakutenDeepLink(url) {
   if (!url) return url;
