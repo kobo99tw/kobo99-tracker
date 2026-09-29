@@ -641,7 +641,7 @@ function cleanKoboUrl(url) {
 }
 function rakutenDeepLink(url) {
   if (!url) return url;
-  return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url));
+  return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url)) + '&u1=week99'; // u1=書單來源代碼，對照表見NEXT_DESIGN.md（2026-09-29）
 }
 
 async function loadData() {
