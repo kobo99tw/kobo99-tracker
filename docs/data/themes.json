@@ -10,6 +10,7 @@
     "subtitle": "用閱讀豐富你我的人生（每週更新）",
     "tabEmoji": "🎁",
     "tabLabel": "新書優惠",
+    "u1": "exclusive",
     "url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion"
   },
   {
@@ -26,6 +27,7 @@
     "subtitle": "腳下的每一寸土地，都深刻左右著命運。",
     "tabEmoji": "✨",
     "tabLabel": "第40週精選",
+    "u1": "weeklyselect",
     "url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w40"
   },
   {
@@ -40,6 +42,7 @@
     "subtitle": "單本85折起至10/11止",
     "tabEmoji": "💵",
     "tabLabel": "高寶財富",
+    "u1": "gaobao",
     "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/zbm-L-LH0Mk0egje-B5knA"
   },
   {
@@ -54,6 +57,7 @@
     "subtitle": "單本85折至9/19止",
     "tabEmoji": "💼",
     "tabLabel": "商業周刊",
+    "u1": "bizweekly",
     "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/ny8qAfjVvsXQkwje_aWaRA"
   },
   {
@@ -68,6 +72,7 @@
     "subtitle": "單本85折，3本再折$99至9/30止",
     "tabEmoji": "🌊",
     "tabLabel": "遠流出版",
+    "u1": "yuanliou",
     "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/Wryjji5BE86pQQjfAzWTRA"
   },
   {
@@ -82,6 +87,7 @@
     "subtitle": "單本85折至9/30止",
     "tabEmoji": "📚",
     "tabLabel": "大塊文化",
+    "u1": "dakuai",
     "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/U1Be4vWn8cCOMgjfAzaSLw"
   },
   {
@@ -97,6 +103,7 @@
     "subtitle": "單本85折至9/15止",
     "tabEmoji": "🎨",
     "tabLabel": "三采文化",
+    "u1": "sancai",
     "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/RILX4jIjQcPffgjfAzbOEw"
   },
   {
@@ -111,6 +118,7 @@
     "subtitle": "單本85折至9/30止",
     "tabEmoji": "🏛️",
     "tabLabel": "聯經出版",
+    "u1": "linking",
     "url": "https://www.kobo.com/tw/zh/List/publicationpicks-ebooks/4zJQ2hCkKsCZBQjfAzifNg"
   },
   {
@@ -125,6 +133,7 @@
     "subtitle": "7月31日前單本85折",
     "tabEmoji": "🔥",
     "tabLabel": "台港上半年TOP10",
+    "u1": "taihk_top10",
     "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/r44zUJl6esNEeQje1msZGw"
   },
   {
@@ -140,6 +149,7 @@
     "subtitle": "單本85折至7/31止",
     "tabEmoji": "💰",
     "tabLabel": "財富人生",
+    "u1": "tccc_finance",
     "url": "https://www.kobo.com/tw/zh/list/firsthalfof2026/1rSOszIBfcuGXQje0Pr5KA"
   },
   {
@@ -153,6 +163,7 @@
     "subtitle": "Kobo即時排行榜",
     "tabEmoji": "💯",
     "tabLabel": "歷年百大",
+    "u1": "kobo_top100",
     "url": "https://www.kobo.com/tw/zh/list/sep-10hbd/dLL5Emr5BMMGBgje9DUvZQ"
   },
   {
@@ -165,6 +176,7 @@
     "subtitle": "首次有臺灣文學作品獲頒國際布克獎",
     "tabEmoji": "🏆",
     "tabLabel": "《臺灣漫遊錄》",
+    "u1": "taiwan_travelogue",
     "url": "https://www.kobo.com/zh/blog/booklist_taiwan-travelogue"
   },
   {
