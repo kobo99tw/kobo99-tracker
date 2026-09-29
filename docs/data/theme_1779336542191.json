@@ -49,7 +49,8 @@
           "url": "https://www.amazon.com/gp/product/B0FH1V3D9M/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.21
+      "avg_score": 4.21,
+      "listed_at": "2026-09-10"
     },
     {
       "title": "洗錢揭密",
@@ -102,7 +103,8 @@
           "url": "https://www.amazon.com/gp/product/B0CPBLXQH6/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.18
+      "avg_score": 4.18,
+      "listed_at": "2026-09-10"
     },
     {
       "title": "墨水與符印1 詛咒與祝福",
@@ -156,7 +158,8 @@
           "url": "https://www.amazon.com/-/zh_TW/Kevin-Hearne-ebook/dp/B0826Z14P8/ref=sr_1_1"
         }
       },
-      "avg_score": 4.23
+      "avg_score": 4.23,
+      "listed_at": "2026-09-17"
     },
     {
       "title": "工作大重組",
@@ -218,7 +221,8 @@
         }
       },
       "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/900LYj"
+      "short_affiliate_url": "https://reurl.cc/900LYj",
+      "listed_at": "2026-09-10"
     }
   ]
 }

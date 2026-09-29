@@ -503,12 +503,12 @@ function fmtN(n) {
   return String(n);
 }
 
-function ratingRow(srcKey, obj) {
+function ratingRow(srcKey, obj, dateIso) {
   const { label, color } = SRC_META[srcKey] || { label: srcKey, color: "#888" };
   if (!obj || !obj.score) {
     const naInner = `<span class="r-src">${label}</span><span class="r-na">暫無評分</span>`;
     if (obj?.url) {
-      const naHref = srcKey === 'kobo' ? rakutenDeepLink(obj.url) : obj.url;
+      const naHref = srcKey === 'kobo' ? rakutenDeepLink(obj.url, dateIso) : obj.url;
       return `<a class="r-row r-link" href="${naHref}" target="_blank">${naInner}</a>`;
     }
     return `<div class="r-row">${naInner}</div>`;
@@ -523,7 +523,7 @@ function ratingRow(srcKey, obj) {
     <span class="r-cnt">${fmtN(obj.count)}</span>
     ${warn}`;
   if (obj.url) {
-    const href = srcKey === 'kobo' ? rakutenDeepLink(obj.url) : obj.url;
+    const href = srcKey === 'kobo' ? rakutenDeepLink(obj.url, dateIso) : obj.url;
     return `<a class="r-row r-link" href="${href}" target="_blank">${inner}</a>`;
   }
   return `<div class="r-row">${inner}</div>`;
@@ -639,9 +639,29 @@ function cleanKoboUrl(url) {
   if (!url) return url;
   try { return new URL(url).origin + new URL(url).pathname; } catch { return url; }
 }
-function rakutenDeepLink(url) {
+// u1 追蹤標記＝書單代碼-上架日[-來源]；?src=fb 進站時記進 sessionStorage，跨頁保留（2026-09-29，對照表見NEXT_DESIGN.md）
+const _U1_SRC = (() => {
+  try {
+    const s = new URLSearchParams(location.search).get('src');
+    if (s && /^[a-z0-9]{1,10}$/.test(s)) sessionStorage.setItem('kobo99_src', s);
+    return sessionStorage.getItem('kobo99_src') || '';
+  } catch (e) { return ''; }
+})();
+function makeU1(code, dateIso) {
+  const m = /^(\d{4})-(\d{1,2})-(\d{1,2})/.exec(dateIso || '');
+  return [code, m ? m[1] + '-' + (+m[2]) + '-' + (+m[3]) : '', _U1_SRC].filter(Boolean).join('-');
+}
+// 週99的「上架日」＝該書的特價日（book.date "9/24"）＋latest.json的sale_start推年份；月份比週起始月小代表跨年
+function week99Iso(book) {
+  const m = /^(\d{1,2})\/(\d{1,2})$/.exec((book && book.date) || '');
+  const ss = /^(\d{4})-(\d{1,2})-/.exec((DATA && DATA.sale_start) || '');
+  if (!m || !ss) return '';
+  const y = +ss[1] + (+m[1] < +ss[2] ? 1 : 0);
+  return y + '-' + m[1] + '-' + m[2];
+}
+function rakutenDeepLink(url, dateIso) {
   if (!url) return url;
-  return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url)) + '&u1=week99'; // u1=書單來源代碼，對照表見NEXT_DESIGN.md（2026-09-29）
+  return 'https://click.linksynergy.com/deeplink?id=4fo2ittUtjQ&mid=37217&murl=' + encodeURIComponent(cleanKoboUrl(url)) + '&u1=' + encodeURIComponent(makeU1('week99', dateIso));
 }
 
 async function loadData() {
@@ -780,7 +800,7 @@ function render() {
       : (book.date ? `<div class="date-banner">${fmtDate(book.date)}</div>` : "");
 
     // 評分
-    const ratingsHtml = Object.keys(SRC_META).map(k => ratingRow(k, r[k])).join("");
+    const ratingsHtml = Object.keys(SRC_META).map(k => ratingRow(k, r[k], week99Iso(book))).join("");
 
     // 購買列：價格左、按鈕右
     const priceInfo = `<div class="price-info">
@@ -789,7 +809,7 @@ function render() {
       ${sv > 0 ? `<span class="price-saving">省NT$${sv}</span>` : ""}
     </div>`;
     const buyBtn = book.kobo_url
-      ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url)}" target="_blank">🛒 立即購買</a>`
+      ? `<a class="btn-buy" href="${rakutenDeepLink(book.kobo_url, week99Iso(book))}" target="_blank">🛒 立即購買</a>`
       : `<span class="btn-dis">連結待補</span>`;
     const copyCodeBtn = book.promo_code
       ? `<button class="btn-copy-code" onclick="copyPromoCode(this)" data-code="${esc(book.promo_code)}" title="${esc(book.promo_region||'限定地區')}用戶結帳時輸入此代碼">🎟️ 複製99折扣代碼</button>`
@@ -803,13 +823,13 @@ function render() {
           data-isbn="${esc(book.isbn||'')}"
           data-title="${esc(book.title)}"
           data-price="99"
-          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">🧮 ${cart555Has(book.isbn)?'已加入':'湊555'}</button>` : ''}
+          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url, week99Iso(book))||'')}">🧮 ${cart555Has(book.isbn)?'已加入':'湊555'}</button>` : ''}
         <button class="mark-btn m-share" onclick="shareBook(this)"
           data-title="${esc(book.title)}"
           data-author="${esc(book.author||'')}"
           data-score="${avg ? avg.toFixed(2) : 'null'}"
           data-price="${esc(book.kobo_price||'')}"
-          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url)||'')}">📤 分享</button>
+          data-url="${esc(book.short_affiliate_url || rakutenDeepLink(book.kobo_url, week99Iso(book))||'')}">📤 分享</button>
         <span class="score-badge ${cls}"${avg && avgCount < 30 ? ` title="評分人數較少（${avgCount}人），僅供參考"` : ''}>${avg ? avg.toFixed(2) : "—"}${avg && avgCount < 30 ? '<span style="font-size:.75em;opacity:.75"> ⚠</span>' : ''}</span>
       </div>`;
 
