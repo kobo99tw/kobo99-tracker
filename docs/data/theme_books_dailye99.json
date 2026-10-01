@@ -1,56 +1,7 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-09-27T15:36:51.508843+08:00",
+  "updated_at": "2026-10-01T17:23:46.504698+08:00",
   "books": [
-    {
-      "title": "解決問題快10倍的數字工作法：韓國三星經理教你4步驟用數據思考，從企劃、分析、決策到報告都事半功倍，獲得賞識和成就感",
-      "author": "盧泫兌",
-      "original_title": "숫자로 일하는 법：기획부터 보고까지, 일센스 10배 높이는 숫자 활용법",
-      "original_author": "노현태",
-      "isbn": "9786263498778",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/024/52/E050245201.jpg&v=6768c645k&w=1146&h=600",
-      "date_start": "9/27",
-      "date_end": "9/27",
-      "date_label": "9/27(日)",
-      "product_url": "https://www.books.com.tw/products/E050245201",
-      "daily_price": 66,
-      "daily_price_reg": 420,
-      "last_updated": "2026-09-27T15:36:51.508843+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050245201?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": null,
-      "short_affiliate_url": "",
-      "publish_date": "2024/12/26"
-    },
     {
       "title": "多重宇宙、平行世界是可能的嗎？：一本理科小白也會邊看邊笑的量子力學入門",
       "author": "傑瑞米‧哈里斯",
@@ -58,13 +9,14 @@
       "original_author": "Jérémie Harris",
       "isbn": "9786267498323",
       "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/023/74/E050237433.jpg&v=6705fb0bk&w=1146&h=600",
+      "publish_date": "2024/10/07",
       "date_start": "10/1",
       "date_end": "10/1",
       "date_label": "10/1(四)",
       "product_url": "https://www.books.com.tw/products/E050237433",
       "daily_price": 99,
       "daily_price_reg": 420,
-      "last_updated": "2026-09-27T15:36:51.508843+08:00",
+      "last_updated": "2026-10-01T17:23:46.504698+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -74,7 +26,7 @@
         "books_com": {
           "score": 5.0,
           "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050237433?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050237433?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": null,
@@ -83,11 +35,11 @@
         },
         "goodreads": {
           "score": 4.06,
-          "count": 690,
+          "count": 692,
           "url": "https://www.goodreads.com/book/show/61423996",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0B5SQ1MLZ/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -97,23 +49,23 @@
         }
       },
       "avg_score": 4.15,
-      "short_affiliate_url": "",
-      "publish_date": "2024/10/07"
+      "short_affiliate_url": ""
     },
     {
-      "title": "英文字彙王：核心單字 2001- 4000 Levels 3 & 4【高效演練版】",
-      "author": "賴世雄",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786267829240",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/033/78/E050337828.jpg&v=6a1ce0f5k&w=1146&h=600",
-      "date_start": "9/30",
-      "date_end": "9/30",
-      "date_label": "9/30(三)",
-      "product_url": "https://www.books.com.tw/products/E050337828",
+      "title": "為什麼年紀愈大，時間過得愈快：從心理時間的祕密，到記憶如何形塑我們的一生",
+      "author": "杜威．德拉伊斯瑪",
+      "original_title": "Why Life Speeds Up As You Get Older: How Memory Shapes Our Past（WAAROM HET LEVEN SNELLER GAAT ALS JE OUDER WORDT. OVER HET AUTOBIOGRAFISCH GEHEUGEN）",
+      "original_author": "Douwe Draaisma",
+      "isbn": "9789864898008",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/017/30/E050173082.jpg&v=64c8c020k&w=1146&h=600",
+      "publish_date": "2023/08/01",
+      "date_start": "10/5",
+      "date_end": "10/5",
+      "date_label": "10/5(一)",
+      "product_url": "https://www.books.com.tw/products/E050173082",
       "daily_price": 99,
-      "daily_price_reg": 520,
-      "last_updated": "2026-09-27T15:36:51.508843+08:00",
+      "daily_price_reg": 420,
+      "last_updated": "2026-10-01T17:23:46.504698+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -121,9 +73,9 @@
           "url": ""
         },
         "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050337828?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050173082?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": null,
@@ -131,11 +83,60 @@
           "url": ""
         },
         "goodreads": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/222660632",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DQL7BC3W/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
+          "url": "https://www.amazon.com/-/zh_TW/%E6%9D%9C%E5%A8%81%EF%BC%8E%E5%BE%B7%E6%8B%89%E4%BC%8A%E6%96%AF%E7%91%AA%EF%BC%88Douwe-Draaisma%EF%BC%89-ebook/dp/B0DQL7BC3W/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "獲利冠軍的價值股交易法則：挑對主流產業的業內人選股門道，跟著全球主力的投資邏輯順勢買賣，安心布局致富未來",
+      "author": "金兌洪",
+      "original_title": "투자를 위한 투자: 당신은 지금 주식을 위해 무엇을 투자하고 있나요?",
+      "original_author": "김태홍",
+      "isbn": "9786267311059",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/015/88/E050158882.jpg&v=644734d5k&w=1146&h=600",
+      "publish_date": "2023/05/04",
+      "date_start": "10/3",
+      "date_end": "10/4",
+      "date_label": "10/3(六)-10/4(日)",
+      "product_url": "https://www.books.com.tw/products/E050158882",
+      "daily_price": 66,
+      "daily_price_reg": 420,
+      "last_updated": "2026-10-01T17:23:46.504698+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050158882?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/148516408",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C494NDS2/ref=x_gr_bb_kindle",
           "confidence": 20,
           "cross_validated": null
         },
@@ -146,23 +147,23 @@
         }
       },
       "avg_score": 4.19,
-      "short_affiliate_url": "",
-      "publish_date": "2026/05/04"
+      "short_affiliate_url": ""
     },
     {
-      "title": "地球盡頭的溫室",
-      "author": "金草葉",
-      "original_title": "지구 끝의 온실",
-      "original_author": "김초엽",
-      "isbn": "9789864896677",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/89/E050138949.jpg&v=62e88fb2k&w=1146&h=600",
-      "date_start": "9/29",
-      "date_end": "9/29",
-      "date_label": "9/29(二)",
-      "product_url": "https://www.books.com.tw/products/E050138949",
-      "daily_price": 99,
-      "daily_price_reg": 450,
-      "last_updated": "2026-09-27T15:36:51.508843+08:00",
+      "title": "正視威脅，別讓毒駭到你：家庭必備！認識毒物的真相，積極避毒、減毒，降低全家人健康風險",
+      "author": "顏瑞泓",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9789864775651",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/003/63/E050036318.jpg&v=5bf4c059k&w=1146&h=600",
+      "publish_date": "2018/11/15",
+      "date_start": "10/3",
+      "date_end": "10/4",
+      "date_label": "10/3(六)-10/4(日)",
+      "product_url": "https://www.books.com.tw/products/E050036318",
+      "daily_price": 66,
+      "daily_price_reg": 320,
+      "last_updated": "2026-10-01T17:23:46.504698+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -170,9 +171,9 @@
           "url": ""
         },
         "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050138949?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050036318?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": null,
@@ -180,38 +181,38 @@
           "url": ""
         },
         "goodreads": {
-          "score": 3.96,
-          "count": 465,
-          "url": "https://www.goodreads.com/book/show/59250709",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D1QMC774/ref=x_gr_bb_kindle",
-          "confidence": 75,
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/-/zh_TW/%E9%A1%8F%E7%91%9E%E6%B3%93-ebook/dp/B07P8ZTCY8/ref=sr_1_1"
         }
       },
-      "avg_score": 4.17,
-      "short_affiliate_url": "",
-      "publish_date": "2022/08/01"
+      "avg_score": null,
+      "short_affiliate_url": ""
     },
     {
-      "title": "權威效應：沒見過面，為什麼他說的話你都信？富比士出版社執行長親授，如何傳遞訊息，你說的話大家都信。",
-      "author": "亞當．維蒂、魯斯蒂．謝爾頓",
-      "original_title": "The Authority Advantage: Building Thought Leadership Focused on Impact Not Ego",
-      "original_author": "Adam Witty; Rusty Shelton",
-      "isbn": "9786267377765",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/020/41/E050204154.jpg&v=65d6b823k&w=1146&h=600",
-      "date_start": "9/28",
-      "date_end": "9/28",
-      "date_label": "9/28(一)",
-      "product_url": "https://www.books.com.tw/products/E050204154",
+      "title": "專注的力量：放對焦點，放大幸福",
+      "author": "BAZZI",
+      "original_title": "フォーカスの魔法 潜在意識を書き換える「奇跡の教科書」",
+      "original_author": null,
+      "isbn": "9786267730720",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/029/78/E050297807.jpg&v=6900384ck&w=1146&h=600",
+      "publish_date": "2025/11/11",
+      "date_start": "10/2",
+      "date_end": "10/2",
+      "date_label": "10/2(五)",
+      "product_url": "https://www.books.com.tw/products/E050297807",
       "daily_price": 99,
-      "daily_price_reg": 420,
-      "last_updated": "2026-09-27T15:36:51.508843+08:00",
+      "daily_price_reg": 400,
+      "last_updated": "2026-10-01T17:23:46.504698+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -221,7 +222,7 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050204154?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050297807?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": null,
@@ -229,23 +230,22 @@
           "url": ""
         },
         "goodreads": {
-          "score": 4.06,
-          "count": 62,
-          "url": "https://www.goodreads.com/book/show/63637625",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0GTQCCFBS/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 72,
-          "url": "https://www.amazon.com/gp/product/B0GTQCCFBS/ref=x_gr_bb_kindle"
+          "count": 211,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4046066997/ref=sr_1_1"
         }
       },
-      "avg_score": 4.21,
-      "short_affiliate_url": "",
-      "publish_date": "2024/02/29"
+      "avg_score": 4.23,
+      "short_affiliate_url": ""
     }
   ]
 }
