@@ -7,88 +7,89 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:《億萬救援：從白宮壓力到貨幣決策，鮑爾與川普
- 的聯準會權力之戰》
-DESCRIPTION:特價 NT$99｜原價 NT$364｜4.2分\nhttps://reurl.cc/4Y8MbV\
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:《有錢人和你不一樣的致富紀律：改變數百萬人的
+ 理財7步驟，從累積第一桶金到提早退休，沒有高薪和富
+ 爸爸也可以財富自由》
+DESCRIPTION:特價 NT$99｜原價 NT$252｜4.1分\nhttps://reurl.cc/3ypb90\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/4Y8MbV
-UID:kobo99-2026-w39-01@kobo99-tracker
-DTSTAMP:20260924T030623Z
+URL:https://reurl.cc/3ypb90
+UID:kobo99-2026-w40-01@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:《人人都有數學腦：打破天賦論，史丹佛頂尖學者
- 裘．波勒帶孩子從學不會到養成多元學習力》
-DESCRIPTION:特價 NT$99｜原價 NT$338｜4.2分\nhttps://reurl.cc/3ymQbV\
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:《嵌入式金融大衝擊！：從Google、Apple，到IKEA、賓
+ 士，科技巨擘與零售龍頭都爭先布局的創新金融版圖》
+DESCRIPTION:特價 NT$99｜原價 NT$270｜4.1分\nhttps://reurl.cc/eQ7VAj\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/3ymQbV
-UID:kobo99-2026-w39-02@kobo99-tracker
-DTSTAMP:20260924T030623Z
+URL:https://reurl.cc/eQ7VAj
+UID:kobo99-2026-w40-02@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:《车轮上的历史》
-DESCRIPTION:特價 NT$99｜原價 NT$270｜4.2分\nhttps://reurl.cc/EYDvbA\
- n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/EYDvbA
-UID:kobo99-2026-w39-03@kobo99-tracker
-DTSTAMP:20260924T030623Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:《町人美学》
+DESCRIPTION:特價 NT$99｜原價 NT$564\nhttps://reurl.cc/QNGVgp\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/QNGVgp
+UID:kobo99-2026-w40-03@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:《流浪者之歌》
-DESCRIPTION:特價 NT$99｜原價 NT$245｜4.3分\nhttps://reurl.cc/OQDoR9\
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:《鎳克爾男孩》
+DESCRIPTION:特價 NT$99｜原價 NT$294｜4.2分\nhttps://reurl.cc/MWLMgv\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/OQDoR9
-UID:kobo99-2026-w39-04@kobo99-tracker
-DTSTAMP:20260924T030623Z
+URL:https://reurl.cc/MWLMgv
+UID:kobo99-2026-w40-04@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:《土壤下的迷你工程師：如果少了蚯蚓，人類還能
- 生存嗎？》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/QNDoV0\
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:《狄波諾思考力實踐手冊：讓思考成為第二天性，
+ 「六頂思考帽」創意大師經典11講》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜4.1分\nhttps://reurl.cc/qa4K2g\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/QNDoV0
-UID:kobo99-2026-w39-05@kobo99-tracker
-DTSTAMP:20260924T030623Z
+URL:https://reurl.cc/qa4K2g
+UID:kobo99-2026-w40-05@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:《好人≠耗人：從內耗中抽身的東大情緒整理》
-DESCRIPTION:特價 NT$99｜原價 NT$294｜4.1分\nhttps://reurl.cc/NODoN5\
- n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/NODoN5
-UID:kobo99-2026-w39-06@kobo99-tracker
-DTSTAMP:20260924T030623Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:《細說金瓶梅：精解三個女人的成人世界，看透情
+ 色底下的人世潛規則》
+DESCRIPTION:特價 NT$99｜原價 NT$525\nhttps://reurl.cc/90LbqO\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/90LbqO
+UID:kobo99-2026-w40-06@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:《70％繭居族都能自立》
-DESCRIPTION:特價 NT$99｜原價 NT$265｜4.2分\nhttps://reurl.cc/RRDo2n\
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:《用地理看歷史：春秋五霸，誰能獨大？》
+DESCRIPTION:特價 NT$99｜原價 NT$476｜4.2分\nhttps://reurl.cc/nx4l21\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/RRDo2n
-UID:kobo99-2026-w39-07@kobo99-tracker
-DTSTAMP:20260924T030623Z
+URL:https://reurl.cc/nx4l21
+UID:kobo99-2026-w40-07@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:《我們身體裡的生命演化史：演化如何打造出身體
- ，而身體的演化又如何構成新的物種？ 一部關於器官、
- 組織、細胞、DNA長達40億年的故事》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/Vneo26\
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:《怪咖心理學之鍛鍊正能量思維，用科學方法讓好
+ 事成真》
+DESCRIPTION:特價 NT$99｜原價 NT$294｜4.1分\nhttps://reurl.cc/zO4KLN\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Vneo26
-UID:kobo99-2026-w39-08@kobo99-tracker
-DTSTAMP:20260924T030623Z
+URL:https://reurl.cc/zO4KLN
+UID:kobo99-2026-w40-08@kobo99-tracker
+DTSTAMP:20261001T081304Z
 END:VEVENT
 END:VCALENDAR

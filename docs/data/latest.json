@@ -1,150 +1,151 @@
 {
   "year": 2026,
-  "week": 39,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w39",
-  "sale_label": "NT$99 特價：9/24（四）～9/30（三）",
-  "sale_start": "2026-09-24",
-  "sale_end": "2026-09-30",
+  "week": 40,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w40",
+  "sale_label": "NT$99 特價：10/1（四）～10/7（三）",
+  "sale_start": "2026-10-01",
+  "sale_end": "2026-10-07",
   "on_sale": true,
-  "updated_at": "2026-09-24T10:16:07.245728+08:00",
+  "updated_at": "2026-10-01T15:04:48.952745+08:00",
   "books": [
     {
-      "title": "億萬救援：從白宮壓力到貨幣決策，鮑爾與川普的聯準會權力之戰",
-      "author": "尼克‧提米羅斯",
-      "original_title": "Trillion Dollar Triage: How Jay Powell and the Fed Battled a President and a Pandemic—And Prevented Economic Disaster",
-      "isbn": "9786267523537",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vXmlpU6XfzWb7jzN7osKTw?sId=dcf07912-2561-4124-ad07-b58c49fc5aba&ssId=aIpdCQ-A2lU3ip8aOWNco&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$364",
-      "cover_url": "covers/vXmlpU6XfzWb7jzN7osKTw.jpg",
+      "title": "有錢人和你不一樣的致富紀律：改變數百萬人的理財7步驟，從累積第一桶金到提早退休，沒有高薪和富爸爸也可以財富自由",
+      "author": "戴夫・藍西",
+      "original_title": "Baby Steps Millionaires: How Ordinary People Built Extraordinary Wealth--and How You Can Too",
+      "isbn": "9789863988823",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/tajXDzV0gj6Hhnsnw3tAYg?sId=646ec35c-410a-44c6-8195-35fdf7e70e78&ssId=7Bu1wg9teOgrEd9SJ0RK4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$252",
+      "cover_url": "covers/tajXDzV0gj6Hhnsnw3tAYg.jpg",
       "sale_price": "NT$99",
-      "date": "9/24",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
+      "date": "10/1",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
       "on_sale": true,
-      "publisher": "感電出版",
-      "publish_date": "2025年6月25日",
+      "publisher": "天下雜誌",
+      "publish_date": "2023年3月29日",
       "language": "中文",
-      "original_author": "Nick Timiraos",
-      "description": "聯準會有雙重使命：提升就業率、穩定物價。以聯準會主席鮑爾為主角的政經角力，詳細描述新冠疫情席捲全球後，美國如何迅速從經濟蓬勃的狀態，進入一場猶如醫學誘導的昏迷，大大小小的企業面臨崩潰的邊緣。",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "original_author": "Dave Ramsey",
+      "description": "美國人最信任理財專家之一，打造近千萬人奉行的致富法，翻轉數百萬人的財務困境，帶你打造0債務、富裕安穩退休的生活，只要掌握本書的思維和策略，精準快速達標，從一無所有變身有錢人，安穩抵達致富終點。",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/3ypb90",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/vXmlpU6XfzWb7jzN7osKTw?sId=dcf07912-2561-4124-ad07-b58c49fc5aba&ssId=aIpdCQ-A2lU3ip8aOWNco&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+          "url": "https://www.kobo.com/tw/zh/ebook/tajXDzV0gj6Hhnsnw3tAYg?sId=646ec35c-410a-44c6-8195-35fdf7e70e78&ssId=7Bu1wg9teOgrEd9SJ0RK4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
         },
         "books_com": {
-          "score": 3.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050270654?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "score": 3.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050156221?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/1uwFNQ",
-          "raw_url": "https://readmoo.com/book/210396178000101"
+          "score": 3.7,
+          "count": 22,
+          "url": "https://moo.im/a/hnostY",
+          "raw_url": "https://readmoo.com/book/210267740000101"
         },
         "goodreads": {
-          "score": 4.15,
-          "count": 800,
-          "url": "https://www.goodreads.com/book/show/58450272",
-          "note": "title+author",
+          "score": 3.92,
+          "count": 6858,
+          "url": "https://www.goodreads.com/book/show/59648395",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 75,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.5,
-          "count": 312,
-          "url": "https://www.amazon.com/-/zh_TW/Nick-Timiraos-ebook/dp/B09B74MC63/ref=sr_1_1"
+          "score": 4.6,
+          "count": 3936,
+          "url": "https://www.amazon.com/gp/product/B09LR3HHG2/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/4Y8MbV"
+      "avg_score": 4.14
     },
     {
-      "title": "人人都有數學腦：打破天賦論，史丹佛頂尖學者裘．波勒帶孩子從學不會到養成多元學習力",
-      "author": "裘．波勒",
-      "original_title": "Math-ish: Finding Creativity, Diversity, and Meaning in Mathematics",
-      "isbn": "9786263559134",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Z240eRYJijSpL42PiyyRaQ?sId=73a42535-effa-4446-9205-4477b7d66ba5&ssId=cAcNmf8yce8_LjopCN9PY&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/Z240eRYJijSpL42PiyyRaQ.jpg",
+      "title": "嵌入式金融大衝擊！：從Google、Apple，到IKEA、賓士，科技巨擘與零售龍頭都爭先布局的創新金融版圖",
+      "author": "城田真琴",
+      "original_title": "エンベデッド・ファイナンスの衝撃",
+      "isbn": "9786263185791",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/google-apple-ikea?sId=bb62e47c-153d-4309-9f03-a0cade873897&ssId=UHLu3d83XyBnrqi7vNFdZ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$270",
+      "cover_url": "covers/google-apple-ikea.jpg",
       "sale_price": "NT$99",
-      "date": "9/25",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
+      "date": "10/2",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
       "on_sale": true,
-      "publisher": "天下文化出版社",
-      "publish_date": "2024年8月30日",
+      "publisher": "商周出版",
+      "publish_date": "2023年2月23日",
       "language": "中文",
-      "original_author": "Jo Boaler",
-      "description": "數學並不只是生搬照套公式和硬背一個個困難的解法，而是我們用科學方式看待世界所有現象的方法。任何數學概念都能有多種思考、觀察和解決的方法，善用多元化的方式教授數學，學生就能順利進入數學世界。",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "original_author": null,
+      "description": "傳統金融業角色的重新定位與省思，提供下一波金融轉型所必備的宏觀視野。金融功能的全面重組與進化，搶先掌握10倍成長潛力、千億商機的全新市場，探索嵌入式金融服務的可能性與極限。",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/eQ7VAj",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Z240eRYJijSpL42PiyyRaQ?sId=73a42535-effa-4446-9205-4477b7d66ba5&ssId=cAcNmf8yce8_LjopCN9PY&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/google-apple-ikea?sId=bb62e47c-153d-4309-9f03-a0cade873897&ssId=UHLu3d83XyBnrqi7vNFdZ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
         },
         "books_com": {
-          "score": 4.5,
+          "score": 5.0,
           "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050231944?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050154203?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": 5.0,
-          "count": 3,
-          "url": "https://moo.im/a/9dzDNT",
-          "raw_url": "https://readmoo.com/book/210346758000101"
+          "count": 2,
+          "url": "https://moo.im/a/26ahor",
+          "raw_url": "https://readmoo.com/book/210263700000101"
         },
         "goodreads": {
-          "score": 4.22,
-          "count": 612,
-          "url": "https://www.goodreads.com/book/show/206029533",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CF2H7GY5/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 218,
-          "url": "https://www.amazon.com/gp/product/B0CF2H7GY5/ref=x_gr_bb_kindle"
+          "score": 4.0,
+          "count": 160,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4492762582/ref=sr_1_1"
         }
       },
-      "avg_score": 4.25,
-      "short_affiliate_url": "https://reurl.cc/3ymQbV"
+      "avg_score": 4.1
     },
     {
-      "title": "车轮上的历史",
-      "author": "[英]汤姆·斯丹迪奇",
-      "original_title": "A Brief History of Motion",
-      "isbn": "7553521749649",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZOeUMVGiTTSQ_U_oiqzeag?sId=5363f356-e704-4769-af04-0ba2c9ccd287&ssId=rNAcQtWzPKJJKtod3pBRt&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$270",
-      "cover_url": "covers/ZOeUMVGiTTSQ_U_oiqzeag.jpg",
+      "title": "町人美学",
+      "author": "（日）阿部次郎",
+      "original_title": "",
+      "isbn": "9787532791170",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/GwJoZXi6WD2GypryrIthWA?sId=de519b99-202d-4891-a512-12e4ac02cfd3&ssId=_QciyK-_OBfD26yxHUfiY&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$564",
+      "cover_url": "covers/GwJoZXi6WD2GypryrIthWA.jpg",
       "sale_price": "NT$99",
-      "date": "9/25",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
+      "date": "10/2",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
       "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2023年2月1日",
+      "publisher": "上海译文出版社",
+      "publish_date": "2022年12月1日",
       "language": "中文",
-      "original_author": "Tom Standage",
-      "description": "這是一次穿越了5500年人類歷史、令人眼界大開的公路之旅。深入探究了汽車發展的歷史，以及在汽車被廣泛使用過程中社會所發生的劇變。思考了那些我們未曾選擇的道路，並引領我們用新的眼光來看待過去。",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "original_author": null,
+      "description": "日本美學史上原理性先鋒著作，日本文化史公認一流名著。全書觀察犀利、分析透闢，語言睿智機警，頗得德國哲學與歐洲學術的方法精髓，又顯示了日本人特有的細膩感受性，具有重要的學術理論價值與閱讀欣賞價值。",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/QNGVgp",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ZOeUMVGiTTSQ_U_oiqzeag?sId=5363f356-e704-4769-af04-0ba2c9ccd287&ssId=rNAcQtWzPKJJKtod3pBRt&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+          "url": "https://www.kobo.com/tw/zh/ebook/GwJoZXi6WD2GypryrIthWA?sId=de519b99-202d-4891-a512-12e4ac02cfd3&ssId=_QciyK-_OBfD26yxHUfiY&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/CN11845097?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/CN11853551?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": null,
@@ -152,220 +153,166 @@
           "url": ""
         },
         "goodreads": {
-          "score": 3.79,
-          "count": 691,
-          "url": "https://www.goodreads.com/book/show/54860184",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B08TMZBD47/ref=x_gr_bb_kindle",
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E9%98%BF%E9%83%A8%E6%AC%A1%E9%83%8E/dp/7532791173/ref=sr_1_3"
+        }
+      },
+      "avg_score": null
+    },
+    {
+      "title": "鎳克爾男孩",
+      "author": "科爾森‧懷特黑德",
+      "original_title": "The Nickel Boys",
+      "isbn": "9786267445976",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/lppXF019IjyNOtIUT0DWWA?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/lppXF019IjyNOtIUT0DWWA.jpg",
+      "sale_price": "NT$99",
+      "date": "10/3",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
+      "on_sale": true,
+      "publisher": "二十張出版",
+      "publish_date": "2025年3月5日",
+      "language": "中文",
+      "original_author": "Colson Whitehead",
+      "description": "每個人都有屬於自己的那一部分。將這些碎片重新拼接，便能證實彼此曾共同經歷過的那段黑暗年歲。這不是歷史課，而是美麗又令人心碎的見證，關於那群遍體鱗傷的男孩所擁有之刻骨銘心的情誼。",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/MWLMgv",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/lppXF019IjyNOtIUT0DWWA?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050253121?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 10,
+          "url": "https://moo.im/a/18gyCG",
+          "raw_url": "https://readmoo.com/book/210374208000101"
+        },
+        "goodreads": {
+          "score": 4.25,
+          "count": 327563,
+          "url": "https://www.goodreads.com/book/show/42270835",
+          "note": "re-fetch",
+          "amazon_url": "",
           "confidence": 90,
-          "cross_validated": true
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 41741,
+          "url": "https://www.amazon.com/-/zh_TW/Colson-Whitehead-ebook/dp/B07J489X7H/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.24
+    },
+    {
+      "title": "狄波諾思考力實踐手冊：讓思考成為第二天性，「六頂思考帽」創意大師經典11講",
+      "author": "愛德華．狄波諾",
+      "original_title": "De Bono's Thinking Course 1e",
+      "isbn": "9786267252871",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fICgjWGzbjag7TYBQGb1vg?sId=d8a2e946-1423-4e25-bc03-036420c2d2e0&ssId=jR4Q_jkFuxWJSlFT9p56Y&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/fICgjWGzbjag7TYBQGb1vg.jpg",
+      "sale_price": "NT$99",
+      "date": "10/4",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
+      "on_sale": true,
+      "publisher": "商業周刊",
+      "publish_date": "2023年11月7日",
+      "language": "中文",
+      "original_author": "Edward de Bono",
+      "description": "全球創意思考之父狄波諾，畢生思考模式之精華大全。融合多年教學經驗，針對不同年紀、能力、文化，累積出每個人都適用的思考模型，讓你學會隨時自動運作、高效率且專注的心智能力，是一套必收的思考寶典。",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/qa4K2g",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/fICgjWGzbjag7TYBQGb1vg?sId=d8a2e946-1423-4e25-bc03-036420c2d2e0&ssId=jR4Q_jkFuxWJSlFT9p56Y&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050184500?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://moo.im/a/qwzMPY",
+          "raw_url": "https://readmoo.com/book/210296003000101"
+        },
+        "goodreads": {
+          "score": 3.84,
+          "count": 615,
+          "url": "https://www.goodreads.com/book/show/829615",
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 190,
-          "url": "https://www.amazon.com/gp/product/B08TMZBD47/ref=x_gr_bb_kindle"
+          "count": 57,
+          "url": "https://www.amazon.com/gp/product/1406612022/ref=x_gr_bb_amazon"
         }
       },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/EYDvbA"
+      "avg_score": 4.11
     },
     {
-      "title": "流浪者之歌",
-      "author": "赫曼．赫塞",
-      "original_title": "Siddhartha",
-      "isbn": "9786263744417",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SSmAUWRnWD-200t2EoH_qQ?sId=e15f02bf-def5-49ae-9f61-c40b5e1d1742&ssId=lVji4WIwhDYjoPxqrz9Gn&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$245",
-      "cover_url": "covers/SSmAUWRnWD-200t2EoH_qQ.jpg",
+      "title": "細說金瓶梅：精解三個女人的成人世界，看透情色底下的人世潛規則",
+      "author": "劉心武",
+      "original_title": "",
+      "isbn": "9786267714041",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/CBU7ATXULjSJ56EtOjHIxw?sId=b5a24e8b-5035-457e-9eaa-5ec99b5db15b&ssId=HB5bhupI1AlF-EpgYXihc&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$525",
+      "cover_url": "covers/CBU7ATXULjSJ56EtOjHIxw.jpg",
       "sale_price": "NT$99",
-      "date": "9/26",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
+      "date": "10/5",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
       "on_sale": true,
-      "publisher": "時報出版",
-      "publish_date": "2023年10月20日",
-      "language": "中文",
-      "original_author": "Hermann Hesse",
-      "description": "諾貝爾文學獎得主赫塞小說代表作。一部融匯中、印、歐三大文明的跨界之作，一本如詩又如歌的悟道之書，帶你踏上靈性開悟的智慧之旅，走出人生低谷，我學會了接受這世界，以它本來如此的樣子。",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 2.6,
-          "count": 5,
-          "url": "https://www.kobo.com/tw/zh/ebook/SSmAUWRnWD-200t2EoH_qQ?sId=e15f02bf-def5-49ae-9f61-c40b5e1d1742&ssId=lVji4WIwhDYjoPxqrz9Gn&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050190415?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 78,
-          "url": "https://moo.im/a/prJRSV",
-          "raw_url": "https://readmoo.com/book/210302426000101"
-        },
-        "goodreads": {
-          "score": 4.52,
-          "count": 21,
-          "url": "https://www.goodreads.com/book/show/60487534",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09HQN6Q1Z/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 18157,
-          "url": "https://www.amazon.com/gp/product/B09HQN6Q1Z/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.27,
-      "short_affiliate_url": "https://reurl.cc/OQDoR9"
-    },
-    {
-      "title": "土壤下的迷你工程師：如果少了蚯蚓，人類還能生存嗎？",
-      "author": "莎莉．庫特哈德",
-      "original_title": "The Book of the Earthworm",
-      "isbn": "9786267465684",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/sYH1mXEstz2dGqRhQJtl3g?sId=f72bf814-2f3f-4035-9c56-7c6104beb0f9&ssId=behqy8PMma-u-I5Ah3yC_&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/sYH1mXEstz2dGqRhQJtl3g.jpg",
-      "sale_price": "NT$99",
-      "date": "9/27",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
-      "on_sale": true,
-      "publisher": "本事出版",
-      "publish_date": "2025年7月16日",
-      "language": "中文",
-      "original_author": "Sally Coulthard",
-      "description": "生物學家達爾文認為，地球上最重要的動物是那些在雨後濕滑地面上蠢蠢蠕動的條狀生物──蚯蚓這是一本與我們生活息息相關的自然科普書，將為我們揭露地球上最重要生物的趣味八卦，下次遇到蚯蚓，請留意你的腳步！",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/sYH1mXEstz2dGqRhQJtl3g?sId=f72bf814-2f3f-4035-9c56-7c6104beb0f9&ssId=behqy8PMma-u-I5Ah3yC_&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050274829?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/myDIVW",
-          "raw_url": "https://readmoo.com/book/210399885000101"
-        },
-        "goodreads": {
-          "score": 4.1,
-          "count": 330,
-          "url": "https://www.goodreads.com/book/show/54578903",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B08D3W8GF4/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 54,
-          "url": "https://www.amazon.com/gp/product/B08D3W8GF4/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": "https://reurl.cc/QNDoV0"
-    },
-    {
-      "title": "好人≠耗人：從內耗中抽身的東大情緒整理",
-      "author": "東大CARPE DIEM、西岡壹誠",
-      "original_title": "「悩む」を時短する！東大式感情コントロール術",
-      "isbn": "9789863708094",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/aXFhfBbf6jyQI9hgYYq07g?sId=32b679e7-53fa-435b-b6b6-3bc13c2d8260&ssId=SPaAZCkCgkGBpk1cgCJzU&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/aXFhfBbf6jyQI9hgYYq07g.jpg",
-      "sale_price": "NT$99",
-      "date": "9/28",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
-      "on_sale": true,
-      "publisher": "楓葉社",
-      "publish_date": "2025年6月27日",
+      "publisher": "日出出版",
+      "publish_date": "2025年5月26日",
       "language": "中文",
       "original_author": null,
-      "description": "日本高材生的逆轉心法，助你重新開啟人生。本書開頭透過10個小問題，將大家的思考模式分為4個類型。並依據各種情況與類型，參考東大生的情緒處理，給予最佳解方，說不定換個角度，便能迎來屬於你的柳暗花明。",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "description": "★魯迅和張愛玲都曾盛讚《金瓶梅》為千古奇書，它在全世界的影響力甚至超過《紅樓夢》。大多數人認為它是淫書，其實當中的色情文字占全書比例不過百分之一。★ 觀世態、看鬥爭、見人性——超越是非判斷的慾望， 說出千百年來未曾變化的世道人心。 在金瓶梅的世界裡，很難找到浪漫或詩意的東西，它講的是現實社會中不同的生命形態與人性複雜——普通人的柴米油鹽、生死歌哭、貪嗔癡慢、男歡女愛、自我壓抑，直白地揭露出我們身上同時存在的「善與惡」： ▲西門慶到底是怎樣的人？風流好色、荒唐縱慾？人們給他貼上太多「惡」的標籤，他率直、真性情，擁有經商的智慧與清晰的頭腦，在商場和官場摸爬滾打，一步步獲得巨額財富和官員地位。 她是自我意識覺醒較早的女性，以自我為中心，努力爭取自己身體的支配權。她的人生際遇充滿了故事性，最終生命結束在追求幸福上。 她其實一心追求踏實生活和依靠。她嫁給西門慶後，開始自我淨化，對人謙讓、仁義。當她病",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/90LbqO",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/aXFhfBbf6jyQI9hgYYq07g?sId=32b679e7-53fa-435b-b6b6-3bc13c2d8260&ssId=SPaAZCkCgkGBpk1cgCJzU&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+          "url": "https://www.kobo.com/tw/zh/ebook/CBU7ATXULjSJ56EtOjHIxw?sId=b5a24e8b-5035-457e-9eaa-5ec99b5db15b&ssId=HB5bhupI1AlF-EpgYXihc&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050271615?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050267955?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/8sDKNV",
-          "raw_url": "https://readmoo.com/book/210394632000101"
-        },
-        "goodreads": {
           "score": null,
           "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 7,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4074535521/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.14,
-      "short_affiliate_url": "https://reurl.cc/NODoN5"
-    },
-    {
-      "title": "70％繭居族都能自立",
-      "author": "二神能基、久世芽亞里",
-      "original_title": "引きこもりの7 割は自立できる",
-      "isbn": "9786267448854",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/PuJaC7wtfTi5yUA8aoeEIA?sId=b78d13b7-bd53-4c7c-bd7b-7d6db794549b&ssId=0BQcEet6tiKQFnNJouD6y&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$265",
-      "cover_url": "covers/PuJaC7wtfTi5yUA8aoeEIA.jpg",
-      "sale_price": "NT$99",
-      "date": "9/29",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
-      "on_sale": true,
-      "publisher": "大是文化",
-      "publish_date": "2024年7月30日",
-      "language": "中文",
-      "original_author": null,
-      "description": "什麼是繭居族？不上學、不上班，生活自我封閉的人。從在家啃老到獨立生活，日本最大輔導機構靠三步驟，幫助超過1,700位繭居族破繭而出，自立更生。本書內附臺灣專業協助機構，幫助繭居族破繭而出。。",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/PuJaC7wtfTi5yUA8aoeEIA?sId=b78d13b7-bd53-4c7c-bd7b-7d6db794549b&ssId=0BQcEet6tiKQFnNJouD6y&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050227813?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
-        },
-        "readmoo": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://moo.im/a/457rwA",
-          "raw_url": "https://readmoo.com/book/210340556000101"
+          "url": "https://moo.im/a/15evAO",
+          "raw_url": "https://readmoo.com/book/210391011000101"
         },
         "goodreads": {
           "score": null,
@@ -382,62 +329,115 @@
           "url": ""
         }
       },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/RRDo2n"
+      "avg_score": null
     },
     {
-      "title": "我們身體裡的生命演化史：演化如何打造出身體，而身體的演化又如何構成新的物種？ 一部關於器官、組織、細胞、DNA長達40億年的故事",
-      "author": "尼爾‧蘇賓",
-      "original_title": "SOME ASSEMBLY REQUIRED : Decoding Four Billion Years of Life, from Ancient Fossils to DNA",
-      "isbn": "9789860632873",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dna40?sId=9424c642-a25e-48e1-bf46-eca9a5f09d62&ssId=na-iQ7LAge6vtoNQRWzdW&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/dna40.jpg",
+      "title": "用地理看歷史：春秋五霸，誰能獨大？",
+      "author": "李不白",
+      "original_title": "",
+      "isbn": "9786263966062",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/EFg5GsvA5TuliJE1cAdJ-Q?sId=438cfe70-de86-41de-b429-9c6c9635b309&ssId=eIaooxkL6ZDYYnFF89sUJ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$476",
+      "cover_url": "covers/EFg5GsvA5TuliJE1cAdJ-Q.jpg",
       "sale_price": "NT$99",
-      "date": "9/30",
-      "sale_start": "2026-09-24",
-      "sale_end": "2026-09-30",
+      "date": "10/6",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
       "on_sale": true,
-      "publisher": "鷹出版",
-      "publish_date": "2021年7月28日",
+      "publisher": "時報出版",
+      "publish_date": "2024年8月16日",
       "language": "中文",
-      "original_author": "Neil Shubin",
-      "description": "達爾文當時無法回答的問題，蘇賓給出了解答！身體的出現，打開了新的演化方式，它就像是個什麼都有的材料箱，演化出你想不到的生命形態，從共通的材料箱中，製造出生命之樹上許多不同分支的物種。",
-      "last_updated": "2026-09-24T10:16:07.245728+08:00",
+      "original_author": null,
+      "description": "山川樞紐，推動天下態勢；人地交疊，影響國家興衰。以地理的視角解讀政治與戰爭，透過107張全彩地圖，輕鬆了解春秋歷史，還原主要事件的來龍去脈，全方位重現歷史場景，帶來身臨其境的閱讀體驗。",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/nx4l21",
       "ratings": {
         "kobo": {
           "score": 5.0,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/dna40?sId=9424c642-a25e-48e1-bf46-eca9a5f09d62&ssId=na-iQ7LAge6vtoNQRWzdW&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20260924"
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/EFg5GsvA5TuliJE1cAdJ-Q?sId=438cfe70-de86-41de-b429-9c6c9635b309&ssId=eIaooxkL6ZDYYnFF89sUJ&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050099018?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050231937?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.7,
-          "count": 6,
-          "url": "https://moo.im/a/2xzEMV",
-          "raw_url": "https://readmoo.com/book/210188628000101"
+          "score": 4.3,
+          "count": 3,
+          "url": "https://moo.im/a/8fgyMX",
+          "raw_url": "https://readmoo.com/book/210346306000101"
         },
         "goodreads": {
-          "score": 4.14,
-          "count": 2841,
-          "url": "https://www.goodreads.com/book/show/51199750",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B07RYHNGZY/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 1045,
-          "url": "https://www.amazon.com/gp/product/B07RYHNGZY/ref=x_gr_bb_kindle"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/Vneo26"
+      "avg_score": 4.16
+    },
+    {
+      "title": "怪咖心理學之鍛鍊正能量思維，用科學方法讓好事成真",
+      "author": "李察．韋斯曼",
+      "original_title": "Rip It Up： The Simple Idea That Changes Everything",
+      "isbn": "9789864897674",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/mOglj1Drkz-X0fS1jYa8Pg?sId=b2850312-5601-483b-ae81-52e99a5064d4&ssId=mQqASPfr6bPGfNiz1bGzb&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/mOglj1Drkz-X0fS1jYa8Pg.jpg",
+      "sale_price": "NT$99",
+      "date": "10/7",
+      "sale_start": "2026-10-01",
+      "sale_end": "2026-10-07",
+      "on_sale": true,
+      "publisher": "漫遊者文化",
+      "publish_date": "2023年4月10日",
+      "language": "中文",
+      "original_author": "Richard Wiseman",
+      "description": "想知道殺價或談判容不容易成功，先觀察對方坐的是硬椅子還是軟沙發。本書明確揭示了甚麼樣的行為模式會影響我們的信念、情緒和意志力。用簡單的行為，就能改變你的情緒，甚至性格與命運。",
+      "last_updated": "2026-10-01T15:04:48.952745+08:00",
+      "short_affiliate_url": "https://reurl.cc/zO4KLN",
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/mOglj1Drkz-X0fS1jYa8Pg?sId=b2850312-5601-483b-ae81-52e99a5064d4&ssId=mQqASPfr6bPGfNiz1bGzb&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_10012026"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050157385?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://moo.im/a/3qyLNV",
+          "raw_url": "https://readmoo.com/book/210268608000101"
+        },
+        "goodreads": {
+          "score": 3.78,
+          "count": 928,
+          "url": "https://www.goodreads.com/book/show/140309484",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B073QW3KC8/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E6%9D%8E%E5%AF%9F%E2%80%A7%E9%9F%8B%E6%96%AF%E6%9B%BC%EF%BC%88Richard-Wiseman%EF%BC%89-ebook/dp/B0DPHSZW18/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.1
     }
   ]
 }
