@@ -1,111 +1,7 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-09-17T12:37:38.071826+08:00",
+  "updated_at": "2026-10-01T17:01:24.871111+08:00",
   "books": [
-    {
-      "title": "昨年",
-      "author": "卡羅．克萊兒．柏克",
-      "original_title": "Yesteryear",
-      "original_author": "Caro Claire Burke",
-      "isbn": "9789573344650",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/n5HV0bstgTeIa_dSMbMn2w?sId=f245d67f-70c7-4eb7-8ffd-a64c7328c304&ssId=UsXloLyrt0pvx_xD05H7g&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$365",
-      "cover_url": "covers/n5HV0bstgTeIa_dSMbMn2w.jpg",
-      "sale_price": "NT$310",
-      "price_source": "kobo",
-      "sale_end": "9/17",
-      "description": "年度話題神作，席捲歐美文壇！娜塔莉原本是一名生活風格網紅，她歌頌幸福的傳統生活，但這份完美背後藏著滿滿偽裝。直到某天，她一覺醒來，門框上看見刻滿名字與年份的痕跡，而最新的一道刻痕寫著一八五五年。 《昨年》 由 卡羅．克萊兒．柏克＠著 出版社： 皇冠文化 查看電子書",
-      "publish_date": "2026年9月4日",
-      "last_updated": "2026-09-17T12:37:38.071826+08:00",
-      "short_affiliate_url": "https://reurl.cc/277yKX",
-      "ratings": {
-        "kobo": {
-          "score": 4.12,
-          "count": 16,
-          "url": "https://www.kobo.com/tw/zh/ebook/n5HV0bstgTeIa_dSMbMn2w?sId=f245d67f-70c7-4eb7-8ffd-a64c7328c304&ssId=UsXloLyrt0pvx_xD05H7g&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 76,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050354708?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 3.87,
-          "count": 937145,
-          "url": "https://www.goodreads.com/book/show/238226942-yesteryear?from_search=true&from_srp=true&qid=bz1BRFwrni&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FH1V3D9M/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 118382,
-          "url": "https://www.amazon.com/gp/product/B0FH1V3D9M/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.21,
-      "listed_at": "2026-09-10"
-    },
-    {
-      "title": "洗錢揭密",
-      "author": "傑夫．懷特",
-      "original_title": "Rinsed: From Cartels to Crypto: How the Tech Industry Washes Money for the World's Deadliest Crooks",
-      "original_author": "Geoff White",
-      "isbn": "9786267859599",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6iE_i6ysMTabV4fAfRG0Pg?sId=2b683b0e-dc8a-4f18-b2e8-4b79106d4406&ssId=vpyn30kD0ciAcK7KaDbHt&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$365",
-      "cover_url": "covers/6iE_i6ysMTabV4fAfRG0Pg.jpg",
-      "sale_price": "NT$310",
-      "price_source": "readmoo_orig",
-      "sale_end": "9/20",
-      "description": "詐騙氾濫時代，必讀之書。英國備受讚譽的犯罪調查記者，對「洗錢產業鏈」最震撼人心的獨家揭露！在這個一切都更加方便，卻也更不安全的時代，本書帶給你的，不只是看透犯罪的慧眼，更是保護自己的珍貴智慧。 《洗錢揭密》 由 傑夫．懷特＠著 出版社： 平安文化 查看電子書",
-      "publish_date": "2026年9月7日",
-      "last_updated": "2026-09-17T12:37:38.071826+08:00",
-      "short_affiliate_url": "https://reurl.cc/AXXLME",
-      "genre_tags": [
-        "企業與金融"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/6iE_i6ysMTabV4fAfRG0Pg?sId=2b683b0e-dc8a-4f18-b2e8-4b79106d4406&ssId=vpyn30kD0ciAcK7KaDbHt&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050355220?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/sIJKMZ",
-          "raw_url": "https://readmoo.com/book/210498832000101"
-        },
-        "goodreads": {
-          "score": 4.01,
-          "count": 735,
-          "url": "https://www.goodreads.com/book/show/211199433-rinsed?from_search=true&from_srp=true&qid=MI1p7fdjHd&rank=1",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 310,
-          "url": "https://www.amazon.com/gp/product/B0CPBLXQH6/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.18,
-      "listed_at": "2026-09-10"
-    },
     {
       "title": "墨水與符印1 詛咒與祝福",
       "author": "凱文．赫恩",
@@ -118,9 +14,10 @@
       "sale_price": "NT$265",
       "price_source": "",
       "sale_end": "9/30",
-      "description": "在符印師的巧手中，紙與墨與筆成就了奇異魔咒。作者凱文．赫恩的全新系列，結合奇幻、懸疑推理與機智幽默，帶領讀者跟著屆齡卻退不了休的主角，走進一個以墨水施展魔法、以符印約束神明與怪物的世界！ 《墨水與符印1 詛咒與祝福》 由 凱文．赫恩@著 出版社： 蓋亞文化 查看電子書 Tags 獨家優惠 分享這篇文章 分享到 Facebook Share via Email Related articles 造訪連結 【一週99書單】慢慢跑，在愛與理解中長成自己。（9/17-9/23） 沒時間看書？其實許多名人都愛用5小時讀書法，其實只要每天1小時每週5小時，持之以恆，你就能夠發現不一樣的可能。Kobo每週推出「每日99書單」，精選各類優質好書，並簡短介紹書籍內容，",
+      "description": "在符印師的巧手中，紙與墨與筆成就了奇異魔咒。作者凱文．赫恩的全新系列，結合奇幻、懸疑推理與機智幽默，帶領讀者跟著屆齡卻退不了休的主角，走進一個以墨水施展魔法、以符印約束神明與怪物的世界！ 《墨水與符印1 詛咒與祝福》 由 凱文．赫恩@著 出版社： 蓋亞文化 查看電子書",
       "publish_date": "2026年9月16日",
-      "last_updated": "2026-09-17T12:37:38.071826+08:00",
+      "last_updated": "2026-10-01T17:01:24.871111+08:00",
+      "listed_at": "2026-09-17",
       "short_affiliate_url": "https://reurl.cc/6XXYqV",
       "genre_tags": [
         "科幻小說與奇幻小說",
@@ -135,17 +32,16 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050356236?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050356236?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/6uwADV",
-          "raw_url": "https://readmoo.com/book/210500006000101"
+          "count": 3,
+          "url": "https://moo.im/a/6uwADV"
         },
         "goodreads": {
           "score": 4.13,
-          "count": 11136,
+          "count": 11164,
           "url": "https://www.goodreads.com/book/show/49183690-ink-sigil?from_search=true&from_srp=true&qid=Pb4pTMNC1P&rank=2",
           "note": "re-fetch",
           "amazon_url": "",
@@ -154,75 +50,123 @@
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 3506,
+          "count": 3517,
           "url": "https://www.amazon.com/-/zh_TW/Kevin-Hearne-ebook/dp/B0826Z14P8/ref=sr_1_1"
         }
       },
-      "avg_score": 4.23,
-      "listed_at": "2026-09-17"
+      "avg_score": 4.24
     },
     {
-      "title": "工作大重組",
-      "author": "萊恩‧羅斯蘭斯基、阿尼許‧拉曼",
-      "original_title": "OPEN TO WORK: How to Get ahead in the Age of AI",
-      "original_author": "Ryan Roslansky",
-      "isbn": "9786267916360",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/linkedin-ai",
-      "kobo_price": "NT$375",
-      "cover_url": "covers/linkedin-ai.jpg",
-      "sale_price": "NT$319",
+      "title": "為什麼大腦需要交朋友",
+      "author": "雷恩",
+      "original_title": "Why Brains Need Friends: The Neuroscience of Social Connection",
+      "original_author": "Ben Rein",
+      "isbn": "9786264701471",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/iFxOs4b1wT-PbG3t9CH5Zg?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebooks_10072026",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/iFxOs4b1wT-PbG3t9CH5Zg.jpg",
+      "sale_price": "NT$287",
       "price_source": "readmoo_orig",
-      "sale_end": "9/23",
-      "description": "全球最大職場平台LinkedIn畫出AI時代的工作轉型地圖。即使你沒有換工作，你的工作也已經改變！未來真正拉開差距的，是自我進化的速度。本書將帶領你重新拆解工作、升級能力，打造AI時代新競爭優勢。 《工作大重組》 由 萊恩‧羅斯蘭斯基, 阿尼許‧拉曼＠著 出版社： 天下雜誌",
-      "publish_date": "2026年9月9日",
-      "last_updated": "2026-09-17T12:37:38.071826+08:00",
+      "sale_end": "10/7",
+      "description": "「唯一會感到孤獨的器官」實用指南，告訴你如何滋養大腦。本書先從社交行為的角度書寫，瞭解社會互動的全貌，再以神經科學為後盾做出解釋。當我們能夠將行為與腦內分子連結時，我們的知識深度就會超越表面。 《為什麼大腦需要交朋友》 由 雷恩@著 出版社： 平安文化 查看電子書",
+      "publish_date": "2026年9月24日",
+      "last_updated": "2026-10-01T17:01:24.871111+08:00",
+      "listed_at": "2026-10-01",
       "genre_tags": [
-        "企業與金融",
-        "生涯規劃與求職",
-        "職業",
         "非小說",
-        "健康與幸福",
-        "自助",
-        "自我改善",
-        "成功",
-        "企業與金融",
-        "生涯規劃與求職"
+        "科學與自然",
+        "科學",
+        "非小說",
+        "家庭與關係"
       ],
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/linkedin-ai"
+          "url": "https://www.kobo.com/tw/zh/ebook/iFxOs4b1wT-PbG3t9CH5Zg?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebooks_10072026"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050354420?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357536?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/8fBJTU",
-          "raw_url": "https://readmoo.com/book/210499682000101"
+          "url": "https://moo.im/a/34fiJX",
+          "raw_url": "https://readmoo.com/book/210502754000101"
         },
         "goodreads": {
-          "score": 3.41,
-          "count": 541,
-          "url": "https://www.goodreads.com/book/show/243013855-open-to-work?from_search=true&from_srp=true&qid=5Lc26bMjlm&rank=1",
+          "score": 3.93,
+          "count": 563,
+          "url": "https://www.goodreads.com/book/show/226744097",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FX519BHF/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DW3QNLMX/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 235,
-          "url": "https://www.amazon.com/gp/product/B0FX519BHF/ref=x_gr_bb_kindle"
+          "count": 91,
+          "url": "https://www.amazon.com/gp/product/B0DW3QNLMX/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/900LYj",
-      "listed_at": "2026-09-10"
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/1l7zQW"
+    },
+    {
+      "title": "駕馭幸運",
+      "author": "賈德．凱斯勒",
+      "original_title": "Lucky by Design: The Hidden Economics You Need to Get More of What You Want",
+      "original_author": "Judd B. Kessler",
+      "isbn": "9786267859650",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/c-xgkZDFPzGn-zgke1sLjw?sId=80aef51e-7ff6-4a43-943e-e0605ca7b663&ssId=VTDMMBU2Zv-6PKMeqNR7x&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebooks_10122026",
+      "kobo_price": "NT$365",
+      "cover_url": "covers/c-xgkZDFPzGn-zgke1sLjw.jpg",
+      "sale_price": "NT$310",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/12",
+      "description": "好運，也可以憑實力？透過經濟學為自己創造機遇，快速實現人際、生活、事業的全方位躍升！同樣是選擇，只選擇最優解的人，成功率必然會比別人高，而助你脫穎而出的關鍵策略，就隱藏在這本書中！ 《駕馭幸運》 由 賈德．凱斯勒@著 出版社： 平安文化 查看電子書 關注我們 在 Instagram 上追蹤我們 在 Facebook 上幫我們按讚 需要聯絡我們？ 顧客查詢和支援 媒體請求 關於 Rakuten Kobo 的一切資訊 關於 Rakuten Kobo 的一切資訊 關於 Rakuten Kobo 關於企業 管理團隊 電子資源回收計畫 免費應用程式 購買電子禮物卡 取得說明 商機 商機",
+      "publish_date": "2026年9月29日",
+      "last_updated": "2026-10-01T17:01:24.871111+08:00",
+      "listed_at": "2026-10-01",
+      "genre_tags": [
+        "企業與金融"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/c-xgkZDFPzGn-zgke1sLjw?sId=80aef51e-7ff6-4a43-943e-e0605ca7b663&ssId=VTDMMBU2Zv-6PKMeqNR7x&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebooks_10122026"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357219?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/7nFHMN",
+          "raw_url": "https://readmoo.com/book/210501985000101"
+        },
+        "goodreads": {
+          "score": 3.55,
+          "count": 156,
+          "url": "https://www.goodreads.com/book/show/225819751",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DVSNM119/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 83,
+          "url": "https://www.amazon.com/gp/product/B0DVSNM119/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.13,
+      "short_affiliate_url": "https://reurl.cc/LeLD1K"
     }
   ]
 }
