@@ -1,257 +1,7 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-10-01T17:20:17.618742+08:00",
+  "updated_at": "2026-10-06T17:51:08.890247+08:00",
   "books": [
-    {
-      "title": "駕馭機運的長贏思維",
-      "author": "史畢羅斯．馬克里達奇、羅賓．霍格思、阿尼爾．加巴",
-      "original_title": "Dance with Chance : Making Luck Work for You",
-      "original_author": null,
-      "isbn": "9786267624364",
-      "cover_url": "https://cdn.readmoo.com/cover/a5/a48died_460x580.jpg?v=1758505570",
-      "publish_date": "2025/09/26",
-      "date": "10/1",
-      "readmoo_url": "https://readmoo.com/book/210411283000101",
-      "daily_price": 99,
-      "daily_price_reg": 364,
-      "daily_discount_label": "19折",
-      "description": "◤不努力，才能大成功？擁抱不確定性，打破複製成功迷思的人生攻略◢\n「機會是給準備好的人」「命運掌握在自己手中」。",
-      "last_updated": "2026-10-01T17:20:17.618742+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 4,
-          "url": "https://moo.im/a/abkmnX",
-          "raw_url": "https://readmoo.com/book/210411283000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "一九八四",
-      "author": "喬治．歐威爾",
-      "original_title": "",
-      "original_author": "George Orwell",
-      "isbn": "9789573270126",
-      "cover_url": "https://cdn.readmoo.com/cover/8f/ce4el63_460x580.jpg?v=1717749558",
-      "publish_date": "2012/09/01",
-      "date": "10/2",
-      "readmoo_url": "https://readmoo.com/book/210060450000101",
-      "daily_price": 99,
-      "daily_price_reg": 210,
-      "daily_discount_label": "",
-      "description": "945年，歐威爾的《動物農莊》在連續遭到五家出版社拒絕後，終於問世了，立即爆紅成為暢銷書，一輩子幾乎都在過窮苦日子的歐威爾，靠著這本書的版稅，買下了某個偏遠小島的房子，並且在那裡寫出了他更為重要的作品《1984》。在二十世紀許多重要的文學作品，《一九八四》是難得一見的傑作，因為書中對未來的悲觀假想，隨著時代變得愈來愈真實，也愈來愈讓人無法忘懷。",
-      "last_updated": "2026-10-01T17:20:17.618742+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 130,
-          "url": "https://moo.im/a/9gkKMO",
-          "raw_url": "https://readmoo.com/book/210060450000101"
-        },
-        "goodreads": {
-          "score": 4.21,
-          "count": 5780524,
-          "url": "https://www.goodreads.com/book/isbn/9789573270126",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B07J5VG4YD/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 214,
-          "url": "https://www.amazon.com/gp/product/B07J5VG4YD/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.32,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "在家也能做的韓系麵包",
-      "author": "金鎭浩",
-      "original_title": "집에서 운영하는 작은 빵집",
-      "original_author": null,
-      "isbn": "9786267406694",
-      "cover_url": "https://cdn.readmoo.com/cover/79/6118hdg_460x580.jpg?v=1724639536",
-      "publish_date": "2024/06/12",
-      "date": "10/3",
-      "readmoo_url": "https://readmoo.com/book/210345537000101",
-      "daily_price": 99,
-      "daily_price_reg": 537,
-      "daily_discount_label": "",
-      "description": "＼100%韓式烘焙專書，初登場！／\n韓國熱賣，一上市即火速再刷！",
-      "last_updated": "2026-10-01T17:20:17.618742+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/huzCQY",
-          "raw_url": "https://readmoo.com/book/210345537000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": null,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "地球盡頭的溫室",
-      "author": "金草葉",
-      "original_title": "지구 끝의 온실",
-      "original_author": "김초엽",
-      "isbn": "9789864896677",
-      "cover_url": "https://cdn.readmoo.com/cover/fg/l7knmjd_460x580.jpg?v=1660037655",
-      "publish_date": "2022/08/01",
-      "date": "10/4",
-      "readmoo_url": "https://readmoo.com/book/210240167000101",
-      "daily_price": 99,
-      "daily_price_reg": 315,
-      "daily_discount_label": "",
-      "description": "韓國所有讀者都在談論她，媒體冠以「金草葉現象」的熱潮\n出版後旋即席捲各大排行榜的現象級小說，熱銷超過12萬冊\n2021年韓國最大網路書店YES24「年度書籍」\n2021年阿拉丁網路書店「韓國文學之顏」Top1\n2021年阿拉丁網路書店「年度作家」Top1\n2021年阿拉丁網路書店「年度書籍 」TOP 10\n2021年教保文庫書店「50位小說家選出的年度小說」Top5",
-      "last_updated": "2026-10-01T17:20:17.618742+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050138949?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 141,
-          "url": "https://moo.im/a/9ovwzE",
-          "raw_url": "https://readmoo.com/book/210240167000101"
-        },
-        "goodreads": {
-          "score": 3.96,
-          "count": 469,
-          "url": "https://www.goodreads.com/book/show/59250709",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D1QMC774/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.22,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "巨人的筆記【隨書附「摘要生活大小事」記錄別冊】",
-      "author": "金翼漢",
-      "original_title": "거인의 노트: 인생에서 무엇을 보고 어떻게 기록할 것인가",
-      "original_author": "김익한",
-      "isbn": "9789861757926",
-      "cover_url": "https://cdn.readmoo.com/cover/pr/kqvfuhm_460x580.jpg?v=1721014822",
-      "publish_date": "2024/05/01",
-      "date": "10/5",
-      "readmoo_url": "https://readmoo.com/book/210326687000101",
-      "daily_price": 99,
-      "daily_price_reg": 266,
-      "daily_discount_label": "",
-      "description": "聰明輸入，化為行動力產出，\n今天寫下的那一行，可能喚醒你內心深處尚未被發現的潛力！記錄，讓本書作者在迷惘中找到人生前行的方向，\n也讓他只花六年半就拿到一般人花十年才能取得的博士學位，並當上教授。",
-      "last_updated": "2026-10-01T17:20:17.618742+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 84,
-          "url": "https://moo.im/a/cfqGVW",
-          "raw_url": "https://readmoo.com/book/210326687000101"
-        },
-        "goodreads": {
-          "score": 4.04,
-          "count": 27,
-          "url": "https://www.goodreads.com/book/isbn/9789861757926",
-          "note": "isbn",
-          "amazon_url": "https://www.amazon.com/gp/product/9861757929/ref=x_gr_bb_amazon",
-          "confidence": 50,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.24,
-      "short_affiliate_url": ""
-    },
     {
       "title": "霸凌真相，可能跟你想的不一樣",
       "author": "羅丰苓",
@@ -264,9 +14,9 @@
       "readmoo_url": "https://readmoo.com/book/210350371000101",
       "daily_price": 149,
       "daily_price_reg": 284,
-      "daily_discount_label": "",
+      "daily_discount_label": "41折",
       "description": "由於學校的獨特環境，幾乎可以說「有學校就有霸凌的存在」。然而，霸凌的真相複雜，根植許多層面，包括個人、家庭、學校、文化等，「懲罰霸凌者」往往不能達到根本的效果。",
-      "last_updated": "2026-10-01T17:20:17.618742+08:00",
+      "last_updated": "2026-10-06T17:51:08.890247+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -288,9 +38,9 @@
           "score": 3.0,
           "count": 1,
           "url": "https://www.goodreads.com/book/show/223886987",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0DTSYLFD6/ref=x_gr_bb_amazon",
-          "confidence": 30,
+          "confidence": 60,
           "cross_validated": null
         },
         "amazon_com": {
@@ -316,7 +66,7 @@
       "daily_price_reg": 266,
       "daily_discount_label": "",
       "description": "全球暢銷名著《最後14堂星期二的課》作者米奇‧艾爾邦的最新著作。二次大戰期間，一個從不說謊的小男孩，卻因誠實和善良的本性被利用，於是他墜入黑洞般的絕望中，用餘生彌補心中的罪惡感。",
-      "last_updated": "2026-10-01T17:20:17.618742+08:00",
+      "last_updated": "2026-10-06T17:51:08.890247+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -330,26 +80,271 @@
         },
         "readmoo": {
           "score": 4.6,
-          "count": 12,
+          "count": 13,
           "url": "https://moo.im/a/03zGJS",
           "raw_url": "https://readmoo.com/book/210363507000101"
         },
         "goodreads": {
           "score": 4.55,
-          "count": 114287,
+          "count": 114519,
           "url": "https://www.goodreads.com/book/show/112975105",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BTYWWBM6/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.7,
-          "count": 19671,
+          "count": 19688,
           "url": "https://www.amazon.com/gp/product/B0BTYWWBM6/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.36,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "死亡中心",
+      "author": "希亞．里波斯基、湯姆．沙契曼",
+      "original_title": "Dead Center : Behind the Scenes at the World's Largest Medical Examiner's Office",
+      "original_author": "Shiya Ribowsky; Tom Shachtman",
+      "isbn": "9786267643297",
+      "cover_url": "https://cdn.readmoo.com/cover/od/irjrthk_460x580.jpg?v=1750916889",
+      "publish_date": "2025/06/27",
+      "date": "10/8",
+      "readmoo_url": "https://readmoo.com/book/210395693000101",
+      "daily_price": 99,
+      "daily_price_reg": 294,
+      "daily_discount_label": "",
+      "description": "體虱蛆蟲蠕湧，屍水腐臭濃烈，真相卻只能從中掏出……\n人間煉獄！兩萬人殘骸散落的辨識拼湊\n死透殭屍突然挺立，更會呻吟的命案怪譚\n揭祕全世界最大法醫辦公室的鑑識檔案，直擊兇案現場的真實與離奇！",
+      "last_updated": "2026-10-06T17:51:08.890247+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 11,
+          "url": "https://readmoo.com/book/210395693000101"
+        },
+        "goodreads": {
+          "score": 4.04,
+          "count": 1545,
+          "url": "https://www.goodreads.com/book/show/716799",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "迷霧之子首部曲：最後帝國",
+      "author": "布蘭登．山德森",
+      "original_title": "Mistborn: The Final Empire",
+      "original_author": "Brandon Sanderson",
+      "isbn": "9789866712982",
+      "cover_url": "https://cdn.readmoo.com/cover/ci/kbfcjh9_460x580.jpg?v=1587041770",
+      "publish_date": "2010/01/28",
+      "date": "10/9",
+      "readmoo_url": "https://readmoo.com/book/210024309000101",
+      "daily_price": 99,
+      "daily_price_reg": 267,
+      "daily_discount_label": "",
+      "description": "美國最大邦諾連鎖書店頭號選書作者、西班牙UPC科幻大獎得主\n2005年甫出道即獲《浪漫時代 Romantic Times》奇幻史詩大獎\n2006、2007年入選美國科奇幻地位最高約翰．坎伯新人獎\n超級天才新星作家──布蘭登．山德森全新華麗鉅作\n架構壯閣媲美「冰與火之歌」，精采絕妙更勝「夜巡者」",
+      "last_updated": "2026-10-06T17:51:08.890247+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 683,
+          "url": "https://readmoo.com/book/210024309000101"
+        },
+        "goodreads": {
+          "score": 4.48,
+          "count": 1088811,
+          "url": "https://www.goodreads.com/book/show/68428",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 60847,
+          "url": "https://www.amazon.com/Mistborn-Final-Empire-Brandon-Sanderson-ebook/dp/B002GYI9C4/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.45,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "站在自然巨人的肩膀",
+      "author": "安．史韋卓普-泰格松",
+      "original_title": "På Naturens Skuldre : hvordan ti millioner arter redder livet ditt",
+      "original_author": "Anne Sverdrup-Thygeson",
+      "isbn": "9789864895441",
+      "cover_url": "https://cdn.readmoo.com/cover/jh/foclrmj_460x580.jpg?v=1640252717",
+      "publish_date": "2021/12/22",
+      "date": "10/10",
+      "readmoo_url": "https://readmoo.com/book/210210987000101",
+      "daily_price": 99,
+      "daily_price_reg": 336,
+      "daily_discount_label": "",
+      "description": "【本書特色】\n作者安．史韋卓普-泰格松為挪威昆蟲生態學權威，亦致力於推廣科普教育\n本書收集許多近年最新的科學研究報告\n內容深入簡出，筆觸幽默詼諧，故事引人入勝\n林試所副研究員汪澤宏審訂\n【本書內容】\n荒涼貧脊的冰島\n有個關於冰島森林的笑話，很短，但切中要害：「怎麼找到離開冰島森林的路？站起來就好了。",
+      "last_updated": "2026-10-06T17:51:08.890247+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 6,
+          "url": "https://readmoo.com/book/210210987000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/%E7%AB%99%E5%9C%A8%E8%87%AA%E7%84%B6%E5%B7%A8%E4%BA%BA%E7%9A%84%E8%82%A9%E8%86%80%EF%BC%9A%E7%9C%8B%E8%87%AA%E7%84%B6%E5%A6%82%E4%BD%95%E5%B0%87%E6%88%91%E5%80%91%E9%AB%98%E9%AB%98%E8%88%89%E8%B5%B7%EF%BC%8C%E6%94%AF%E6%92%90%E8%90%AC%E7%89%A9%E7%94%9F%E6%81%AF-Traditional-Chinese-%E5%AE%89%EF%BC%8E%E5%8F%B2%E9%9F%8B%E5%8D%93%E6%99%AE-%E6%B3%B0%E6%A0%BC%E6%9D%BE-Sverdrup-Thygeson-ebook/dp/B0DP4641DS/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "地獄反轉（上下冊套書）",
+      "author": "莉．巴度格",
+      "original_title": "Hell Bent",
+      "original_author": "Leigh Bardugo",
+      "isbn": null,
+      "cover_url": "https://cdn.readmoo.com/cover/78/2f57h6c_460x580.jpg?v=1720432615",
+      "publish_date": "2024/07/10",
+      "date": "10/11",
+      "readmoo_url": "https://readmoo.com/book/210337393000101",
+      "daily_price": 450,
+      "daily_price_reg": 711,
+      "daily_discount_label": "",
+      "description": "亞馬遜即將開拍影集，暢銷奇幻作家莉・巴度格，\n獻上【祕密社團✕禁忌魔法✕黑暗謀殺】《幽靈社團》精彩續集！「這才是魔法的真面目──卑劣、墮落、變態。",
+      "last_updated": "2026-10-06T17:51:08.890247+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210337393000101"
+        },
+        "goodreads": {
+          "score": 4.1,
+          "count": 196219,
+          "url": "https://www.goodreads.com/book/show/60652997",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.21,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "大好人圖鑑",
+      "author": "明円卓、佐佐木日菜、真子千繪美",
+      "original_title": "いい人すぎるよ図鑑",
+      "original_author": null,
+      "isbn": "9789861758183",
+      "cover_url": "https://cdn.readmoo.com/cover/cl/ha86jlg_460x580.jpg?v=1730257187",
+      "publish_date": "2024/11/01",
+      "date": "10/12",
+      "readmoo_url": "https://readmoo.com/book/210355157000101",
+      "daily_price": 99,
+      "daily_price_reg": 203,
+      "daily_discount_label": "",
+      "description": "那人怎麼可以這麼暖！咦？",
+      "last_updated": "2026-10-06T17:51:08.890247+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 25,
+          "url": "https://readmoo.com/book/210355157000101"
+        },
+        "goodreads": {
+          "score": 4.4,
+          "count": 5,
+          "url": "https://www.goodreads.com/book/show/203959420",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CQJK4ZPW/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 35,
+          "url": "https://www.amazon.com/gp/product/B0CQJK4ZPW/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.21,
       "short_affiliate_url": ""
     }
   ]
