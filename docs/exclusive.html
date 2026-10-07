@@ -739,7 +739,9 @@ function render() {
     const ratingsHtml = Object.keys(SRC_META)
       .filter(k => {
         if (!window._themeDateDriven) return true;
-        if (isBooksDailyTheme) return k !== 'kobo' && k !== 'readmoo';
+        // 2026-10-07（使用者要求「除Kobo外各平台都附」）：博客來每日e書99
+        // 補上讀墨評分列，只剩Kobo隱藏
+        if (isBooksDailyTheme) return k !== 'kobo';
         if (k === 'kobo') return false;
         if (k === 'books_com') return !!(r.books_com && (r.books_com.score != null || r.books_com.url));
         return true;

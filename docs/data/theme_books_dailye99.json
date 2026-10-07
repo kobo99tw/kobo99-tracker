@@ -31,7 +31,9 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://moo.im/a/4censJ",
+          "price_reg": 315,
+          "raw_url": "https://readmoo.com/book/210345499000101"
         },
         "goodreads": {
           "score": null,
@@ -78,9 +80,11 @@
           "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050070388?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.6,
+          "count": 5,
+          "url": "https://moo.im/a/klAJSW",
+          "price_reg": 335,
+          "raw_url": "https://readmoo.com/book/210149568000101"
         },
         "goodreads": {
           "score": 3.86,
@@ -97,7 +101,7 @@
           "url": "https://www.amazon.com/-/zh_TW/Rouge-Noir-Stendhal/dp/2072908949/ref=sr_1_4"
         }
       },
-      "avg_score": 4.16,
+      "avg_score": 4.14,
       "short_affiliate_url": ""
     },
     {
@@ -127,9 +131,11 @@
           "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050154414?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.6,
+          "count": 542,
+          "url": "https://moo.im/a/236frQ",
+          "price_reg": 320,
+          "raw_url": "https://readmoo.com/book/210267191000101"
         },
         "goodreads": {
           "score": 3.87,
@@ -146,7 +152,7 @@
           "url": "https://www.amazon.com/-/zh_TW/Anna-Lembke-MD-ebook/dp/B08KPKHVXQ/ref=sr_1_1"
         }
       },
-      "avg_score": 4.13,
+      "avg_score": 4.19,
       "short_affiliate_url": ""
     },
     {
@@ -178,7 +184,9 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://moo.im/a/jmAFIJ",
+          "price_reg": 385,
+          "raw_url": "https://readmoo.com/book/210488946000101"
         },
         "goodreads": {
           "score": null,
@@ -225,9 +233,11 @@
           "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050210493?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.2,
+          "count": 22,
+          "url": "https://moo.im/a/bdvxNP",
+          "price_reg": 378,
+          "raw_url": "https://readmoo.com/book/210322693000101"
         },
         "goodreads": {
           "score": 3.9,
@@ -244,7 +254,7 @@
           "url": "https://www.amazon.com/gp/product/B0BTZT9CXV/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.21,
+      "avg_score": 4.19,
       "short_affiliate_url": ""
     }
   ]
