@@ -1,61 +1,7 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-10-01T17:01:24.871111+08:00",
+  "updated_at": "2026-10-08T11:45:30.828785+08:00",
   "books": [
-    {
-      "title": "墨水與符印1 詛咒與祝福",
-      "author": "凱文．赫恩",
-      "original_title": "Ink & Sigil",
-      "original_author": "Kevin Hearne",
-      "isbn": "9786263843400",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WddqZ6Nu6Da9HBLgC_dahg?sId=21313130-5e65-40bc-b02b-d3fe1f51e5d1&ssId=_z05V2Zfm2W0doSPYkYDz&cPos=1&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20260930",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/WddqZ6Nu6Da9HBLgC_dahg.jpg",
-      "sale_price": "NT$265",
-      "price_source": "",
-      "sale_end": "9/30",
-      "description": "在符印師的巧手中，紙與墨與筆成就了奇異魔咒。作者凱文．赫恩的全新系列，結合奇幻、懸疑推理與機智幽默，帶領讀者跟著屆齡卻退不了休的主角，走進一個以墨水施展魔法、以符印約束神明與怪物的世界！ 《墨水與符印1 詛咒與祝福》 由 凱文．赫恩@著 出版社： 蓋亞文化 查看電子書",
-      "publish_date": "2026年9月16日",
-      "last_updated": "2026-10-01T17:01:24.871111+08:00",
-      "listed_at": "2026-09-17",
-      "short_affiliate_url": "https://reurl.cc/6XXYqV",
-      "genre_tags": [
-        "科幻小說與奇幻小說",
-        "幻想"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/WddqZ6Nu6Da9HBLgC_dahg?sId=21313130-5e65-40bc-b02b-d3fe1f51e5d1&ssId=_z05V2Zfm2W0doSPYkYDz&cPos=1&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20260930"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050356236?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://moo.im/a/6uwADV"
-        },
-        "goodreads": {
-          "score": 4.13,
-          "count": 11164,
-          "url": "https://www.goodreads.com/book/show/49183690-ink-sigil?from_search=true&from_srp=true&qid=Pb4pTMNC1P&rank=2",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 3517,
-          "url": "https://www.amazon.com/-/zh_TW/Kevin-Hearne-ebook/dp/B0826Z14P8/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.24
-    },
     {
       "title": "為什麼大腦需要交朋友",
       "author": "雷恩",
@@ -68,16 +14,17 @@
       "sale_price": "NT$287",
       "price_source": "readmoo_orig",
       "sale_end": "10/7",
-      "description": "「唯一會感到孤獨的器官」實用指南，告訴你如何滋養大腦。本書先從社交行為的角度書寫，瞭解社會互動的全貌，再以神經科學為後盾做出解釋。當我們能夠將行為與腦內分子連結時，我們的知識深度就會超越表面。 《為什麼大腦需要交朋友》 由 雷恩@著 出版社： 平安文化 查看電子書",
+      "description": "「唯一會感到孤獨的器官」實用指南，告訴你如何滋養大腦。本書先從社交行為的角度書寫，瞭解社會互動的全貌，再以神經科學為後盾做出解釋。當我們能夠將行為與腦內分子連結時，我們的知識深度就會超越表面。 《為什麼大腦需要交朋友》 由 雷恩@著 出版社： 天下文化 查看電子書",
       "publish_date": "2026年9月24日",
-      "last_updated": "2026-10-01T17:01:24.871111+08:00",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
       "listed_at": "2026-10-01",
+      "short_affiliate_url": "https://reurl.cc/1l7zQW",
       "genre_tags": [
         "非小說",
-        "科學與自然",
-        "科學",
+        "家庭與關係",
         "非小說",
-        "家庭與關係"
+        "科學與自然",
+        "科學"
       ],
       "ratings": {
         "kobo": {
@@ -91,28 +38,26 @@
           "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357536?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/34fiJX",
-          "raw_url": "https://readmoo.com/book/210502754000101"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/34fiJX"
         },
         "goodreads": {
-          "score": 3.93,
-          "count": 563,
+          "score": 3.92,
+          "count": 566,
           "url": "https://www.goodreads.com/book/show/226744097",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0DW3QNLMX/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 91,
+          "count": 93,
           "url": "https://www.amazon.com/gp/product/B0DW3QNLMX/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.16,
-      "short_affiliate_url": "https://reurl.cc/1l7zQW"
+      "avg_score": 4.13
     },
     {
       "title": "駕馭幸運",
@@ -126,10 +71,11 @@
       "sale_price": "NT$310",
       "price_source": "readmoo_orig",
       "sale_end": "10/12",
-      "description": "好運，也可以憑實力？透過經濟學為自己創造機遇，快速實現人際、生活、事業的全方位躍升！同樣是選擇，只選擇最優解的人，成功率必然會比別人高，而助你脫穎而出的關鍵策略，就隱藏在這本書中！ 《駕馭幸運》 由 賈德．凱斯勒@著 出版社： 平安文化 查看電子書 關注我們 在 Instagram 上追蹤我們 在 Facebook 上幫我們按讚 需要聯絡我們？ 顧客查詢和支援 媒體請求 關於 Rakuten Kobo 的一切資訊 關於 Rakuten Kobo 的一切資訊 關於 Rakuten Kobo 關於企業 管理團隊 電子資源回收計畫 免費應用程式 購買電子禮物卡 取得說明 商機 商機",
+      "description": "好運，也可以憑實力？透過經濟學為自己創造機遇，快速實現人際、生活、事業的全方位躍升！同樣是選擇，只選擇最優解的人，成功率必然會比別人高，而助你脫穎而出的關鍵策略，就隱藏在這本書中！ 《駕馭幸運》 由 賈德．凱斯勒@著 出版社： 平安文化 查看電子書",
       "publish_date": "2026年9月29日",
-      "last_updated": "2026-10-01T17:01:24.871111+08:00",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
       "listed_at": "2026-10-01",
+      "short_affiliate_url": "https://reurl.cc/LeLD1K",
       "genre_tags": [
         "企業與金融"
       ],
@@ -147,17 +93,16 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/7nFHMN",
-          "raw_url": "https://readmoo.com/book/210501985000101"
+          "url": "https://moo.im/a/7nFHMN"
         },
         "goodreads": {
           "score": 3.55,
           "count": 156,
           "url": "https://www.goodreads.com/book/show/225819751",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DVSNM119/ref=x_gr_bb_kindle",
+          "note": "re-fetch",
+          "amazon_url": "",
           "confidence": 90,
-          "cross_validated": true
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.6,
@@ -165,8 +110,514 @@
           "url": "https://www.amazon.com/gp/product/B0DVSNM119/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.13,
-      "short_affiliate_url": "https://reurl.cc/LeLD1K"
+      "avg_score": 4.13
+    },
+    {
+      "title": "會溝通的同事有祕密",
+      "author": "艾琳．麥高夫",
+      "original_title": "The Secret Language of Work: Hyper-Helpful Scripts for Every Situation",
+      "original_author": "Erin McGoff",
+      "isbn": "9786264701433",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/T6zo1rG7xzGuYXDmhy_ysg?sId=ee4d8c08-e753-4da7-b6a3-22603e5be522&ssId=UrlUPYoDPT5ePbwIUbvpy&cPos=1&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261013",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/T6zo1rG7xzGuYXDmhy_ysg.jpg",
+      "sale_price": "NT$287",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/13",
+      "description": "別人一開口就是金玉良言，你多講一句馬上出事？其實他們未必比你厲害，差別常常只是一句話的說法。書中每句範例都能直接使用，你不必變成很會交際的人，只要在關鍵時刻說對一句話，事情往往就能推進！ 《會溝通的同事有祕密》 由 艾琳．麥高夫（Erin McGoff）@著 出版社： 天下文化 查看電子書",
+      "publish_date": "2026年9月30日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "企業與金融",
+        "生涯規劃與求職",
+        "求職",
+        "企業與金融",
+        "生涯規劃與求職",
+        "摘要"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/T6zo1rG7xzGuYXDmhy_ysg?sId=ee4d8c08-e753-4da7-b6a3-22603e5be522&ssId=UrlUPYoDPT5ePbwIUbvpy&cPos=1&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261013"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210502227000101"
+        },
+        "goodreads": {
+          "score": 4.27,
+          "count": 549,
+          "url": "https://www.goodreads.com/book/show/236116676",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 175,
+          "url": "https://www.amazon.com/-/zh_TW/Erin-McGoff-ebook/dp/B0FCRG3YG9/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.3,
+      "short_affiliate_url": "https://reurl.cc/eQgn1R"
+    },
+    {
+      "title": "為什麼我們一拍即合",
+      "author": "凱特．墨菲",
+      "original_title": "Why We Click: The Emerging Science of Interpersonal Synchrony",
+      "original_author": "Kate Murphy",
+      "isbn": "9786264332743",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/BAo8EfvMxTePYUAZKW15dw?sId=ee4d8c08-e753-4da7-b6a3-22603e5be522&ssId=UrlUPYoDPT5ePbwIUbvpy&cPos=3&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261014",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/BAo8EfvMxTePYUAZKW15dw.jpg",
+      "sale_price": "NT$268",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/14",
+      "description": "《你都沒在聽》作者最新作品。人合不合拍，不一定是天生註定！本書告訴我們調頻背後的迷人機制，對不到頻道又會對身心造成什麼影響，幫助我們打造人際同步的超能力，兼具有趣的論點與科學實證。 《為什麼我們一拍即合》 由 凱特．墨菲（Kate Murphy）@著 出版社： 大塊文化 查看電子書",
+      "publish_date": "2026年10月1日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "心理學",
+        "社會心理學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/BAo8EfvMxTePYUAZKW15dw?sId=ee4d8c08-e753-4da7-b6a3-22603e5be522&ssId=UrlUPYoDPT5ePbwIUbvpy&cPos=3&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261014"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210500869000101"
+        },
+        "goodreads": {
+          "score": 3.69,
+          "count": 618,
+          "url": "https://www.goodreads.com/book/show/231126819",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F5PBMRWC/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.1,
+          "count": 29,
+          "url": "https://www.amazon.com/gp/product/B0F5PBMRWC/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.08,
+      "short_affiliate_url": "https://reurl.cc/QNgmz0"
+    },
+    {
+      "title": "我不同意你（但我願意聽）",
+      "author": "莎拉．史都華．荷蘭、貝絲．席爾弗斯",
+      "original_title": "I Think You're Wrong (But I'm Listening): A Guide to Grace-Filled Political Conversations",
+      "original_author": null,
+      "isbn": "9786267685945",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DM8RfRwTaDO2tmUMfDN1lg?sId=ee4d8c08-e753-4da7-b6a3-22603e5be522&ssId=UrlUPYoDPT5ePbwIUbvpy&cPos=2&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261015",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/DM8RfRwTaDO2tmUMfDN1lg.jpg",
+      "sale_price": "NT$268",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/15",
+      "description": "在政黨撕裂、對立加劇的時代，我們是否還有好好說話的可能？播客《褲裝政治》主持人莎拉與貝絲，將在本書中抽絲剝繭，帶你審視自身的信念與價值觀。脫下黨派球衣，我們才會發現：原來我們始終站在一起！ 《我不同意你（但我願意聽）》 由 莎拉．史都華．荷蘭、貝絲．席爾弗斯@著 出版社： 奇光出版 查看電子書",
+      "publish_date": "2026年10月1日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "自助",
+        "自我改善"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/DM8RfRwTaDO2tmUMfDN1lg?sId=ee4d8c08-e753-4da7-b6a3-22603e5be522&ssId=UrlUPYoDPT5ePbwIUbvpy&cPos=2&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261015"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210502169000101"
+        },
+        "goodreads": {
+          "score": 4.07,
+          "count": 4844,
+          "url": "https://www.goodreads.com/book/show/40591258",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B07DT3PM3R/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 1249,
+          "url": "https://www.amazon.com/gp/product/B07DT3PM3R/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/MWg9qn"
+    },
+    {
+      "title": "餘燼冥之島（邪惡奇幻天才大神超凡驚豔震撼全球祕密計畫）",
+      "author": "布蘭登．山德森",
+      "original_title": "Isles of the Emberdark",
+      "original_author": "Brandon Sanderson",
+      "isbn": "9786267998014",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/ZOIXi6r6Vk6IiPlXl9x5Hg?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261015",
+      "kobo_price": "NT$639",
+      "cover_url": "covers/ZOIXi6r6Vk6IiPlXl9x5Hg.jpg",
+      "sale_price": "NT$543",
+      "price_source": "kobo",
+      "sale_end": "10/15",
+      "description": "布蘭登．山德森驚豔震撼全球祕密計畫！看似絕不可能交集的兩人，在各自尋求答案的過程中，不停面臨險惡難料的交易、充滿毒害的政爭，以及一位逝去神祇的毀滅性迴響，他們會是彼此命運的最終解方嗎？ 《餘燼冥之島（邪惡奇幻天才大神超凡驚豔震撼全球祕密計畫）》 由 布蘭登．山德森（Brandon Sanderson）@著 出版社： 奇幻基地 查看電子書",
+      "publish_date": "2026年9月29日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "科幻小說與奇幻小說",
+        "幻想"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/ZOIXi6r6Vk6IiPlXl9x5Hg?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261015"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "goodreads": {
+          "score": 4.47,
+          "count": 45421,
+          "url": "https://www.goodreads.com/book/show/210300489",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 7530,
+          "url": "https://www.amazon.com/-/zh_TW/Brandon-Sanderson-ebook/dp/B0DHZYWCN9/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.37,
+      "short_affiliate_url": "https://reurl.cc/RRg8An"
+    },
+    {
+      "title": "存在感",
+      "author": "珍妮佛．華萊士",
+      "original_title": "Mattering: The Secret to a Life of Deep Connection and Purpose",
+      "original_author": "Jennifer Wallace",
+      "isbn": "9786267916384",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xnAOk9kVHjKCEE9q4wbHhQ?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=3&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261016",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/xnAOk9kVHjKCEE9q4wbHhQ.jpg",
+      "sale_price": "NT$287",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/16",
+      "description": "一場關於不再隱形、重新與人連結的溫柔革命。你的倦怠憂鬱、孩子的迷惘疏離，原來有一個共同的根源──我們失去了「存在感」！只要透過書中的引導，就能找回讓心理踏實、人生豐盛的終極力量。 《存在感》 由 珍妮佛．華萊士（Jennifer Wallace）@著 出版社： 天下雜誌 查看電子書",
+      "publish_date": "2026年10月2日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "心理學",
+        "人際關係",
+        "非小說",
+        "健康與幸福",
+        "自助",
+        "心理健康",
+        "快樂",
+        "非小說",
+        "家庭與關係"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/xnAOk9kVHjKCEE9q4wbHhQ?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=3&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261016"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210503726000101"
+        },
+        "goodreads": {
+          "score": 3.9,
+          "count": 3542,
+          "url": "https://www.goodreads.com/book/show/237133672",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FFZY9V8V/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 494,
+          "url": "https://www.amazon.com/gp/product/B0FFZY9V8V/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/90qxMX"
+    },
+    {
+      "title": "深度提問",
+      "author": "安炳珉",
+      "original_title": "질문인간：AI 사용법을 넘어 AI 사고법으로",
+      "original_author": null,
+      "isbn": "9786267916407",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/6-ai?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=4&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261016",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/6-ai.jpg",
+      "sale_price": "NT$287",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/16",
+      "description": "當AI把答案拉到同一個均質，能定義問題的人，才能拉開下一輪競爭差距。為大腦安裝六種深度提問，提煉出不可替代的人類溢價！從被動的「執行者」躍升為發號施令的「指揮家」，捍衛思考主權，創造專屬你的優勢。 《深度提問》 由 安炳珉（안병민）＠著 出版社： 天下雜誌 查看電子書",
+      "publish_date": "2026年10月2日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "企業與金融",
+        "管理與領導",
+        "管理科學",
+        "企業與金融",
+        "生涯規劃與求職",
+        "職業",
+        "企業與金融"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/6-ai?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=4&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261016"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210503724000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/GgvQ7d"
+    },
+    {
+      "title": "割愛",
+      "author": "彼得．史汪森",
+      "original_title": "Kill Your Darlings",
+      "original_author": "Peter Swanson",
+      "isbn": "9789573344797",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wOowqMertTusILwY5C-7lw?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=2&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261018",
+      "kobo_price": "NT$335",
+      "cover_url": "covers/wOowqMertTusILwY5C-7lw.jpg",
+      "sale_price": "NT$285",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/18",
+      "description": "出版前即被搶下好萊塢電影版權！逆時敘事×心理懸疑×殘酷婚姻，每翻過一章，愛恨便重新錯置。以婚姻終局為起點，一路回溯愛的熾烈與消長。明知這段愛終將走向深淵，為何仍忍不住見證他們如何相愛？ 《割愛》 由 彼得．史汪森（Peter Swanson）@著 出版社： 皇冠文化 查看電子書",
+      "publish_date": "2026年10月5日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "小說與文學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/wOowqMertTusILwY5C-7lw?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=2&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261018"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210503722000101"
+        },
+        "goodreads": {
+          "score": 3.3,
+          "count": 15699,
+          "url": "https://www.goodreads.com/book/show/218671812",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DGLL692V/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 3.7,
+          "count": 1465,
+          "url": "https://www.amazon.com/gp/product/B0DGLL692V/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 3.92,
+      "short_affiliate_url": "https://reurl.cc/EYyWkn"
+    },
+    {
+      "title": "聰明人才懂的清晰思考",
+      "author": "奇科．亞內拉斯",
+      "original_title": "Think Clearly: Eight Simple Rules to Succeed in the Data Age",
+      "original_author": "Kiko Llaneras",
+      "isbn": "9786267966204",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VDZ2zHKh0TqZh7N0PAVnvg?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=1&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261020",
+      "kobo_price": "NT$413",
+      "cover_url": "covers/VDZ2zHKh0TqZh7N0PAVnvg.jpg",
+      "sale_price": "NT$339",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/20",
+      "description": "你不是不會思考，只是太相信直覺、太快下結論！懂得運用數據時代的清晰思考8法則，你就是聰明人。真正重要的不是數學背景，而是數據思考力，本書將教你如何避免被直覺、偏誤、偶然性和表面數字所誤導！ 《聰明人才懂的清晰思考》 由 奇科．亞內拉斯（Kiko Llaneras）＠著 出版社： 日出出版 查看電子書",
+      "publish_date": "2026年10月6日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "企業與金融",
+        "生涯規劃與求職"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/VDZ2zHKh0TqZh7N0PAVnvg?sId=8f66c389-7a58-4bc0-b36e-e681ccd7e19a&ssId=tr30RqifedlecL6teU-fm&cPos=1&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261020"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210503533000101"
+        },
+        "goodreads": {
+          "score": 4.11,
+          "count": 448,
+          "url": "https://www.goodreads.com/book/show/223242502",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D2KS1GZD/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 14,
+          "url": "https://www.amazon.com/gp/product/B0D2KS1GZD/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": "https://reurl.cc/Wzgyjk"
+    },
+    {
+      "title": "然而貓還是出去了",
+      "author": "春野宵子",
+      "original_title": "それでも猫は出かけていく",
+      "original_author": null,
+      "isbn": "9786264560993",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/WhTw02uQPUiz181a1Hyk9w?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/WhTw02uQPUiz181a1Hyk9w.jpg",
+      "sale_price": "NT$226",
+      "price_source": "readmoo_orig",
+      "sale_end": "10/31",
+      "description": "春野宵子在父母年邁後擔負起長照的工作，照顧老病雙親之餘，也照顧家裡和街坊的傷貓，甚至自己後來也罹癌踏上治療與康復之路。吉本家和貓咪共度的疾病與生死日常，既令人心疼又充滿生命力，讓人忍不住跟著歡笑和落淚！ 《然而貓還是出去了》 由 春野宵子＠著 出版社： 麥田出版 查看電子書 關注我們 在 Instagram 上追蹤我們 在 Facebook 上幫我們按讚 需要聯絡我們？ 顧客查詢和支援 媒體請求 關於 Rakuten Kobo 的一切資訊 關於 Rakuten Kobo 的一切資訊 關於 Rakuten Kobo 關於企業 管理團隊 電子資源回收計畫 免費應用程式 購買電子禮物卡 取得說明",
+      "publish_date": "2026年9月29日",
+      "last_updated": "2026-10-08T11:45:30.828785+08:00",
+      "listed_at": "2026-10-08",
+      "genre_tags": [
+        "小說與文學",
+        "文學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/Title/WhTw02uQPUiz181a1Hyk9w?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://readmoo.com/book/210502525000101"
+        },
+        "goodreads": {
+          "score": 3.67,
+          "count": 3,
+          "url": "https://www.goodreads.com/book/show/28012747",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B00MG9UEPY/ref=x_gr_bb_amazon",
+          "confidence": 45,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 120,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4344427033/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/NOgn3q"
     }
   ]
 }

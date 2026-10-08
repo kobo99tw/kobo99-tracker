@@ -7,89 +7,88 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:《有錢人和你不一樣的致富紀律：改變數百萬人的
- 理財7步驟，從累積第一桶金到提早退休，沒有高薪和富
- 爸爸也可以財富自由》
-DESCRIPTION:特價 NT$99｜原價 NT$252｜4.1分\nhttps://reurl.cc/3ypb90\
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:《美學修煉：看見不一樣的世界，美學博士CEO教你
+ 打開視角拓展審美力》
+DESCRIPTION:特價 NT$99｜原價 NT$294｜4.2分\nhttps://reurl.cc/Z8gE5W\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/3ypb90
-UID:kobo99-2026-w40-01@kobo99-tracker
-DTSTAMP:20261001T153134Z
+URL:https://reurl.cc/Z8gE5W
+UID:kobo99-2026-w41-01@kobo99-tracker
+DTSTAMP:20261008T034331Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:《嵌入式金融大衝擊！：從Google、Apple，到IKEA、賓
- 士，科技巨擘與零售龍頭都爭先布局的創新金融版圖》
-DESCRIPTION:特價 NT$99｜原價 NT$270｜4.1分\nhttps://reurl.cc/eQ7VAj\
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:《AI時代的現金戰爭：通膨、銀行倒閉、金融詐騙
+ ……當金錢只剩一組數字，如何在「無現金社會」保護
+ 自己的雲端財富？》
+DESCRIPTION:特價 NT$99｜原價 NT$350｜4.1分\nhttps://reurl.cc/YmbGr0\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/eQ7VAj
-UID:kobo99-2026-w40-02@kobo99-tracker
-DTSTAMP:20261001T153134Z
+URL:https://reurl.cc/YmbGr0
+UID:kobo99-2026-w41-02@kobo99-tracker
+DTSTAMP:20261008T034331Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:《町人美学》
-DESCRIPTION:特價 NT$99｜原價 NT$564\nhttps://reurl.cc/QNGVgp\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/QNGVgp
-UID:kobo99-2026-w40-03@kobo99-tracker
-DTSTAMP:20261001T153134Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:《鎳克爾男孩》
-DESCRIPTION:特價 NT$99｜原價 NT$294｜4.2分\nhttps://reurl.cc/MWLMgv\
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:《人类的第一步：直立行走如何塑造人类》
+DESCRIPTION:特價 NT$99｜原價 NT$235｜4.3分\nhttps://reurl.cc/5XQVyv\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/MWLMgv
-UID:kobo99-2026-w40-04@kobo99-tracker
-DTSTAMP:20261001T153134Z
+URL:https://reurl.cc/5XQVyv
+UID:kobo99-2026-w41-03@kobo99-tracker
+DTSTAMP:20261008T034331Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:《狄波諾思考力實踐手冊：讓思考成為第二天性，
- 「六頂思考帽」創意大師經典11講》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.1分\nhttps://reurl.cc/qa4K2g\
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:《香水【出版40週年紀念版】：此生必讀的氣味文
+ 學經典》
+DESCRIPTION:特價 NT$99｜原價 NT$295｜4.1分\nhttps://reurl.cc/dOg9jy\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/qa4K2g
-UID:kobo99-2026-w40-05@kobo99-tracker
-DTSTAMP:20261001T153134Z
+URL:https://reurl.cc/dOg9jy
+UID:kobo99-2026-w41-04@kobo99-tracker
+DTSTAMP:20261008T034331Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:《細說金瓶梅：精解三個女人的成人世界，看透情
- 色底下的人世潛規則》
-DESCRIPTION:特價 NT$99｜原價 NT$525\nhttps://reurl.cc/90LbqO\n查看
- 當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/90LbqO
-UID:kobo99-2026-w40-06@kobo99-tracker
-DTSTAMP:20261001T153134Z
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:《用地理看歷史：春秋五霸，誰能獨大？》
-DESCRIPTION:特價 NT$99｜原價 NT$476｜4.2分\nhttps://reurl.cc/nx4l21\
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:《德國一流大學教你數學家的22個思考工具》
+DESCRIPTION:特價 NT$99｜原價 NT$280｜4.2分\nhttps://reurl.cc/27eNk6\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/nx4l21
-UID:kobo99-2026-w40-07@kobo99-tracker
-DTSTAMP:20261001T153134Z
+URL:https://reurl.cc/27eNk6
+UID:kobo99-2026-w41-05@kobo99-tracker
+DTSTAMP:20261008T034331Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:《怪咖心理學之鍛鍊正能量思維，用科學方法讓好
- 事成真》
-DESCRIPTION:特價 NT$99｜原價 NT$294｜3.8分\nhttps://reurl.cc/zO4KLN\
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:《不動用武器的戰爭：資源、貿易、數據，交織全
+ 球經濟大戰略》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜4.1分\nhttps://reurl.cc/AXape3\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/zO4KLN
-UID:kobo99-2026-w40-08@kobo99-tracker
-DTSTAMP:20261001T153134Z
+URL:https://reurl.cc/AXape3
+UID:kobo99-2026-w41-06@kobo99-tracker
+DTSTAMP:20261008T034331Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:《最好的夏天：德國獨立書商最愛的年度小說！》
+DESCRIPTION:特價 NT$99｜原價 NT$364｜4.1分\nhttps://reurl.cc/6XM93b\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/6XM93b
+UID:kobo99-2026-w41-07@kobo99-tracker
+DTSTAMP:20261008T034331Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:《當富豪遇上僧侶：一個逆轉人生的真實故事》
+DESCRIPTION:特價 NT$99｜原價 NT$284｜4.3分\nhttps://reurl.cc/1lEMa8\
+ n查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/1lEMa8
+UID:kobo99-2026-w41-08@kobo99-tracker
+DTSTAMP:20261008T034331Z
 END:VEVENT
 END:VCALENDAR
