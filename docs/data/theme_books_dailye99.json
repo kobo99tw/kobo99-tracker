@@ -1,160 +1,7 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-10-06T16:54:09.795149+08:00",
+  "updated_at": "2026-10-09T03:01:51.381018+08:00",
   "books": [
-    {
-      "title": "一本終結！關節痛養護大全：從預防、解痛到修復，自己的關節自己顧",
-      "author": "清水伸一",
-      "original_title": "手術になる前に知りたい 自力でできる！究極の「関節痛」痛みとり大全",
-      "original_author": null,
-      "isbn": "9789864596126",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/023/20/E050232037.jpg&v=66c580a7k&w=1146&h=600",
-      "publish_date": "2024/08/29",
-      "date_start": "10/6",
-      "date_end": "10/6",
-      "date_label": "10/6(二)",
-      "product_url": "https://www.books.com.tw/products/E050232037",
-      "daily_price": 99,
-      "daily_price_reg": 420,
-      "last_updated": "2026-10-06T16:54:09.795149+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050232037?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/4censJ",
-          "price_reg": 315,
-          "raw_url": "https://readmoo.com/book/210345499000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 3.5,
-          "count": 26,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0761NYP2K/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.11,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "紅與黑（法文全譯本）",
-      "author": "斯湯達爾",
-      "original_title": "Le Rouge et le Noir",
-      "original_author": "Stendhal",
-      "isbn": "9789864778669",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/007/03/E050070388.jpg&v=5efe9558k&w=1146&h=600",
-      "publish_date": "2020/06/30",
-      "date_start": "10/10",
-      "date_end": "10/12",
-      "date_label": "10/10(六)-10/12(一)",
-      "product_url": "https://www.books.com.tw/products/E050070388",
-      "daily_price": 66,
-      "daily_price_reg": 480,
-      "last_updated": "2026-10-06T16:54:09.795149+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050070388?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 5,
-          "url": "https://moo.im/a/klAJSW",
-          "price_reg": 335,
-          "raw_url": "https://readmoo.com/book/210149568000101"
-        },
-        "goodreads": {
-          "score": 3.86,
-          "count": 87619,
-          "url": "https://www.goodreads.com/book/show/17700685",
-          "note": "title+author",
-          "amazon_url": "",
-          "confidence": 75,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 63,
-          "url": "https://www.amazon.com/-/zh_TW/Rouge-Noir-Stendhal/dp/2072908949/ref=sr_1_4"
-        }
-      },
-      "avg_score": 4.14,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "多巴胺國度：在縱慾年代找到身心平衡",
-      "author": "安娜‧蘭布克醫師（Dr. Anna Lembke）",
-      "original_title": "DOPAMINE NATION: Finding Balance in the Age of Indulgence",
-      "original_author": null,
-      "isbn": "9786267195178",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/015/44/E050154414.jpg&v=63febac4k&w=1146&h=600",
-      "publish_date": "2023/03/04",
-      "date_start": "10/9",
-      "date_end": "10/9",
-      "date_label": "10/9(五)",
-      "product_url": "https://www.books.com.tw/products/E050154414",
-      "daily_price": 99,
-      "daily_price_reg": 450,
-      "last_updated": "2026-10-06T16:54:09.795149+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 37,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050154414?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 542,
-          "url": "https://moo.im/a/236frQ",
-          "price_reg": 320,
-          "raw_url": "https://readmoo.com/book/210267191000101"
-        },
-        "goodreads": {
-          "score": 3.87,
-          "count": 99850,
-          "url": "https://www.goodreads.com/book/show/55723020",
-          "note": "title",
-          "amazon_url": "",
-          "confidence": 40,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 13908,
-          "url": "https://www.amazon.com/-/zh_TW/Anna-Lembke-MD-ebook/dp/B08KPKHVXQ/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.19,
-      "short_affiliate_url": ""
-    },
     {
       "title": "英文字彙王：進階單字4001-6000 Levels 5 & 6【高效演練版】",
       "author": "賴世雄",
@@ -169,7 +16,7 @@
       "product_url": "https://www.books.com.tw/products/E050346613",
       "daily_price": 99,
       "daily_price_reg": 550,
-      "last_updated": "2026-10-06T16:54:09.795149+08:00",
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -185,7 +32,6 @@
           "score": null,
           "count": 0,
           "url": "https://moo.im/a/jmAFIJ",
-          "price_reg": 385,
           "raw_url": "https://readmoo.com/book/210488946000101"
         },
         "goodreads": {
@@ -207,20 +53,120 @@
       "short_affiliate_url": ""
     },
     {
-      "title": "正確犯錯：哈佛學者揭開成長心態的關鍵，分辨失敗類型與應對方式，駕馭不確定的未來",
-      "author": "艾美．艾德蒙森",
-      "original_title": "Right Kind of Wrong: The Science of Failing Well",
-      "original_author": "Amy Edmondson",
-      "isbn": "9789863989776",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/021/04/E050210493.jpg&v=66024848k&w=1146&h=600",
-      "publish_date": "2024/04/02",
-      "date_start": "10/7",
-      "date_end": "10/7",
-      "date_label": "10/7(三)",
-      "product_url": "https://www.books.com.tw/products/E050210493",
+      "title": "挫折逆轉勝：認知×行動×意志，32個聰明應對困境的心理技巧",
+      "author": "萊恩．霍利得",
+      "original_title": "THE OBSTACLE IS THE WAY",
+      "original_author": null,
+      "isbn": "9786263614857",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/020/44/E050204451.jpg&v=65d833e1k&w=1146&h=600",
+      "publish_date": "2024/03/01",
+      "date_start": "10/12",
+      "date_end": "10/12",
+      "date_label": "10/12(一)",
+      "product_url": "https://www.books.com.tw/products/E050204451",
       "daily_price": 99,
-      "daily_price_reg": 540,
-      "last_updated": "2026-10-06T16:54:09.795149+08:00",
+      "daily_price_reg": 420,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 5,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050204451?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 11,
+          "url": "https://moo.im/a/159bsR",
+          "raw_url": "https://readmoo.com/book/210316131000101"
+        },
+        "goodreads": {
+          "score": 4.15,
+          "count": 105272,
+          "url": "https://www.goodreads.com/book/isbn/9786263614857",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CTDTMVH5/ref=x_gr_bb_kindle",
+          "confidence": 50,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 24901,
+          "url": "https://www.amazon.com/-/zh_TW/Obstacle-Way-Ryan-Holiday/dp/1781251495/ref=sr_1_3"
+        }
+      },
+      "avg_score": 4.25,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "領導者的七種原型：克服弱點、強化優點，重新認識自己，跨越領導力鴻溝！",
+      "author": "洛麗．達絲卡",
+      "original_title": "The Leadership Gap: What Gets Between You and Your Greatness",
+      "original_author": "Lolly Daskal",
+      "isbn": "9786269615391",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/014/08/E050140897.jpg&v=63083460k&w=1146&h=600",
+      "publish_date": "2022/09/08",
+      "date_start": "10/10",
+      "date_end": "10/12",
+      "date_label": "10/10(六)-10/12(一)",
+      "product_url": "https://www.books.com.tw/products/E050140897",
+      "daily_price": 66,
+      "daily_price_reg": 380,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050140897?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 1.0,
+          "count": 1,
+          "url": "https://moo.im/a/5bipGW",
+          "raw_url": "https://readmoo.com/book/210243680000101"
+        },
+        "goodreads": {
+          "score": 3.69,
+          "count": 626,
+          "url": "https://www.goodreads.com/book/show/32831008",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B01MG4OCSP/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 453,
+          "url": "https://www.amazon.com/gp/product/B01MG4OCSP/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.13,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "紅與黑（法文全譯本）",
+      "author": "斯湯達爾",
+      "original_title": "Le Rouge et le Noir",
+      "original_author": "Stendhal",
+      "isbn": "9789864778669",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/007/03/E050070388.jpg&v=5efe9558k&w=1146&h=600",
+      "publish_date": "2020/06/30",
+      "date_start": "10/10",
+      "date_end": "10/12",
+      "date_label": "10/10(六)-10/12(一)",
+      "product_url": "https://www.books.com.tw/products/E050070388",
+      "daily_price": 66,
+      "daily_price_reg": 480,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -229,32 +175,281 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 12,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050210493?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050070388?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.2,
-          "count": 22,
-          "url": "https://moo.im/a/bdvxNP",
-          "price_reg": 378,
-          "raw_url": "https://readmoo.com/book/210322693000101"
+          "score": 4.6,
+          "count": 5,
+          "url": "https://moo.im/a/klAJSW",
+          "raw_url": "https://readmoo.com/book/210149568000101"
         },
         "goodreads": {
-          "score": 3.9,
-          "count": 2908,
-          "url": "https://www.goodreads.com/book/show/101162068",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BTZT9CXV/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "score": 3.86,
+          "count": 87649,
+          "url": "https://www.goodreads.com/book/show/17700685",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B000PC0ZWQ/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 2313,
+          "url": "https://www.amazon.com/gp/product/B000PC0ZWQ/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.12,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "多巴胺國度：在縱慾年代找到身心平衡",
+      "author": "安娜‧蘭布克醫師（Dr. Anna Lembke）",
+      "original_title": "DOPAMINE NATION: Finding Balance in the Age of Indulgence",
+      "original_author": null,
+      "isbn": "9786267195178",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/015/44/E050154414.jpg&v=63febac4k&w=1146&h=600",
+      "publish_date": "2023/03/04",
+      "date_start": "10/9",
+      "date_end": "10/9",
+      "date_label": "10/9(五)",
+      "product_url": "https://www.books.com.tw/products/E050154414",
+      "daily_price": 99,
+      "daily_price_reg": 450,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 37,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050154414?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 544,
+          "url": "https://moo.im/a/236frQ",
+          "raw_url": "https://readmoo.com/book/210267191000101"
+        },
+        "goodreads": {
+          "score": 3.87,
+          "count": 99951,
+          "url": "https://www.goodreads.com/book/show/55723020",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B08KPKHVXQ/ref=x_gr_bb_kindle",
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.5,
-          "count": 794,
-          "url": "https://www.amazon.com/gp/product/B0BTZT9CXV/ref=x_gr_bb_kindle"
+          "count": 13919,
+          "url": "https://www.amazon.com/gp/product/B08KPKHVXQ/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "【面對客訴你必須知道的技巧套書】（二冊）：《客訴管理（二版）》、《客訴應對的100條法則》",
+      "author": "谷厚志",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267334706",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/022/86/E050228610.jpg&v=66a9b211k&w=1146&h=600",
+      "publish_date": "2024/07/31",
+      "date_start": "10/7",
+      "date_end": "10/9",
+      "date_label": "10/7-10/9 十月會員日加碼",
+      "product_url": "https://www.books.com.tw/products/E050228610",
+      "daily_price": 99,
+      "daily_price_reg": 840,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050228610?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/5cmuzV",
+          "raw_url": "https://readmoo.com/book/210341018000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "【黛安娜庫珀．連結高次元能量守護套書】（二冊）：《獨角獸能量療癒》、《龍族守護能量全書》",
+      "author": "黛安娜．庫珀",
+      "original_title": "The Magic of Unicorns: Help and Healing from the Heavenly Realms + Dragons: Your Celestial Guardians",
+      "original_author": "Diana Cooper",
+      "isbn": "9789865401702",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/023/20/E050232016.jpg&v=66c55e18k&w=1146&h=600",
+      "publish_date": "2024/08/19",
+      "date_start": "10/7",
+      "date_end": "10/9",
+      "date_label": "10/7-10/9 十月會員日加碼",
+      "product_url": "https://www.books.com.tw/products/E050232016",
+      "daily_price": 99,
+      "daily_price_reg": 900,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050232016?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/26qwBQ",
+          "raw_url": "https://readmoo.com/book/210345652000101"
+        },
+        "goodreads": {
+          "score": 4.41,
+          "count": 73,
+          "url": "https://www.goodreads.com/book/isbn/9789865401702",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/gp/product/B081M5DYG1/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 438,
+          "url": "https://www.amazon.com/gp/product/B081M5DYG1/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.31,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "【說故事的古典音樂導聆套書】（二冊）：《說故事的古典音樂導聆【古典樂派】》《說故事的古典音樂導聆【浪漫樂派】》",
+      "author": "安仁模",
+      "original_title": "",
+      "original_author": "안인모 / An Inmo",
+      "isbn": "9786267338834",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/022/08/E050220885.jpg&v=6669114dk&w=1146&h=600",
+      "publish_date": "2024/06/12",
+      "date_start": "10/7",
+      "date_end": "10/9",
+      "date_label": "10/7-10/9 十月會員日加碼",
+      "product_url": "https://www.books.com.tw/products/E050220885",
+      "daily_price": 99,
+      "daily_price_reg": 950,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050220885?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/124EQY",
+          "raw_url": "https://readmoo.com/book/210333172000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "不生病的生活真好：寫給你的健康長壽寶典",
+      "author": "鈴木祐",
+      "original_title": "不老長寿メソッド 死ぬまで若いは武器になる",
+      "original_author": null,
+      "isbn": "9789861797038",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/16/E050121636.jpg&v=61f10efak&w=1146&h=600",
+      "publish_date": "2022/02/01",
+      "date_start": "10/7",
+      "date_end": "10/9",
+      "date_label": "10/7-10/9 十月會員日加碼",
+      "product_url": "https://www.books.com.tw/products/E050121636",
+      "daily_price": 99,
+      "daily_price_reg": 399,
+      "last_updated": "2026-10-09T03:01:51.381018+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050121636?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/5iwPQZ",
+          "raw_url": "https://readmoo.com/book/210214365000101"
+        },
+        "goodreads": {
+          "score": 3.9,
+          "count": 10,
+          "url": "https://www.goodreads.com/book/show/59922873",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/4761275308/ref=x_gr_bb_amazon",
+          "confidence": 80,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 776,
+          "url": "https://www.amazon.com/gp/product/4761275308/ref=x_gr_bb_amazon"
+        }
+      },
+      "avg_score": 4.18,
       "short_affiliate_url": ""
     }
   ]
