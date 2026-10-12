@@ -65,6 +65,9 @@ scrape.py
 # 本機封存區（含舊爬蟲程式，絕不上傳）
 _archive/
 
+# 跨工具交接卡（含本機路徑與工作基準，絕不上傳）
+handoffs/
+
 # 專用 Chrome 設定檔（真實瀏覽器自動化試點用，體積大且含瀏覽狀態，絕不上傳）
 _chrome_profile_kobo/
 _chrome_profile_kobo2/

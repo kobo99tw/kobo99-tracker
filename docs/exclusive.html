@@ -721,8 +721,11 @@ function render() {
     // 連結，購買按鈕不用另外改（v182修正，發現時還沒接起來）。博客來每日
     // e書99（book.product_url存在）沒有kobo_url/readmoo_url，退回
     // ratings.books_com.url或product_url（v183新增）
+    // v207：博客來每日e書99（有product_url）v204起也補了讀墨連結（ratings.readmoo.url），
+    // 若仍先看讀墨，按鈕會全部導去讀墨；有product_url的書身分來源是博客來，優先走博客來
     const buyUrl  = book.kobo_url ? rakutenDeepLink(book.kobo_url, book.listed_at)
-      : (r.readmoo?.url || book.readmoo_url || r.books_com?.url || book.product_url || '');
+      : book.product_url ? (r.books_com?.url || book.product_url)
+      : (r.readmoo?.url || book.readmoo_url || r.books_com?.url || '');
 
     const origTitle = `<div class="book-original">${book.original_title ? esc(book.original_title) : ''}</div>`;
 
@@ -792,8 +795,8 @@ function render() {
     // 明講平台名稱，避免使用者以為整站都是Kobo導購，點下去卻到別的網站
     // 覺得意外（v182，讀墨每日優惠專用，使用者要求辨識機制；v183比照套用
     // 到博客來每日e書99的product_url）
-    const buyLabel = (!book.kobo_url && book.readmoo_url) ? '🛒 前往讀墨購買'
-      : (!book.kobo_url && book.product_url) ? '🛒 前往博客來購買' : '🛒 立即購買';
+    const buyLabel = (!book.kobo_url && book.product_url) ? '🛒 前往博客來購買'
+      : (!book.kobo_url && book.readmoo_url) ? '🛒 前往讀墨購買' : '🛒 立即購買';
     const buyBtn = buyUrl
       ? `<a class="btn-buy" href="${buyUrl}" target="_blank">${buyLabel}</a>`
       : `<span class="btn-dis">連結待補</span>`;
