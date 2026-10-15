@@ -738,7 +738,8 @@ function render() {
     // （v182，使用者要求）。博客來每日e書99剛好相反：身分來源是博客來
     // 本身（一定有資料），完全不查Kobo/讀墨，這兩個永遠沒資料一律隱藏，
     // 博客來則永遠顯示（v183，使用者定案評分只保留博客來/GR/Amazon）
-    const isBooksDailyTheme = window._themeKey === 'theme_books_dailye99';
+    const isBooksDailyTheme = window._themeKey === 'theme_books_dailye99'
+      || window._themeKey === 'theme_books_special99';
     const ratingsHtml = Object.keys(SRC_META)
       .filter(k => {
         if (!window._themeDateDriven) return true;

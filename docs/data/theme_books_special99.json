@@ -1,0 +1,906 @@
+{
+  "source_url": "https://activity.books.com.tw/crosscat/show/A00003414241",
+  "updated_at": "2026-10-15T18:12:03.195166+08:00",
+  "books": [
+    {
+      "title": "在深夜遇見薩古魯：印度聖哲的內在喜悅工程",
+      "author": "薩古魯．賈吉．瓦殊戴夫、雪柔．席夢",
+      "original_title": "Midnights With the Mystic: A Little Guide to Freedom and Bliss",
+      "original_author": null,
+      "isbn": "9789863776000",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/006/96/E050069656.jpg&v=5ee85a41k&w=1146&h=600",
+      "publish_date": "2020/06/23",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050069656",
+      "daily_price": 99,
+      "daily_price_reg": 380,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 10,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050069656?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 106,
+          "url": "https://moo.im/a/0mnEFV",
+          "raw_url": "https://readmoo.com/book/210149768000101"
+        },
+        "goodreads": {
+          "score": 4.2,
+          "count": 1475,
+          "url": "https://www.goodreads.com/book/show/2415630",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 1083,
+          "url": "https://www.amazon.com/-/zh_TW/Cheryl-Simone-ebook/dp/B0C94T2895/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.31,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "一天10分鐘的解憂閱讀：只有讀「書」能得到的答案，陪你走出每個人生低谷",
+      "author": "高明煥",
+      "original_title": "고전이 답했다 마땅히 살아야 할 삶에 대하여",
+      "original_author": "고명환",
+      "isbn": "9786264311571",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/029/77/E050297728.jpg&v=68ff0eaek&w=1146&h=600",
+      "publish_date": "2025/11/06",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050297728",
+      "daily_price": 99,
+      "daily_price_reg": 380,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 6,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050297728?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 12,
+          "url": "https://moo.im/a/bfiNUY",
+          "raw_url": "https://readmoo.com/book/210424370000101"
+        },
+        "goodreads": {
+          "score": 4.45,
+          "count": 11,
+          "url": "https://www.goodreads.com/book/show/218418149",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DJNJ9FPZ/ref=x_gr_bb_amazon",
+          "confidence": 65,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "你快樂，所以你成功：史丹佛大學最重要的快樂心理課，讓幸福化為成功力【快樂致勝版】",
+      "author": "艾瑪‧賽佩拉",
+      "original_title": "The Happiness Track：How to Apply the Science of Happiness to Accelerate Your Success",
+      "original_author": "Emma Seppälä",
+      "isbn": "9786264193863",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/026/61/E050266157.jpg&v=682aca17k&w=1146&h=600",
+      "publish_date": "2025/05/16",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050266157",
+      "daily_price": 99,
+      "daily_price_reg": 350,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050266157?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 39,
+          "url": "https://moo.im/a/guzBPR",
+          "raw_url": "https://readmoo.com/book/210272872000101"
+        },
+        "goodreads": {
+          "score": 2.33,
+          "count": 3,
+          "url": "https://www.goodreads.com/book/show/234712870",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F9KZXQQV/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://www.amazon.com/gp/product/B0F9KZXQQV/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.11,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "陳德中引導正念冥想 (有聲書)",
+      "author": "",
+      "original_title": "",
+      "original_author": null,
+      "isbn": null,
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E07/000/08/E070000812.jpg&v=619af6d0k&w=1146&h=600",
+      "publish_date": null,
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E070000812",
+      "daily_price": 99,
+      "daily_price_reg": 200,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070000812?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 12,
+          "url": "https://moo.im/a/4drMQS",
+          "raw_url": "https://readmoo.com/book/290164966000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "與幸運相遇：招來奇蹟的好運降臨法",
+      "author": "櫻庭露樹",
+      "original_title": "世の中の運がよくなる方法を試してみた",
+      "original_author": null,
+      "isbn": "9786267729465",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/029/78/E050297806.jpg&v=6900384ck&w=1146&h=600",
+      "publish_date": "2025/11/11",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050297806",
+      "daily_price": 99,
+      "daily_price_reg": 400,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050297806?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 6,
+          "url": "https://moo.im/a/aekIKY",
+          "raw_url": "https://readmoo.com/book/210426181000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 27,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4198680132/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.15,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "你的隨身心理師：陪你走出情緒困境，療癒關係中的傷痛",
+      "author": "安妮．齊默爾曼",
+      "original_title": "Your Pocket Therapist：Break free from old patterns and transform your life",
+      "original_author": "Annie Zimmerman",
+      "isbn": "9786264195942",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/027/64/E050276470.jpg&v=6889b81ak&w=1146&h=600",
+      "publish_date": "2025/07/18",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050276470",
+      "daily_price": 99,
+      "daily_price_reg": 520,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050276470?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.9,
+          "count": 8,
+          "url": "https://moo.im/a/3hpsMV",
+          "raw_url": "https://readmoo.com/book/210402027000101"
+        },
+        "goodreads": {
+          "score": 4.35,
+          "count": 2033,
+          "url": "https://www.goodreads.com/book/show/181110023",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C9JGLFD3/ref=x_gr_bb_kindle",
+          "confidence": 70,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 317,
+          "url": "https://www.amazon.com/gp/product/B0C9JGLFD3/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.3,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "創造圓滿自在的親密關係 (有聲書)",
+      "author": "",
+      "original_title": "",
+      "original_author": null,
+      "isbn": null,
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E07/000/06/E070000600.jpg&v=616e8bf5k&w=1146&h=600",
+      "publish_date": null,
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E070000600",
+      "daily_price": 99,
+      "daily_price_reg": 480,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070000600?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 3.0,
+          "count": 2,
+          "url": "https://moo.im/a/cekmtY",
+          "raw_url": "https://readmoo.com/book/290168931000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "高EQ小孩養成術－楊俐容的情緒教養學 (有聲書)",
+      "author": "",
+      "original_title": "",
+      "original_author": null,
+      "isbn": null,
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E07/000/27/E070002710.jpg&v=6433a25ck&w=1146&h=600",
+      "publish_date": null,
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E070002710",
+      "daily_price": 99,
+      "daily_price_reg": 480,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070002710?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/26bsCR",
+          "raw_url": "https://readmoo.com/book/290269731000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "啟動夢想的言語魔法：利用書寫與話語，顯化改變人生的力量",
+      "author": "",
+      "original_title": "言葉の力を高めると、夢はかなう",
+      "original_author": "渡邊康弘",
+      "isbn": "9786267841174",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/031/54/E050315427.jpg&v=697c0acdk&w=1146&h=600",
+      "publish_date": "2026/02/25",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050315427",
+      "daily_price": 99,
+      "daily_price_reg": 450,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050315427?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://moo.im/a/26fnFY",
+          "raw_url": "https://readmoo.com/book/210455798000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 62,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4763138057/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.13,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "弄懂6~12歲孩子的內心X情緒X行為問題（暢銷增修版）：心理師給父母的21個教養解答 (有聲書)",
+      "author": "",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267277287",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E07/000/27/E070002782.jpg&v=64520b5dk&w=1146&h=600",
+      "publish_date": null,
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E070002782",
+      "daily_price": 99,
+      "daily_price_reg": 350,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070002782?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://moo.im/a/fhlqFX",
+          "raw_url": "https://readmoo.com/book/290270734000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "接住孩子前，先接住自己：陪你照顧內在需求，度過情緒風暴",
+      "author": "童童老師、鍾宛玲",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267087862",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/015/26/E050152647.jpg&v=63dc9c8ck&w=1146&h=600",
+      "publish_date": "2023/02/09",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050152647",
+      "daily_price": 99,
+      "daily_price_reg": 420,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050152647?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 11,
+          "url": "https://moo.im/a/7dkyQX",
+          "raw_url": "https://readmoo.com/book/210262142000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/223219562",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DS641NM1/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/%E6%8E%A5%E4%BD%8F%E5%AD%A9%E5%AD%90%E5%89%8D%EF%BC%8C%E5%85%88%E6%8E%A5%E4%BD%8F%E8%87%AA%E5%B7%B1-%E9%99%AA%E4%BD%A0%E7%85%A7%E9%A1%A7%E5%85%A7%E5%9C%A8%E9%9C%80%E6%B1%82%EF%BC%8C%E5%BA%A6%E9%81%8E%E6%83%85%E7%B7%92%E9%A2%A8%E6%9A%B4-Traditional-Chinese-%E7%AB%A5%E7%AB%A5%E8%80%81%E5%B8%AB-ebook/dp/B0DS641NM1/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "你就好好當你自己：不完美也值得被愛的勇氣 (有聲書)",
+      "author": "",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786263352117",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E07/000/17/E070001776.jpg&v=6268e67dk&w=1146&h=600",
+      "publish_date": null,
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E070001776",
+      "daily_price": 99,
+      "daily_price_reg": 350,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070001776?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://moo.im/a/3anszG",
+          "raw_url": "https://readmoo.com/book/290229837000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 5,
+          "url": "https://www.goodreads.com/book/show/59511156",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B099VZ28CY/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.amazon.com/%E4%BD%A0%E5%B0%B1%E5%A5%BD%E5%A5%BD%E7%95%B6%E4%BD%A0%E8%87%AA%E5%B7%B1%E2%94%80%E2%94%80%E4%B8%8D%E5%AE%8C%E7%BE%8E%E4%B9%9F%E5%80%BC%E5%BE%97%E8%A2%AB%E6%84%9B%E7%9A%84%E5%8B%87%E6%B0%A3-Traditional-Chinese-%E7%92%BD%E6%81%A9-ebook/dp/B099VZ28CY/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "七分滿的生活：一天放下一事物的練習，不慌亂、不匆忙的從容日常養成提案",
+      "author": "蜜雪兒",
+      "original_title": "90日で手に入れる「余白」のある暮らしのつくり方",
+      "original_author": "みしぇる",
+      "isbn": "9786267786666",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/030/99/E050309908.jpg&v=6954e533k&w=1146&h=600",
+      "publish_date": "2026/01/07",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050309908",
+      "daily_price": 99,
+      "daily_price_reg": 400,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 7,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050309908?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 8,
+          "url": "https://moo.im/a/glvyAY",
+          "raw_url": "https://readmoo.com/book/210445606000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 105,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4778036379/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.14,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "打破情緒框架，世界為你讓路：從失控關係中學會對話的力量，幸福終究會到站 (有聲書)",
+      "author": "",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9789860669602",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E07/000/02/E070000289.jpg&v=61664f35k&w=1146&h=600",
+      "publish_date": null,
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E070000289",
+      "daily_price": 99,
+      "daily_price_reg": 300,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070000289?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://moo.im/a/45ilNW",
+          "raw_url": "https://readmoo.com/book/210159327000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "不內耗的親密關係：愛裡應該有自我！破解假性親密、有毒互動與關係內耗",
+      "author": "吳易聰",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786264199254",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/030/36/E050303680.jpg&v=6927e40ak&w=1146&h=600",
+      "publish_date": "2025/11/14",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050303680",
+      "daily_price": 99,
+      "daily_price_reg": 380,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050303680?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://moo.im/a/8oLMRS",
+          "raw_url": "https://readmoo.com/book/210436799000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/%E4%B8%8D%E5%85%A7%E8%80%97%E7%9A%84%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82-%E6%84%9B%E8%A3%A1%E6%87%89%E8%A9%B2%E6%9C%89%E8%87%AA%E6%88%91%EF%BC%81%E7%A0%B4%E8%A7%A3%E5%81%87%E6%80%A7%E8%A6%AA%E5%AF%86%E3%80%81%E6%9C%89%E6%AF%92%E4%BA%92%E5%8B%95%E8%88%87%E9%97%9C%E4%BF%82%E5%85%A7%E8%80%97-%E5%84%AA%E7%94%9F%E6%B4%BB-Traditional-Chinese-ebook/dp/B0G6D64J1X/ref=sr_1_2"
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "顧好自己就夠了：勇於宣告底線、停止消耗情緒和時間的忍耐，暖男身心科醫生教你35個立下界線的課題",
+      "author": "藤野智哉",
+      "original_title": "人間関係に「線を引く」レッスン",
+      "original_author": "藤野智哉",
+      "isbn": "9786267786789",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/031/51/E050315136.jpg&v=697af773k&w=1146&h=600",
+      "publish_date": "2026/02/04",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050315136",
+      "daily_price": 99,
+      "daily_price_reg": 380,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050315136?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://moo.im/a/46abKT",
+          "raw_url": "https://readmoo.com/book/210451435000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/235807785",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F734NLC2/ref=x_gr_bb_kindle",
+          "confidence": 45,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 262,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4799331477/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "佛陀智慧的生氣劍：心之二刀流帶你跳脫情緒障礙與焦躁不安，不再畏懼傲慢無理，更把怒氣化為讓自己越來越好的動力",
+      "author": "草薙龍瞬",
+      "original_title": "ストレスと闘う日々にやすらぎを取り戻す　怒る技法",
+      "original_author": null,
+      "isbn": "9786267643365",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/028/37/E050283750.jpg&v=68930ae4k&w=1146&h=600",
+      "publish_date": "2025/08/15",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050283750",
+      "daily_price": 99,
+      "daily_price_reg": 330,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050283750?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 11,
+          "url": "https://moo.im/a/48krQR",
+          "raw_url": "https://readmoo.com/book/210403899000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/234791905",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BYNSKMJT/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 202,
+          "url": "https://www.amazon.com/gp/product/B0BYNSKMJT/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.23,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "面對情緒攻擊的勇氣（暢銷新版）：換個角度人際不糾結！擺脫對號入座的習慣反應，打造強大內在不再受傷",
+      "author": "水島廣子",
+      "original_title": "身近な人の「攻撃」がスーッとなくなる本",
+      "original_author": null,
+      "isbn": "9786267643501",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/029/16/E050291642.jpg&v=68ca2ea9k&w=1146&h=600",
+      "publish_date": "2025/09/26",
+      "date_start": "10/14",
+      "date_end": "10/16",
+      "date_label": "10/14-10/16 限時99元",
+      "product_url": "https://www.books.com.tw/products/E050291642",
+      "daily_price": 99,
+      "daily_price_reg": 300,
+      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050291642?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/boFJKX",
+          "raw_url": "https://readmoo.com/book/210411286000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/25370800",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B00OQ1SQHS/ref=x_gr_bb_kindle",
+          "confidence": 25,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 269,
+          "url": "https://www.amazon.com/gp/product/B00OQ1SQHS/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.11,
+      "short_affiliate_url": ""
+    }
+  ]
+}

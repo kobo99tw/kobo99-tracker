@@ -206,5 +206,20 @@
     "tabEmoji": "🗓️",
     "tabLabel": "博客來每日e書",
     "url": "https://activity.books.com.tw/crosscat/show/A00000062854"
+  },
+  {
+    "dateDriven": true,
+    "defaultSort": "date",
+    "file": "theme_books_special99.json",
+    "headTitle": "博客來限時99",
+    "hide_after": "2026-10-16",
+    "key": "theme_books_special99",
+    "label": "【博客來限時99】10/14–10/16 指定選書限時99元",
+    "sale": "",
+    "seoDesc": "整理博客來「限時99」活動的指定選書（電子書與有聲書），活動期間限時99元，並補上博客來、讀墨、Goodreads、Amazon 評分方便比較（此書單購買連結導向博客來，非Kobo商品）。",
+    "subtitle": "10/14–10/16 限時加碼指定選書，電子書＋有聲書（購買連結導向博客來）",
+    "tabEmoji": "🔥",
+    "tabLabel": "博客來限時99",
+    "url": "https://activity.books.com.tw/crosscat/show/A00003414241"
   }
 ]
