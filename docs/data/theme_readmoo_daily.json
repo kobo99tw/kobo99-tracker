@@ -1,307 +1,7 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-10-09T02:53:46.442984+08:00",
+  "updated_at": "2026-10-15T08:19:22.711076+08:00",
   "books": [
-    {
-      "title": "迷霧之子首部曲：最後帝國",
-      "author": "布蘭登．山德森",
-      "original_title": "Mistborn: The Final Empire",
-      "original_author": "Brandon Sanderson",
-      "isbn": "9789866712982",
-      "cover_url": "https://cdn.readmoo.com/cover/ci/kbfcjh9_460x580.jpg?v=1587041770",
-      "publish_date": "2010/01/28",
-      "date": "10/9",
-      "readmoo_url": "https://readmoo.com/book/210024309000101",
-      "daily_price": 99,
-      "daily_price_reg": 267,
-      "daily_discount_label": "26折",
-      "description": "美國最大邦諾連鎖書店頭號選書作者、西班牙UPC科幻大獎得主\n2005年甫出道即獲《浪漫時代 Romantic Times》奇幻史詩大獎\n2006、2007年入選美國科奇幻地位最高約翰．坎伯新人獎\n超級天才新星作家──布蘭登．山德森全新華麗鉅作\n架構壯閣媲美「冰與火之歌」，精采絕妙更勝「夜巡者」",
-      "last_updated": "2026-10-09T02:53:46.442984+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 43,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050017092?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 683,
-          "url": "https://moo.im/a/5dlmFU",
-          "raw_url": "https://readmoo.com/book/210024309000101"
-        },
-        "goodreads": {
-          "score": 4.48,
-          "count": 1089832,
-          "url": "https://www.goodreads.com/book/show/68428",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 60876,
-          "url": "https://www.amazon.com/Mistborn-Final-Empire-Brandon-Sanderson-ebook/dp/B002GYI9C4/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.52,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "站在自然巨人的肩膀",
-      "author": "安．史韋卓普-泰格松",
-      "original_title": "På Naturens Skuldre : hvordan ti millioner arter redder livet ditt",
-      "original_author": "Anne Sverdrup-Thygeson",
-      "isbn": "9789864895441",
-      "cover_url": "https://cdn.readmoo.com/cover/jh/foclrmj_460x580.jpg?v=1640252717",
-      "publish_date": "2021/12/22",
-      "date": "10/10",
-      "readmoo_url": "https://readmoo.com/book/210210987000101",
-      "daily_price": 99,
-      "daily_price_reg": 336,
-      "daily_discount_label": "",
-      "description": "【本書特色】\n作者安．史韋卓普-泰格松為挪威昆蟲生態學權威，亦致力於推廣科普教育\n本書收集許多近年最新的科學研究報告\n內容深入簡出，筆觸幽默詼諧，故事引人入勝\n林試所副研究員汪澤宏審訂\n【本書內容】\n荒涼貧脊的冰島\n有個關於冰島森林的笑話，很短，但切中要害：「怎麼找到離開冰島森林的路？站起來就好了。",
-      "last_updated": "2026-10-09T02:53:46.442984+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050118218?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 6,
-          "url": "https://moo.im/a/04kouz",
-          "raw_url": "https://readmoo.com/book/210210987000101"
-        },
-        "goodreads": {
-          "score": 4.22,
-          "count": 1462,
-          "url": "https://www.goodreads.com/book/show/184214104",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09TTTHCL7/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 3,
-          "url": "https://www.amazon.com/-/zh_TW/Anne-Sverdrup-Thygeson/dp/841257639X/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.14,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "地獄反轉（上下冊套書）",
-      "author": "莉．巴度格",
-      "original_title": "Hell Bent",
-      "original_author": "Leigh Bardugo",
-      "isbn": null,
-      "cover_url": "https://cdn.readmoo.com/cover/78/2f57h6c_460x580.jpg?v=1720432615",
-      "publish_date": "2024/07/10",
-      "date": "10/11",
-      "readmoo_url": "https://readmoo.com/book/210337393000101",
-      "daily_price": 450,
-      "daily_price_reg": 711,
-      "daily_discount_label": "",
-      "description": "亞馬遜即將開拍影集，暢銷奇幻作家莉・巴度格，\n獻上【祕密社團✕禁忌魔法✕黑暗謀殺】《幽靈社團》精彩續集！「這才是魔法的真面目──卑劣、墮落、變態。",
-      "last_updated": "2026-10-09T02:53:46.442984+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 13,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050224354?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/0flORS",
-          "raw_url": "https://readmoo.com/book/210337393000101"
-        },
-        "goodreads": {
-          "score": 4.11,
-          "count": 196585,
-          "url": "https://www.goodreads.com/book/show/60652997",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 17126,
-          "url": "https://www.amazon.com/-/zh_TW/Leigh-Bardugo-ebook/dp/B09W14K6JB/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.26,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "大好人圖鑑",
-      "author": "明円卓、佐佐木日菜、真子千繪美",
-      "original_title": "いい人すぎるよ図鑑",
-      "original_author": null,
-      "isbn": "9789861758183",
-      "cover_url": "https://cdn.readmoo.com/cover/cl/ha86jlg_460x580.jpg?v=1730257187",
-      "publish_date": "2024/11/01",
-      "date": "10/12",
-      "readmoo_url": "https://readmoo.com/book/210355157000101",
-      "daily_price": 99,
-      "daily_price_reg": 203,
-      "daily_discount_label": "",
-      "description": "那人怎麼可以這麼暖！咦？",
-      "last_updated": "2026-10-09T02:53:46.442984+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 7,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050239021?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 25,
-          "url": "https://moo.im/a/4bhijl",
-          "raw_url": "https://readmoo.com/book/210355157000101"
-        },
-        "goodreads": {
-          "score": 4.4,
-          "count": 5,
-          "url": "https://www.goodreads.com/book/show/203959420",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CQJK4ZPW/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 34,
-          "url": "https://www.amazon.com/gp/product/B0CQJK4ZPW/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "死線患者的自救書",
-      "author": "達瑞斯．佛瑞克斯",
-      "original_title": "Do It Today: Overcome Procrastination, Improve Productivity, and Achieve More Meaningful Things",
-      "original_author": "Darius Foroux",
-      "isbn": "9786263617520",
-      "cover_url": "https://cdn.readmoo.com/cover/5f/5e34g76_460x580.jpg?v=1721103760",
-      "publish_date": "2024/07/01",
-      "date": "10/13",
-      "readmoo_url": "https://readmoo.com/book/210339040000101",
-      "daily_price": 149,
-      "daily_price_reg": 292,
-      "daily_discount_label": "",
-      "description": "你是否常覺得：\n 時間一下就過去，但好像什麼重要的事都沒做？看了一堆生產力文章，為什麼事情還是做不完？",
-      "last_updated": "2026-10-09T02:53:46.442984+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050223448?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.1,
-          "count": 11,
-          "url": "https://moo.im/a/67iAQY",
-          "raw_url": "https://readmoo.com/book/210339040000101"
-        },
-        "goodreads": {
-          "score": 4.08,
-          "count": 9427,
-          "url": "https://www.goodreads.com/book/show/40601527",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B07DRP1Q5W/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 11126,
-          "url": "https://www.amazon.com/gp/product/B07DRP1Q5W/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "我們（原作問世一百週年新版）",
-      "author": "葉夫根尼·薩米爾欽",
-      "original_title": "",
-      "original_author": "Yevgeny Zamyatin",
-      "isbn": "9786267063743",
-      "cover_url": "https://cdn.readmoo.com/cover/bb/gl6fkge_460x580.jpg?v=1717042861",
-      "publish_date": "2024/05/31",
-      "date": "10/14",
-      "readmoo_url": "https://readmoo.com/book/210330100000101",
-      "daily_price": 99,
-      "daily_price_reg": 245,
-      "daily_discount_label": "",
-      "description": "歐威爾眼中「焚書年代裡的文學奇品之一」。張大春稱其為「真正的小說家」。",
-      "last_updated": "2026-10-09T02:53:46.442984+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050217787?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.1,
-          "count": 12,
-          "url": "https://moo.im/a/08ntAQ",
-          "raw_url": "https://readmoo.com/book/210330100000101"
-        },
-        "goodreads": {
-          "score": 3.87,
-          "count": 120266,
-          "url": "https://www.goodreads.com/book/isbn/9786267063743",
-          "note": "isbn",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D5CPG14K/ref=x_gr_bb_kindle",
-          "confidence": 65,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.amazon.com/gp/product/B0D5CPG14K/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.08,
-      "short_affiliate_url": ""
-    },
     {
       "title": "易經——史上最強職場解答之書",
       "author": "小椋浩一",
@@ -314,9 +14,9 @@
       "readmoo_url": "https://readmoo.com/book/210392407000101",
       "daily_price": 99,
       "daily_price_reg": 315,
-      "daily_discount_label": "",
+      "daily_discount_label": "22折",
       "description": "大谷翔平人生導師栗山英樹、新加坡建國總理李光耀、日本經營之聖稻盛和夫\n——各界成功人士推薦必讀經典——\n升遷、管理、溝通、領導……職場大小難題，\n流傳3000多年的群經之首裡早有解方！你是否遇過、明明已經付出努力和用心，\n但升遷卻遲遲輪不到自己、團隊總是管不動的窘境？",
-      "last_updated": "2026-10-09T02:53:46.442984+08:00",
+      "last_updated": "2026-10-15T08:19:22.711076+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -350,6 +50,306 @@
         }
       },
       "avg_score": 4.16,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "迷蛇記【Apple TV+改編影集《艾塞克斯之蛇》原著】",
+      "author": "莎拉．派瑞",
+      "original_title": "The Essex Serpent",
+      "original_author": "Sarah Perry",
+      "isbn": "9789864896097",
+      "cover_url": "https://cdn.readmoo.com/cover/nm/njrdzco_460x580.jpg?v=1648200804",
+      "publish_date": "2022/03/30",
+      "date": "10/16",
+      "readmoo_url": "https://readmoo.com/book/210221884000101",
+      "daily_price": 99,
+      "daily_price_reg": 336,
+      "daily_discount_label": "",
+      "description": "Apple TV+ 改編影集《艾塞克斯之蛇》2022年5月上線\n克萊兒・丹妮絲（《反恐危機》）＋湯姆・希德斯頓（《洛基》）主演\n愛情 vs. 友誼、科學 vs. 傳說、信仰 vs. 理性\n一個擺脫性別桎梏、熱愛博物學的獨立女性\n一位才智過人、虔誠但拒絕迷信的進步派牧師\n聯手揭開英格蘭19世紀末神祕的羊眼海蛇傳說之謎\n\n英國暢銷 500,000冊，授權全球25國",
+      "last_updated": "2026-10-15T08:19:22.711076+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 11,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050127050?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 39,
+          "url": "https://moo.im/a/79gvQR",
+          "raw_url": "https://readmoo.com/book/210221884000101"
+        },
+        "goodreads": {
+          "score": 3.52,
+          "count": 71126,
+          "url": "https://www.goodreads.com/book/show/32075861",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 14734,
+          "url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.01,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "小學生看漫畫學讀書方法",
+      "author": "葉一はいち",
+      "original_title": "10才からの勉強が得意になる方法",
+      "original_author": null,
+      "isbn": "9786267698402",
+      "cover_url": "https://cdn.readmoo.com/cover/io/lmhapen_460x580.jpg?v=1774593293",
+      "publish_date": "2026/02/26",
+      "date": "10/17",
+      "readmoo_url": "https://readmoo.com/book/210459626000101",
+      "daily_price": 99,
+      "daily_price_reg": 315,
+      "daily_discount_label": "",
+      "description": "\\ 最懂小學生課業煩惱的全彩漫畫書 /\n日常生活案例 ╳ 爆笑幽默漫畫 ╳ 常見學習難題\n具體解決方法 ╳ 專家經驗分享\n本書將幫助你：\n事半功倍讀書方法Get！成績進步不是問題，\n更是拿到開啟未來夢想的關鍵鑰匙！",
+      "last_updated": "2026-10-15T08:19:22.711076+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050324691?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/6depqV",
+          "raw_url": "https://readmoo.com/book/210459626000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 11,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4522439997/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.14,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "竹科宅男的週末食堂",
+      "author": "莫內廚房",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267406366",
+      "cover_url": "https://cdn.readmoo.com/cover/8h/9884l26_460x580.jpg?v=1710986909",
+      "publish_date": "2024/03/20",
+      "date": "10/18",
+      "readmoo_url": "https://readmoo.com/book/210319762000101",
+      "daily_price": 99,
+      "daily_price_reg": 300,
+      "daily_discount_label": "",
+      "description": "IG、Twitter人氣創作者．莫內廚房 週末開飯啦！身為竹科工程師，將國外出差所嘗到的美食，集結食譜成冊，\n在台灣也能煮出美味異國料理！",
+      "last_updated": "2026-10-15T08:19:22.711076+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050206368?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 4,
+          "url": "https://moo.im/a/acgmKP",
+          "raw_url": "https://readmoo.com/book/210319762000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "你的謎底，我的謎題",
+      "author": "小川哲",
+      "original_title": "君のクイズ",
+      "original_author": null,
+      "isbn": "9789861339085",
+      "cover_url": "https://cdn.readmoo.com/cover/fl/ehdimn8_460x580.jpg?v=1735272486",
+      "publish_date": "2024/01/01",
+      "date": "10/19",
+      "readmoo_url": "https://readmoo.com/book/210306455000101",
+      "daily_price": 99,
+      "daily_price_reg": 231,
+      "daily_discount_label": "",
+      "description": "越接近「零秒搶答」的謎團核心，好像越明白了什麼……\n原來每個人的人生，都是一場迷人又難解的益智問答。關係到千萬獎金的現場直播益智節目大賽，只剩下最後一題──\n目前比數是6：6，決賽選手實力相當。",
+      "last_updated": "2026-10-15T08:19:22.711076+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 8,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050194707?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 148,
+          "url": "https://moo.im/a/crxIQY",
+          "raw_url": "https://readmoo.com/book/210306455000101"
+        },
+        "goodreads": {
+          "score": 3.48,
+          "count": 89,
+          "url": "https://www.goodreads.com/book/show/209701066",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DM48V3DP/ref=x_gr_bb_amazon",
+          "confidence": 75,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.1,
+          "count": 2444,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0GY7NY387/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.05,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "為了這個家，我殺了我自己",
+      "author": "水谷綠",
+      "original_title": "私だけ年を取っているみたいだ。 ヤングケアラーの再生日記",
+      "original_author": null,
+      "isbn": "9786263617551",
+      "cover_url": "https://cdn.readmoo.com/cover/pz/mrfkurm_460x580.jpg?v=1722328194",
+      "publish_date": "2024/08/01",
+      "date": "10/20",
+      "readmoo_url": "https://readmoo.com/book/210340847000101",
+      "daily_price": 99,
+      "daily_price_reg": 253,
+      "daily_discount_label": "",
+      "description": "思覺失調症的母親、對家人漠不關心的父親、格外受寵的弟弟、阿茲海默症的爺爺……這是本書主角小唯成長的家庭環境。被迫成為小大人的她，照料這個家的大小事，還獨自承擔母親的情緒與暴力。",
+      "last_updated": "2026-10-15T08:19:22.711076+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 14,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050227954?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.9,
+          "count": 244,
+          "url": "https://moo.im/a/dpvAGW",
+          "raw_url": "https://readmoo.com/book/210340847000101"
+        },
+        "goodreads": {
+          "score": 4.79,
+          "count": 19,
+          "url": "https://www.goodreads.com/book/show/218375210",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/6263617551/ref=x_gr_bb_amazon",
+          "confidence": 50,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 882,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0BGNTG378/ref=sr_1_2"
+        }
+      },
+      "avg_score": 4.46,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "我的99個私抽屜",
+      "author": "唐鳳、丘美珍",
+      "original_title": "何もない空間が価値を生む AI時代の哲学",
+      "original_author": null,
+      "isbn": "9786267063309",
+      "cover_url": "https://cdn.readmoo.com/cover/le/ljaeqel_460x580.jpg?v=1679542407",
+      "publish_date": "2023/03/04",
+      "date": "10/21",
+      "readmoo_url": "https://readmoo.com/book/210264153000101",
+      "daily_price": 99,
+      "daily_price_reg": 259,
+      "daily_discount_label": "",
+      "description": "臺灣數位發展部長唐鳳五歲時閱讀老子《道德經》，其中有云：「埏埴以為器，當其無，有器之用。」她自此深知「價值的產生，在於空間」之道，最終遷徙到網路世界中獨自尋思、與人協作：她與素未謀面之人共筆、共創，打造橫向溝通平台，每日結束時都將所知所得發表上線；更以自身體歷為基底，提出在AI時代生存的多元心理準備。",
+      "last_updated": "2026-10-15T08:19:22.711076+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050154189?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 123,
+          "url": "https://moo.im/a/78CEMR",
+          "raw_url": "https://readmoo.com/book/210264153000101"
+        },
+        "goodreads": {
+          "score": 4.15,
+          "count": 13,
+          "url": "https://www.goodreads.com/book/show/123107017",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BWHNCVTP/ref=x_gr_bb_kindle",
+          "confidence": 80,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 4,
+          "url": "https://www.amazon.com/-/zh_TW/%E5%94%90%E9%B3%B3%EF%BC%88%E5%8F%A3%E8%BF%B0%EF%BC%89%E3%80%81%E4%B8%98%E7%BE%8E%E7%8F%8D%EF%BC%88%E5%9F%B7%E7%AD%86%EF%BC%89-ebook/dp/B0BWHNCVTP/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.19,
       "short_affiliate_url": ""
     }
   ]
