@@ -1,22 +1,72 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-10-17T23:33:01.540849+08:00",
+  "updated_at": "2026-10-19T19:42:22.493159+08:00",
   "books": [
     {
-      "title": "喵的，有在聽我說嗎？給所有被貓收編的人類，100則你早該實踐的任性處世哲學",
-      "author": "潔咪．薛曼",
-      "original_title": "Ｗhat’s Your Cat Trying to Tell You？",
+      "title": "迷蛇記【Apple TV+改編影集原著《艾塞克斯之蛇》】",
+      "author": "莎拉・派瑞",
+      "original_title": "The Essex Serpent",
+      "original_author": "Sarah Perry",
+      "isbn": "9789864896097",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/70/E050127050.jpg&v=62341c5fk&w=1146&h=600",
+      "publish_date": "2022/03/30",
+      "date_start": "10/19",
+      "date_end": "10/19",
+      "date_label": "10/19(一)",
+      "product_url": "https://www.books.com.tw/products/E050127050",
+      "daily_price": 99,
+      "daily_price_reg": 480,
+      "last_updated": "2026-10-19T19:42:22.493159+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 11,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050127050?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 39,
+          "url": "https://moo.im/a/79gvQR",
+          "raw_url": "https://readmoo.com/book/210221884000101"
+        },
+        "goodreads": {
+          "score": 3.52,
+          "count": 71153,
+          "url": "https://www.goodreads.com/book/show/32075861",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.0,
+          "count": 14740,
+          "url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.01,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "拒絕不敢說、擔心說錯話？小心機「換句話說」事典",
+      "author": "齊藤勇",
+      "original_title": "ズルい言い換え事典：相手のNOをYESに変える",
       "original_author": null,
-      "isbn": "9786264183574",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/029/21/E050292133.jpg&v=68d0c63fk&w=1146&h=600",
-      "publish_date": "2025/10/01",
-      "date_start": "10/17",
-      "date_end": "10/17",
-      "date_label": "10/17(六)",
-      "product_url": "https://www.books.com.tw/products/E050292133",
-      "daily_price": 66,
-      "daily_price_reg": 360,
-      "last_updated": "2026-10-18T00:24:24.478717+08:00",
+      "isbn": "9789863706571",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/020/30/E050203068.jpg&v=65cec409k&w=1146&h=600",
+      "publish_date": "2024/03/05",
+      "date_start": "10/23",
+      "date_end": "10/23",
+      "date_label": "10/23(五)",
+      "product_url": "https://www.books.com.tw/products/E050203068",
+      "daily_price": 99,
+      "daily_price_reg": 350,
+      "last_updated": "2026-10-19T19:42:22.493159+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -25,28 +75,78 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050292133?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050203068?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://moo.im/a/nDFRTZ",
-          "raw_url": "https://readmoo.com/book/210412900000101"
+          "score": 3.7,
+          "count": 15,
+          "url": "https://moo.im/a/126fMN",
+          "raw_url": "https://readmoo.com/book/210316612000101"
         },
         "goodreads": {
-          "score": 4.18,
-          "count": 17,
-          "url": "https://www.goodreads.com/book/show/227911873",
-          "note": "manual-verified",
-          "confidence": 100,
-          "cross_validated": false,
-          "amazon_url": "https://www.amazon.com/dp/1789297869"
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 1.0,
-          "count": 1,
-          "url": "https://www.amazon.com/-/zh_TW/Whats-Your-Cat-Trying-Tell/dp/1789297869/ref=sr_1_2"
+          "score": 3.4,
+          "count": 28,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0B8CJB8NC/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.04,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "圖解認知偏誤！避開99%思考陷阱：人類並不理性！打破慣性偏見，建立強大思維",
+      "author": "情報文化研究所、山﨑紗紀子、宮代こずゑ、菊池由希子、高橋昌一郎（監修）",
+      "original_title": "情報を正しく選択するための認知バイアス事典",
+      "original_author": "Sakiko Yamasaki; Kozue Miyashiro",
+      "isbn": "9789862897058",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/02/E050130269.jpg&v=62620ab9k&w=1146&h=600",
+      "publish_date": "2022/05/01",
+      "date_start": "10/22",
+      "date_end": "10/22",
+      "date_label": "10/22(四)",
+      "product_url": "https://www.books.com.tw/products/E050130269",
+      "daily_price": 99,
+      "daily_price_reg": 420,
+      "last_updated": "2026-10-19T19:42:22.493159+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050130269?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 6,
+          "url": "https://moo.im/a/bcglqI",
+          "raw_url": "https://readmoo.com/book/210228729000101"
+        },
+        "goodreads": {
+          "score": 3.33,
+          "count": 6,
+          "url": "https://www.goodreads.com/book/show/57682301",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon",
+          "confidence": 45,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 725,
+          "url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon"
         }
       },
       "avg_score": 4.12,
@@ -66,7 +166,7 @@
       "product_url": "https://www.books.com.tw/products/E050253106",
       "daily_price": 99,
       "daily_price_reg": 480,
-      "last_updated": "2026-10-17T23:33:01.540849+08:00",
+      "last_updated": "2026-10-19T19:42:22.493159+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -88,9 +188,9 @@
           "score": 4.44,
           "count": 270,
           "url": "https://www.goodreads.com/book/show/204125516",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0CRGM9674/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
@@ -116,7 +216,7 @@
       "product_url": "https://www.books.com.tw/products/E050201287",
       "daily_price": 99,
       "daily_price_reg": 399,
-      "last_updated": "2026-10-17T23:33:01.540849+08:00",
+      "last_updated": "2026-10-19T19:42:22.493159+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -138,9 +238,9 @@
           "score": 4.4,
           "count": 15,
           "url": "https://www.goodreads.com/book/show/111244956",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B09R9HRL4M/ref=x_gr_bb_amazon",
-          "confidence": 65,
+          "confidence": 80,
           "cross_validated": false
         },
         "amazon_com": {
@@ -150,106 +250,6 @@
         }
       },
       "avg_score": 4.16,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "迷蛇記【Apple TV+改編影集原著《艾塞克斯之蛇》】",
-      "author": "莎拉・派瑞",
-      "original_title": "The Essex Serpent",
-      "original_author": "Sarah Perry",
-      "isbn": "9789864896097",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/70/E050127050.jpg&v=62341c5fk&w=1146&h=600",
-      "publish_date": "2022/03/30",
-      "date_start": "10/19",
-      "date_end": "10/19",
-      "date_label": "10/19(一)",
-      "product_url": "https://www.books.com.tw/products/E050127050",
-      "daily_price": 99,
-      "daily_price_reg": 480,
-      "last_updated": "2026-10-17T23:33:01.540849+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 11,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050127050?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 39,
-          "url": "https://moo.im/a/79gvQR",
-          "raw_url": "https://readmoo.com/book/210221884000101"
-        },
-        "goodreads": {
-          "score": 3.52,
-          "count": 71142,
-          "url": "https://www.goodreads.com/book/show/32075861",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 14736,
-          "url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.01,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "全球最強團隊都在用的「心理安全感」溝通用語55",
-      "author": "原田將嗣",
-      "original_title": "最高のチームはみんな使っている 心理的安全性をつくる言葉55",
-      "original_author": "原田将嗣",
-      "isbn": "9786267291238",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/015/82/E050158281.jpg&v=643e3b05k&w=1146&h=600",
-      "publish_date": "2023/04/26",
-      "date_start": "10/17",
-      "date_end": "10/19",
-      "date_label": "10/17(六)-10/19(一)",
-      "product_url": "https://www.books.com.tw/products/E050158281",
-      "daily_price": 66,
-      "daily_price_reg": 380,
-      "last_updated": "2026-10-17T23:33:01.540849+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050158281?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 10,
-          "url": "https://moo.im/a/ptzHJN",
-          "raw_url": "https://readmoo.com/book/210270454000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 338,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4864108889/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.14,
       "short_affiliate_url": ""
     }
   ]
