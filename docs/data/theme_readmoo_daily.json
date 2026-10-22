@@ -1,157 +1,7 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-10-19T19:50:52.312171+08:00",
+  "updated_at": "2026-10-22T09:19:30.791016+08:00",
   "books": [
-    {
-      "title": "你的謎底，我的謎題",
-      "author": "小川哲",
-      "original_title": "君のクイズ",
-      "original_author": null,
-      "isbn": "9789861339085",
-      "cover_url": "https://cdn.readmoo.com/cover/fl/ehdimn8_460x580.jpg?v=1735272486",
-      "publish_date": "2024/01/01",
-      "date": "10/19",
-      "readmoo_url": "https://readmoo.com/book/210306455000101",
-      "daily_price": 99,
-      "daily_price_reg": 231,
-      "daily_discount_label": "3折",
-      "description": "越接近「零秒搶答」的謎團核心，好像越明白了什麼……\n原來每個人的人生，都是一場迷人又難解的益智問答。關係到千萬獎金的現場直播益智節目大賽，只剩下最後一題──\n目前比數是6：6，決賽選手實力相當。",
-      "last_updated": "2026-10-19T19:50:52.312171+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 8,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050194707?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 149,
-          "url": "https://moo.im/a/crxIQY",
-          "raw_url": "https://readmoo.com/book/210306455000101"
-        },
-        "goodreads": {
-          "score": 3.48,
-          "count": 89,
-          "url": "https://www.goodreads.com/book/show/209701066",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DM48V3DP/ref=x_gr_bb_amazon",
-          "confidence": 90,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.1,
-          "count": 2449,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0GY7NY387/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.05,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "為了這個家，我殺了我自己",
-      "author": "水谷綠",
-      "original_title": "私だけ年を取っているみたいだ。 ヤングケアラーの再生日記",
-      "original_author": null,
-      "isbn": "9786263617551",
-      "cover_url": "https://cdn.readmoo.com/cover/pz/mrfkurm_460x580.jpg?v=1722328194",
-      "publish_date": "2024/08/01",
-      "date": "10/20",
-      "readmoo_url": "https://readmoo.com/book/210340847000101",
-      "daily_price": 99,
-      "daily_price_reg": 253,
-      "daily_discount_label": "",
-      "description": "思覺失調症的母親、對家人漠不關心的父親、格外受寵的弟弟、阿茲海默症的爺爺……這是本書主角小唯成長的家庭環境。被迫成為小大人的她，照料這個家的大小事，還獨自承擔母親的情緒與暴力。",
-      "last_updated": "2026-10-19T19:50:52.312171+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 14,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050227954?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 244,
-          "url": "https://moo.im/a/dpvAGW",
-          "raw_url": "https://readmoo.com/book/210340847000101"
-        },
-        "goodreads": {
-          "score": 4.79,
-          "count": 19,
-          "url": "https://www.goodreads.com/book/show/218375210",
-          "note": "zh-title+author",
-          "amazon_url": "",
-          "confidence": 50,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.8,
-          "count": 883,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0BGNTG378/ref=sr_1_2"
-        }
-      },
-      "avg_score": 4.46,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "我的99個私抽屜",
-      "author": "唐鳳、丘美珍",
-      "original_title": "何もない空間が価値を生む AI時代の哲学",
-      "original_author": null,
-      "isbn": "9786267063309",
-      "cover_url": "https://cdn.readmoo.com/cover/le/ljaeqel_460x580.jpg?v=1679542407",
-      "publish_date": "2023/03/04",
-      "date": "10/21",
-      "readmoo_url": "https://readmoo.com/book/210264153000101",
-      "daily_price": 99,
-      "daily_price_reg": 259,
-      "daily_discount_label": "",
-      "description": "臺灣數位發展部長唐鳳五歲時閱讀老子《道德經》，其中有云：「埏埴以為器，當其無，有器之用。」她自此深知「價值的產生，在於空間」之道，最終遷徙到網路世界中獨自尋思、與人協作：她與素未謀面之人共筆、共創，打造橫向溝通平台，每日結束時都將所知所得發表上線；更以自身體歷為基底，提出在AI時代生存的多元心理準備。",
-      "last_updated": "2026-10-19T19:50:52.312171+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 4,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050154189?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 123,
-          "url": "https://moo.im/a/78CEMR",
-          "raw_url": "https://readmoo.com/book/210264153000101"
-        },
-        "goodreads": {
-          "score": 4.15,
-          "count": 13,
-          "url": "https://www.goodreads.com/book/show/123107017",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 80,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 4,
-          "url": "https://www.amazon.com/-/zh_TW/%E5%94%90%E9%B3%B3%EF%BC%88%E5%8F%A3%E8%BF%B0%EF%BC%89%E3%80%81%E4%B8%98%E7%BE%8E%E7%8F%8D%EF%BC%88%E5%9F%B7%E7%AD%86%EF%BC%89-ebook/dp/B0BWHNCVTP/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.19,
-      "short_affiliate_url": ""
-    },
     {
       "title": "斷念の練習",
       "author": "名取芳彥",
@@ -164,9 +14,9 @@
       "readmoo_url": "https://readmoo.com/book/210228219000101",
       "daily_price": 99,
       "daily_price_reg": 258,
-      "daily_discount_label": "",
+      "daily_discount_label": "26折",
       "description": "◎欲望就像人穿盔甲。穿一套，很好；穿太多，跑不動。",
-      "last_updated": "2026-10-19T19:50:52.312171+08:00",
+      "last_updated": "2026-10-22T09:19:30.791016+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -216,7 +66,7 @@
       "daily_price_reg": 406,
       "daily_discount_label": "",
       "description": "日本體大教授的「科學觀點」X健美金牌選手的「經驗觀點」\n結合體重自重訓練、自由重量、器械訓練\n帶你輕鬆突破停滯期  打造稜角分明的一身肌\n巨巨不說，卻都默默在練的188個動作全揭露\n選定3大目標部位，訓練不迷路\n南瓜肩、線條分明的二頭和三頭\n飽滿的胸肌、鬼背、斜方、粒粒分明的腹肌\n蝴蝶臀、野獸般的大腿、鑽石小腿",
-      "last_updated": "2026-10-19T19:50:52.312171+08:00",
+      "last_updated": "2026-10-22T09:19:30.791016+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -238,18 +88,18 @@
           "score": 3.0,
           "count": 1,
           "url": "https://www.goodreads.com/book/show/71306030",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/4093106800/ref=x_gr_bb_amazon",
-          "confidence": 60,
+          "confidence": 75,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 858,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4093106800/ref=sr_1_2"
+          "score": 4.5,
+          "count": 830,
+          "url": "https://www.amazon.com/gp/product/4093106800/ref=x_gr_bb_amazon"
         }
       },
-      "avg_score": 4.25,
+      "avg_score": 4.23,
       "short_affiliate_url": ""
     },
     {
@@ -266,7 +116,7 @@
       "daily_price_reg": 300,
       "daily_discount_label": "",
       "description": "12萬粉絲敲碗，「星期一的布魯斯」首次書籍化！完整呈現讓上班族200%共鳴的每個瞬間。",
-      "last_updated": "2026-10-19T19:50:52.312171+08:00",
+      "last_updated": "2026-10-22T09:19:30.791016+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -288,9 +138,9 @@
           "score": 4.29,
           "count": 7,
           "url": "https://www.goodreads.com/book/show/214377453",
-          "note": "zh-title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/6267406482/ref=x_gr_bb_amazon",
-          "confidence": 40,
+          "confidence": 80,
           "cross_validated": null
         },
         "amazon_com": {
@@ -316,7 +166,7 @@
       "daily_price_reg": 240,
       "daily_discount_label": "",
       "description": "花叢老手酒店老闆 × 高冷美人警察臥底\n黑道・刑偵・強強相愛相殺\n收錄番外〈餐桌禮儀〉\n「放心，我會很溫柔的，痛過就舒服了。」\n「夏總為什麼總覺得我會是下面那個？",
-      "last_updated": "2026-10-19T19:50:52.312171+08:00",
+      "last_updated": "2026-10-22T09:19:30.791016+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -338,9 +188,9 @@
           "score": 4.5,
           "count": 2,
           "url": "https://www.goodreads.com/book/show/123196112",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/6269619270/ref=x_gr_bb_amazon",
-          "confidence": 30,
+          "confidence": 60,
           "cross_validated": null
         },
         "amazon_com": {
@@ -350,6 +200,156 @@
         }
       },
       "avg_score": 4.28,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "居家布置的心理法則",
+      "author": "高原美由紀",
+      "original_title": "ちょっと変えれば人生が変わる!部屋づくりの法則",
+      "original_author": null,
+      "isbn": "9789861366951",
+      "cover_url": "https://cdn.readmoo.com/cover/d5/gkdejie_460x580.jpg?v=1715322162",
+      "publish_date": "2024/05/01",
+      "date": "10/26",
+      "readmoo_url": "https://readmoo.com/book/210326693000101",
+      "daily_price": 99,
+      "daily_price_reg": 238,
+      "daily_discount_label": "",
+      "description": "理想住宅不是「機能強」「裝潢美」「舒適宜居」就好\n家人間很少說話、家裡亂七八糟不是你的問題。全都是「空間格局和家具布置」造成的！",
+      "last_updated": "2026-10-22T09:19:30.791016+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050214290?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 41,
+          "url": "https://moo.im/a/dCFTWZ",
+          "raw_url": "https://readmoo.com/book/210326693000101"
+        },
+        "goodreads": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://www.goodreads.com/book/show/217522026",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DDCBZD8L/ref=x_gr_bb_amazon",
+          "confidence": 30,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 78,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4413233239/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "這邊是愛美子",
+      "author": "今村夏子",
+      "original_title": "こちらあみ子",
+      "original_author": null,
+      "isbn": "9786263616615",
+      "cover_url": "https://cdn.readmoo.com/cover/le/ljodqdd_460x580.jpg?v=1717404481",
+      "publish_date": "2024/06/01",
+      "date": "10/27",
+      "readmoo_url": "https://readmoo.com/book/210331129000101",
+      "daily_price": 99,
+      "daily_price_reg": 277,
+      "daily_discount_label": "",
+      "description": "◎收錄作品\n〈這邊是愛美子〉\n愛美子是個有點古怪的女孩。此處女作以少女純真的目光，生動描繪愛美子的純真對周遭人的影響，展現出一個屬於她自己的獨特世界。",
+      "last_updated": "2026-10-22T09:19:30.791016+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050218636?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 12,
+          "url": "https://moo.im/a/0bdqvF",
+          "raw_url": "https://readmoo.com/book/210331129000101"
+        },
+        "goodreads": {
+          "score": 3.56,
+          "count": 2061,
+          "url": "https://www.goodreads.com/book/show/37924079",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0BTLDB81L/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 3.9,
+          "count": 510,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B093HJRPWF/ref=sr_1_1"
+        }
+      },
+      "avg_score": 3.98,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "後悔的力量",
+      "author": "丹尼爾．品克",
+      "original_title": "The Power of Regret : How Looking Backward Moves Us Forward",
+      "original_author": "Daniel H. Pink",
+      "isbn": "9786267206898",
+      "cover_url": "https://cdn.readmoo.com/cover/ea/b9efnla_460x580.jpg?v=1680057356",
+      "publish_date": "2023/03/30",
+      "date": "10/28",
+      "readmoo_url": "https://readmoo.com/book/210267286000101",
+      "daily_price": 99,
+      "daily_price_reg": 266,
+      "daily_discount_label": "",
+      "description": "暢銷書《未來在等待的人才》、《什麼時候是好時候》及《動機，單純的力量》作者最新力作。剖析最常遭到誤解、卻最寶貴的情緒「後悔」，何以是一股脫胎換骨的力量。",
+      "last_updated": "2026-10-22T09:19:30.791016+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 12,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050155803?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 20,
+          "url": "https://moo.im/a/dvxEPY",
+          "raw_url": "https://readmoo.com/book/210267286000101"
+        },
+        "goodreads": {
+          "score": 3.82,
+          "count": 14885,
+          "url": "https://www.goodreads.com/book/show/58446721",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B097XNT4RT/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 1799,
+          "url": "https://www.amazon.com/gp/product/B097XNT4RT/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.15,
       "short_affiliate_url": ""
     }
   ]
