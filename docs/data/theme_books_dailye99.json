@@ -1,22 +1,22 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-10-19T19:42:22.493159+08:00",
+  "updated_at": "2026-10-22T19:03:03.417498+08:00",
   "books": [
     {
-      "title": "迷蛇記【Apple TV+改編影集原著《艾塞克斯之蛇》】",
-      "author": "莎拉・派瑞",
-      "original_title": "The Essex Serpent",
-      "original_author": "Sarah Perry",
-      "isbn": "9789864896097",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/70/E050127050.jpg&v=62341c5fk&w=1146&h=600",
-      "publish_date": "2022/03/30",
-      "date_start": "10/19",
-      "date_end": "10/19",
-      "date_label": "10/19(一)",
-      "product_url": "https://www.books.com.tw/products/E050127050",
+      "title": "圖解認知偏誤！避開99%思考陷阱：人類並不理性！打破慣性偏見，建立強大思維",
+      "author": "情報文化研究所、山﨑紗紀子、宮代こずゑ、菊池由希子、高橋昌一郎（監修）",
+      "original_title": "情報を正しく選択するための認知バイアス事典",
+      "original_author": "Sakiko Yamasaki; Kozue Miyashiro",
+      "isbn": "9789862897058",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/02/E050130269.jpg&v=62620ab9k&w=1146&h=600",
+      "publish_date": "2022/05/01",
+      "date_start": "10/22",
+      "date_end": "10/22",
+      "date_label": "10/22(四)",
+      "product_url": "https://www.books.com.tw/products/E050130269",
       "daily_price": 99,
-      "daily_price_reg": 480,
-      "last_updated": "2026-10-19T19:42:22.493159+08:00",
+      "daily_price_reg": 420,
+      "last_updated": "2026-10-22T19:03:03.417498+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -25,31 +25,181 @@
         },
         "books_com": {
           "score": 4.5,
-          "count": 11,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050127050?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050130269?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.3,
-          "count": 39,
-          "url": "https://moo.im/a/79gvQR",
-          "raw_url": "https://readmoo.com/book/210221884000101"
+          "score": 4.2,
+          "count": 6,
+          "url": "https://moo.im/a/bcglqI",
+          "raw_url": "https://readmoo.com/book/210228729000101"
         },
         "goodreads": {
-          "score": 3.52,
-          "count": 71153,
-          "url": "https://www.goodreads.com/book/show/32075861",
+          "score": 3.33,
+          "count": 6,
+          "url": "https://www.goodreads.com/book/show/57682301",
           "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon",
           "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.0,
-          "count": 14740,
-          "url": "https://www.amazon.com/gp/product/B01M0HPKE6/ref=x_gr_bb_kindle"
+          "score": 4.2,
+          "count": 725,
+          "url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon"
         }
       },
-      "avg_score": 4.01,
+      "avg_score": 4.12,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "服務業必殺英語",
+      "author": "賴世雄",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9789867380586",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/030/87/E050308748.jpg&v=694b85d1k&w=1146&h=600",
+      "publish_date": "2025/12/26",
+      "date_start": "10/26",
+      "date_end": "10/26",
+      "date_label": "10/26(一)",
+      "product_url": "https://www.books.com.tw/products/E050308748",
+      "daily_price": 99,
+      "daily_price_reg": 199,
+      "last_updated": "2026-10-22T19:03:03.417498+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050308748?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/fkpwHI",
+          "raw_url": "https://readmoo.com/book/210447503000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "進擊的文案！",
+      "author": "蘇芯",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267089170",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/77/E050127772.jpg&v=62381b6ak&w=1146&h=600",
+      "publish_date": "2022/03/20",
+      "date_start": "10/24",
+      "date_end": "10/25",
+      "date_label": "10/24(六)-10/25(日)",
+      "product_url": "https://www.books.com.tw/products/E050127772",
+      "daily_price": 66,
+      "daily_price_reg": 323,
+      "last_updated": "2026-10-22T19:14:52.901332+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050127772?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 3,
+          "url": "https://moo.im/a/nxIOVZ",
+          "raw_url": "https://readmoo.com/book/210221851000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "脆弱的力量【布芮尼‧布朗感動千萬人全球暢銷作、在台發行十二周年紀念珍藏版】",
+      "author": "布芮尼．布朗",
+      "original_title": "Daring Greatly：How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+      "original_author": "Brené Brown",
+      "isbn": "9786267520420",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/024/53/E050245394.jpg&v=676bb94bk&w=1146&h=600",
+      "publish_date": "2025/01/02",
+      "date_start": "10/24",
+      "date_end": "10/25",
+      "date_label": "10/24(六)-10/25(日)",
+      "product_url": "https://www.books.com.tw/products/E050245394",
+      "daily_price": 66,
+      "daily_price_reg": 400,
+      "last_updated": "2026-10-22T19:03:03.417498+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050245394?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 13,
+          "url": "https://moo.im/a/5bsOWZ",
+          "raw_url": "https://readmoo.com/book/210363752000101"
+        },
+        "goodreads": {
+          "score": 4.29,
+          "count": 250555,
+          "url": "https://www.goodreads.com/book/isbn/9786267520420",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/gp/product/B007P7HRS4/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 31321,
+          "url": "https://www.amazon.com/gp/product/B007P7HRS4/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.3,
       "short_affiliate_url": ""
     },
     {
@@ -66,7 +216,7 @@
       "product_url": "https://www.books.com.tw/products/E050203068",
       "daily_price": 99,
       "daily_price_reg": 350,
-      "last_updated": "2026-10-19T19:42:22.493159+08:00",
+      "last_updated": "2026-10-22T19:03:03.417498+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -100,156 +250,6 @@
         }
       },
       "avg_score": 4.04,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "圖解認知偏誤！避開99%思考陷阱：人類並不理性！打破慣性偏見，建立強大思維",
-      "author": "情報文化研究所、山﨑紗紀子、宮代こずゑ、菊池由希子、高橋昌一郎（監修）",
-      "original_title": "情報を正しく選択するための認知バイアス事典",
-      "original_author": "Sakiko Yamasaki; Kozue Miyashiro",
-      "isbn": "9789862897058",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/02/E050130269.jpg&v=62620ab9k&w=1146&h=600",
-      "publish_date": "2022/05/01",
-      "date_start": "10/22",
-      "date_end": "10/22",
-      "date_label": "10/22(四)",
-      "product_url": "https://www.books.com.tw/products/E050130269",
-      "daily_price": 99,
-      "daily_price_reg": 420,
-      "last_updated": "2026-10-19T19:42:22.493159+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050130269?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 6,
-          "url": "https://moo.im/a/bcglqI",
-          "raw_url": "https://readmoo.com/book/210228729000101"
-        },
-        "goodreads": {
-          "score": 3.33,
-          "count": 6,
-          "url": "https://www.goodreads.com/book/show/57682301",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon",
-          "confidence": 45,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 725,
-          "url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon"
-        }
-      },
-      "avg_score": 4.12,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "100天就有成果！八二法則管理實務",
-      "author": "比爾．卡納迪",
-      "original_title": "The 80/20 CEO: Take Command of Your Business in 100 Days",
-      "original_author": "Bill Canady",
-      "isbn": "9786267539880",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/025/31/E050253106.jpg&v=67bd555ck&w=1146&h=600",
-      "publish_date": "2025/02/26",
-      "date_start": "10/21",
-      "date_end": "10/21",
-      "date_label": "10/21(三)",
-      "product_url": "https://www.books.com.tw/products/E050253106",
-      "daily_price": 99,
-      "daily_price_reg": 480,
-      "last_updated": "2026-10-19T19:42:22.493159+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050253106?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/5pJLSY",
-          "raw_url": "https://readmoo.com/book/210376279000101"
-        },
-        "goodreads": {
-          "score": 4.44,
-          "count": 270,
-          "url": "https://www.goodreads.com/book/show/204125516",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CRGM9674/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 200,
-          "url": "https://www.amazon.com/gp/product/B0CRGM9674/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.28,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "讀懂人心的日本語：35個關鍵字解析日本文化的曖昧與感性，通透話語的表與裏",
-      "author": "森田六朗",
-      "original_title": "[改訂新版] 日本人の心がわかる日本語",
-      "original_author": null,
-      "isbn": "9789864089109",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/020/12/E050201287.jpg&v=65ba01f7k&w=1146&h=600",
-      "publish_date": "2023/05/18",
-      "date_start": "10/20",
-      "date_end": "10/20",
-      "date_label": "10/20(二)",
-      "product_url": "https://www.books.com.tw/products/E050201287",
-      "daily_price": 99,
-      "daily_price_reg": 399,
-      "last_updated": "2026-10-19T19:42:22.493159+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050201287?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/68jzHN",
-          "raw_url": "https://readmoo.com/book/210313975000101"
-        },
-        "goodreads": {
-          "score": 4.4,
-          "count": 15,
-          "url": "https://www.goodreads.com/book/show/111244956",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B09R9HRL4M/ref=x_gr_bb_amazon",
-          "confidence": 80,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 22,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4866393777/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.16,
       "short_affiliate_url": ""
     }
   ]
