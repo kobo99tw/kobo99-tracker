@@ -937,7 +937,9 @@ loadData();
         if (w) w.textContent = '📚 ' + cfg.weekly99TabLabel;
       }
       // 促銷公告橫條
-      if (cfg.promoVisible !== false && cfg.promoText) {
+      // 公告1固定是Kobo的555活動：讀墨／博客來身分的主題不顯示（Kobo活動與這些書單無關）
+      const _noKoboPromo = ['theme_readmoo_daily.json','theme_books_dailye99.json','theme_books_special99.json'].includes(currentFile);
+      if (cfg.promoVisible !== false && cfg.promoText && !_noKoboPromo) {
         const todayStr = new Intl.DateTimeFormat('sv', {timeZone: 'Asia/Taipei'}).format(new Date());
         const expired = cfg.promoEnd && todayStr > cfg.promoEnd;
         if (!expired) {
