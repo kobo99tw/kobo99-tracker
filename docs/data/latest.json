@@ -1,150 +1,150 @@
 {
   "year": 2026,
-  "week": 42,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w42",
-  "sale_label": "NT$99 特價：10/15（四）～10/21（三）",
-  "sale_start": "2026-10-15",
-  "sale_end": "2026-10-21",
+  "week": 43,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w43",
+  "sale_label": "NT$99 特價：10/22（四）～10/28（三）",
+  "sale_start": "2026-10-22",
+  "sale_end": "2026-10-28",
   "on_sale": true,
-  "updated_at": "2026-10-15T08:24:57.665910+08:00",
+  "updated_at": "2026-10-22T12:45:34.758882+08:00",
   "books": [
     {
-      "title": "AI科學家李飛飛的視界之旅",
-      "author": "李飛飛",
-      "original_title": "The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI",
-      "isbn": "9786263555051",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-146?sId=945fbd77-0ce4-47a1-b5d2-1748c558ca2d&ssId=oOZShV125149_asZGWHZy&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015",
-      "kobo_price": "NT$450",
-      "cover_url": "covers/ai-146.jpg",
+      "title": "奇點已近：當人類與AI融合一體",
+      "author": "雷．庫茲威爾",
+      "original_title": "The Singularity Is Nearer: When We Merge with AI",
+      "isbn": "9786267736012",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-309?sId=da25dfa1-edb9-46c7-988b-cc8cba4635bb&ssId=V4RkphA52hID2NhDw6qUM&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$520",
+      "cover_url": "covers/ai-309.jpg",
       "sale_price": "NT$99",
-      "date": "10/15",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
+      "date": "10/22",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
       "on_sale": true,
-      "publisher": "天下文化",
-      "publish_date": "2023年12月20日",
+      "publisher": "經濟新潮社",
+      "publish_date": "2025年6月3日",
       "language": "中文",
-      "original_author": "Fei-Fei Li",
-      "description": "美國前總統歐巴馬推薦AI崛起時代必讀書籍。本書是李飛飛親筆撰寫的回憶錄，講述她在中國和美國兩地的成長、求學及研究生涯，她堅定志向完成了學業，並從物理轉向AI領域，之後更決定用AI幫助人類。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
+      "original_author": "Ray Kurzweil",
+      "description": "延續其經典著作《奇點臨近》，本書探討未來數十年科技將如何改變人類。評估了他1999年提出的AI將在2029年前達到人類智慧水準的預言，在不久的將來，科技將使人類的智能擴大一百萬倍，並將永遠改變人類的生活。",
+      "last_updated": "2026-10-22T12:45:34.758882+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.77,
-          "count": 13,
-          "url": "https://www.kobo.com/tw/zh/ebook/ai-146?sId=945fbd77-0ce4-47a1-b5d2-1748c558ca2d&ssId=oOZShV125149_asZGWHZy&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015"
+          "score": 4.33,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/ai-309?sId=da25dfa1-edb9-46c7-988b-cc8cba4635bb&ssId=V4RkphA52hID2NhDw6qUM&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 12,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050192498?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": 4.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050269072?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.7,
-          "count": 141,
-          "url": "https://moo.im/a/8eJMOU",
-          "raw_url": "https://readmoo.com/book/210305021000101"
+          "score": 4.0,
+          "count": 7,
+          "url": "https://moo.im/a/34svKR",
+          "raw_url": "https://readmoo.com/book/210392140000101"
         },
         "goodreads": {
-          "score": 4.3,
-          "count": 5702,
-          "url": "https://www.goodreads.com/book/show/144405196",
+          "score": 3.89,
+          "count": 4960,
+          "url": "https://www.goodreads.com/book/show/45024007",
           "note": "title+author",
           "amazon_url": "",
           "confidence": 75,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 1518,
-          "url": "https://www.amazon.com/-/zh_TW/Dr-Fei-Fei-Li-ebook/dp/B0BPQSLVL6/ref=sr_1_1"
+          "score": 4.4,
+          "count": 1720,
+          "url": "https://www.amazon.com/-/zh_TW/Ray-Kurzweil-ebook/dp/B08Y6FYJVY/ref=sr_1_1"
         }
       },
-      "avg_score": 4.37,
-      "short_affiliate_url": "https://reurl.cc/mzbyR9"
+      "avg_score": 4.12,
+      "short_affiliate_url": "https://reurl.cc/VnOqY5"
     },
     {
-      "title": "超高齡社會的消費行為學：為熟齡者消除「不安、不滿、不便」，就是商機所在！",
-      "author": "村田裕之",
-      "original_title": "成功するシニアビジネスの教科書―「超高齢社会」をビジネスチャンスにする技術",
-      "isbn": "9786267195840",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/zcPpACscIjOJ9pRZVCVZcA?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015",
-      "kobo_price": "NT$300",
-      "cover_url": "covers/zcPpACscIjOJ9pRZVCVZcA.jpg",
+      "title": "有錢人教我的致富心態：學有錢人這樣想錢、生錢、存錢、花錢，他從月光族變身資產3億富翁！",
+      "author": "立川健悟",
+      "original_title": "お金持ちは合理的",
+      "isbn": "9786267492567",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Spvb2VuFcjqMRpjvHqcq2w?sId=00df4a27-b77b-48e6-ba18-1bae107e01b0&ssId=lVFeeuNpWV8TVgjPPAXWS&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/Spvb2VuFcjqMRpjvHqcq2w.jpg",
       "sale_price": "NT$99",
-      "date": "10/16",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
+      "date": "10/23",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
       "on_sale": true,
-      "publisher": "經濟新潮社",
-      "publish_date": "2025年1月9日",
+      "publisher": "商業周刊",
+      "publish_date": "2024年11月14日",
       "language": "中文",
-      "original_author": "Hiroyuki Murata",
-      "description": "一本書，幫助我們徹底了解中高齡族群的消費行為與心理，掌握熟齡產業的趨勢。只要有更多人願意投入熟齡產業，不只服務熟齡族群，也能因為拓展商機讓年輕人有更多成功機會，打造一個更幸福的社會。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
+      "original_author": null,
+      "description": "他如何從月光族變為億萬富翁？變有錢的第一步：換上有錢人的腦袋和心態，學他們用錢來長知識、養人脈、圓夢想，最重要的是，用錢滾出愈來愈多的錢，現在就調整你的金錢思維和習慣，過上富足的人生。",
+      "last_updated": "2026-10-22T12:45:34.758882+08:00",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/zcPpACscIjOJ9pRZVCVZcA?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015"
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/Spvb2VuFcjqMRpjvHqcq2w?sId=00df4a27-b77b-48e6-ba18-1bae107e01b0&ssId=lVFeeuNpWV8TVgjPPAXWS&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050247143?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": 4.5,
+          "count": 8,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050241221?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 12,
-          "url": "https://moo.im/a/0jqDQX",
-          "raw_url": "https://readmoo.com/book/210364208000101"
+          "score": 4.7,
+          "count": 25,
+          "url": "https://moo.im/a/4kmEPR",
+          "raw_url": "https://readmoo.com/book/210356434000101"
         },
         "goodreads": {
-          "score": 3.67,
-          "count": 3,
-          "url": "https://www.goodreads.com/book/show/29105581",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/4532319005/ref=x_gr_bb_amazon",
-          "confidence": 10,
-          "cross_validated": false
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/isbn/9786267492567",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/s",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 3.5,
-          "count": 56,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B079Y1KWSF/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/aEbdZ9"
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/90NQDO"
     },
     {
-      "title": "霍金传",
-      "author": "[美]查尔斯 · 塞费",
-      "original_title": "Hawking Hawking: The Selling of a Scientific Celebrity",
-      "isbn": "7553521743449",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/n1438rk70Ta4hIggtPL67A?sId=e4edad54-9958-4729-8cfe-0f12fda9ebf5&ssId=gCTFUX91V7YlNV1_7glMf&utm_source=koboblog",
-      "kobo_price": "NT$235",
-      "cover_url": "covers/n1438rk70Ta4hIggtPL67A.jpg",
+      "title": "美好而粗暴的世界",
+      "author": "安德烈·普拉东诺夫",
+      "original_title": "",
+      "isbn": "7574532788996",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/d7kSXij2eTWi9oJpLdiDIg?sId=6fb1cee6-2c11-4a09-856a-07c5117f9898&ssId=a4wSlOmhfXO413ZsC_R6a&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$696",
+      "cover_url": "covers/d7kSXij2eTWi9oJpLdiDIg.jpg",
       "sale_price": "NT$99",
-      "date": "10/16",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
+      "date": "10/23",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
       "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2022年6月1日",
+      "publisher": "上海译文出版社",
+      "publish_date": "2022年5月1日",
       "language": "中文",
-      "original_author": "Charles Seife",
-      "description": "本書講述了作為科學家的霍金的一生，也描繪了霍金作為一個丈夫、一個老師、一個朋友是如何影響和鼓舞著身邊的每個人的。他的一生絕無僅有，他的精神如金子般珍貴。他一生最偉大的成就，也是他名垂千古的憑證。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
+      "original_author": null,
+      "description": "奠定蘇聯文學發展方向的作家小說代表作合集。這五篇小說分別屬於普拉東諾夫的三個藝術階段，題材從科幻到歷史最終回歸現實，展現了作家整個創作生涯的思想變化，關於物質與精神的辯證關係的永恆思考。",
+      "last_updated": "2026-10-22T12:45:34.758882+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/n1438rk70Ta4hIggtPL67A?sId=e4edad54-9958-4729-8cfe-0f12fda9ebf5&ssId=gCTFUX91V7YlNV1_7glMf&utm_source=koboblog"
+          "url": "https://www.kobo.com/tw/zh/ebook/d7kSXij2eTWi9oJpLdiDIg?sId=6fb1cee6-2c11-4a09-856a-07c5117f9898&ssId=a4wSlOmhfXO413ZsC_R6a&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/CN11777530?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/CN11784304?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": null,
@@ -152,112 +152,112 @@
           "url": ""
         },
         "goodreads": {
-          "score": 3.69,
-          "count": 190,
-          "url": "https://www.goodreads.com/book/show/54817579",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B08F51GC3M/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 72,
-          "url": "https://www.amazon.com/gp/product/B08F51GC3M/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.11,
-      "short_affiliate_url": "https://reurl.cc/k9byML"
-    },
-    {
-      "title": "告白者",
-      "author": "阮越清",
-      "original_title": "The Committed",
-      "isbn": "9786267156780",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/_1Xk_Ms1LTyAWnmCT65bSA?sId=77089d0c-8cab-4e29-86af-c63dd90bdd24&ssId=J6snuO9cnSCV0POz3OOJK&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/_1Xk_Ms1LTyAWnmCT65bSA.jpg",
-      "sale_price": "NT$99",
-      "date": "10/17",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
-      "on_sale": true,
-      "publisher": "馬可孛羅",
-      "publish_date": "2023年5月2日",
-      "language": "中文",
-      "original_author": "Viet Thanh Nguyen",
-      "description": "普立茲獎得主阮越清和他的「雙面人」回來了！本書透過主角的自我對話呈現自我存在與各種主義的反思，深刻地叩問殖民與被殖民、難民等社會面向，又直探存在主義精神，以炙熱的筆觸描繪出忠誠與背叛的面貌。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
-      "ratings": {
-        "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/_1Xk_Ms1LTyAWnmCT65bSA?sId=77089d0c-8cab-4e29-86af-c63dd90bdd24&ssId=J6snuO9cnSCV0POz3OOJK&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050161886?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 6,
-          "url": "https://moo.im/a/35oARY",
-          "raw_url": "https://readmoo.com/book/210271286000101"
-        },
-        "goodreads": {
-          "score": 3.96,
-          "count": 13007,
-          "url": "https://www.goodreads.com/book/show/52260627",
-          "note": "title+author",
+          "url": "",
+          "note": "無原文資訊",
           "amazon_url": "",
-          "confidence": 75,
+          "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 41,
-          "url": "https://www.amazon.com/-/zh_TW/Committed-Viet-Thanh-Nguyen/dp/1472152506/ref=sr_1_2"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E6%99%AE%E6%8B%89%E4%B8%9C%E8%AF%BA%E5%A4%AB-Andrei-Platonov-ebook/dp/B0B5XF55FR/ref=sr_1_1"
         }
       },
-      "avg_score": 4.11,
-      "short_affiliate_url": "https://reurl.cc/7YAd4D"
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/Ggylnx"
     },
     {
-      "title": "超圖解電動車的構造與原理：驅動方式×發展趨勢，通盤了解產業鏈的現況及展望",
-      "author": "川邊謙一",
-      "original_title": "",
-      "isbn": "9786263796966",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/O05EwxH6CjKtdey-mC1_mg?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=11&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/O05EwxH6CjKtdey-mC1_mg.jpg",
+      "title": "布登布洛克家族",
+      "author": "托瑪斯‧曼",
+      "original_title": "Buddenbrooks",
+      "isbn": "9786267728000",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/MGqfy0GLajqmLtKu9suQew?sId=f9c08ee5-2064-4cb2-ac3f-08a8ef778919&ssId=V1yIrd-uUyX3mKVhfiQp_&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$559",
+      "cover_url": "covers/MGqfy0GLajqmLtKu9suQew.jpg",
       "sale_price": "NT$99",
-      "date": "10/18",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
+      "date": "10/24",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
       "on_sale": true,
-      "publisher": "台灣東販",
-      "publish_date": "2024年12月31日",
+      "publisher": "堡壘文化",
+      "publish_date": "2025年5月28日",
       "language": "中文",
-      "original_author": null,
-      "description": "一次掌握為交通帶來巨大變化的移動革命。認識電動車，不單單只是多認識一種汽車，更能幫你思考未來的社會變化，促使人們去思考能源之於社會的意義，以及現在全球正努力實現的永續社會。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
+      "original_author": "Thomas Mann",
+      "description": "出版百年，仍被譽為最偉大的現代小說之一，德國市民階級的精神剖面圖，細膩呈現傳統社會如何在現代化浪潮中逐漸失去立足之地，書中人物雖試圖捍衛倫理，最終卻無力抵擋時代的冷酷與個體意志的崩潰。",
+      "last_updated": "2026-10-22T13:00:23.374967+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/O05EwxH6CjKtdey-mC1_mg?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=11&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015"
+          "url": "https://www.kobo.com/tw/zh/ebook/MGqfy0GLajqmLtKu9suQew?sId=f9c08ee5-2064-4cb2-ac3f-08a8ef778919&ssId=V1yIrd-uUyX3mKVhfiQp_&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050246980?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
           "score": 5.0,
           "count": 1,
-          "url": "https://moo.im/a/lqwEQX",
-          "raw_url": "https://readmoo.com/book/210364015000101"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050266529?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 5,
+          "url": "https://moo.im/a/ruCOQX",
+          "raw_url": "https://readmoo.com/book/210390707000101"
+        },
+        "goodreads": {
+          "score": 4.21,
+          "count": 38896,
+          "url": "https://www.goodreads.com/book/show/80890",
+          "note": "manual-verified",
+          "confidence": 100,
+          "cross_validated": false,
+          "amazon_url": "https://www.amazon.com/dp/B0BS9JPFLC"
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 1442,
+          "url": "https://www.amazon.com/dp/B0BS9JPFLC"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": "https://reurl.cc/EYlaVR"
+    },
+    {
+      "title": "性為什麼存在？：那些性事的奇怪冷知識， 比你想像還要獵奇得多",
+      "author": "瑞秋．費爾特曼",
+      "original_title": "",
+      "isbn": "9786263209381",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/7EXfb2PYTzCYN0jsVBo45Q?sId=adbdbbca-4200-41aa-9999-30c81a3c63a3&ssId=AAOtGZ-uvKgsmDIXuzheV&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/7EXfb2PYTzCYN0jsVBo45Q.jpg",
+      "sale_price": "NT$99",
+      "date": "10/25",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
+      "on_sale": true,
+      "publisher": "晨星出版",
+      "publish_date": "2024年10月15日",
+      "language": "中文",
+      "original_author": "Rachel Feltman",
+      "description": "這是一部歡快、打破神話的性愛歷史！以科學、生物學和歷史三面向探討「性」，你會發現所有奇怪都是正常的，所有正常都是奇怪的。閱讀這本書能讓你成為聚會中知識淵博的焦點，談論令人嘖嘖稱奇的性話題軼事。",
+      "last_updated": "2026-10-22T12:45:34.758882+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/7EXfb2PYTzCYN0jsVBo45Q?sId=adbdbbca-4200-41aa-9999-30c81a3c63a3&ssId=AAOtGZ-uvKgsmDIXuzheV&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050240618?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 5,
+          "url": "https://moo.im/a/hpuzHQ",
+          "raw_url": "https://readmoo.com/book/210355679000101"
         },
         "goodreads": {
           "score": null,
@@ -275,169 +275,169 @@
         }
       },
       "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/yWbvDM"
+      "short_affiliate_url": "https://reurl.cc/eQlZMW"
     },
     {
-      "title": "就算長大了，也還是會難過：不完美也沒關係，擁抱自己的55個溫暖練習（人氣韓團SEVENTEEN成員THE 8推薦）",
-      "author": "安賢貞",
-      "original_title": "아무것도 모른 채 어른이 되었다",
-      "isbn": "9789570867251",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/55-seventeenthe-8?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015",
-      "kobo_price": "NT$254",
-      "cover_url": "covers/55-seventeenthe-8.jpg",
+      "title": "未來預演（二版）：切斷情緒成癮神經鏈結，四週改變慣性腦迴路，換一個新未來",
+      "author": "喬‧迪斯本札",
+      "original_title": "Breaking The Habit of Being Yourself:How to Lose Your Mind and Create a New One",
+      "isbn": "9786269742301",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/oxCiRRXMsD21u18076oCTg?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$349",
+      "cover_url": "covers/oxCiRRXMsD21u18076oCTg.jpg",
       "sale_price": "NT$99",
-      "date": "10/19",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
+      "date": "10/26",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
       "on_sale": true,
-      "publisher": "聯經出版",
-      "publish_date": "2022年12月29日",
+      "publisher": "地平線文化",
+      "publish_date": "2023年5月17日",
       "language": "中文",
-      "original_author": null,
-      "description": "即使好辛苦卻還是得長大，對任何人來說都不是一件容易的事。寫給在大人世界中跌跌撞撞，卻仍然很努力的你。本書收錄55篇療癒文章，書寫人生、工作和愛情，同時穿插可愛的乙小喵插圖，陪你走過辛苦時刻。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
+      "original_author": "Joe Dispenza",
+      "description": "心靈科學先驅喬・迪斯本札代表作，結合最新腦神經科學和古老靜坐智慧，打開潛意識與意識的大門，勇敢改寫大腦慣性迴路，成為不敢想的自己，只要二十八天，就能讓身體漸漸熟悉新的大腦迴路，養成你的第二天性。",
+      "last_updated": "2026-10-22T13:00:21.390936+08:00",
       "ratings": {
         "kobo": {
+          "score": 4.72,
+          "count": 25,
+          "url": "https://www.kobo.com/tw/zh/ebook/oxCiRRXMsD21u18076oCTg?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 13,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050161448?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 28,
+          "url": "https://moo.im/a/1cgLRU",
+          "raw_url": "https://readmoo.com/book/210272804000101"
+        },
+        "goodreads": {
+          "score": 4.12,
+          "count": 43773,
+          "url": "https://www.goodreads.com/book/show/12951631",
+          "note": "manual-verified",
+          "confidence": 100,
+          "cross_validated": false,
+          "amazon_url": "https://www.amazon.com/dp/B006M7A8JI"
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 18548,
+          "url": "https://www.amazon.com/dp/B006M7A8JI"
+        }
+      },
+      "avg_score": 4.35,
+      "short_affiliate_url": "https://reurl.cc/OQ3eYv"
+    },
+    {
+      "title": "法國人如何思考？",
+      "author": "蘇迪爾‧哈札里辛格 Sudhir Hazareesingh",
+      "original_title": "How the French Think",
+      "isbn": "3119864771516",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/E3P2i2mBAzasO1FpFV2_2w?sId=01119dd7-c1a1-4226-b2cc-837b92a0dd50&ssId=G7S-vxfYyd3M0QHxw-wOt&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$400",
+      "cover_url": "covers/E3P2i2mBAzasO1FpFV2_2w.jpg",
+      "sale_price": "NT$99",
+      "date": "10/27",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
+      "on_sale": true,
+      "publisher": "商周出版",
+      "publish_date": "2017年1月3日",
+      "language": "中文",
+      "original_author": "Sudhir Hazareesingh",
+      "description": "笛卡兒的我思故我在掀起璀璨繽紛的法國思想，法國人熱愛思考、熱中討論生命的美好。把法國從世界舞臺拿開，我們就失去解決問題的某種方式，本書將帶你辨識這些法式思維的特點，呈現今日法國文化顯現的樣貌。",
+      "last_updated": "2026-10-22T12:45:34.758882+08:00",
+      "ratings": {
+        "kobo": {
+          "score": 3.5,
+          "count": 4,
+          "url": "https://www.kobo.com/tw/zh/ebook/E3P2i2mBAzasO1FpFV2_2w?sId=01119dd7-c1a1-4226-b2cc-837b92a0dd50&ssId=G7S-vxfYyd3M0QHxw-wOt&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050011574?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/55-seventeenthe-8?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050150478?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 4,
-          "url": "https://moo.im/a/cdjkMZ",
-          "raw_url": "https://readmoo.com/book/210258656000101"
+          "url": "https://moo.im/a/bcprUW",
+          "raw_url": "https://readmoo.com/book/210067910000101"
         },
         "goodreads": {
-          "score": 4.0,
-          "count": 4,
-          "url": "https://www.goodreads.com/book/show/138222130",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BR8RDMM6/ref=x_gr_bb_kindle",
-          "confidence": 30,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/p8bv9Z"
-    },
-    {
-      "title": "柳林風聲：年度暢銷書《蛤蟆先生去看心理師",
-      "author": "肯尼斯·葛拉罕",
-      "original_title": "The Wind in the Willows",
-      "isbn": "9789863425809",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/jJ6inmB9YjCGDlHmAduB_Q?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/jJ6inmB9YjCGDlHmAduB_Q.jpg",
-      "sale_price": "NT$99",
-      "date": "10/20",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
-      "on_sale": true,
-      "publisher": "",
-      "publish_date": "2022年12月30日",
-      "language": "中文",
-      "original_author": "Kenneth Grahame",
-      "description": "一本關於友情、冒險的童話，透過生動的田園生活描寫，喚醒內心早被遺忘的純真，找回生命最初的悸動與希望，感受真摯而深刻的人生哲理。故事就從鼴鼠被春天氣息所召喚而離開地底生活，遇見柳岸邊的河鼠開始。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 4.67,
-          "count": 12,
-          "url": "https://www.kobo.com/tw/zh/ebook/jJ6inmB9YjCGDlHmAduB_Q?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 11,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050149488?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.1,
-          "count": 39,
-          "url": "https://moo.im/a/tzAFPT",
-          "raw_url": "https://readmoo.com/book/210258590000101"
-        },
-        "goodreads": {
-          "score": 3.89,
-          "count": 19,
-          "url": "https://www.goodreads.com/book/show/1074535",
+          "score": 3.6,
+          "count": 335,
+          "url": "https://www.goodreads.com/book/show/24612237",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/0684180006/ref=x_gr_bb_amazon",
-          "confidence": 80,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.8,
-          "count": 6,
-          "url": "https://www.amazon.com/gp/product/0684180006/ref=x_gr_bb_amazon"
-        }
-      },
-      "avg_score": 4.14,
-      "short_affiliate_url": "https://reurl.cc/vGbvpk"
-    },
-    {
-      "title": "思考致富：全球銷售七千萬冊，洛克菲勒、福特、卡內基的財富締造機密",
-      "author": "拿破崙．希爾",
-      "original_title": "Think and Grow Rich",
-      "isbn": "9786267442593",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8Xa4LHOkrjm3RL4D0c3ftw?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015",
-      "kobo_price": "NT$238",
-      "cover_url": "covers/8Xa4LHOkrjm3RL4D0c3ftw.jpg",
-      "sale_price": "NT$99",
-      "date": "10/21",
-      "sale_start": "2026-10-15",
-      "sale_end": "2026-10-21",
-      "on_sale": true,
-      "publisher": "方舟文化",
-      "publish_date": "2024年8月7日",
-      "language": "中文",
-      "original_author": "Napoleon Hill",
-      "description": "改變3億人生命，史上最暢銷勵志致富書。書中明確列出希爾的13步致富法則，透過自我暗示、想像力與潛意識，將你所知的一切組織為計畫，現在，致富需要的祕訣，已經實實在在地掌握在你手中。",
-      "last_updated": "2026-10-15T08:24:57.665910+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 4.29,
-          "count": 7,
-          "url": "https://www.kobo.com/tw/zh/ebook/8Xa4LHOkrjm3RL4D0c3ftw?sId=73fa6d20-f557-422a-b3b6-46ba64712cb6&ssId=tDOHuZr210hpdAjmUi3lP&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=+coin99_20261015"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050228688?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 95,
-          "url": "https://moo.im/a/3quBQS",
-          "raw_url": "https://readmoo.com/book/210114929000101"
-        },
-        "goodreads": {
-          "score": 4.16,
-          "count": 397028,
-          "url": "https://www.goodreads.com/book/show/38335207",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B079K94L8K/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B010KN2WES/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 492,
-          "url": "https://www.amazon.com/gp/product/B079K94L8K/ref=x_gr_bb_kindle"
+          "score": 4.1,
+          "count": 150,
+          "url": "https://www.amazon.com/gp/product/B010KN2WES/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/Z8dVZW"
+      "avg_score": 4.02,
+      "short_affiliate_url": "https://reurl.cc/QNAOYZ"
+    },
+    {
+      "title": "第三種猩猩：人類的身世與未來",
+      "author": "賈德．戴蒙 Jared Diamond",
+      "original_title": "The Third Chimpanzee： The Evolution and Future of the Human Animal",
+      "isbn": "3039571359366",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/m4e8GUiI7jWx3FE0RsukLw?sId=6d370617-1f6e-40ad-b759-ae14d2f98c9c&ssId=_TGbGolIQbK1QySorn4my&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/m4e8GUiI7jWx3FE0RsukLw.jpg",
+      "sale_price": "NT$99",
+      "date": "10/28",
+      "sale_start": "2026-10-22",
+      "sale_end": "2026-10-28",
+      "on_sale": true,
+      "publisher": "時報出版",
+      "publish_date": "2014年5月16日",
+      "language": "中文",
+      "original_author": "Jared Diamond; Rebecca Stefoff",
+      "description": "人類大歷史三部曲前傳。戴蒙逐一檢視人類進化之過程，論證人類是不折不扣的動物之見解，從而對人類社會之重大議題，閱讀本書除能反思「人類乃萬物之靈」此言之狂妄，更將重新界定文化與道德之定義。",
+      "last_updated": "2026-10-22T12:45:34.758882+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/m4e8GUiI7jWx3FE0RsukLw?sId=6d370617-1f6e-40ad-b759-ae14d2f98c9c&ssId=_TGbGolIQbK1QySorn4my&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261022"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050183085?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 54,
+          "url": "https://moo.im/a/79bcRT",
+          "raw_url": "https://readmoo.com/book/210097521000101"
+        },
+        "goodreads": {
+          "score": 4.09,
+          "count": 29115,
+          "url": "https://www.goodreads.com/book/show/160115632",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 140,
+          "url": "https://www.amazon.com/-/zh_TW/Jared-Diamond-ebook/dp/B00FO5W7HU/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.22,
+      "short_affiliate_url": "https://reurl.cc/MW5G34"
     }
   ]
 }

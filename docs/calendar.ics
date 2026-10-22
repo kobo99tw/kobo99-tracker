@@ -7,88 +7,86 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:《AI科學家李飛飛的視界之旅》
-DESCRIPTION:特價 NT$99｜原價 NT$450｜4.4分\nhttps://reurl.cc/mzbyR9\
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:《奇點已近：當人類與AI融合一體》
+DESCRIPTION:特價 NT$99｜原價 NT$520｜4.1分\nhttps://reurl.cc/VnOqY5\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/mzbyR9
-UID:kobo99-2026-w42-01@kobo99-tracker
-DTSTAMP:20261015T021114Z
+URL:https://reurl.cc/VnOqY5
+UID:kobo99-2026-w43-01@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:《超高齡社會的消費行為學：為熟齡者消除「不安
- 、不滿、不便」，就是商機所在！》
-DESCRIPTION:特價 NT$99｜原價 NT$300｜4.0分\nhttps://reurl.cc/aEbdZ9\
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:《有錢人教我的致富心態：學有錢人這樣想錢、生
+ 錢、存錢、花錢，他從月光族變身資產3億富翁！》
+DESCRIPTION:特價 NT$99｜原價 NT$266｜4.2分\nhttps://reurl.cc/90NQDO\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/aEbdZ9
-UID:kobo99-2026-w42-02@kobo99-tracker
-DTSTAMP:20261015T021114Z
+URL:https://reurl.cc/90NQDO
+UID:kobo99-2026-w43-02@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:《霍金传》
-DESCRIPTION:特價 NT$99｜原價 NT$235｜4.1分\nhttps://reurl.cc/k9byML\
- n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/k9byML
-UID:kobo99-2026-w42-03@kobo99-tracker
-DTSTAMP:20261015T021114Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:《美好而粗暴的世界》
+DESCRIPTION:特價 NT$99｜原價 NT$696\nhttps://reurl.cc/Ggylnx\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/Ggylnx
+UID:kobo99-2026-w43-03@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:《告白者》
-DESCRIPTION:特價 NT$99｜原價 NT$336｜4.1分\nhttps://reurl.cc/7YAd4D\
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:《布登布洛克家族》
+DESCRIPTION:特價 NT$99｜原價 NT$559｜4.2分\nhttps://reurl.cc/EYlaVR\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/7YAd4D
-UID:kobo99-2026-w42-04@kobo99-tracker
-DTSTAMP:20261015T021114Z
+URL:https://reurl.cc/EYlaVR
+UID:kobo99-2026-w43-04@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:《超圖解電動車的構造與原理：驅動方式×發展趨
- 勢，通盤了解產業鏈的現況及展望》
-DESCRIPTION:特價 NT$99｜原價 NT$294｜4.2分\nhttps://reurl.cc/yWbvDM\
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:《性為什麼存在？：那些性事的奇怪冷知識， 比你
+ 想像還要獵奇得多》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/eQlZMW\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/yWbvDM
-UID:kobo99-2026-w42-05@kobo99-tracker
-DTSTAMP:20261015T021114Z
+URL:https://reurl.cc/eQlZMW
+UID:kobo99-2026-w43-05@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:《就算長大了，也還是會難過：不完美也沒關係，
- 擁抱自己的55個溫暖練習（人氣韓團SEVENTEEN成員THE 8推薦
- ）》
-DESCRIPTION:特價 NT$99｜原價 NT$254｜4.2分\nhttps://reurl.cc/p8bv9Z\
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:《未來預演（二版）：切斷情緒成癮神經鏈結，四
+ 週改變慣性腦迴路，換一個新未來》
+DESCRIPTION:特價 NT$99｜原價 NT$349｜4.3分\nhttps://reurl.cc/OQ3eYv\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/p8bv9Z
-UID:kobo99-2026-w42-06@kobo99-tracker
-DTSTAMP:20261015T021114Z
+URL:https://reurl.cc/OQ3eYv
+UID:kobo99-2026-w43-06@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:《柳林風聲：年度暢銷書《蛤蟆先生去看心理師》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.1分\nhttps://reurl.cc/vGbvpk\
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:《法國人如何思考？》
+DESCRIPTION:特價 NT$99｜原價 NT$400｜4.0分\nhttps://reurl.cc/QNAOYZ\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/vGbvpk
-UID:kobo99-2026-w42-07@kobo99-tracker
-DTSTAMP:20261015T021114Z
+URL:https://reurl.cc/QNAOYZ
+UID:kobo99-2026-w43-07@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:《思考致富：全球銷售七千萬冊，洛克菲勒、福特
- 、卡內基的財富締造機密》
-DESCRIPTION:特價 NT$99｜原價 NT$238｜4.2分\nhttps://reurl.cc/Z8dVZW\
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:《第三種猩猩：人類的身世與未來》
+DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/MW5G34\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/Z8dVZW
-UID:kobo99-2026-w42-08@kobo99-tracker
-DTSTAMP:20261015T021114Z
+URL:https://reurl.cc/MW5G34
+UID:kobo99-2026-w43-08@kobo99-tracker
+DTSTAMP:20261022T050030Z
 END:VEVENT
 END:VCALENDAR
