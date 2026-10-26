@@ -1,24 +1,32 @@
 {
-  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w43",
-  "updated_at": "2026-10-19T10:33:16.497671+08:00",
+  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w44",
+  "updated_at": "2026-10-26T14:19:29.877715+08:00",
   "books": [
     {
-      "title": "不懂權謀的人，無法做大事：馬基維利教你如何在職場上出人頭地",
-      "author": "馬克．鮑威爾、強納森．季福德",
-      "original_title": "Machiavellian Intelligence: How to Survive and Rise in the Modern Corporation",
-      "original_author": "Mark Powell",
-      "isbn": "9786267752913",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/HB7tVogQOzeycgEGzy4cgw?sId=884d0498-d940-4e78-a553-5cdbbab284d5&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=15&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$300",
-      "cover_url": "covers/HB7tVogQOzeycgEGzy4cgw.jpg",
-      "sale_price": "NT$255",
+      "title": "工作大重組：LinkedIn全球趨勢洞察──AI浪潮下的技能洗牌、職涯轉向與組織新秩序",
+      "author": "萊恩‧羅斯蘭斯基、阿尼許‧拉曼",
+      "original_title": "OPEN TO WORK: How to Get ahead in the Age of AI",
+      "original_author": "Ryan Roslansky",
+      "isbn": "9786267916360",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/linkedin-ai?sId=9d0a4761-25e2-4ccc-93f7-27ab44597c68&ssId=CNg2AsIf6uxB8ZxhtrlpC&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$375",
+      "cover_url": "covers/linkedin-ai.jpg",
+      "sale_price": "NT$319",
       "price_source": "kobo",
       "sale_end": "",
-      "description": "職場險惡，每個人都在玩權謀，想生存想發達，你要看懂大家的把戲！如果你的職位不上不下，你的存在對公司可有可無，那麼隨時失業的夢魘，將一輩子跟著你！最直白的職場競爭手冊，想擺脫現況，你一定要讀！",
-      "publish_date": "2026年5月13日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "全球最大職場平台LinkedIn畫出AI時代的工作轉型地圖。即使你沒有換工作，你的工作也已經改變！未來真正拉開差距的，是自我進化的速度。本書將帶領你重新拆解工作、升級能力，打造AI時代新競爭優勢。",
+      "publish_date": "2026年9月9日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
+        "企業與金融",
+        "生涯規劃與求職",
+        "職業",
+        "非小說",
+        "健康與幸福",
+        "自助",
+        "自我改善",
+        "成功",
         "企業與金融",
         "生涯規劃與求職"
       ],
@@ -26,77 +34,137 @@
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/HB7tVogQOzeycgEGzy4cgw?sId=884d0498-d940-4e78-a553-5cdbbab284d5&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=15&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/linkedin-ai?sId=9d0a4761-25e2-4ccc-93f7-27ab44597c68&ssId=CNg2AsIf6uxB8ZxhtrlpC&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
+          "score": 4.5,
+          "count": 9,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050354420?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 2,
+          "url": "https://moo.im/a/8fBJTU",
+          "raw_url": "https://readmoo.com/book/210499682000101"
+        },
+        "goodreads": {
+          "score": 3.4,
+          "count": 591,
+          "url": "https://www.goodreads.com/book/show/243013855",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 259,
+          "url": "https://www.amazon.com/-/zh_TW/Ryan-Roslansky-ebook/dp/B0FX519BHF/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.05,
+      "short_affiliate_url": "https://reurl.cc/Xx8Ggg"
+    },
+    {
+      "title": "為什麼大腦需要交朋友：神經科學家教你用「社交連結」活化大腦",
+      "author": "雷恩",
+      "original_title": "Why Brains Need Friends: The Neuroscience of Social Connection",
+      "original_author": "Ben Rein",
+      "isbn": "9786264701471",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/iFxOs4b1wT-PbG3t9CH5Zg?sId=918a8a6e-9a7c-443e-beae-3a4ba7eb6932&ssId=H-7SiO2YlMWqvDuXrtbpt&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/iFxOs4b1wT-PbG3t9CH5Zg.jpg",
+      "sale_price": "NT$287",
+      "price_source": "readmoo_orig",
+      "sale_end": "",
+      "description": "「唯一會感到孤獨的器官」實用指南，告訴你如何滋養大腦。本書先從社交行為的角度書寫，瞭解社會互動的全貌，再以神經科學為後盾做出解釋。當我們能夠將行為與腦內分子連結時，我們的知識深度就會超越表面。",
+      "publish_date": "2026年9月24日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
+      "genre_tags": [
+        "非小說",
+        "科學與自然",
+        "科學",
+        "非小說",
+        "家庭與關係"
+      ],
+      "ratings": {
+        "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050333630?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "url": "https://www.kobo.com/tw/zh/ebook/iFxOs4b1wT-PbG3t9CH5Zg?sId=918a8a6e-9a7c-443e-beae-3a4ba7eb6932&ssId=H-7SiO2YlMWqvDuXrtbpt&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
+        },
+        "books_com": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357536?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": 4.3,
           "count": 3,
-          "url": "https://moo.im/a/3tyKOW",
-          "raw_url": "https://readmoo.com/book/210472726000101"
+          "url": "https://moo.im/a/34fiJX",
+          "raw_url": "https://readmoo.com/book/210502754000101"
         },
         "goodreads": {
-          "score": 4.1,
-          "count": 41,
-          "url": "https://www.goodreads.com/book/show/36985704",
+          "score": 3.92,
+          "count": 582,
+          "url": "https://www.goodreads.com/book/show/226744097",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0777R4JJW/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 42,
-          "url": "https://www.amazon.com/gp/product/B0777R4JJW/ref=x_gr_bb_kindle"
+          "score": 4.5,
+          "count": 93,
+          "url": "https://www.amazon.com/-/zh_TW/Ben-Rein-PhD-ebook/dp/B0DW3QNLMX/ref=sr_1_1"
         }
       },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/6X3K8r"
+      "avg_score": 4.13,
+      "short_affiliate_url": "https://reurl.cc/berVgo"
     },
     {
-      "title": "中年理財：給上有老，下有小，不敢倒下的你，重建人生的財務主導權",
-      "author": "雨果",
+      "title": "劉必榮的領導筆記：上位的謀略、在位的智慧、交棒的藝術",
+      "author": "劉必榮",
       "original_title": "",
       "original_author": null,
-      "isbn": "9786264178860",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vHOtzg2XlzKy4W4I5bAl0w?sId=fca2e016-fd48-46fb-9e46-ba0633d6040f&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/vHOtzg2XlzKy4W4I5bAl0w.jpg",
-      "sale_price": "NT$287",
+      "isbn": "9789861345772",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/EG2h9vlLnTulK7xRGgt1Sw?sId=0c4b0ea2-47ba-4917-8908-861c42b3d837&ssId=7YOy1fQujRgJKTtaek5zO&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$322",
+      "cover_url": "covers/EG2h9vlLnTulK7xRGgt1Sw.jpg",
+      "sale_price": "NT$274",
       "price_source": "kobo",
       "sale_end": "",
-      "description": "中年危機通常是財務危機，所以你需要中年理財！本書是寫給上有老，下有小，舉步維艱的你，幫助你重建人生的主導權。透過從「選股瞎忙」到轉向「財務穩健增長」的心路歷程，只要看清現實、發揮中年特有籌碼，就能在變故中守住選擇權。",
-      "publish_date": "2026年5月29日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "劉必榮教授首部領導力著作！在權力流動中，搞定敵人、組織團隊、穩住贏面，領導不只是能力與特質，更是對環境、時機與分寸的判讀！本書將解析權力的流動與消長，教你看懂不同性格的老闆、在現在的位子上游刃有餘！",
+      "publish_date": "2026年7月1日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
+        "非小說",
+        "社會與文化研究",
+        "政治學",
+        "政治學",
+        "領導能力",
         "企業與金融",
-        "金融與投資",
-        "財務",
-        "企業與金融",
-        "個人財務",
-        "投資"
+        "管理與領導",
+        "領導能力"
       ],
       "ratings": {
         "kobo": {
-          "score": 4.0,
+          "score": 5.0,
           "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/vHOtzg2XlzKy4W4I5bAl0w?sId=fca2e016-fd48-46fb-9e46-ba0633d6040f&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/EG2h9vlLnTulK7xRGgt1Sw?sId=0c4b0ea2-47ba-4917-8908-861c42b3d837&ssId=7YOy1fQujRgJKTtaek5zO&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050335369?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050341616?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": 5.0,
-          "count": 3,
-          "url": "https://moo.im/a/aprNUY",
-          "raw_url": "https://readmoo.com/book/210475185000101"
+          "count": 6,
+          "url": "https://moo.im/a/18jxFJ",
+          "raw_url": "https://readmoo.com/book/210482966000101"
         },
         "goodreads": {
           "score": null,
@@ -113,105 +181,101 @@
           "url": ""
         }
       },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/1laK9D"
+      "avg_score": 4.18,
+      "short_affiliate_url": "https://reurl.cc/3ynXWl"
     },
     {
-      "title": "自我養育：用渴望被愛的方式愛自己，父母給不了的，可以自己給",
-      "author": "陳永康",
-      "original_title": "Parent Yourself Again: Love Yourself the Way You Have Always Wanted to Be Loved",
-      "original_author": "Yong Kang Chan",
-      "isbn": "9786263909632",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/kStV2EZoOTS-rPbxuHvjqA?sId=884d0498-d940-4e78-a553-5cdbbab284d5&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=14&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$320",
-      "cover_url": "covers/kStV2EZoOTS-rPbxuHvjqA.jpg",
-      "sale_price": "NT$272",
-      "price_source": "kobo",
+      "title": "麥肯錫百年鉅獻！頂尖CEO的蛻變修煉",
+      "author": "卡羅琳．杜瓦、斯科特．凱勒、維克拉姆．馬爾霍特拉、科特．史卓文克",
+      "original_title": "Adobe、IBM、Netflix、微軟、高盛……全球高績效執行長的成長心法與智慧【隨書附「麥肯錫獨門工具：執行長的六大反思練習」】",
+      "original_author": "Carolyn Dewar",
+      "isbn": "9786264314398",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ceo-95?sId=f00d669a-f981-42a3-96cf-877017a11a04&ssId=XaEAJnbTl61eXipNgqwKm&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/ceo-95.jpg",
+      "sale_price": "NT$268",
+      "price_source": "readmoo_orig",
       "sale_end": "",
-      "description": "不再期待父母改變，從內在建立穩定的安全感，停止重複童年的缺失。本書帶你了解原生家庭與童年經驗是如何塑造了現在的你，也教你如何學會建立「內在父母」、安撫「內在小孩」。從理解開始，當你學會自我養育，過去就不會再決定你！",
-      "publish_date": "2026年6月2日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "全球第一顧問公司麥肯錫100週年重磅新作。本書集結全球高績效執行長的成長心法與智慧，首度用「四季」拆解他們的蛻變修煉，無論你是執行長、創業家或投資人，都能幫你看懂時機、少走彎路、做對選擇、優雅交棒！",
+      "publish_date": "2026年10月1日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "自助",
-        "自我改善",
-        "肯定"
+        "企業與金融",
+        "管理與領導",
+        "領導能力"
       ],
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/kStV2EZoOTS-rPbxuHvjqA?sId=884d0498-d940-4e78-a553-5cdbbab284d5&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=14&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/ceo-95?sId=f00d669a-f981-42a3-96cf-877017a11a04&ssId=XaEAJnbTl61eXipNgqwKm&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050338158?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050358390?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/5eizMW",
-          "raw_url": "https://readmoo.com/book/210478149000101"
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/2hnvNZ",
+          "raw_url": "https://readmoo.com/book/210502824000101"
         },
         "goodreads": {
-          "score": 3.74,
-          "count": 501,
-          "url": "https://www.goodreads.com/book/show/40962310",
-          "note": "title+author",
-          "amazon_url": "",
-          "confidence": 75,
-          "cross_validated": null
+          "score": 4.16,
+          "count": 1834,
+          "url": "https://www.goodreads.com/book/show/58438620",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09843YZ83/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": false
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 743,
-          "url": "https://www.amazon.com/-/zh_TW/Yong-Kang-Chan-ebook/dp/B07FP3KW25/ref=sr_1_1"
+          "score": 4.6,
+          "count": 162,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0DV6DSYX6/ref=sr_1_1"
         }
       },
-      "avg_score": 4.12,
-      "short_affiliate_url": "https://reurl.cc/jVj9zM"
+      "avg_score": 4.24,
+      "short_affiliate_url": "https://reurl.cc/EY0jy0"
     },
     {
-      "title": "意想不到的靈媒：一位前美國軍方高層，還有她的通靈工作",
-      "author": "蘇珊．吉斯曼",
-      "original_title": "",
-      "original_author": "Suzanne Giesemann",
-      "isbn": "9786267571460",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/72E5oeOdvD2fwf2EV9Vvqw?sId=fca2e016-fd48-46fb-9e46-ba0633d6040f&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$357",
-      "cover_url": "covers/72E5oeOdvD2fwf2EV9Vvqw.jpg",
-      "sale_price": "NT$303",
-      "price_source": "kobo",
+      "title": "股神的養成：巴菲特從財報拆解到精準重押的10個決策思維",
+      "author": "布雷特．加德納 Brett Gardner",
+      "original_title": "Buffett’s EARLY INVESTMENTS: A new investigation into the decades when Warren Buffett earned his best returns",
+      "original_author": null,
+      "isbn": "9786267549681",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/4FyAZZTjtTyQNPp3TxPIUA?sId=0860948d-c6be-434a-a295-d3d86967c882&ssId=iVlco02-qrUJz4aVg_o8A&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$322",
+      "cover_url": "covers/4FyAZZTjtTyQNPp3TxPIUA.jpg",
+      "sale_price": "NT$274",
+      "price_source": "readmoo_orig",
       "sale_end": "",
-      "description": "其通靈能力更是經多名科學家驗證，人們稱她為「希望的傳訊者」！在繼女遭雷擊身亡後，作者下定決心要連結上她的靈魂。在探索各種方法的過程中，她意外地啟動了自己通靈的能力，不僅連結上了自己的繼女，更開始協助眾多靈魂傳遞訊息。",
-      "publish_date": "2026年10月5日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "股神從不只買完美好公司，你怎麼在瑕疵中看待風險，決定了財富的翻倍速度。深度還原巴菲特成名前「報酬率最高」的黃金時期！重建大師用不完美財報「逆向重押」的10個實戰修練，完整看見股神投資思維的早期演變。",
+      "publish_date": "2026年10月1日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
-        "非小說",
-        "宗教與靈性",
-        "啟發與沉思",
-        "靈性"
+        "企業與金融",
+        "個人財務"
       ],
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/72E5oeOdvD2fwf2EV9Vvqw?sId=fca2e016-fd48-46fb-9e46-ba0633d6040f&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/4FyAZZTjtTyQNPp3TxPIUA?sId=0860948d-c6be-434a-a295-d3d86967c882&ssId=iVlco02-qrUJz4aVg_o8A&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357408?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050358779?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/afptCV",
-          "raw_url": "https://readmoo.com/book/210501648000101"
+          "score": 2.0,
+          "count": 1,
+          "url": "https://moo.im/a/2hlszT",
+          "raw_url": "https://readmoo.com/book/210503390000101"
         },
         "goodreads": {
           "score": null,
@@ -223,30 +287,30 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%98%87%E7%8F%8A%EF%BC%8E%E5%90%89%E6%96%AF%E6%9B%BC-ebook/dp/B0HK7XRMBD/ref=sr_1_1"
+          "score": 4.5,
+          "count": 193,
+          "url": "https://www.amazon.com/-/zh_TW/Brett-Gardner-ebook/dp/B0HKK775WX/ref=sr_1_1"
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/omo8kD"
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/Wzmxg9"
     },
     {
-      "title": "視覺排毒：辨識視覺語言背後隱藏的訊息，擺脫視覺操控、重拾身心平衡",
-      "author": "瑪琳．唐吉",
-      "original_title": "The Visual Detox: How to Consume Media Without Letting It Consume You",
+      "title": "我不同意你（但我願意聽）：看清事實，找回雅量，政治極化時代最需要的一本書",
+      "author": "莎拉．史都華．荷蘭、貝絲．席爾弗斯",
+      "original_title": "I Think You're Wrong (But I'm Listening): A Guide to Grace-Filled Political Conversations",
       "original_author": null,
-      "isbn": "9786267901533",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1mb76Ea5MTWhcZfdgAJqoQ?sId=fca2e016-fd48-46fb-9e46-ba0633d6040f&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$370",
-      "cover_url": "covers/1mb76Ea5MTWhcZfdgAJqoQ.jpg",
-      "sale_price": "NT$315",
+      "isbn": "9786267685945",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DM8RfRwTaDO2tmUMfDN1lg?sId=f82cbd7b-f677-4025-9b65-4b7f577cd21d&ssId=xISQ3vrbsaHqB_sqf36LU&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/DM8RfRwTaDO2tmUMfDN1lg.jpg",
+      "sale_price": "NT$268",
       "price_source": "readmoo_orig",
       "sale_end": "",
-      "description": "視覺語言已全面滲透日常生活，操控與被操控更是存於無形、無處不在。本書將帶領你我擺脫視覺語言的操控，重獲掌控感、再次置身內心平靜的新世界！書中提供四週視覺排毒計畫的實踐方法，讓視覺排毒計畫能立即從個人開始著手行動！",
-      "publish_date": "2026年9月23日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "在政黨撕裂、對立加劇的時代，我們是否還有好好說話的可能？播客《褲裝政治》主持人莎拉與貝絲，將在本書中抽絲剝繭，帶你審視自身的信念與價值觀。脫下黨派球衣，我們才會發現：原來我們始終站在一起！",
+      "publish_date": "2026年10月1日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
         "非小說",
         "健康與幸福",
@@ -257,63 +321,54 @@
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/1mb76Ea5MTWhcZfdgAJqoQ?sId=fca2e016-fd48-46fb-9e46-ba0633d6040f&ssId=Luw0ChugA2FIxXO-jxWQF&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/DM8RfRwTaDO2tmUMfDN1lg?sId=f82cbd7b-f677-4025-9b65-4b7f577cd21d&ssId=xISQ3vrbsaHqB_sqf36LU&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
-          "score": 3.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050356689?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357711?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://moo.im/a/5dgtPY",
-          "raw_url": "https://readmoo.com/book/210501954000101"
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/gorMTV",
+          "raw_url": "https://readmoo.com/book/210502169000101"
         },
         "goodreads": {
-          "score": 4.3,
-          "count": 106,
-          "url": "https://www.goodreads.com/book/show/128657339",
+          "score": 4.07,
+          "count": 4851,
+          "url": "https://www.goodreads.com/book/show/40591258",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C7G6NSVJ/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B07DT3PM3R/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 27,
-          "url": "https://www.amazon.com/gp/product/B0C7G6NSVJ/ref=x_gr_bb_kindle"
+          "count": 1250,
+          "url": "https://www.amazon.com/gp/product/B07DT3PM3R/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/Lezay3"
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/OQNMgy"
     },
     {
-      "title": "超級代理效應：AI全面賦能時代！矽谷傳奇創業家霍夫曼寫給每個人的關鍵行動原則",
-      "author": "雷德・霍夫曼、葛雷格・比托",
-      "original_title": "SUPERAGENCY: What Could Possibly Go Right with Our AI Future",
-      "original_author": "Reid Hoffman",
-      "isbn": "9786267916339",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-627?sId=91b7f927-7783-4efd-8a70-f3f41d93a0c5&ssId=n7NzGN39ekWco5UsYoHh6&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$375",
-      "cover_url": "covers/ai-627.jpg",
-      "sale_price": "NT$319",
-      "price_source": "kobo",
+      "title": "孤注一治：精神醫學治療精神疾病的顛簸征途",
+      "author": "安德魯‧史考爾",
+      "original_title": "Desperate Remedies: Psychiatry’s Turbulent Quest to Cure Mental Illness",
+      "original_author": "Andrew Scull",
+      "isbn": "9786267462997",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/j-FUDWcTPj2gdqUaH8uI9A?sId=3583f93a-d7a1-4b72-9d05-c9d765256604&ssId=YYIyyx3_KphbJyGL5yXAg&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$600",
+      "cover_url": "covers/j-FUDWcTPj2gdqUaH8uI9A.jpg",
+      "sale_price": "NT$510",
+      "price_source": "readmoo_orig",
       "sale_end": "",
-      "description": "關於AI，LinkedIn共同創辦人霍夫曼提出了另一條路：在真實世界中持續行動、驗證與修正，讓AI提升更多人的判斷力、創造力與行動力。當個人的增能透過社會連結加乘並引爆整體能力躍升，這就是超級代理效應！",
-      "publish_date": "2026年8月4日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "瘋狂可以治癒嗎？很少有人能躲開精神疾病的摧殘。主流之見告訴我們，精神疾病就像其他疾病，應該由專業醫師治療，而他們主要的目的是緩解痛苦，如果能讓錯亂者重回清明者之列更好。問題是，精神科醫師如何達成這些目標？",
+      "publish_date": "2026年7月8日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
-        "非小說",
-        "社會與文化研究",
-        "政治學",
-        "政府",
-        "公共政策",
-        "非小說",
-        "電腦",
-        "進階運算",
-        "人工智慧",
         "非小說",
         "社會與文化研究",
         "社會科學"
@@ -322,108 +377,162 @@
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ai-627?sId=91b7f927-7783-4efd-8a70-f3f41d93a0c5&ssId=n7NzGN39ekWco5UsYoHh6&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/j-FUDWcTPj2gdqUaH8uI9A?sId=3583f93a-d7a1-4b72-9d05-c9d765256604&ssId=YYIyyx3_KphbJyGL5yXAg&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
-          "score": 3.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050348566?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050343337?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
           "score": 5.0,
           "count": 1,
-          "url": "https://moo.im/a/agJLXY",
-          "raw_url": "https://readmoo.com/book/210491343000101"
+          "url": "https://moo.im/a/8bcePZ",
+          "raw_url": "https://readmoo.com/book/210486035000101"
         },
         "goodreads": {
-          "score": 3.32,
-          "count": 1270,
-          "url": "https://www.goodreads.com/book/show/216336470",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0D886ZQHY/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "score": 4.09,
+          "count": 485,
+          "url": "https://www.goodreads.com/book/show/58885869",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B09X215B3P/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 384,
-          "url": "https://www.amazon.com/gp/product/B0D886ZQHY/ref=x_gr_bb_kindle"
+          "score": 4.6,
+          "count": 199,
+          "url": "https://www.amazon.com/gp/product/B09X215B3P/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.01,
-      "short_affiliate_url": "https://reurl.cc/DYQqz6"
+      "avg_score": 4.21,
+      "short_affiliate_url": "https://reurl.cc/QNqRgM"
     },
     {
-      "title": "阿爾卑斯看臺的母親",
-      "author": "早見和真",
-      "original_title": "アルプス席の母",
-      "original_author": null,
-      "isbn": "9786267873557",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/top2-3?sId=91b7f927-7783-4efd-8a70-f3f41d93a0c5&ssId=n7NzGN39ekWco5UsYoHh6&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$332",
-      "cover_url": "covers/top2-3.jpg",
-      "sale_price": "NT$282",
+      "title": "FBI建立交情的技術：觀察對方肢體語言，不只「讀心」，適時展現或掩飾自己的肢體語言，能建立信任、化開誤解，關係變親近。",
+      "author": "喬．納瓦羅",
+      "original_title": "Mastering Connections: Build Stronger Relationships With the Science of Body Language",
+      "original_author": "Joe Navarro",
+      "isbn": "9786267908549",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/fbi-73?sId=2fd2dddb-5aac-484d-85b3-50193c0bb6f2&ssId=kDrByrewXJeFUxrZWPce3&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$360",
+      "cover_url": "covers/fbi-73.jpg",
+      "sale_price": "NT$306",
       "price_source": "readmoo_orig",
       "sale_end": "",
-      "description": "以母親的視角細膩描繪，傾注作者全力打造，前所未見的嶄新青春小說，正式登場！這個故事，必定讓所有人淚腺失守！壓倒性的「日常感」與「真實感」，從翻開書的那一刻起，保證能體驗到宛如情感雲霄飛車般的閱讀感受！",
-      "publish_date": "2026年7月20日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "任職FBI的25年間，他體會到肢體語言不只能用來讀心，你更要利用自己的肢體語言，建立信任、化解誤解，讓彼此關係變親近。例如，面對驚嚇過度的目擊者，納瓦羅得在短時間內取得信任，而這都得靠眼神、姿勢等肢體語言，快速產生連結！",
+      "publish_date": "2026年9月29日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
-        "小說與文學",
-        "文學"
+        "非小說",
+        "家庭與關係"
       ],
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/top2-3?sId=91b7f927-7783-4efd-8a70-f3f41d93a0c5&ssId=n7NzGN39ekWco5UsYoHh6&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/fbi-73?sId=2fd2dddb-5aac-484d-85b3-50193c0bb6f2&ssId=kDrByrewXJeFUxrZWPce3&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050358391?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/bgpuSZ",
+          "raw_url": "https://readmoo.com/book/210503881000101"
+        },
+        "goodreads": {
+          "score": 4.21,
+          "count": 30,
+          "url": "https://www.goodreads.com/book/show/241096230",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FPG27T65/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 17,
+          "url": "https://www.amazon.com/-/zh_TW/Joe-Navarro-ebook/dp/B0FPG27T65/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/MWQOgp"
+    },
+    {
+      "title": "昨年（昨年映像經典版）：讓安‧海瑟薇一口氣讀到天黑的小說！年度話題神作，席捲歐美文壇！",
+      "author": "卡羅．克萊兒．柏克",
+      "original_title": "Yesteryear",
+      "original_author": "Caro Claire Burke",
+      "isbn": "9789573344650",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/n5HV0bstgTeIa_dSMbMn2w?sId=4276ccc5-1f44-4f93-beb9-f2f2f9c3b2ca&ssId=KmPeze-saSxIcgZ5OL5um&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$365",
+      "cover_url": "covers/n5HV0bstgTeIa_dSMbMn2w.jpg",
+      "sale_price": "NT$310",
+      "price_source": "readmoo_orig",
+      "sale_end": "",
+      "description": "年度話題神作，席捲歐美文壇！娜塔莉原本是一名生活風格網紅，她歌頌幸福的傳統生活，但這份完美背後藏著滿滿偽裝。直到某天，她一覺醒來，門框上看見刻滿名字與年份的痕跡，而最新的一道刻痕寫著一八五五年。",
+      "publish_date": "2026年9月4日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
+      "genre_tags": [
+        "小說與文學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": 4.02,
+          "count": 42,
+          "url": "https://www.kobo.com/tw/zh/ebook/n5HV0bstgTeIa_dSMbMn2w?sId=4276ccc5-1f44-4f93-beb9-f2f2f9c3b2ca&ssId=KmPeze-saSxIcgZ5OL5um&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
           "score": 5.0,
-          "count": 6,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050345465?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 92,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050354708?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.4,
-          "count": 10,
-          "url": "https://moo.im/a/4dqxHO",
-          "raw_url": "https://readmoo.com/book/210487106000101"
+          "score": 4.1,
+          "count": 167,
+          "url": "https://moo.im/a/7fgmJL",
+          "raw_url": "https://readmoo.com/book/210498448000101"
         },
         "goodreads": {
-          "score": 3.96,
-          "count": 21,
-          "url": "https://www.goodreads.com/book/show/216783717",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0H8S6S4KV/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": false
+          "score": 3.83,
+          "count": 1102995,
+          "url": "https://www.goodreads.com/book/show/238226942",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FH1V3D9M/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 980,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0CXPMC671/ref=sr_1_1"
+          "score": 4.1,
+          "count": 134477,
+          "url": "https://www.amazon.com/gp/product/B0FH1V3D9M/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.23,
-      "short_affiliate_url": "https://reurl.cc/XxYA1e"
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/NOMQgk"
     },
     {
-      "title": "曉星：2026本屋大賞入圍作！湊佳苗自認最喜歡的一部作品！",
-      "author": "湊佳苗、湊かなえ",
-      "original_title": "暁星",
+      "title": "法醫秦明：屍語者1",
+      "author": "法醫秦明",
+      "original_title": "",
       "original_author": null,
-      "isbn": "9789573344599",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/yl1-z1l9wzKNKKjz7PoOtg?utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$335",
-      "cover_url": "covers/yl1-z1l9wzKNKKjz7PoOtg.jpg",
-      "sale_price": "NT$285",
-      "price_source": "kobo",
+      "isbn": "9786264600750",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/HtU0jNL7MT-5HysqXmEclg?sId=094fee4d-bf0c-4797-9c86-c87c7741b848&ssId=9A9_hXax2q0ZO226XsU9W&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026",
+      "kobo_price": "NT$380",
+      "cover_url": "covers/HtU0jNL7MT-5HysqXmEclg.jpg",
+      "sale_price": "NT$323",
+      "price_source": "readmoo_orig",
       "sale_end": "",
-      "description": "明明是大量有毒題材，最後竟感到救贖。最後一行會顛覆世界，湊佳苗文學的極致高度。回過神來，我已經殺了那個人。我的目標只有一個──那個曾用文字把我父親逼上絕路的人，那個剝削弱者、從教會得到權力與甜頭的卑鄙傢伙……",
-      "publish_date": "2026年7月27日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
+      "description": "現象級懸疑品牌原點，法醫刑偵小說必讀經典！屍體是不會說謊的，我們唯一相信的，就是屍體要告訴我們的話。收錄真實刑案改編故事，直擊法醫工作的最前線。沒有刻意營造的驚悚，只有最真實的解剖細節與人性掙扎。",
+      "publish_date": "2026年7月2日",
+      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "listed_at": "2026-10-26",
       "genre_tags": [
         "小說與文學"
       ],
@@ -431,75 +540,18 @@
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/yl1-z1l9wzKNKKjz7PoOtg?utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
+          "url": "https://www.kobo.com/tw/zh/ebook/HtU0jNL7MT-5HysqXmEclg?sId=094fee4d-bf0c-4797-9c86-c87c7741b848&ssId=9A9_hXax2q0ZO226XsU9W&cPos=1&utm_source=twblog&utm_medium=85x85liste&utm_campaign=8585_20261026"
         },
         "books_com": {
-          "score": 5.0,
-          "count": 8,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050347844?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": 4.5,
+          "count": 4,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050345196?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.2,
-          "count": 33,
-          "url": "https://moo.im/a/4cdFGS",
-          "raw_url": "https://readmoo.com/book/210488861000101"
-        },
-        "goodreads": {
-          "score": 4.29,
-          "count": 36,
-          "url": "https://www.goodreads.com/book/show/243018339",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FWLVFG3J/ref=x_gr_bb_amazon",
-          "confidence": 40,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 553,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0FWLWKYHC/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/bejWQX"
-    },
-    {
-      "title": "你的情緒，90％由血糖決定：日本漢方營養醫學專家親授，穩定血糖、調節自律神經，告別莫名疲倦、焦躁易怒、夜夜淺眠，找回情緒與身體的最佳狀態",
-      "author": "小池雅美",
-      "original_title": "気分の9割は血糖値",
-      "original_author": null,
-      "isbn": "9786267969205",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VrjcuJ0k1juJT_i8aYoY3A?sId=62029b76-65a5-4912-846c-d3dad9cfe1bf&ssId=tzX3iSqFwzH_-ce8eKKvQ&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/VrjcuJ0k1juJT_i8aYoY3A.jpg",
-      "sale_price": "NT$287",
-      "price_source": "readmoo_orig",
-      "sale_end": "",
-      "description": "莫名疲倦、焦躁易怒、夜夜淺眠？你的問題可能不在壓力，而是血糖劇烈波動！本書的目的，就是透過「控制血糖」，改善你生活中的各種不適！從飲食選擇到壓力管理，帶你從日常著手，讓「穩定血糖」成為每天都能做到的習慣。",
-      "publish_date": "2026年9月16日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "健康",
-        "營養與飲食"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/VrjcuJ0k1juJT_i8aYoY3A?sId=62029b76-65a5-4912-846c-d3dad9cfe1bf&ssId=tzX3iSqFwzH_-ce8eKKvQ&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050356225?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 5.0,
+          "score": 4.0,
           "count": 3,
-          "url": "https://moo.im/a/02vQWZ",
-          "raw_url": "https://readmoo.com/book/210499825000101"
+          "url": "https://moo.im/a/esuvCZ",
+          "raw_url": "https://readmoo.com/book/210487592000101"
         },
         "goodreads": {
           "score": null,
@@ -511,67 +563,13 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.3,
-          "count": 110,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4492048081/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E6%B3%95%E5%8C%BB%E7%A7%A6%E6%98%8E-%E5%B9%B8%E5%AD%98%E8%80%85/dp/7559655637/ref=sr_1_4"
         }
       },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/4Y7LK3"
-    },
-    {
-      "title": "別對我說謊",
-      "author": "芙麗達．麥法登",
-      "original_title": "Never Lie",
-      "original_author": "Freida McFadden",
-      "isbn": "9786264430500",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SikWFo-B6DegnSHRvFWAqQ?sId=8219e63a-9364-4707-ae82-5deb9bac7f0d&ssId=5obRnwCcojxBLgUaBBGNZ&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019",
-      "kobo_price": "NT$320",
-      "cover_url": "covers/SikWFo-B6DegnSHRvFWAqQ.jpg",
-      "sale_price": "NT$272",
-      "price_source": "kobo",
-      "sale_end": "",
-      "description": "要守住兩人知道的秘密，就必須殺掉其中一人。美國銷量突破100萬冊，確定改編電影！每一捲錄音帶都讓一塊震驚的拼圖歸位，但當翠西亞即將聽到最後一捲、也就是揭開整個恐怖真相的那捲錄音帶時，恐怕一切都已經太遲了……",
-      "publish_date": "2026年5月7日",
-      "last_updated": "2026-10-19T10:33:16.497671+08:00",
-      "listed_at": "2026-10-19",
-      "genre_tags": [
-        "神秘與懸疑"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": 3.8,
-          "count": 5,
-          "url": "https://www.kobo.com/tw/zh/ebook/SikWFo-B6DegnSHRvFWAqQ?sId=8219e63a-9364-4707-ae82-5deb9bac7f0d&ssId=5obRnwCcojxBLgUaBBGNZ&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261019"
-        },
-        "books_com": {
-          "score": 3.0,
-          "count": 7,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050331314?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 52,
-          "url": "https://moo.im/a/0fpyDK",
-          "raw_url": "https://readmoo.com/book/210475364000101"
-        },
-        "goodreads": {
-          "score": 4.07,
-          "count": 1796045,
-          "url": "https://www.goodreads.com/book/show/62080187",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BBL2ZW73/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 368681,
-          "url": "https://www.amazon.com/gp/product/B0BBL2ZW73/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.15,
-      "short_affiliate_url": "https://reurl.cc/GgRn8x"
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/RRVqgx"
     }
   ]
 }
