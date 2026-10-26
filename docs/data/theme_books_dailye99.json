@@ -1,57 +1,7 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-10-22T19:03:03.417498+08:00",
+  "updated_at": "2026-10-26T15:29:09.337783+08:00",
   "books": [
-    {
-      "title": "圖解認知偏誤！避開99%思考陷阱：人類並不理性！打破慣性偏見，建立強大思維",
-      "author": "情報文化研究所、山﨑紗紀子、宮代こずゑ、菊池由希子、高橋昌一郎（監修）",
-      "original_title": "情報を正しく選択するための認知バイアス事典",
-      "original_author": "Sakiko Yamasaki; Kozue Miyashiro",
-      "isbn": "9789862897058",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/02/E050130269.jpg&v=62620ab9k&w=1146&h=600",
-      "publish_date": "2022/05/01",
-      "date_start": "10/22",
-      "date_end": "10/22",
-      "date_label": "10/22(四)",
-      "product_url": "https://www.books.com.tw/products/E050130269",
-      "daily_price": 99,
-      "daily_price_reg": 420,
-      "last_updated": "2026-10-22T19:03:03.417498+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050130269?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 6,
-          "url": "https://moo.im/a/bcglqI",
-          "raw_url": "https://readmoo.com/book/210228729000101"
-        },
-        "goodreads": {
-          "score": 3.33,
-          "count": 6,
-          "url": "https://www.goodreads.com/book/show/57682301",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 725,
-          "url": "https://www.amazon.com/gp/product/B092441Z5F/ref=x_gr_bb_amazon"
-        }
-      },
-      "avg_score": 4.12,
-      "short_affiliate_url": ""
-    },
     {
       "title": "服務業必殺英語",
       "author": "賴世雄",
@@ -66,7 +16,7 @@
       "product_url": "https://www.books.com.tw/products/E050308748",
       "daily_price": 99,
       "daily_price_reg": 199,
-      "last_updated": "2026-10-22T19:03:03.417498+08:00",
+      "last_updated": "2026-10-26T15:29:09.337783+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -103,70 +53,20 @@
       "short_affiliate_url": ""
     },
     {
-      "title": "進擊的文案！",
-      "author": "蘇芯",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786267089170",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/77/E050127772.jpg&v=62381b6ak&w=1146&h=600",
-      "publish_date": "2022/03/20",
-      "date_start": "10/24",
-      "date_end": "10/25",
-      "date_label": "10/24(六)-10/25(日)",
-      "product_url": "https://www.books.com.tw/products/E050127772",
-      "daily_price": 66,
-      "daily_price_reg": 323,
-      "last_updated": "2026-10-22T19:14:52.901332+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050127772?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 3,
-          "url": "https://moo.im/a/nxIOVZ",
-          "raw_url": "https://readmoo.com/book/210221851000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "脆弱的力量【布芮尼‧布朗感動千萬人全球暢銷作、在台發行十二周年紀念珍藏版】",
-      "author": "布芮尼．布朗",
-      "original_title": "Daring Greatly：How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
-      "original_author": "Brené Brown",
-      "isbn": "9786267520420",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/024/53/E050245394.jpg&v=676bb94bk&w=1146&h=600",
-      "publish_date": "2025/01/02",
-      "date_start": "10/24",
-      "date_end": "10/25",
-      "date_label": "10/24(六)-10/25(日)",
-      "product_url": "https://www.books.com.tw/products/E050245394",
-      "daily_price": 66,
-      "daily_price_reg": 400,
-      "last_updated": "2026-10-22T19:03:03.417498+08:00",
+      "title": "最後一個知識人：末日之後，擁有重建文明社會的器物、技術與知識原理",
+      "author": "路易斯‧達奈爾",
+      "original_title": "The Knowledge: How to Rebuild Our World After an Apocalypse",
+      "original_author": "Lewis Dartnell",
+      "isbn": "9786263151017",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/14/E050131486.jpg&v=6274914ck&w=1146&h=600",
+      "publish_date": "2022/05/03",
+      "date_start": "10/30",
+      "date_end": "10/30",
+      "date_label": "10/30(五)",
+      "product_url": "https://www.books.com.tw/products/E050131486",
+      "daily_price": 99,
+      "daily_price_reg": 399,
+      "last_updated": "2026-10-26T15:29:09.337783+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -175,48 +75,48 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050245394?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050131486?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 4.6,
-          "count": 13,
-          "url": "https://moo.im/a/5bsOWZ",
-          "raw_url": "https://readmoo.com/book/210363752000101"
+          "score": 4.0,
+          "count": 7,
+          "url": "https://moo.im/a/fitIQR",
+          "raw_url": "https://readmoo.com/book/210228195000101"
         },
         "goodreads": {
-          "score": 4.29,
-          "count": 250555,
-          "url": "https://www.goodreads.com/book/isbn/9786267520420",
-          "note": "isbn",
-          "amazon_url": "https://www.amazon.com/gp/product/B007P7HRS4/ref=x_gr_bb_kindle",
-          "confidence": 65,
+          "score": 3.75,
+          "count": 3717,
+          "url": "https://www.goodreads.com/book/show/23346863",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B00DMCV5YS/ref=x_gr_bb_kindle",
+          "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 31321,
-          "url": "https://www.amazon.com/gp/product/B007P7HRS4/ref=x_gr_bb_kindle"
+          "score": 4.4,
+          "count": 1709,
+          "url": "https://www.amazon.com/gp/product/B00DMCV5YS/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.3,
+      "avg_score": 4.1,
       "short_affiliate_url": ""
     },
     {
-      "title": "拒絕不敢說、擔心說錯話？小心機「換句話說」事典",
-      "author": "齊藤勇",
-      "original_title": "ズルい言い換え事典：相手のNOをYESに変える",
+      "title": "不會切蛋糕的犯罪少年",
+      "author": "宮口幸治",
+      "original_title": "ケーキの切れない非行少年たち",
       "original_author": null,
-      "isbn": "9789863706571",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/020/30/E050203068.jpg&v=65cec409k&w=1146&h=600",
-      "publish_date": "2024/03/05",
-      "date_start": "10/23",
-      "date_end": "10/23",
-      "date_label": "10/23(五)",
-      "product_url": "https://www.books.com.tw/products/E050203068",
+      "isbn": "9789573288251",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/007/66/E050076600.jpg&v=5f6d9354k&w=1146&h=600",
+      "publish_date": "2020/10/01",
+      "date_start": "10/29",
+      "date_end": "10/29",
+      "date_label": "10/29(四)",
+      "product_url": "https://www.books.com.tw/products/E050076600",
       "daily_price": 99,
-      "daily_price_reg": 350,
-      "last_updated": "2026-10-22T19:03:03.417498+08:00",
+      "daily_price_reg": 320,
+      "last_updated": "2026-10-26T15:29:09.337783+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -224,32 +124,132 @@
           "url": ""
         },
         "books_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050203068?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": 4.5,
+          "count": 6,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050076600?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
         },
         "readmoo": {
-          "score": 3.7,
-          "count": 15,
-          "url": "https://moo.im/a/126fMN",
-          "raw_url": "https://readmoo.com/book/210316612000101"
+          "score": 4.2,
+          "count": 334,
+          "url": "https://moo.im/a/13ioDP",
+          "raw_url": "https://readmoo.com/book/210157203000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
+          "score": 3.68,
+          "count": 143,
+          "url": "https://www.goodreads.com/book/show/52086017",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09DKMFZFJ/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": false
         },
         "amazon_com": {
-          "score": 3.4,
-          "count": 28,
-          "url": "https://www.amazon.co.jp/-/zh/dp/B0B8CJB8NC/ref=sr_1_1"
+          "score": 4.7,
+          "count": 48,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0HHQVFJJT/ref=sr_1_1"
         }
       },
-      "avg_score": 4.04,
+      "avg_score": 4.14,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "寫下來，奇蹟就會發生：讓人改變與覺醒的百日魔法書【附「引發奇蹟的祕法」音檔】",
+      "author": "石田久二",
+      "original_title": "100日の奇蹟",
+      "original_author": null,
+      "isbn": "9789861757537",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/017/17/E050171792.jpg&v=64bde501k&w=1146&h=600",
+      "publish_date": "2023/08/01",
+      "date_start": "10/28",
+      "date_end": "10/28",
+      "date_label": "10/28(三)",
+      "product_url": "https://www.books.com.tw/products/E050171792",
+      "daily_price": 99,
+      "daily_price_reg": 360,
+      "last_updated": "2026-10-26T15:29:09.337783+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 5,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050171792?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.2,
+          "count": 10,
+          "url": "https://moo.im/a/6aLPSY",
+          "raw_url": "https://readmoo.com/book/210283443000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/217521892",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DDCBQ3PW/ref=x_gr_bb_amazon",
+          "confidence": 30,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 202,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4763140035/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "生存所需的行政事務：時間是武器，金錢是燃料，想靠喜歡的事活下去，只需要一點「管理」技術！",
+      "author": "坂口恭平",
+      "original_title": "生きのびるための事務",
+      "original_author": null,
+      "isbn": "9786267596975",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/027/28/E050272827.jpg&v=686378e7k&w=1146&h=600",
+      "publish_date": "2025/07/09",
+      "date_start": "10/27",
+      "date_end": "10/27",
+      "date_label": "10/27(二)",
+      "product_url": "https://www.books.com.tw/products/E050272827",
+      "daily_price": 99,
+      "daily_price_reg": 420,
+      "last_updated": "2026-10-26T15:29:09.337783+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 5,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050272827?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 11,
+          "url": "https://moo.im/a/bevyAG",
+          "raw_url": "https://readmoo.com/book/210398138000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.goodreads.com/book/show/217158707",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DN8HHXXG/ref=x_gr_bb_amazon",
+          "confidence": 45,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 1305,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4838732708/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.22,
       "short_affiliate_url": ""
     }
   ]
