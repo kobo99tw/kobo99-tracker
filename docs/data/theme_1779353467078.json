@@ -254,7 +254,7 @@
       "sale_end": "",
       "description": "股神從不只買完美好公司，你怎麼在瑕疵中看待風險，決定了財富的翻倍速度。深度還原巴菲特成名前「報酬率最高」的黃金時期！重建大師用不完美財報「逆向重押」的10個實戰修練，完整看見股神投資思維的早期演變。",
       "publish_date": "2026年10月1日",
-      "last_updated": "2026-10-26T14:19:29.877715+08:00",
+      "last_updated": "2026-10-26T15:34:34.407535+08:00",
       "listed_at": "2026-10-26",
       "genre_tags": [
         "企業與金融",
@@ -278,13 +278,12 @@
           "raw_url": "https://readmoo.com/book/210503390000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
+          "score": 4.27,
+          "count": 345,
+          "url": "https://www.goodreads.com/book/show/203579124",
+          "note": "manual-verified",
+          "confidence": 100,
+          "cross_validated": false
         },
         "amazon_com": {
           "score": 4.5,
@@ -292,7 +291,7 @@
           "url": "https://www.amazon.com/-/zh_TW/Brett-Gardner-ebook/dp/B0HKK775WX/ref=sr_1_1"
         }
       },
-      "avg_score": 4.16,
+      "avg_score": 4.2,
       "short_affiliate_url": "https://reurl.cc/Wzmxg9"
     },
     {
