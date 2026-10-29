@@ -1,33 +1,78 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-10-22T09:05:31.834189+08:00",
+  "updated_at": "2026-10-29T11:28:17.476804+08:00",
   "books": [
     {
-      "title": "然而貓還是出去了",
-      "author": "春野宵子",
-      "original_title": "それでも猫は出かけていく",
-      "original_author": null,
-      "isbn": "9786264560993",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Title/WhTw02uQPUiz181a1Hyk9w?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/WhTw02uQPUiz181a1Hyk9w.jpg",
-      "sale_price": "NT$226",
+      "title": "2100年無形金融",
+      "author": "克里斯．史金納",
+      "original_title": "Intelligent Bank: The Third Fintech Revolution",
+      "original_author": "Chris Skinner",
+      "isbn": "9786264601795",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2100-ai?sId=291d641a-0ca9-4ffb-a178-786ed0e84ea2&ssId=kePlvZWiu713jQQu9sneC&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261030",
+      "kobo_price": "NT$365",
+      "cover_url": "covers/2100-ai.jpg",
+      "sale_price": "NT$310",
       "price_source": "readmoo_orig",
-      "sale_end": "10/31",
-      "description": "春野宵子在父母年邁後擔負起長照的工作，照顧老病雙親之餘，也照顧家裡和街坊的傷貓，甚至自己後來也罹癌踏上治療與康復之路。吉本家和貓咪共度的疾病與生死日常，既令人心疼又充滿生命力，讓人忍不住跟著歡笑和落淚！",
-      "publish_date": "2026年9月29日",
-      "last_updated": "2026-10-22T09:05:31.834189+08:00",
-      "listed_at": "2026-10-08",
-      "short_affiliate_url": "https://reurl.cc/NOgn3q",
-      "genre_tags": [
-        "小說與文學",
-        "文學"
-      ],
+      "sale_end": "10/30",
+      "description": "從數位化到智慧化，再到嵌入化與無形化，銀行不再是場所，而是融入生活的每一刻！金融科技教父史金納揭示第三次科技革命：從數位化跨越到智慧核心，讓錢自動為你思考，掌握未來十年生存藍圖！",
+      "publish_date": "2026年10月8日",
+      "last_updated": "2026-10-29T11:28:17.476804+08:00",
+      "listed_at": "2026-10-29",
+      "short_affiliate_url": "https://reurl.cc/nxGN7l",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Title/WhTw02uQPUiz181a1Hyk9w?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031"
+          "url": "https://www.kobo.com/tw/zh/ebook/2100-ai?sId=291d641a-0ca9-4ffb-a178-786ed0e84ea2&ssId=kePlvZWiu713jQQu9sneC&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261030"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361037?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/1wzFIZ"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/251196696",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B0GXPW3SXB/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 3.5,
+          "count": 6,
+          "url": "https://www.amazon.com/2020%E5%B9%B4-%E6%B6%88%E3%81%88%E3%82%8B%E9%87%91%E8%9E%8D/dp/453235725X/ref=sr_1_5"
+        }
+      },
+      "avg_score": 4.15
+    },
+    {
+      "title": "然而貓還是出去了",
+      "author": "",
+      "original_title": "それでも猫は出かけていく",
+      "original_author": null,
+      "isbn": "9786264560993",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xcJgLhBHkjSGhFhakFIoDQ?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/WhTw02uQPUiz181a1Hyk9w.jpg",
+      "sale_price": "NT$226",
+      "price_source": "",
+      "sale_end": "10/31",
+      "description": "春野宵子在父母年邁後擔負起長照的工作，照顧老病雙親之餘，也照顧家裡和街坊的傷貓，甚至自己後來也罹癌踏上治療與康復之路。吉本家和貓咪共度的疾病與生死日常，既令人心疼又充滿生命力，讓人忍不住跟著歡笑和落淚！",
+      "publish_date": "",
+      "last_updated": "2026-10-29T11:28:17.476804+08:00",
+      "listed_at": "2026-10-29",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/xcJgLhBHkjSGhFhakFIoDQ?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031"
         },
         "books_com": {
           "score": null,
@@ -54,122 +99,14 @@
           "url": "https://www.amazon.co.jp/-/zh/dp/4344427033/ref=sr_1_1"
         }
       },
-      "avg_score": 4.19
-    },
-    {
-      "title": "有購不同",
-      "author": "羅恩‧強生、贊德・奈瑟卡特",
-      "original_title": "SHOP DIFFERENT",
-      "original_author": "Ron Johnson; Zander Nethercutt",
-      "isbn": "9786267901885",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/apple-store-1?sId=817c2ea7-0bf4-46fc-be44-467f0c8d7559&ssId=ivlkdhBojFARjcdhnpsAj&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$432",
-      "cover_url": "covers/apple-store-1.jpg",
-      "sale_price": "NT$367",
-      "price_source": "kobo",
-      "sale_end": "10/21",
-      "description": "不只「不同凡想」，更要「有購不同」！當所有人都認為開店是場災難，賈伯斯與他卻打造出全世界最成功的商店。本書將由創立並領導Apple Store的羅恩．強生，首度分享他的零售思考與親身經歷！",
-      "publish_date": "2026年10月7日",
-      "last_updated": "2026-10-22T09:05:31.834189+08:00",
-      "listed_at": "2026-10-15",
-      "short_affiliate_url": "https://reurl.cc/90A3bx",
-      "genre_tags": [
-        "傳記與回憶錄",
-        "商務"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/apple-store-1?sId=817c2ea7-0bf4-46fc-be44-467f0c8d7559&ssId=ivlkdhBojFARjcdhnpsAj&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050359203?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/klmEST"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.19
-    },
-    {
-      "title": "2100年無形金融",
-      "author": "克里斯．史金納",
-      "original_title": "Intelligent Bank: The Third Fintech Revolution",
-      "original_author": "Chris Skinner",
-      "isbn": "9786264601795",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2100-ai?sId=291d641a-0ca9-4ffb-a178-786ed0e84ea2&ssId=kePlvZWiu713jQQu9sneC&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261030",
-      "kobo_price": "NT$365",
-      "cover_url": "covers/2100-ai.jpg",
-      "sale_price": "NT$310",
-      "price_source": "readmoo_orig",
-      "sale_end": "10/30",
-      "description": "從數位化到智慧化，再到嵌入化與無形化，銀行不再是場所，而是融入生活的每一刻！金融科技教父史金納揭示第三次科技革命：從數位化跨越到智慧核心，讓錢自動為你思考，掌握未來十年生存藍圖！",
-      "publish_date": "2026年10月8日",
-      "last_updated": "2026-10-22T09:05:31.834189+08:00",
-      "listed_at": "2026-10-22",
-      "genre_tags": [
-        "企業與金融",
-        "經濟學"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/2100-ai?sId=291d641a-0ca9-4ffb-a178-786ed0e84ea2&ssId=kePlvZWiu713jQQu9sneC&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261030"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361037?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/1wzFIZ",
-          "raw_url": "https://readmoo.com/book/210506747000101"
-        },
-        "goodreads": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/251196696",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0GXPW3SXB/ref=x_gr_bb_kindle",
-          "confidence": 45,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/XxMa7e"
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/xeVao5"
     },
     {
       "title": "世界,本來就不可預測",
       "author": "大衛・史畢格霍特",
       "original_title": "The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck",
-      "original_author": null,
+      "original_author": "David Spiegelhalter",
       "isbn": "9786267901861",
       "kobo_url": "https://www.kobo.com/tw/zh/ebook/87QVogQDrD6r4wiL6tH02Q?sId=f7abadbd-a8f4-4737-a0ba-854ae9cc4f87&ssId=rEPgHG8SF90fkaFzWuGIc&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261104",
       "kobo_price": "NT$418",
@@ -179,13 +116,9 @@
       "sale_end": "11/4",
       "description": "人類一直都在向未知尋找答案。劍橋大學統計學名譽教授、英國皇家統計學會前總裁大衛．史畢格霍特，從機率、風險、運氣與未知談起，帶領讀者理解數字、模型、專家與預測各自能做到什麼，也看見它們可能忽略的地方。",
       "publish_date": "2026年10月21日",
-      "last_updated": "2026-10-22T09:05:31.834189+08:00",
-      "listed_at": "2026-10-22",
-      "genre_tags": [
-        "企業與金融",
-        "經濟學",
-        "規劃與天氣預報"
-      ],
+      "last_updated": "2026-10-29T11:28:17.476804+08:00",
+      "listed_at": "2026-10-29",
+      "short_affiliate_url": "https://reurl.cc/aEKq17",
       "ratings": {
         "kobo": {
           "score": null,
@@ -200,26 +133,75 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/1hrBSX",
-          "raw_url": "https://readmoo.com/book/210505948000101"
+          "url": "https://moo.im/a/1hrBSX"
         },
         "goodreads": {
           "score": 3.76,
-          "count": 930,
+          "count": 934,
           "url": "https://www.goodreads.com/book/show/213395504",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 40,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/dp/B0HPHK5J7D/ref=sr_1_1"
         }
       },
-      "avg_score": 4.13,
-      "short_affiliate_url": "https://reurl.cc/be8N0X"
+      "avg_score": 4.13
+    },
+    {
+      "title": "我們現在能分手了嗎？",
+      "author": "垣谷美雨",
+      "original_title": "もう別れてもいいですか",
+      "original_author": null,
+      "isbn": "9789570881646",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/ZJgog-VoUTOd8zvEd-Kaqw.jpg",
+      "sale_price": "NT$261",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/5",
+      "description": "不只是離婚故事，更是女性第二人生的成長物語。不外遇、不家暴、不賭博，就能算是好老公嗎？原來，真正讓一個女人老去的，從來不是年齡，而是她以為自己已經沒有選擇。五十八歲才開始，會不會太晚？",
+      "publish_date": "2026年10月22日",
+      "last_updated": "2026-10-29T11:28:17.476804+08:00",
+      "listed_at": "2026-10-29",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361010?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+        },
+        "readmoo": {
+          "score": 4.9,
+          "count": 7,
+          "url": "https://moo.im/a/opwCDI",
+          "raw_url": "https://readmoo.com/book/210506761000101"
+        },
+        "goodreads": {
+          "score": 4.33,
+          "count": 3,
+          "url": "https://www.goodreads.com/book/show/86058408",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 45,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 647,
+          "url": "https://www.amazon.co.jp/-/zh/dp/412207567X/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": "https://reurl.cc/k9KOkG"
     }
   ]
 }
