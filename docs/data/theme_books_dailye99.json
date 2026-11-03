@@ -1,22 +1,22 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-10-29T20:22:50.157510+08:00",
+  "updated_at": "2026-11-03T19:06:08.175074+08:00",
   "books": [
     {
-      "title": "不會切蛋糕的犯罪少年",
-      "author": "宮口幸治",
-      "original_title": "ケーキの切れない非行少年たち",
-      "original_author": null,
-      "isbn": "9789573288251",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/007/66/E050076600.jpg&v=5f6d9354k&w=1146&h=600",
-      "publish_date": "2020/10/01",
-      "date_start": "10/29",
-      "date_end": "10/29",
-      "date_label": "10/29(四)",
-      "product_url": "https://www.books.com.tw/products/E050076600",
+      "title": "意志鍛鍊：10個磨練鋼鐵心智、邁向巔峰的海豹部隊戰勝心法",
+      "author": "布蘭特．格里森",
+      "original_title": "Embrace the Suck: The Navy SEAL Way to An Extraordinary Life",
+      "original_author": "Brent Gleeson",
+      "isbn": "9789862895634",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/009/46/E050094698.jpg&v=60b6f6d3k&w=1146&h=600",
+      "publish_date": "2021/05/20",
+      "date_start": "11/3",
+      "date_end": "11/3",
+      "date_label": "11/3(二)",
+      "product_url": "https://www.books.com.tw/products/E050094698",
       "daily_price": 99,
-      "daily_price_reg": 320,
-      "last_updated": "2026-10-29T20:35:37.678287+08:00",
+      "daily_price_reg": 380,
+      "last_updated": "2026-11-03T19:06:08.175074+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -24,149 +24,99 @@
           "url": ""
         },
         "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050094698?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 10,
+          "url": "https://moo.im/a/3aftRZ",
+          "raw_url": "https://readmoo.com/book/210182616000101"
+        },
+        "goodreads": {
+          "score": 4.15,
+          "count": 2932,
+          "url": "https://www.goodreads.com/book/show/53019094",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B086SW38TP/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 1771,
+          "url": "https://www.amazon.com/gp/product/B086SW38TP/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.26,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "快樂花錢，存錢不苦，更能致富的金錢法則：擺脫匱乏心態，不讓預算控制你的人生，學會離夢想目標更近的金錢事，成為金錢的主人。",
+      "author": "妮可．維多利亞",
+      "original_title": "More Money Now: A Millennial’s Guide to Financial Freedom and Security",
+      "original_author": "Nicole Victoria",
+      "isbn": "9786267384060",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/019/17/E050191760.jpg&v=6560154bk&w=1146&h=600",
+      "publish_date": "2023/12/01",
+      "date_start": "11/7",
+      "date_end": "11/9",
+      "date_label": "11/7(六)-11/9(一)",
+      "product_url": "https://www.books.com.tw/products/E050191760",
+      "daily_price": 66,
+      "daily_price_reg": 380,
+      "last_updated": "2026-11-03T19:06:08.175074+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050191760?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
           "score": 4.5,
           "count": 6,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050076600?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 334,
-          "url": "https://moo.im/a/13ioDP",
-          "raw_url": "https://readmoo.com/book/210157203000101"
+          "url": "https://moo.im/a/045uQU",
+          "raw_url": "https://readmoo.com/book/210302358000101"
         },
         "goodreads": {
-          "score": 3.68,
-          "count": 143,
-          "url": "https://www.goodreads.com/book/show/52086017",
+          "score": 3.86,
+          "count": 185,
+          "url": "https://www.goodreads.com/book/show/62013049",
           "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B09DKMFZFJ/ref=x_gr_bb_kindle",
+          "amazon_url": "",
           "confidence": 90,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 5532,
-          "url": "https://www.amazon.co.jp/dp/4106108208"
-        }
-      },
-      "avg_score": 4.12,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "華頓商學院的高效談判學（經典紀念版）：讓你成為最好的談判者！",
-      "author": "理查‧謝爾",
-      "original_title": "Bargaining for Advantage: Negotiation Strategies for Reasonable People, 2nd Edition",
-      "original_author": "G. Richard Shell",
-      "isbn": "9789869624459",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/003/05/E050030571.jpg&v=5b3ac16ck&w=1146&h=600",
-      "publish_date": "2018/06/16",
-      "date_start": "11/2",
-      "date_end": "11/2",
-      "date_label": "11/2(一)",
-      "product_url": "https://www.books.com.tw/products/E050030571",
-      "daily_price": 99,
-      "daily_price_reg": 430,
-      "last_updated": "2026-10-29T20:38:06.009120+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050030571?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 3.7,
-          "count": 3,
-          "url": "https://moo.im/a/ouyJVX",
-          "raw_url": "https://readmoo.com/book/210092452000101"
-        },
-        "goodreads": {
-          "score": 3.88,
-          "count": 8,
-          "url": "https://www.goodreads.com/book/show/147730961",
-          "note": "title+author",
-          "amazon_url": "",
-          "confidence": 65,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 931,
-          "url": "https://www.amazon.com/-/zh_TW/G-Richard-Shell-ebook/dp/B000QBYEX2/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.19,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "正念財務自由計畫：結合禪的智慧與財商素養，從記帳、呼吸到投資，7週輕鬆打造一輩子不為錢煩惱的致富心態",
-      "author": "7美元百萬富翁",
-      "original_title": "The Little Book of Zen Money: A Simple Path to Financial Peace of Mind",
-      "original_author": null,
-      "isbn": "9786267624494",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/030/81/E050308115.jpg&v=69439284k&w=1146&h=600",
-      "publish_date": "2025/12/26",
-      "date_start": "10/31",
-      "date_end": "11/1",
-      "date_label": "10/31(六)-11/1(日)",
-      "product_url": "https://www.books.com.tw/products/E050308115",
-      "daily_price": 66,
-      "daily_price_reg": 480,
-      "last_updated": "2026-10-29T20:38:06.009120+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050308115?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.0,
-          "count": 2,
-          "url": "https://moo.im/a/35eFQU",
-          "raw_url": "https://readmoo.com/book/210439461000101"
-        },
-        "goodreads": {
-          "score": 3.76,
-          "count": 34,
-          "url": "https://www.goodreads.com/book/show/61126600",
-          "note": "title",
-          "amazon_url": "",
-          "confidence": 40,
           "cross_validated": null
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 24,
-          "url": "https://www.amazon.com/-/zh_TW/Seven-Dollar-Millionaire-ebook/dp/B09YL3QDLK/ref=sr_1_1"
+          "count": 113,
+          "url": "https://www.amazon.com/gp/product/B0BVW2WY6L/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.11,
+      "avg_score": 4.13,
       "short_affiliate_url": ""
     },
     {
-      "title": "豬力安親子理財教練：學校沒教但孩子一定要學的9堂理財課",
-      "author": "豬力安（李彥慶）",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786269824007",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/019/88/E050198818.jpg&v=65a4ee8ak&w=1146&h=600",
-      "publish_date": "2024/01/17",
-      "date_start": "10/31",
-      "date_end": "11/1",
-      "date_label": "10/31(六)-11/1(日)",
-      "product_url": "https://www.books.com.tw/products/E050198818",
-      "daily_price": 66,
-      "daily_price_reg": 420,
-      "last_updated": "2026-10-29T20:38:06.009120+08:00",
+      "title": "同理心行銷（二版）：500強正在用，顛覆傳統的消費者洞察進化策略",
+      "author": "克萊爾．布魯克斯",
+      "original_title": "Marketing with Strategic Empathy: Inspiring Strategy with Deeper Consumer Insight",
+      "original_author": "Claire Brooks",
+      "isbn": "9786267261958",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/018/30/E050183049.jpg&v=651b96cek&w=1146&h=600",
+      "publish_date": "2023/10/02",
+      "date_start": "11/6",
+      "date_end": "11/6",
+      "date_label": "11/6(五)",
+      "product_url": "https://www.books.com.tw/products/E050183049",
+      "daily_price": 99,
+      "daily_price_reg": 500,
+      "last_updated": "2026-11-03T19:06:08.175074+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -176,13 +126,63 @@
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050198818?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050183049?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/fhzASX",
+          "raw_url": "https://readmoo.com/book/210293179000101"
+        },
+        "goodreads": {
+          "score": 4.13,
+          "count": 8,
+          "url": "https://www.goodreads.com/book/show/29633563",
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 80,
+          "cross_validated": null
+        },
+        "amazon_com": {
           "score": 4.6,
-          "count": 5,
-          "url": "https://moo.im/a/8qFGLR",
-          "raw_url": "https://readmoo.com/book/210309569000101"
+          "count": 12,
+          "url": "https://www.amazon.com/gp/product/B01JAS0JZS/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "氣象解碼：以日常天氣變化揭開大自然奧祕",
+      "author": "金子大輔",
+      "original_title": "もっと話がおもしろくなる 教養としての気象と天気",
+      "original_author": null,
+      "isbn": "9789863705871",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/017/56/E050175670.jpg&v=64dc373ek&w=1146&h=600",
+      "publish_date": "2023/08/29",
+      "date_start": "11/5",
+      "date_end": "11/5",
+      "date_label": "11/5(四)",
+      "product_url": "https://www.books.com.tw/products/E050175670",
+      "daily_price": 99,
+      "daily_price_reg": 380,
+      "last_updated": "2026-11-03T19:06:08.175074+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050175670?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 4,
+          "url": "https://moo.im/a/14nosJ",
+          "raw_url": "https://readmoo.com/book/210285600000101"
         },
         "goodreads": {
           "score": null,
@@ -194,29 +194,29 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%B1%AC%E5%8A%9B%E5%AE%89%EF%BC%88%E6%9D%8E%E5%BD%A5%E6%85%B6%EF%BC%89-ebook/dp/B0D5CF23F5/ref=sr_1_1"
+          "score": 3.9,
+          "count": 29,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4866214066/ref=sr_1_1"
         }
       },
-      "avg_score": 4.18,
+      "avg_score": 4.11,
       "short_affiliate_url": ""
     },
     {
-      "title": "最後一個知識人：末日之後，擁有重建文明社會的器物、技術與知識原理",
-      "author": "路易斯‧達奈爾",
-      "original_title": "The Knowledge: How to Rebuild Our World After an Apocalypse",
-      "original_author": "Lewis Dartnell",
-      "isbn": "9786263151017",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/14/E050131486.jpg&v=6274914ck&w=1146&h=600",
-      "publish_date": "2022/05/03",
-      "date_start": "10/30",
-      "date_end": "10/30",
-      "date_label": "10/30(五)",
-      "product_url": "https://www.books.com.tw/products/E050131486",
+      "title": "為什麼要道歉：完美的「對不起」，將為你個人和社會帶來奇蹟般的正面效應",
+      "author": "瑪喬麗‧英格爾、蘇珊‧麥卡錫",
+      "original_title": "Sorry, Sorry, Sorry: The Case for Good Apologies",
+      "original_author": null,
+      "isbn": "9786263616950",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/021/86/E050218639.jpg&v=665548ffk&w=1146&h=600",
+      "publish_date": "2024/06/01",
+      "date_start": "11/4",
+      "date_end": "11/4",
+      "date_label": "11/4(三)",
+      "product_url": "https://www.books.com.tw/products/E050218639",
       "daily_price": 99,
-      "daily_price_reg": 399,
-      "last_updated": "2026-10-29T20:22:50.157510+08:00",
+      "daily_price_reg": 490,
+      "last_updated": "2026-11-03T19:06:08.175074+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -225,31 +225,31 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050131486?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050218639?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 7,
-          "url": "https://moo.im/a/fitIQR",
-          "raw_url": "https://readmoo.com/book/210228195000101"
+          "score": 4.3,
+          "count": 6,
+          "url": "https://moo.im/a/6aekGL",
+          "raw_url": "https://readmoo.com/book/210331138000101"
         },
         "goodreads": {
-          "score": 3.75,
-          "count": 3718,
-          "url": "https://www.goodreads.com/book/show/23346863",
+          "score": 3.91,
+          "count": 399,
+          "url": "https://www.goodreads.com/book/show/61273736",
           "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B00DMCV5YS/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B3Y87H37/ref=x_gr_bb_kindle",
           "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 1711,
-          "url": "https://www.amazon.com/gp/product/B00DMCV5YS/ref=x_gr_bb_kindle"
+          "score": 4.3,
+          "count": 33,
+          "url": "https://www.amazon.com/gp/product/B0B3Y87H37/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.1,
+      "avg_score": 4.11,
       "short_affiliate_url": ""
     }
   ]
