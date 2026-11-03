@@ -1,22 +1,72 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-10-27T17:45:21.601728+08:00",
+  "updated_at": "2026-11-03T16:33:41.278401+08:00",
   "books": [
     {
-      "title": "這邊是愛美子",
-      "author": "今村夏子",
-      "original_title": "こちらあみ子",
+      "title": "同理心行銷（二版）",
+      "author": "克萊爾．布魯克斯",
+      "original_title": "Marketing with Strategic Empathy : Inspiring Strategy with Deeper Consumer Insight",
+      "original_author": "Claire Brooks",
+      "isbn": "9786267261958",
+      "cover_url": "https://cdn.readmoo.com/cover/jc/iinorpc_460x580.jpg?v=1696318387",
+      "publish_date": "2023/10/02",
+      "date": "11/3",
+      "readmoo_url": "https://readmoo.com/book/210293179000101",
+      "daily_price": 99,
+      "daily_price_reg": 350,
+      "daily_discount_label": "2折",
+      "description": "◢傳統行銷緩不濟急，學習型行銷策略正在進化中！◣\n在一切充滿顛覆性的時代，行銷不能再只靠策略分析、大數據或無限創意，這無法讓我們聽見消費者的故事，無法得知顧客對產品或品牌的真實感受與隱藏的想法。",
+      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050183049?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/fhzASX",
+          "raw_url": "https://readmoo.com/book/210293179000101"
+        },
+        "goodreads": {
+          "score": 4.13,
+          "count": 8,
+          "url": "https://www.goodreads.com/book/show/29633563",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B01JAS0JZS/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 12,
+          "url": "https://www.amazon.com/gp/product/B01JAS0JZS/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.18,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "書法，漢字最美的歷史【暢銷新版】",
+      "author": "黎孟德",
+      "original_title": "",
       "original_author": null,
-      "isbn": "9786263616615",
-      "cover_url": "https://cdn.readmoo.com/cover/le/ljodqdd_460x580.jpg?v=1717404481",
-      "publish_date": "2024/06/01",
-      "date": "10/27",
-      "readmoo_url": "https://readmoo.com/book/210331129000101",
+      "isbn": "9789864895045",
+      "cover_url": "https://cdn.readmoo.com/cover/li/faikqid_460x580.jpg?v=1629771158",
+      "publish_date": "2021/08/11",
+      "date": "11/4",
+      "readmoo_url": "https://readmoo.com/book/210192969000101",
       "daily_price": 99,
-      "daily_price_reg": 277,
-      "daily_discount_label": "28折",
-      "description": "◎收錄作品\n〈這邊是愛美子〉\n愛美子是個有點古怪的女孩。此處女作以少女純真的目光，生動描繪愛美子的純真對周遭人的影響，展現出一個屬於她自己的獨特世界。",
-      "last_updated": "2026-10-27T17:45:21.601728+08:00",
+      "daily_price_reg": 217,
+      "daily_discount_label": "",
+      "description": "你可能聽過新篆體、隸書體、行楷體、魏碑體，但你知道這些電腦裡的字體都是從古代書法字來的嗎？篆、隸、草、行、楷各有其基本個性與基本長相，歷代書法家不同的書寫風格，又賦予字體獨特的形象氣韻，讓中國書法字有了豐富多樣的面貌。",
+      "last_updated": "2026-11-03T16:33:41.278401+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -25,148 +75,48 @@
         },
         "books_com": {
           "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050218636?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050101200?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.3,
-          "count": 12,
-          "url": "https://moo.im/a/0bdqvF",
-          "raw_url": "https://readmoo.com/book/210331129000101"
-        },
-        "goodreads": {
-          "score": 3.56,
-          "count": 2064,
-          "url": "https://www.goodreads.com/book/show/37924079",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BTLDB81L/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 3.9,
-          "count": 511,
-          "url": "https://www.amazon.co.jp/-/zh/dp/0143136038/ref=sr_1_1"
-        }
-      },
-      "avg_score": 3.98,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "後悔的力量",
-      "author": "丹尼爾．品克",
-      "original_title": "The Power of Regret : How Looking Backward Moves Us Forward",
-      "original_author": "Daniel H. Pink",
-      "isbn": "9786267206898",
-      "cover_url": "https://cdn.readmoo.com/cover/ea/b9efnla_460x580.jpg?v=1680057356",
-      "publish_date": "2023/03/30",
-      "date": "10/28",
-      "readmoo_url": "https://readmoo.com/book/210267286000101",
-      "daily_price": 99,
-      "daily_price_reg": 266,
-      "daily_discount_label": "",
-      "description": "暢銷書《未來在等待的人才》、《什麼時候是好時候》及《動機，單純的力量》作者最新力作。剖析最常遭到誤解、卻最寶貴的情緒「後悔」，何以是一股脫胎換骨的力量。",
-      "last_updated": "2026-10-27T17:45:21.601728+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 12,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050155803?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 20,
-          "url": "https://moo.im/a/dvxEPY",
-          "raw_url": "https://readmoo.com/book/210267286000101"
-        },
-        "goodreads": {
-          "score": 3.82,
-          "count": 14897,
-          "url": "https://www.goodreads.com/book/show/58446721",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 1799,
-          "url": "https://www.amazon.com/gp/product/B097XNT4RT/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.15,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "其實你很棒！",
-      "author": "安．斯沃茨",
-      "original_title": "Een warm nestje",
-      "original_author": "An Swerts; Eline van Linderhuizen",
-      "isbn": "9786267352069",
-      "cover_url": "https://cdn.readmoo.com/cover/ea/b98lnbh_460x580.jpg?v=1729740278",
-      "publish_date": "2023/09/05",
-      "date": "10/29",
-      "readmoo_url": "https://readmoo.com/book/210353254000101",
-      "daily_price": 99,
-      "daily_price_reg": 290,
-      "daily_discount_label": "",
-      "description": "符合SDGs永續發展目標_健康與福祉\n▌心靈OK繃生命教育繪本系列 ▌\n完整生命課題，深具教育意義♥ 溫馨繪本故事，引導親子對談♥ 專業審訂導讀，在地化的建議\n寫給父母、照顧者和老師：當孩子擁有高敏感特質，\n如何接納他們的情緒，安頓孩子內心的不安？獻給有著敏感心靈和無數感應天線的孩子。",
-      "last_updated": "2026-10-27T17:45:21.601728+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050238242?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/egvHKN",
-          "raw_url": "https://readmoo.com/book/210353254000101"
+          "score": 4.2,
+          "count": 5,
+          "url": "https://moo.im/a/1gpBRV",
+          "raw_url": "https://readmoo.com/book/210192969000101"
         },
         "goodreads": {
           "score": 3.0,
-          "count": 3,
-          "url": "https://www.goodreads.com/book/show/61369790",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/9044845497/ref=x_gr_bb_amazon",
-          "confidence": 10,
-          "cross_validated": false
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/106485185",
+          "note": "re-fetch",
+          "amazon_url": "",
+          "confidence": 60,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 10,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%80%83%E6%8B%89%E5%B0%8F%E5%B7%AB-ebook/dp/B0911RYFNP/ref=sr_1_4"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E9%BB%8E%E5%AD%9F%E5%BE%B7-ebook/dp/B09PL8RDJB/ref=sr_1_1"
         }
       },
       "avg_score": 4.17,
       "short_affiliate_url": ""
     },
     {
-      "title": "家事法官沒告訴你的事【全新增訂版】",
-      "author": "楊晴翔",
+      "title": "衝突歸零",
+      "author": "傑森‧蓋迪斯",
       "original_title": "",
-      "original_author": null,
-      "isbn": "9789869423977",
-      "cover_url": "https://cdn.readmoo.com/cover/ed/akckndl_460x580.jpg?v=1669087171",
-      "publish_date": "2022/07/04",
-      "date": "10/30",
-      "readmoo_url": "https://readmoo.com/book/210254726000101",
+      "original_author": "Jayson Gaddis",
+      "isbn": "9786269577811",
+      "cover_url": "https://cdn.readmoo.com/cover/d7/dek9jke_460x580.jpg?v=1653277428",
+      "publish_date": "2022/05/17",
+      "date": "11/5",
+      "readmoo_url": "https://readmoo.com/book/210229957000101",
       "daily_price": 99,
-      "daily_price_reg": 300,
+      "daily_price_reg": 315,
       "daily_discount_label": "",
-      "description": "婚姻、親權、保護令、繼承……\n關於愛與情的糾結，兼具理性與感性的法律剖析！【特別收錄：如何選擇你的家事律師】\n一生中，毫無法律問題需要解決的機率，有多高？",
-      "last_updated": "2026-10-27T17:45:21.601728+08:00",
+      "description": "亞馬遜4.8讀者好評\n紐約時報暢銷書《第七感》、《心腦奇航》作者、腦神經科學權威丹尼爾・席格Daniel Siegel傾力推薦——\n「本書提供了好用的概念與信手拈來的簡單步驟，讓讀者得以感知和解決人際關係中的挑戰，並修補關係的破口。這本書不是要我們一生順遂、永不陷入人際的困境，而是用平靜且澄明的狀態接受衝突的存在。",
+      "last_updated": "2026-11-03T16:33:41.278401+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -175,98 +125,48 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050145948?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 6,
-          "url": "https://moo.im/a/45tvBT",
-          "raw_url": "https://readmoo.com/book/210254726000101"
-        },
-        "goodreads": {
-          "score": 3.83,
-          "count": 6,
-          "url": "https://www.goodreads.com/book/isbn/9789869423977",
-          "note": "isbn",
-          "amazon_url": "https://www.amazon.com/gp/product/9869423973/ref=x_gr_bb_amazon",
-          "confidence": 40,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A5%8A%E6%99%B4%E7%BF%94-ebook/dp/B0BLYZ1RQ2/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.19,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "成為愛神之前",
-      "author": "藤山 紫",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786267710197",
-      "cover_url": "https://cdn.readmoo.com/cover/ll/c9bnqfa_460x580.jpg?v=1748917903",
-      "publish_date": "2025/05/29",
-      "date": "10/31",
-      "readmoo_url": "https://readmoo.com/book/210391737000101",
-      "daily_price": 99,
-      "daily_price_reg": 290,
-      "daily_discount_label": "",
-      "description": "2024 POPO原創小說大賞 首獎\n暗黑系實力派作家 藤山 紫 帶來終極的人性愛恨嗔癡\n深刻刻劃人性的善與惡、愛與恨，劇情飽滿且擁有令人驚嘆的巧妙布局。——全體評審盛讚\n為了收集記憶、找到殺死自己的兇手，\n她拉起弓箭，瞄準「靈魂伴侶」。",
-      "last_updated": "2026-10-27T17:45:21.601728+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 13,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050273708?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050132169?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
           "score": 3.8,
-          "count": 12,
-          "url": "https://moo.im/a/efAGHP",
-          "raw_url": "https://readmoo.com/book/210391737000101"
+          "count": 9,
+          "url": "https://moo.im/a/14cvEJ",
+          "raw_url": "https://readmoo.com/book/210229957000101"
         },
         "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
+          "score": 4.19,
+          "count": 500,
+          "url": "https://www.goodreads.com/book/isbn/9786269577811",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 20,
+          "confidence": 90,
           "cross_validated": null
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/-/zh_TW/%E5%82%91%E6%A3%AE%E2%80%A7%E8%93%8B%E8%BF%AA%E6%96%AF%EF%BC%88Jayson-Gaddis%EF%BC%89-ebook/dp/B0B1HVSS5C/ref=sr_1_1"
         }
       },
       "avg_score": 4.18,
       "short_affiliate_url": ""
     },
     {
-      "title": "為怪談點燈 1",
-      "author": "醉琉璃",
+      "title": "現在開始是絕對共感時間",
+      "author": "漠星",
       "original_title": "",
       "original_author": null,
-      "isbn": "9786267542255",
-      "cover_url": "https://cdn.readmoo.com/cover/pp/hovqulg_460x580.jpg?v=1758094209",
-      "publish_date": "2025/09/18",
-      "date": "11/1",
-      "readmoo_url": "https://readmoo.com/book/210410479000101",
-      "daily_price": 129,
-      "daily_price_reg": 224,
+      "isbn": "9786267217634",
+      "cover_url": "https://cdn.readmoo.com/cover/e9/87jjn89_460x580.jpg?v=1696409993",
+      "publish_date": "2023/09/28",
+      "date": "11/6",
+      "readmoo_url": "https://readmoo.com/book/210293094000101",
+      "daily_price": 99,
+      "daily_price_reg": 230,
       "daily_discount_label": "",
-      "description": "大地震後，「怪談」化作吃人的故事，將人拖入充滿鬼怪的異空間。其間孕育的怪物，稱之為「燈」。",
-      "last_updated": "2026-10-27T17:45:21.601728+08:00",
+      "description": "2022 POPO華文創作大賞 幻想組 優選作品 \n作品含推理、科幻元素，故事情節環環相扣且邏輯清晰，\n探討人性的各種貪瞋，描寫十分到位。——評審高分推薦\n侵入他人的意識，盜取記憶包裝成商品，\n你，想要付費體驗另一個人生嗎？",
+      "last_updated": "2026-11-03T16:33:41.278401+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -274,15 +174,15 @@
           "url": ""
         },
         "books_com": {
-          "score": 4.0,
+          "score": 5.0,
           "count": 5,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050290544?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050190308?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.8,
-          "count": 37,
-          "url": "https://moo.im/a/2lxzOW",
-          "raw_url": "https://readmoo.com/book/210410479000101"
+          "score": 4.2,
+          "count": 20,
+          "url": "https://moo.im/a/cflrFW",
+          "raw_url": "https://readmoo.com/book/210293094000101"
         },
         "goodreads": {
           "score": null,
@@ -294,29 +194,29 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 5.0,
-          "count": 4,
-          "url": "https://www.amazon.com/-/zh_TW/%E4%B8%89%E6%9C%A8%E5%A4%A7%E9%9B%B2-ebook/dp/B0CT4XNQ72/ref=sr_1_2"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
       "avg_score": 4.18,
       "short_affiliate_url": ""
     },
     {
-      "title": "最後一個知識人",
-      "author": "路易斯．達奈爾",
-      "original_title": "The Knowledge: How to Rebuild Our World After an Apocalypse",
-      "original_author": "Lewis Dartnell",
-      "isbn": "9786263151017",
-      "cover_url": "https://cdn.readmoo.com/cover/a4/gc5fil8_460x580.jpg?v=1652168574",
-      "publish_date": "2022/05/03",
-      "date": "11/2",
-      "readmoo_url": "https://readmoo.com/book/210228195000101",
+      "title": "日式家常菜的美味科學",
+      "author": "前田量子",
+      "original_title": "ロジカル和食",
+      "original_author": null,
+      "isbn": "9789864087945",
+      "cover_url": "https://cdn.readmoo.com/cover/8f/cegal7h_460x580.jpg?v=1652336369",
+      "publish_date": "2022/03/29",
+      "date": "11/7",
+      "readmoo_url": "https://readmoo.com/book/210228434000101",
       "daily_price": 99,
       "daily_price_reg": 279,
       "daily_discount_label": "",
-      "description": "一本末日版「大人的科學」，得到英國《泰晤士報》、《新科學人》科學類選書、亞馬遜讀者5顆星推薦，售出全球十三國版權\n世界毀滅，只是一瞬間的事，\n突發海嘯、重量級地震、超級流感肆虐、核電廠大爆炸……\n如果你所知道的文明已經不存在了，你要如何在新世界活下去？來自科學家的文明保存計畫，一部全景式科學簡史，一個重建文明社會的技術解決方案。",
-      "last_updated": "2026-10-27T17:45:21.601728+08:00",
+      "description": "日本讀者廣大好評，廚藝新手或資深煮婦都能獲益良多的料理書！精選27道日式家常菜，設立「美味目標」及「達成公式」，\n以科學原理拆解烹調訣竅，大幅提升料理可口和穩定度！",
+      "last_updated": "2026-11-03T16:33:41.278401+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -324,32 +224,132 @@
           "url": ""
         },
         "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050131486?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050131753?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 7,
-          "url": "https://moo.im/a/fitIQR",
-          "raw_url": "https://readmoo.com/book/210228195000101"
+          "score": 4.8,
+          "count": 5,
+          "url": "https://moo.im/a/bquxGX",
+          "raw_url": "https://readmoo.com/book/210228434000101"
         },
         "goodreads": {
-          "score": 3.75,
-          "count": 3718,
-          "url": "https://www.goodreads.com/book/show/23346863",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B00DMCV5YS/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 272,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4074397609/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "一張PASS玩遍大東京",
+      "author": "墨刻編輯部",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9789862899526",
+      "cover_url": "https://cdn.readmoo.com/cover/im/fnddpbk_460x580.jpg?v=1702973651",
+      "publish_date": "2023/12/05",
+      "date": "11/8",
+      "readmoo_url": "https://readmoo.com/book/210305466000101",
+      "daily_price": 99,
+      "daily_price_reg": 266,
+      "daily_discount_label": "",
+      "description": "最正確！最超值的乘車票行程推薦\n全都在這本！",
+      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050194370?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://moo.im/a/hyAOWZ",
+          "raw_url": "https://readmoo.com/book/210305466000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "讀懂人心的日本語",
+      "author": "森田六朗",
+      "original_title": "[改訂新版] 日本人の心がわかる日本語",
+      "original_author": null,
+      "isbn": "9789864089109",
+      "cover_url": "https://cdn.readmoo.com/cover/fj/ecc8mic_460x580.jpg?v=1707124322",
+      "publish_date": "2023/05/18",
+      "date": "11/9",
+      "readmoo_url": "https://readmoo.com/book/210313975000101",
+      "daily_price": 99,
+      "daily_price_reg": 280,
+      "daily_discount_label": "",
+      "description": "日本長銷十餘年，日語學習者必讀實用書！35個日常慣用詞彙與豐富例句，深度剖析日本人的感性與思維！",
+      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050201287?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/68jzHN",
+          "raw_url": "https://readmoo.com/book/210313975000101"
+        },
+        "goodreads": {
+          "score": 4.4,
+          "count": 15,
+          "url": "https://www.goodreads.com/book/show/111244956",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09R9HRL4M/ref=x_gr_bb_amazon",
+          "confidence": 65,
+          "cross_validated": false
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 1710,
-          "url": "https://www.amazon.com/gp/product/B00DMCV5YS/ref=x_gr_bb_kindle"
+          "count": 22,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4866393777/ref=sr_1_1"
         }
       },
-      "avg_score": 4.1,
+      "avg_score": 4.16,
       "short_affiliate_url": ""
     }
   ]
