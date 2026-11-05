@@ -1,107 +1,7 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-10-29T11:28:17.476804+08:00",
+  "updated_at": "2026-11-05T13:25:09.469092+08:00",
   "books": [
-    {
-      "title": "2100年無形金融",
-      "author": "克里斯．史金納",
-      "original_title": "Intelligent Bank: The Third Fintech Revolution",
-      "original_author": "Chris Skinner",
-      "isbn": "9786264601795",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2100-ai?sId=291d641a-0ca9-4ffb-a178-786ed0e84ea2&ssId=kePlvZWiu713jQQu9sneC&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261030",
-      "kobo_price": "NT$365",
-      "cover_url": "covers/2100-ai.jpg",
-      "sale_price": "NT$310",
-      "price_source": "readmoo_orig",
-      "sale_end": "10/30",
-      "description": "從數位化到智慧化，再到嵌入化與無形化，銀行不再是場所，而是融入生活的每一刻！金融科技教父史金納揭示第三次科技革命：從數位化跨越到智慧核心，讓錢自動為你思考，掌握未來十年生存藍圖！",
-      "publish_date": "2026年10月8日",
-      "last_updated": "2026-10-29T11:28:17.476804+08:00",
-      "listed_at": "2026-10-29",
-      "short_affiliate_url": "https://reurl.cc/nxGN7l",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/2100-ai?sId=291d641a-0ca9-4ffb-a178-786ed0e84ea2&ssId=kePlvZWiu713jQQu9sneC&utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261030"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361037?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/1wzFIZ"
-        },
-        "goodreads": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/251196696",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0GXPW3SXB/ref=x_gr_bb_kindle",
-          "confidence": 60,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 3.5,
-          "count": 6,
-          "url": "https://www.amazon.com/2020%E5%B9%B4-%E6%B6%88%E3%81%88%E3%82%8B%E9%87%91%E8%9E%8D/dp/453235725X/ref=sr_1_5"
-        }
-      },
-      "avg_score": 4.15
-    },
-    {
-      "title": "然而貓還是出去了",
-      "author": "",
-      "original_title": "それでも猫は出かけていく",
-      "original_author": null,
-      "isbn": "9786264560993",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xcJgLhBHkjSGhFhakFIoDQ?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/WhTw02uQPUiz181a1Hyk9w.jpg",
-      "sale_price": "NT$226",
-      "price_source": "",
-      "sale_end": "10/31",
-      "description": "春野宵子在父母年邁後擔負起長照的工作，照顧老病雙親之餘，也照顧家裡和街坊的傷貓，甚至自己後來也罹癌踏上治療與康復之路。吉本家和貓咪共度的疾病與生死日常，既令人心疼又充滿生命力，讓人忍不住跟著歡笑和落淚！",
-      "publish_date": "",
-      "last_updated": "2026-10-29T11:28:17.476804+08:00",
-      "listed_at": "2026-10-29",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/xcJgLhBHkjSGhFhakFIoDQ?utm_source=twblog&utm_medium=exclusive&utm_campaign=ebook_20261031"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050358339?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/26yNWX"
-        },
-        "goodreads": {
-          "score": 3.67,
-          "count": 3,
-          "url": "https://www.goodreads.com/book/show/28012747",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B00MG9UEPY/ref=x_gr_bb_amazon",
-          "confidence": 60,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 120,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4344427033/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/xeVao5"
-    },
     {
       "title": "世界,本來就不可預測",
       "author": "大衛・史畢格霍特",
@@ -112,11 +12,11 @@
       "kobo_price": "NT$418",
       "cover_url": "covers/87QVogQDrD6r4wiL6tH02Q.jpg",
       "sale_price": "NT$355",
-      "price_source": "readmoo_orig",
+      "price_source": "kobo",
       "sale_end": "11/4",
       "description": "人類一直都在向未知尋找答案。劍橋大學統計學名譽教授、英國皇家統計學會前總裁大衛．史畢格霍特，從機率、風險、運氣與未知談起，帶領讀者理解數字、模型、專家與預測各自能做到什麼，也看見它們可能忽略的地方。",
       "publish_date": "2026年10月21日",
-      "last_updated": "2026-10-29T11:28:17.476804+08:00",
+      "last_updated": "2026-11-05T13:25:09.469092+08:00",
       "listed_at": "2026-10-29",
       "short_affiliate_url": "https://reurl.cc/aEKq17",
       "ratings": {
@@ -128,7 +28,7 @@
         "books_com": {
           "score": 4.0,
           "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050360410?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050360410?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
           "score": null,
@@ -136,8 +36,8 @@
           "url": "https://moo.im/a/1hrBSX"
         },
         "goodreads": {
-          "score": 3.76,
-          "count": 934,
+          "score": 3.75,
+          "count": 936,
           "url": "https://www.goodreads.com/book/show/213395504",
           "note": "re-fetch",
           "amazon_url": "",
@@ -145,20 +45,20 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/dp/B0HPHK5J7D/ref=sr_1_1"
+          "score": 4.2,
+          "count": 451,
+          "url": "https://www.amazon.com/-/zh_TW/David-Spiegelhalter-ebook/dp/B0D8RJLSBG/ref=sr_1_1"
         }
       },
-      "avg_score": 4.13
+      "avg_score": 4.09
     },
     {
       "title": "我們現在能分手了嗎？",
       "author": "垣谷美雨",
       "original_title": "もう別れてもいいですか",
-      "original_author": null,
+      "original_author": "Miu Kakiya",
       "isbn": "9789570881646",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw?sId=bd74106d-a79f-4bdf-bdec-b4fe1f8ad0c3&ssId=jHh2sYdPRiWXh77IWV0rf&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
       "kobo_price": "NT$315",
       "cover_url": "covers/ZJgog-VoUTOd8zvEd-Kaqw.jpg",
       "sale_price": "NT$261",
@@ -166,42 +66,296 @@
       "sale_end": "11/5",
       "description": "不只是離婚故事，更是女性第二人生的成長物語。不外遇、不家暴、不賭博，就能算是好老公嗎？原來，真正讓一個女人老去的，從來不是年齡，而是她以為自己已經沒有選擇。五十八歲才開始，會不會太晚？",
       "publish_date": "2026年10月22日",
-      "last_updated": "2026-10-29T11:28:17.476804+08:00",
+      "last_updated": "2026-11-05T13:25:09.469092+08:00",
       "listed_at": "2026-10-29",
       "ratings": {
         "kobo": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw"
+          "url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw?sId=bd74106d-a79f-4bdf-bdec-b4fe1f8ad0c3&ssId=jHh2sYdPRiWXh77IWV0rf&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361010?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202610"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361010?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
           "score": 4.9,
-          "count": 7,
-          "url": "https://moo.im/a/opwCDI",
-          "raw_url": "https://readmoo.com/book/210506761000101"
+          "count": 14,
+          "url": "https://moo.im/a/opwCDI"
         },
         "goodreads": {
           "score": 4.33,
           "count": 3,
           "url": "https://www.goodreads.com/book/show/86058408",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "",
-          "confidence": 45,
+          "confidence": 60,
           "cross_validated": null
         },
         "amazon_com": {
           "score": 4.3,
-          "count": 647,
+          "count": 648,
           "url": "https://www.amazon.co.jp/-/zh/dp/412207567X/ref=sr_1_1"
         }
       },
       "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/k9KOkG"
+      "short_affiliate_url": "https://reurl.cc/omaqyl"
+    },
+    {
+      "title": "推理要在下課後",
+      "author": "翁德怡",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786264332798",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/IRL8CNNR1DiVOlch1M_f6w?sId=2a1fb3c8-53f8-4c7c-9fdb-1b7293db4123&ssId=BghLYtYgZJZkwRUDGr6wx&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$245",
+      "cover_url": "covers/IRL8CNNR1DiVOlch1M_f6w.jpg",
+      "sale_price": "NT$208",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/13",
+      "description": "十堂課，從十個案件開始。從確認偏誤、證據判讀，到法律責任與人性理解，本書不只帶你看懂案件，更帶你練習一種在這個資訊混亂、情緒先行的時代尤其重要的能力：不讓故事取代證據，不讓推理超過科學能證明的界線。",
+      "publish_date": "2026年11月1日",
+      "last_updated": "2026-11-05T13:25:09.469092+08:00",
+      "listed_at": "2026-11-05",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/IRL8CNNR1DiVOlch1M_f6w?sId=2a1fb3c8-53f8-4c7c-9fdb-1b7293db4123&ssId=BghLYtYgZJZkwRUDGr6wx&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362442?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/0jCEIR",
+          "raw_url": "https://readmoo.com/book/210509391000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/%E6%8E%A8%E7%90%86%E8%A6%81%E5%9C%A8%E6%9C%AC%E6%A0%BC%E5%89%8D%EF%BC%8818%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%91%97%E5%90%8D%E7%9A%84%E6%96%87%E8%B1%AA%E4%BD%9C%E5%AE%B6%EF%BC%8C20%E7%AF%87%E8%AE%A9%E6%97%A5%E6%9C%AC%E6%8E%A8%E7%90%86%E8%BF%88%E5%90%91%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BD%9C%E5%93%81%EF%BC%8C%E6%94%B6%E5%BD%95%E6%97%A5%E6%9C%AC%E6%8E%A8%E7%90%86%E5%8F%B2%E4%B8%8A%E7%9A%84-%E5%9F%BA%E7%9F%B3%E4%B9%8B%E4%BD%9C-%EF%BC%81%EF%BC%89-Chinese-%E6%9E%9C%E9%BA%A6-ebook/dp/B088F92JJM/ref=sr_1_1"
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/LekZl9"
+    },
+    {
+      "title": "記憶七罪【經典收藏版】",
+      "author": "丹尼爾．沙克特",
+      "original_title": "The Seven Sins of Memory: How the Mind Forgets and Remembers",
+      "original_author": "Daniel L. Schacter",
+      "isbn": "9786264332934",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/094tyq92vTOIWYPtri6jew?sId=73d4d611-f487-4ae6-8de5-7bb54e646fd2&ssId=byPXHr4S7ov10r829yP1j&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$406",
+      "cover_url": "covers/094tyq92vTOIWYPtri6jew.jpg",
+      "sale_price": "NT$345",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/13",
+      "description": "這部開創性且屢獲殊榮的研究著作，是世界頂尖心理學家沙克特的心血結晶。本書探討記憶出了問題時為我們招惹的麻煩，以最新的研究與實驗佐證，進而提出看待記憶問題的新觀點。",
+      "publish_date": "2026年11月1日",
+      "last_updated": "2026-11-05T13:50:06.956523+08:00",
+      "listed_at": "2026-11-05",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/094tyq92vTOIWYPtri6jew?sId=73d4d611-f487-4ae6-8de5-7bb54e646fd2&ssId=byPXHr4S7ov10r829yP1j&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362441?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/8cgzFG",
+          "raw_url": "https://readmoo.com/book/210509775000101"
+        },
+        "goodreads": {
+          "score": 3.88,
+          "count": 1902,
+          "url": "https://www.goodreads.com/book/show/56592",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B003ZSISSA/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 349,
+          "url": "https://www.amazon.com/gp/product/B003ZSISSA/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.14,
+      "short_affiliate_url": "https://reurl.cc/DYV8lN"
+    },
+    {
+      "title": "2034未來預測",
+      "author": "中島聰",
+      "original_title": "2034 未来予測──AI（きみ）のいる明日",
+      "original_author": null,
+      "isbn": "9789861345871",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2034-ai?sId=4874ba52-139d-47a3-8c54-ebf860389454&ssId=bgY5djE00EVZLRQBkr_wZ&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/2034-ai.jpg",
+      "sale_price": "NT$226",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/15",
+      "description": "當8成的工作因為AI而消失，我們將面對怎樣的「混亂」與「希望」？本書以5則短篇小說，模擬到了2034年，AI將如何融入我們的生活。重大的社會和經濟變革即將到來，帶你擴大想像，及時因應！",
+      "publish_date": "2026年11月1日",
+      "last_updated": "2026-11-05T14:12:49.536288+08:00",
+      "listed_at": "2026-11-05",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/2034-ai?sId=4874ba52-139d-47a3-8c54-ebf860389454&ssId=bgY5djE00EVZLRQBkr_wZ&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361548?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/478bBF",
+          "raw_url": "https://readmoo.com/book/210509328000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/253736334",
+          "note": "manual-verified",
+          "confidence": 100,
+          "cross_validated": false,
+          "amazon_url": "https://www.amazon.com/gp/product/B0H4V9PVYK/ref=x_gr_bb_amazon"
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 491,
+          "url": "https://www.amazon.com/gp/product/B0H4V9PVYK/ref=x_gr_bb_amazon"
+        }
+      },
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/beOy36"
+    },
+    {
+      "title": "高勝率經濟學",
+      "author": "戴瑞．費爾韋瑟",
+      "original_title": "Hate the Game: Economic Cheat Codes for Life, Love, and Work",
+      "original_author": "Daryl Fairweather",
+      "isbn": "9786267859711",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/K2s1vAS0JTWqL4c3H69sZA?sId=ddcf9462-0774-460e-a7f5-371f765b0b70&ssId=DZExEmbuhWswQmqmPxnW7&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$335",
+      "cover_url": "covers/K2s1vAS0JTWqL4c3H69sZA.jpg",
+      "sale_price": "NT$285",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/15",
+      "description": "如果你想出人頭地，這是你的必讀之作！人生中的各種挑戰，就像是一場場遊戲，而本書就是最好的人生攻略本。不論是買房、求職、升遷、婚姻和理財，其實都有「最優解」。只要讀懂其中的規則，就能靠自己定義輸贏！",
+      "publish_date": "2026年11月2日",
+      "last_updated": "2026-11-05T13:25:09.469092+08:00",
+      "listed_at": "2026-11-05",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/K2s1vAS0JTWqL4c3H69sZA?sId=ddcf9462-0774-460e-a7f5-371f765b0b70&ssId=DZExEmbuhWswQmqmPxnW7&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362857?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/nuAHMP",
+          "raw_url": "https://readmoo.com/book/210509308000101"
+        },
+        "goodreads": {
+          "score": 3.53,
+          "count": 230,
+          "url": "https://www.goodreads.com/book/show/217215424",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DKB5NDJ8/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.1,
+          "count": 44,
+          "url": "https://www.amazon.com/gp/product/B0DKB5NDJ8/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.05,
+      "short_affiliate_url": "https://reurl.cc/3y2Z6L"
+    },
+    {
+      "title": "生命機器粒線體",
+      "author": "達莉雅・莫克利－羅森 Daria Mochly-Rosen、伊曼紐・羅森 Emanuel Rosen",
+      "original_title": "The Life Machines: How Taking Care of Your Mitochondria Can Transform Your Health",
+      "original_author": null,
+      "isbn": "9786267873786",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/a_lf55Xh5Ty9XBO1x8SnAA",
+      "kobo_price": "NT$435",
+      "cover_url": "covers/a_lf55Xh5Ty9XBO1x8SnAA.jpg",
+      "sale_price": "NT$370",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/15",
+      "description": "健康的粒線體，等於健康的細胞；而細胞健康，正是大腦、器官與身心健康的基石！巧妙融合最前沿的科研成果、真實故事與實用建議，更提供一套可於日常生活實踐的保健方法，幫助讀者重啟自體潛能，打造最強的身心狀態。",
+      "publish_date": "2026年11月2日",
+      "last_updated": "2026-11-05T13:25:09.469092+08:00",
+      "listed_at": "2026-11-05",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/a_lf55Xh5Ty9XBO1x8SnAA"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362841?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/2hqBJR",
+          "raw_url": "https://readmoo.com/book/210509273000101"
+        },
+        "goodreads": {
+          "score": 3.97,
+          "count": 91,
+          "url": "https://www.goodreads.com/book/show/224004285",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DV6L7T3M/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 52,
+          "url": "https://www.amazon.com/gp/product/B0DV6L7T3M/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/EY9agn"
     }
   ]
 }
