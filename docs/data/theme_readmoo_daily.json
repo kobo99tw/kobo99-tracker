@@ -1,107 +1,7 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-11-03T16:33:41.278401+08:00",
+  "updated_at": "2026-11-05T14:37:24.850022+08:00",
   "books": [
-    {
-      "title": "同理心行銷（二版）",
-      "author": "克萊爾．布魯克斯",
-      "original_title": "Marketing with Strategic Empathy : Inspiring Strategy with Deeper Consumer Insight",
-      "original_author": "Claire Brooks",
-      "isbn": "9786267261958",
-      "cover_url": "https://cdn.readmoo.com/cover/jc/iinorpc_460x580.jpg?v=1696318387",
-      "publish_date": "2023/10/02",
-      "date": "11/3",
-      "readmoo_url": "https://readmoo.com/book/210293179000101",
-      "daily_price": 99,
-      "daily_price_reg": 350,
-      "daily_discount_label": "2折",
-      "description": "◢傳統行銷緩不濟急，學習型行銷策略正在進化中！◣\n在一切充滿顛覆性的時代，行銷不能再只靠策略分析、大數據或無限創意，這無法讓我們聽見消費者的故事，無法得知顧客對產品或品牌的真實感受與隱藏的想法。",
-      "last_updated": "2026-11-03T16:33:41.278401+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050183049?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/fhzASX",
-          "raw_url": "https://readmoo.com/book/210293179000101"
-        },
-        "goodreads": {
-          "score": 4.13,
-          "count": 8,
-          "url": "https://www.goodreads.com/book/show/29633563",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B01JAS0JZS/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 12,
-          "url": "https://www.amazon.com/gp/product/B01JAS0JZS/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "書法，漢字最美的歷史【暢銷新版】",
-      "author": "黎孟德",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9789864895045",
-      "cover_url": "https://cdn.readmoo.com/cover/li/faikqid_460x580.jpg?v=1629771158",
-      "publish_date": "2021/08/11",
-      "date": "11/4",
-      "readmoo_url": "https://readmoo.com/book/210192969000101",
-      "daily_price": 99,
-      "daily_price_reg": 217,
-      "daily_discount_label": "",
-      "description": "你可能聽過新篆體、隸書體、行楷體、魏碑體，但你知道這些電腦裡的字體都是從古代書法字來的嗎？篆、隸、草、行、楷各有其基本個性與基本長相，歷代書法家不同的書寫風格，又賦予字體獨特的形象氣韻，讓中國書法字有了豐富多樣的面貌。",
-      "last_updated": "2026-11-03T16:33:41.278401+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050101200?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 5,
-          "url": "https://moo.im/a/1gpBRV",
-          "raw_url": "https://readmoo.com/book/210192969000101"
-        },
-        "goodreads": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/106485185",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 60,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%BB%8E%E5%AD%9F%E5%BE%B7-ebook/dp/B09PL8RDJB/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": ""
-    },
     {
       "title": "衝突歸零",
       "author": "傑森‧蓋迪斯",
@@ -114,9 +14,9 @@
       "readmoo_url": "https://readmoo.com/book/210229957000101",
       "daily_price": 99,
       "daily_price_reg": 315,
-      "daily_discount_label": "",
+      "daily_discount_label": "22折",
       "description": "亞馬遜4.8讀者好評\n紐約時報暢銷書《第七感》、《心腦奇航》作者、腦神經科學權威丹尼爾・席格Daniel Siegel傾力推薦——\n「本書提供了好用的概念與信手拈來的簡單步驟，讓讀者得以感知和解決人際關係中的挑戰，並修補關係的破口。這本書不是要我們一生順遂、永不陷入人際的困境，而是用平靜且澄明的狀態接受衝突的存在。",
-      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "last_updated": "2026-11-05T14:37:24.850022+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -166,7 +66,7 @@
       "daily_price_reg": 230,
       "daily_discount_label": "",
       "description": "2022 POPO華文創作大賞 幻想組 優選作品 \n作品含推理、科幻元素，故事情節環環相扣且邏輯清晰，\n探討人性的各種貪瞋，描寫十分到位。——評審高分推薦\n侵入他人的意識，盜取記憶包裝成商品，\n你，想要付費體驗另一個人生嗎？",
-      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "last_updated": "2026-11-05T14:37:24.850022+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -216,7 +116,7 @@
       "daily_price_reg": 279,
       "daily_discount_label": "",
       "description": "日本讀者廣大好評，廚藝新手或資深煮婦都能獲益良多的料理書！精選27道日式家常菜，設立「美味目標」及「達成公式」，\n以科學原理拆解烹調訣竅，大幅提升料理可口和穩定度！",
-      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "last_updated": "2026-11-05T14:37:24.850022+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -266,7 +166,7 @@
       "daily_price_reg": 266,
       "daily_discount_label": "",
       "description": "最正確！最超值的乘車票行程推薦\n全都在這本！",
-      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "last_updated": "2026-11-05T14:37:24.850022+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -316,7 +216,7 @@
       "daily_price_reg": 280,
       "daily_discount_label": "",
       "description": "日本長銷十餘年，日語學習者必讀實用書！35個日常慣用詞彙與豐富例句，深度剖析日本人的感性與思維！",
-      "last_updated": "2026-11-03T16:33:41.278401+08:00",
+      "last_updated": "2026-11-05T14:37:24.850022+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -338,9 +238,9 @@
           "score": 4.4,
           "count": 15,
           "url": "https://www.goodreads.com/book/show/111244956",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B09R9HRL4M/ref=x_gr_bb_amazon",
-          "confidence": 65,
+          "confidence": 80,
           "cross_validated": false
         },
         "amazon_com": {
@@ -350,6 +250,106 @@
         }
       },
       "avg_score": 4.16,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "香江神探福邇，字摩斯3：捲土重來（附「解密圖」）【有聲書】",
+      "author": "莫理斯",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267440469",
+      "cover_url": "https://cdn.readmoo.com/cover/bc/abalk86_460x580.jpg?v=1729762374",
+      "publish_date": "2024/10/25",
+      "date": "11/10",
+      "readmoo_url": "https://readmoo.com/book/290354244000101",
+      "daily_price": 149,
+      "daily_price_reg": 420,
+      "daily_discount_label": "",
+      "description": "莫理斯奇作《香江神探福邇，字摩斯》系列第三部！神探福邇於長白山墜入激流後，起死回生，重返香江與華笙大夫再度攜手辦案！",
+      "last_updated": "2026-11-05T17:06:45.521864+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070005150?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 5,
+          "url": "https://moo.im/a/2aeiRT",
+          "raw_url": "https://readmoo.com/book/290354244000101"
+        },
+        "goodreads": {
+          "score": 4.35,
+          "count": 43,
+          "url": "https://www.goodreads.com/book/show/61781705",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B5RJ9MYN/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.8,
+          "count": 8,
+          "url": "https://www.amazon.com/-/zh_TW/%E8%8E%AB%E7%90%86%E6%96%AF-ebook/dp/B0B5RJ9MYN/ref=sr_1_2"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "秘密會議",
+      "author": "羅伯特．哈里斯",
+      "original_title": "CONCLAVE",
+      "original_author": "Robert Harris",
+      "isbn": "9786264194792",
+      "cover_url": "https://cdn.readmoo.com/cover/le/ljblqgn_460x580.jpg?v=1763105678",
+      "publish_date": "2025/10/27",
+      "date": "11/11",
+      "readmoo_url": "https://readmoo.com/book/210429113000101",
+      "daily_price": 99,
+      "daily_price_reg": 315,
+      "daily_discount_label": "",
+      "description": "英國文學巨匠羅伯特．哈里斯超越自己的巔峰之作\n教宗驟逝。來自全球118位樞機主教將在緊閉的西斯汀教堂裡，進行一場全世界最隱密的選舉──直到煙囪冒出白煙、新任教宗誕生。",
+      "last_updated": "2026-11-05T17:06:45.521864+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050296702?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 18,
+          "url": "https://moo.im/a/4xRSUY",
+          "raw_url": "https://readmoo.com/book/210429113000101"
+        },
+        "goodreads": {
+          "score": 4.13,
+          "count": 86082,
+          "url": "https://www.goodreads.com/book/isbn/9786264194792",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/gp/product/B01HWKSCO6/ref=x_gr_bb_kindle",
+          "confidence": 50,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 651,
+          "url": "https://www.amazon.com/-/zh_TW/Conclave-Robert-Harris/dp/1784751839/ref=sr_1_2"
+        }
+      },
+      "avg_score": 4.23,
       "short_affiliate_url": ""
     }
   ]
