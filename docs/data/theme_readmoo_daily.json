@@ -66,7 +66,7 @@
       "daily_price_reg": 420,
       "daily_discount_label": "",
       "description": "莫理斯奇作《香江神探福邇，字摩斯》系列第三部！神探福邇於長白山墜入激流後，起死回生，重返香江與華笙大夫再度攜手辦案！",
-      "last_updated": "2026-11-09T16:15:01.088440+08:00",
+      "last_updated": "2026-11-09T21:31:18.912032+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -85,18 +85,14 @@
           "raw_url": "https://readmoo.com/book/290354244000101"
         },
         "goodreads": {
-          "score": 4.35,
-          "count": 43,
-          "url": "https://www.goodreads.com/book/show/61781705",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
+          "score": null,
+          "count": 0,
+          "url": ""
         },
         "amazon_com": {
-          "score": 4.8,
-          "count": 8,
-          "url": "https://www.amazon.com/gp/product/B0B5RJ9MYN/ref=x_gr_bb_kindle"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
       "avg_score": 4.19,
