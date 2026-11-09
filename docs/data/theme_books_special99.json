@@ -766,7 +766,7 @@
       "product_url": "https://www.books.com.tw/products/E050315136",
       "daily_price": 99,
       "daily_price_reg": 380,
-      "last_updated": "2026-10-15T18:12:03.195166+08:00",
+      "last_updated": "2026-11-09T17:26:57.560448+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -781,7 +781,9 @@
         "readmoo": {
           "score": 5.0,
           "count": 3,
-          "url": "https://moo.im/a/46abKT",
+          "url": "https://moo.im/a/oFHJWY",
+          "price_reg": 250,
+          "price_promo": null,
           "raw_url": "https://readmoo.com/book/210451435000101"
         },
         "goodreads": {

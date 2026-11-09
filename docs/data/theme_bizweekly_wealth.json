@@ -2117,12 +2117,12 @@
           "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050150001?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202609"
         },
         "readmoo": {
-          "score": 4.4,
-          "count": 165,
-          "url": "https://moo.im/a/knqSXY",
-          "price_reg": 420,
+          "score": 4.0,
+          "count": 8,
+          "url": "https://moo.im/a/cswxFW",
+          "price_reg": 245,
           "price_promo": null,
-          "raw_url": "https://readmoo.com/book/210173666000101"
+          "raw_url": "https://readmoo.com/book/210259072000101"
         },
         "goodreads": {
           "score": 4.21,
@@ -2139,9 +2139,9 @@
           "url": "https://www.amazon.com/gp/product/1668010194/ref=x_gr_bb_amazon"
         }
       },
-      "avg_score": 4.22,
+      "avg_score": 4.17,
       "short_affiliate_url": "https://reurl.cc/WzNp25",
-      "last_updated": "2026-09-04T16:16:35.985663+08:00",
+      "last_updated": "2026-11-09T17:26:53.454058+08:00",
       "price_source": "kobo",
       "category": "決策思維",
       "category_manual_override": true,
