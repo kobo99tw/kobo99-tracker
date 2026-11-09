@@ -1,207 +1,7 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-11-05T14:37:24.850022+08:00",
+  "updated_at": "2026-11-09T16:15:01.088440+08:00",
   "books": [
-    {
-      "title": "衝突歸零",
-      "author": "傑森‧蓋迪斯",
-      "original_title": "",
-      "original_author": "Jayson Gaddis",
-      "isbn": "9786269577811",
-      "cover_url": "https://cdn.readmoo.com/cover/d7/dek9jke_460x580.jpg?v=1653277428",
-      "publish_date": "2022/05/17",
-      "date": "11/5",
-      "readmoo_url": "https://readmoo.com/book/210229957000101",
-      "daily_price": 99,
-      "daily_price_reg": 315,
-      "daily_discount_label": "22折",
-      "description": "亞馬遜4.8讀者好評\n紐約時報暢銷書《第七感》、《心腦奇航》作者、腦神經科學權威丹尼爾・席格Daniel Siegel傾力推薦——\n「本書提供了好用的概念與信手拈來的簡單步驟，讓讀者得以感知和解決人際關係中的挑戰，並修補關係的破口。這本書不是要我們一生順遂、永不陷入人際的困境，而是用平靜且澄明的狀態接受衝突的存在。",
-      "last_updated": "2026-11-05T14:37:24.850022+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050132169?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 3.8,
-          "count": 9,
-          "url": "https://moo.im/a/14cvEJ",
-          "raw_url": "https://readmoo.com/book/210229957000101"
-        },
-        "goodreads": {
-          "score": 4.19,
-          "count": 500,
-          "url": "https://www.goodreads.com/book/isbn/9786269577811",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E5%82%91%E6%A3%AE%E2%80%A7%E8%93%8B%E8%BF%AA%E6%96%AF%EF%BC%88Jayson-Gaddis%EF%BC%89-ebook/dp/B0B1HVSS5C/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "現在開始是絕對共感時間",
-      "author": "漠星",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786267217634",
-      "cover_url": "https://cdn.readmoo.com/cover/e9/87jjn89_460x580.jpg?v=1696409993",
-      "publish_date": "2023/09/28",
-      "date": "11/6",
-      "readmoo_url": "https://readmoo.com/book/210293094000101",
-      "daily_price": 99,
-      "daily_price_reg": 230,
-      "daily_discount_label": "",
-      "description": "2022 POPO華文創作大賞 幻想組 優選作品 \n作品含推理、科幻元素，故事情節環環相扣且邏輯清晰，\n探討人性的各種貪瞋，描寫十分到位。——評審高分推薦\n侵入他人的意識，盜取記憶包裝成商品，\n你，想要付費體驗另一個人生嗎？",
-      "last_updated": "2026-11-05T14:37:24.850022+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 5,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050190308?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.2,
-          "count": 20,
-          "url": "https://moo.im/a/cflrFW",
-          "raw_url": "https://readmoo.com/book/210293094000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "日式家常菜的美味科學",
-      "author": "前田量子",
-      "original_title": "ロジカル和食",
-      "original_author": null,
-      "isbn": "9789864087945",
-      "cover_url": "https://cdn.readmoo.com/cover/8f/cegal7h_460x580.jpg?v=1652336369",
-      "publish_date": "2022/03/29",
-      "date": "11/7",
-      "readmoo_url": "https://readmoo.com/book/210228434000101",
-      "daily_price": 99,
-      "daily_price_reg": 279,
-      "daily_discount_label": "",
-      "description": "日本讀者廣大好評，廚藝新手或資深煮婦都能獲益良多的料理書！精選27道日式家常菜，設立「美味目標」及「達成公式」，\n以科學原理拆解烹調訣竅，大幅提升料理可口和穩定度！",
-      "last_updated": "2026-11-05T14:37:24.850022+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050131753?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 5,
-          "url": "https://moo.im/a/bquxGX",
-          "raw_url": "https://readmoo.com/book/210228434000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 272,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4074397609/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "一張PASS玩遍大東京",
-      "author": "墨刻編輯部",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9789862899526",
-      "cover_url": "https://cdn.readmoo.com/cover/im/fnddpbk_460x580.jpg?v=1702973651",
-      "publish_date": "2023/12/05",
-      "date": "11/8",
-      "readmoo_url": "https://readmoo.com/book/210305466000101",
-      "daily_price": 99,
-      "daily_price_reg": 266,
-      "daily_discount_label": "",
-      "description": "最正確！最超值的乘車票行程推薦\n全都在這本！",
-      "last_updated": "2026-11-05T14:37:24.850022+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050194370?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://moo.im/a/hyAOWZ",
-          "raw_url": "https://readmoo.com/book/210305466000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": ""
-    },
     {
       "title": "讀懂人心的日本語",
       "author": "森田六朗",
@@ -214,9 +14,9 @@
       "readmoo_url": "https://readmoo.com/book/210313975000101",
       "daily_price": 99,
       "daily_price_reg": 280,
-      "daily_discount_label": "",
+      "daily_discount_label": "25折",
       "description": "日本長銷十餘年，日語學習者必讀實用書！35個日常慣用詞彙與豐富例句，深度剖析日本人的感性與思維！",
-      "last_updated": "2026-11-05T14:37:24.850022+08:00",
+      "last_updated": "2026-11-09T16:15:01.088440+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -266,7 +66,7 @@
       "daily_price_reg": 420,
       "daily_discount_label": "",
       "description": "莫理斯奇作《香江神探福邇，字摩斯》系列第三部！神探福邇於長白山墜入激流後，起死回生，重返香江與華笙大夫再度攜手辦案！",
-      "last_updated": "2026-11-05T17:06:45.521864+08:00",
+      "last_updated": "2026-11-09T16:15:01.088440+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -288,15 +88,15 @@
           "score": 4.35,
           "count": 43,
           "url": "https://www.goodreads.com/book/show/61781705",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0B5RJ9MYN/ref=x_gr_bb_kindle",
+          "note": "re-fetch",
+          "amazon_url": "",
           "confidence": 90,
-          "cross_validated": true
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.8,
           "count": 8,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%8E%AB%E7%90%86%E6%96%AF-ebook/dp/B0B5RJ9MYN/ref=sr_1_2"
+          "url": "https://www.amazon.com/gp/product/B0B5RJ9MYN/ref=x_gr_bb_kindle"
         }
       },
       "avg_score": 4.19,
@@ -316,7 +116,7 @@
       "daily_price_reg": 315,
       "daily_discount_label": "",
       "description": "英國文學巨匠羅伯特．哈里斯超越自己的巔峰之作\n教宗驟逝。來自全球118位樞機主教將在緊閉的西斯汀教堂裡，進行一場全世界最隱密的選舉──直到煙囪冒出白煙、新任教宗誕生。",
-      "last_updated": "2026-11-05T17:06:45.521864+08:00",
+      "last_updated": "2026-11-09T16:15:01.088440+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -330,18 +130,18 @@
         },
         "readmoo": {
           "score": 4.7,
-          "count": 18,
+          "count": 19,
           "url": "https://moo.im/a/4xRSUY",
           "raw_url": "https://readmoo.com/book/210429113000101"
         },
         "goodreads": {
           "score": 4.13,
-          "count": 86082,
+          "count": 86143,
           "url": "https://www.goodreads.com/book/isbn/9786264194792",
           "note": "isbn",
-          "amazon_url": "https://www.amazon.com/gp/product/B01HWKSCO6/ref=x_gr_bb_kindle",
+          "amazon_url": "",
           "confidence": 50,
-          "cross_validated": false
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.5,
@@ -350,6 +150,206 @@
         }
       },
       "avg_score": 4.23,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "鷹架教養",
+      "author": "哈羅德．科普萊維奇",
+      "original_title": "The Scaffold Effect : Raising Resilient, Self Reliant, and Secure Kids in an Age of Anxiety",
+      "original_author": "Harold S. Koplewicz",
+      "isbn": "9789865258405",
+      "cover_url": "https://cdn.readmoo.com/cover/be/gdb9khb_460x580.jpg?v=1667777432",
+      "publish_date": "2022/11/07",
+      "date": "11/12",
+      "readmoo_url": "https://readmoo.com/book/210253652000101",
+      "daily_price": 99,
+      "daily_price_reg": 338,
+      "daily_discount_label": "",
+      "description": "運用本書的鷹架教養策略，你會培養出有自信、有能力、有好奇心的孩子，他們長大會成為最好的自己。你也能建立足以撐過孩子青春期的親子關係，在孩子成年後你們的關係還會變得更加親密，\n這正是我們所有父母對孩子、對自己的期盼。",
+      "last_updated": "2026-11-09T16:15:01.088440+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050146343?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 6,
+          "url": "https://moo.im/a/dkFNUW",
+          "raw_url": "https://readmoo.com/book/210253652000101"
+        },
+        "goodreads": {
+          "score": 4.17,
+          "count": 832,
+          "url": "https://www.goodreads.com/book/show/53733103",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 266,
+          "url": "https://www.amazon.com/-/zh_TW/Harold-S-Koplewicz-ebook/dp/B089G698BH/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.24,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "光與健康",
+      "author": "郝洛西、曹亦瀟",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786269551323",
+      "cover_url": "https://cdn.readmoo.com/cover/8h/98g4lcc_460x580.jpg?v=1666839828",
+      "publish_date": "2022/06/29",
+      "date": "11/13",
+      "readmoo_url": "https://readmoo.com/book/210252706000101",
+      "daily_price": 149,
+      "daily_price_reg": 1260,
+      "daily_discount_label": "",
+      "description": "遠古以來，人類遵循「日出而作，日落而息」，直到19世紀末電燈發明；從此以後，人類正式邁入夜生活時代，也開始經歷日夜顛倒、時差、3C藍光導致失眠等健康困擾。本書奠基於醫學與研究實證，闡明光對於人體健康的影響。",
+      "last_updated": "2026-11-09T16:31:13.241705+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050145472?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/27bhlY",
+          "raw_url": "https://readmoo.com/book/210252706000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "來到少女雜誌的編輯君",
+      "author": "大崎梢",
+      "original_title": "プリティが多すぎる",
+      "original_author": null,
+      "isbn": "9789863193180",
+      "cover_url": "https://cdn.readmoo.com/cover/79/5gb6h49_460x580.jpg?v=1546825795",
+      "publish_date": "2019/01/07",
+      "date": "11/14",
+      "readmoo_url": "https://readmoo.com/book/210100545000101",
+      "daily_price": 129,
+      "daily_price_reg": 224,
+      "daily_discount_label": "",
+      "description": "少女流行雜誌Pipin，宣傳標語是：「女孩都喜歡Ｐ」。Ｐ是什麼？",
+      "last_updated": "2026-11-09T16:15:01.088440+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050037406?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.5,
+          "count": 52,
+          "url": "https://moo.im/a/4nqsKQ",
+          "raw_url": "https://readmoo.com/book/210100545000101"
+        },
+        "goodreads": {
+          "score": 3.79,
+          "count": 14,
+          "url": "https://www.goodreads.com/book/show/40206913",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/4163811206/ref=x_gr_bb_amazon",
+          "confidence": 80,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.1,
+          "count": 30,
+          "url": "https://www.amazon.com/gp/product/4163811206/ref=x_gr_bb_amazon"
+        }
+      },
+      "avg_score": 4.14,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "孤獨與不安的課題",
+      "author": "鴻上尚史",
+      "original_title": "孤独と不安のレッスン",
+      "original_author": null,
+      "isbn": "9786267841037",
+      "cover_url": "https://cdn.readmoo.com/cover/ka/fgdmpkf_460x580.jpg?v=1766453630",
+      "publish_date": "2025/12/24",
+      "date": "11/15",
+      "readmoo_url": "https://readmoo.com/book/210436970000101",
+      "daily_price": 99,
+      "daily_price_reg": 266,
+      "daily_discount_label": "",
+      "description": "【本書特色】\n◎由日本知名導演、《我讀「空氣」但不盲從》《不死之身的特攻兵》作者──鴻上尚史所著。◎提出「真孤獨」VS「假孤獨」、「正面的不安」VS「負面的不安」重新詮釋現代人的「焦慮與寂寞」議題。",
+      "last_updated": "2026-11-09T16:15:01.088440+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050306519?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 5,
+          "url": "https://moo.im/a/7nERWX",
+          "raw_url": "https://readmoo.com/book/210436970000101"
+        },
+        "goodreads": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/19489155",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B00GONZP9I/ref=x_gr_bb_amazon",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 399,
+          "url": "https://www.amazon.com/gp/product/B00GONZP9I/ref=x_gr_bb_amazon"
+        }
+      },
+      "avg_score": 4.18,
       "short_affiliate_url": ""
     }
   ]
