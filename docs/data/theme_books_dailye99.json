@@ -1,57 +1,7 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-11-05T14:46:01.632845+08:00",
+  "updated_at": "2026-11-09T16:32:22.105027+08:00",
   "books": [
-    {
-      "title": "氣象解碼：以日常天氣變化揭開大自然奧祕",
-      "author": "金子大輔",
-      "original_title": "もっと話がおもしろくなる 教養としての気象と天気",
-      "original_author": null,
-      "isbn": "9789863705871",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/017/56/E050175670.jpg&v=64dc373ek&w=1146&h=600",
-      "publish_date": "2023/08/29",
-      "date_start": "11/5",
-      "date_end": "11/5",
-      "date_label": "11/5(四)",
-      "product_url": "https://www.books.com.tw/products/E050175670",
-      "daily_price": 99,
-      "daily_price_reg": 380,
-      "last_updated": "2026-11-05T14:46:01.632845+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050175670?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 4,
-          "url": "https://moo.im/a/14nosJ",
-          "raw_url": "https://readmoo.com/book/210285600000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 3.9,
-          "count": 29,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4866214066/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.11,
-      "short_affiliate_url": ""
-    },
     {
       "title": "史丹佛人際動力學：連開50年的課，教你好關係從真情流露開始",
       "author": "大衛．布雷弗德、凱蘿．羅賓",
@@ -66,7 +16,7 @@
       "product_url": "https://www.books.com.tw/products/E050094135",
       "daily_price": 99,
       "daily_price_reg": 440,
-      "last_updated": "2026-11-05T17:06:45.544093+08:00",
+      "last_updated": "2026-11-09T16:32:22.105027+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -88,10 +38,10 @@
           "score": 4.06,
           "count": 1898,
           "url": "https://www.goodreads.com/book/show/53720447",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0894279WZ/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "confidence": 90,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": 4.6,
@@ -103,70 +53,20 @@
       "short_affiliate_url": ""
     },
     {
-      "title": "這才是數學：從不知道到想知道的探索之旅",
-      "author": "保羅．拉克哈特",
-      "original_title": "Measurement",
-      "original_author": "Paul Lockhart",
-      "isbn": "9789866031663",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/007/33/E050073345.jpg&v=5f45f8f9k&w=1146&h=600",
-      "publish_date": "2015/03/10",
-      "date_start": "11/7",
-      "date_end": "11/9",
-      "date_label": "11/7(六)-11/9(一)",
-      "product_url": "https://www.books.com.tw/products/E050073345",
-      "daily_price": 66,
-      "daily_price_reg": 400,
-      "last_updated": "2026-11-05T17:06:45.544093+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050073345?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/035cqV",
-          "raw_url": "https://readmoo.com/book/210154292000101"
-        },
-        "goodreads": {
-          "score": 4.24,
-          "count": 667,
-          "url": "https://www.goodreads.com/book/show/15701297",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0H84GHFHW/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 354,
-          "url": "https://www.amazon.com/gp/product/B0H84GHFHW/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.24,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "快樂花錢，存錢不苦，更能致富的金錢法則：擺脫匱乏心態，不讓預算控制你的人生，學會離夢想目標更近的金錢事，成為金錢的主人。",
-      "author": "妮可．維多利亞",
-      "original_title": "More Money Now: A Millennial’s Guide to Financial Freedom and Security",
-      "original_author": "Nicole Victoria",
-      "isbn": "9786267384060",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/019/17/E050191760.jpg&v=6560154bk&w=1146&h=600",
-      "publish_date": "2023/12/01",
-      "date_start": "11/7",
-      "date_end": "11/9",
-      "date_label": "11/7(六)-11/9(一)",
-      "product_url": "https://www.books.com.tw/products/E050191760",
-      "daily_price": 66,
-      "daily_price_reg": 380,
-      "last_updated": "2026-11-05T14:46:01.632845+08:00",
+      "title": "書法，漢字最美的歷史【暢銷新版】：讀懂書法的60堂美學課",
+      "author": "黎孟德",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9789864895045",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/010/12/E050101200.jpg&v=6119ca24k&w=1146&h=600",
+      "publish_date": "2021/08/11",
+      "date_start": "11/13",
+      "date_end": "11/13",
+      "date_label": "11/13(五)",
+      "product_url": "https://www.books.com.tw/products/E050101200",
+      "daily_price": 99,
+      "daily_price_reg": 310,
+      "last_updated": "2026-11-09T16:32:22.105027+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -176,47 +76,47 @@
         "books_com": {
           "score": 4.5,
           "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050191760?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050101200?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.5,
+          "score": 3.7,
           "count": 6,
-          "url": "https://moo.im/a/045uQU",
-          "raw_url": "https://readmoo.com/book/210302358000101"
+          "url": "https://moo.im/a/1gpBRV",
+          "raw_url": "https://readmoo.com/book/210192969000101"
         },
         "goodreads": {
-          "score": 3.86,
-          "count": 185,
-          "url": "https://www.goodreads.com/book/show/62013049",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0BVW2WY6L/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/106485185",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09PL8RDJB/ref=x_gr_bb_kindle",
+          "confidence": 45,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.4,
-          "count": 113,
-          "url": "https://www.amazon.com/gp/product/B0BVW2WY6L/ref=x_gr_bb_kindle"
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E9%BB%8E%E5%AD%9F%E5%BE%B7-ebook/dp/B09PL8RDJB/ref=sr_1_1"
         }
       },
-      "avg_score": 4.13,
+      "avg_score": 4.16,
       "short_affiliate_url": ""
     },
     {
-      "title": "同理心行銷（二版）：500強正在用，顛覆傳統的消費者洞察進化策略",
-      "author": "克萊爾．布魯克斯",
-      "original_title": "Marketing with Strategic Empathy: Inspiring Strategy with Deeper Consumer Insight",
-      "original_author": "Claire Brooks",
-      "isbn": "9786267261958",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/018/30/E050183049.jpg&v=651b96cek&w=1146&h=600",
-      "publish_date": "2023/10/02",
-      "date_start": "11/6",
-      "date_end": "11/6",
-      "date_label": "11/6(五)",
-      "product_url": "https://www.books.com.tw/products/E050183049",
+      "title": "教你寫職場 E-mail 英語",
+      "author": "賴世雄",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9789867380647",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/031/19/E050311967.jpg&v=69646042k&w=1146&h=600",
+      "publish_date": "2025/01/19",
+      "date_start": "11/12",
+      "date_end": "11/12",
+      "date_label": "11/12(四)",
+      "product_url": "https://www.books.com.tw/products/E050311967",
       "daily_price": 99,
-      "daily_price_reg": 500,
-      "last_updated": "2026-11-05T14:46:01.632845+08:00",
+      "daily_price_reg": 399,
+      "last_updated": "2026-11-09T16:40:20.813255+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -224,32 +124,128 @@
           "url": ""
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050183049?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
           "score": 5.0,
           "count": 1,
-          "url": "https://moo.im/a/fhzASX",
-          "raw_url": "https://readmoo.com/book/210293179000101"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050311967?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/6rvBOX",
+          "raw_url": "https://readmoo.com/book/210447562000101"
         },
         "goodreads": {
-          "score": 4.13,
-          "count": 8,
-          "url": "https://www.goodreads.com/book/show/29633563",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B01JAS0JZS/ref=x_gr_bb_kindle",
-          "confidence": 95,
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "美好人生：史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵",
+      "author": "羅伯特．沃丁格、馬克．修茲",
+      "original_title": "THE GOOD LIFE: Lessons from the World’s Longest Scientific Study of Happiness",
+      "original_author": "Robert Waldinger; Marc Schulz",
+      "isbn": "9789863988922",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/016/70/E050167037.jpg&v=6491441dk&w=1146&h=600",
+      "publish_date": "2023/06/28",
+      "date_start": "11/11",
+      "date_end": "11/11",
+      "date_label": "11/11(三)",
+      "product_url": "https://www.books.com.tw/products/E050167037",
+      "daily_price": 99,
+      "daily_price_reg": 520,
+      "last_updated": "2026-11-09T16:32:22.105027+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 7,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050167037?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 20,
+          "url": "https://moo.im/a/lmBKLQ",
+          "raw_url": "https://readmoo.com/book/210278757000101"
+        },
+        "goodreads": {
+          "score": 4.14,
+          "count": 13433,
+          "url": "https://www.goodreads.com/book/show/61272271",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0B3Y7J6PN/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.6,
-          "count": 12,
-          "url": "https://www.amazon.com/gp/product/B01JAS0JZS/ref=x_gr_bb_kindle"
+          "count": 2514,
+          "url": "https://www.amazon.com/gp/product/B0B3Y7J6PN/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.15,
+      "avg_score": 4.27,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "教出殺人犯Ⅰ：你以為的反省，只會讓人變得更壞",
+      "author": "岡本茂樹",
+      "original_title": "反省させると犯罪者になります",
+      "original_author": null,
+      "isbn": "9786263611771",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/017/80/E050178015.jpg&v=64eee5d9k&w=1146&h=600",
+      "publish_date": "2023/09/01",
+      "date_start": "11/10",
+      "date_end": "11/10",
+      "date_label": "11/10(二)",
+      "product_url": "https://www.books.com.tw/products/E050178015",
+      "daily_price": 99,
+      "daily_price_reg": 360,
+      "last_updated": "2026-11-09T16:32:22.105027+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 15,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050178015?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 88,
+          "url": "https://moo.im/a/04uyKO",
+          "raw_url": "https://readmoo.com/book/210288704000101"
+        },
+        "goodreads": {
+          "score": 3.91,
+          "count": 22,
+          "url": "https://www.goodreads.com/book/show/198277306",
+          "note": "zh-title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/6263611774/ref=x_gr_bb_amazon",
+          "confidence": 60,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 808,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4106105209/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.24,
       "short_affiliate_url": ""
     }
   ]
