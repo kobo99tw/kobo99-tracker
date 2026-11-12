@@ -1,150 +1,150 @@
 {
   "year": 2026,
-  "week": 45,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w45",
-  "sale_label": "NT$99 特價：11/5（四）～11/11（三）",
-  "sale_start": "2026-11-05",
-  "sale_end": "2026-11-11",
+  "week": 46,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w46",
+  "sale_label": "NT$99 特價：11/12（四）～11/18（三）",
+  "sale_start": "2026-11-12",
+  "sale_end": "2026-11-18",
   "on_sale": true,
-  "updated_at": "2026-11-05T12:35:09.149768+08:00",
+  "updated_at": "2026-11-12T11:48:31.197361+08:00",
   "books": [
     {
-      "title": "聰明簡潔的溝通：200字寫重點，26秒贏得注意力",
-      "author": "吉姆．范德海、麥克．艾倫、羅伊．史瓦茲",
-      "original_title": "Smart Brevity The Power of Saying More with Less",
-      "isbn": "9786263552272",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/EI-7hWd-0zydZBJnzunKvg?sId=9facb3d1-8a28-4239-aefa-f4f1283ee81d&ssId=K8KIsjzQS3GyCjs0XHnDK&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/EI-7hWd-0zydZBJnzunKvg.jpg",
+      "title": "好好拜託：哥倫比亞大學最受歡迎的社會心理課，讓人幫你是優勢，連幫你的人都快樂才是本事！",
+      "author": "海蒂．格蘭特Heidi Grant",
+      "original_title": "Reinforcements: How to Get People to Help You",
+      "isbn": "3319863984115",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VE6Q52XO_zO20M4wWG9bmg?sId=8f3d7309-1495-447d-b393-337ebe8cee9b&ssId=5Is4GD2e20uPyjTYtmPQv&cPos=77&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$245",
+      "cover_url": "covers/VE6Q52XO_zO20M4wWG9bmg.jpg",
       "sale_price": "NT$99",
-      "date": "11/05",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
+      "date": "11/12",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
       "on_sale": true,
-      "publisher": "天下文化出版社",
-      "publish_date": "2023年5月30日",
-      "language": "Chinese (Traditional)",
-      "original_author": "Jim VandeHei; Mike Allen; Roy Schwartz",
-      "description": "在資訊爆炸的時代，每天產生的數十億文字都在讓人浪費時間！數位時代的寫作聖經，推文、郵件、簡報全適用。簡潔帶來自信，冗長讓人恐懼。「聰明簡潔溝通法」教你穿透雜訊，直擊讀者的心，解救讀者脫離文字苦海。",
-      "last_updated": "2026-11-05T12:35:09.149768+08:00",
+      "publisher": "天下雜誌",
+      "publish_date": "2019年3月29日",
+      "language": "中文",
+      "original_author": "Heidi Grant",
+      "description": "一本讓你言值高、內心也強大的書，該怎樣開口，讓人願意幫你？風靡商業界、政治圈的最高說服法，最新動機科學，教你求助用得好，關係更長久。想要人生愈來愈好，就要有好好拜託的本事，創造多贏的求助技巧。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.3,
-          "count": 22,
-          "url": "https://www.kobo.com/tw/zh/ebook/EI-7hWd-0zydZBJnzunKvg?sId=9facb3d1-8a28-4239-aefa-f4f1283ee81d&ssId=K8KIsjzQS3GyCjs0XHnDK&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 11,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050162760?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 90,
-          "url": "https://moo.im/a/adjouQ",
-          "raw_url": "https://readmoo.com/book/210274387000101"
-        },
-        "goodreads": {
-          "score": 3.9,
-          "count": 10847,
-          "url": "https://www.goodreads.com/book/show/59891634",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B09TGMK8G6/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 2946,
-          "url": "https://www.amazon.com/gp/product/B09TGMK8G6/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/lnxXbE"
-    },
-    {
-      "title": "誤判：如何在喧鬧世界中篩選正確訊息，校正解讀，做出更明智的決策",
-      "author": "努沃．爾許",
-      "original_title": "Tune In: How to Make Smarter Decisions in a Noisy World",
-      "isbn": "9786267714058",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DozvpmMMkDGAOCtpC762kg?sId=671c9f6e-67e2-48d6-bec8-84a7fb210ffc&ssId=0R3x9Pf1M6hV3itt12HNM&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$616",
-      "cover_url": "covers/DozvpmMMkDGAOCtpC762kg.jpg",
-      "sale_price": "NT$99",
-      "date": "11/06",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
-      "on_sale": true,
-      "publisher": "大雁文化事業股份有限公司",
-      "publish_date": "2025年7月16日",
-      "language": "Chinese (Traditional)",
-      "original_author": "Nuala Walsh",
-      "description": "誤判的決策危機，將是人類的危機。校準接收正確訊息的頻率，有意識地過濾掉周圍雜音，你的決策品質將決定你的收穫與後悔程度。本書以最新且立體的觀點解讀判斷力，排除讓人脫離正軌的雜訊，終結草率判斷。",
-      "last_updated": "2026-11-05T12:35:09.149768+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/DozvpmMMkDGAOCtpC762kg?sId=671c9f6e-67e2-48d6-bec8-84a7fb210ffc&ssId=0R3x9Pf1M6hV3itt12HNM&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
+          "score": 4.25,
+          "count": 8,
+          "url": "https://www.kobo.com/tw/zh/ebook/VE6Q52XO_zO20M4wWG9bmg?sId=8f3d7309-1495-447d-b393-337ebe8cee9b&ssId=5Is4GD2e20uPyjTYtmPQv&cPos=77&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
         },
         "books_com": {
           "score": 4.5,
           "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050274828?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050041684?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 3,
-          "url": "https://moo.im/a/489xCV",
-          "raw_url": "https://readmoo.com/book/210399886000101"
+          "score": 4.2,
+          "count": 107,
+          "url": "https://moo.im/a/7agkqv",
+          "raw_url": "https://readmoo.com/book/210105308000101"
         },
         "goodreads": {
-          "score": 4.32,
-          "count": 126,
-          "url": "https://www.goodreads.com/book/show/127278715",
+          "score": 3.8,
+          "count": 299,
+          "url": "https://www.goodreads.com/book/show/39085801",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0C1PCCMXB/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B073WHP3JW/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.2,
+          "count": 102,
+          "url": "https://www.amazon.com/gp/product/B073WHP3JW/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.08,
+      "short_affiliate_url": "https://reurl.cc/NOv9rq"
+    },
+    {
+      "title": "「矽谷製造」的漢堡肉？科技食物狂熱的真相與代價",
+      "author": "拉里莎．津貝洛夫",
+      "original_title": "Technically Food: Inside Silicon Valley’s Mission to Change What We Eat",
+      "isbn": "9786263180710",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dx53TdvEAzSR19lKtJ6K9g?sId=b5b01886-c5cd-4039-91b1-e090f8c1373e&ssId=4_foX1JZxTZqfkt6Powk3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$340",
+      "cover_url": "covers/dx53TdvEAzSR19lKtJ6K9g.jpg",
+      "sale_price": "NT$99",
+      "date": "11/13",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
+      "on_sale": true,
+      "publisher": "商周出版",
+      "publish_date": "2021年11月9日",
+      "language": "中文",
+      "original_author": "Larissa Zimberoff",
+      "description": "當今科技食物產業發展的第一本全面調查。食物從來不只是食物，更是商業利益與權力角力的產物，唯有透過公開透明的機制與清楚的食品商標，我們才能真正了解自己吃下肚子的東西究竟是什麼。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/dx53TdvEAzSR19lKtJ6K9g?sId=b5b01886-c5cd-4039-91b1-e090f8c1373e&ssId=4_foX1JZxTZqfkt6Powk3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050119520?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 17,
+          "url": "https://moo.im/a/dfjoqZ",
+          "raw_url": "https://readmoo.com/book/210213143000101"
+        },
+        "goodreads": {
+          "score": 3.57,
+          "count": 311,
+          "url": "https://www.goodreads.com/book/show/51075388",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B084ZLJNK1/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 62,
-          "url": "https://www.amazon.com/gp/product/B0C1PCCMXB/ref=x_gr_bb_kindle"
+          "count": 86,
+          "url": "https://www.amazon.com/gp/product/B084ZLJNK1/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/yW3Xjy"
+      "avg_score": 4.06,
+      "short_affiliate_url": "https://reurl.cc/qa76g0"
     },
     {
-      "title": "今天也要好好写手账啊",
-      "author": "不是闷",
+      "title": "双重冲击：大国博弈的未来与未来的世界经济",
+      "author": "李晓",
       "original_title": "",
-      "isbn": "7553521738872",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/qEpAJYls6Dq-VSnrVg5bcA?sId=c43d1d91-90ef-4786-8705-00940ef0f4a9&ssId=vW5Uf4lobGLXL9hrpKBKS&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$240",
-      "cover_url": "covers/qEpAJYls6Dq-VSnrVg5bcA.jpg",
+      "isbn": "7584043219490",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/r897xgnRnDOhX7PUkUhe5g?sId=45c23f7d-b84e-4b3d-9972-90e244b486b3&ssId=ljDO0SYB91AfzOh2lWBHz&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$244",
+      "cover_url": "covers/r897xgnRnDOhX7PUkUhe5g.jpg",
       "sale_price": "NT$99",
-      "date": "11/06",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
+      "date": "11/13",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
       "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2022年3月1日",
-      "language": "Chinese (Simplified)",
+      "publisher": "",
+      "publish_date": "2022年1月1日",
+      "language": "中文",
       "original_author": null,
-      "description": "手帳即生活，寫下即人生。知名手帳博主不是悶分享7年來積累的手帳秘笈，從手帳新手時的各種嘗試，到漸入佳境後和生活產生的化學反應。一一進行詳細分享，你也可以用這些方法更好地留下生活中所有美好瞬間。",
-      "last_updated": "2026-11-05T12:35:09.149768+08:00",
+      "description": "首次以文字形式收錄作者所做的題為「國家命運與個人命運」的講話。這篇講話迄今為止在國內外的點擊量超過千萬。當時正值中美貿易爭端不久。三年多來中美關係發展的現實表明，這些判斷基本上是準確的。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
       "ratings": {
         "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/qEpAJYls6Dq-VSnrVg5bcA?sId=c43d1d91-90ef-4786-8705-00940ef0f4a9&ssId=vW5Uf4lobGLXL9hrpKBKS&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/r897xgnRnDOhX7PUkUhe5g?sId=45c23f7d-b84e-4b3d-9972-90e244b486b3&ssId=ljDO0SYB91AfzOh2lWBHz&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/CN11751947?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/CN11747745?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
           "score": null,
@@ -152,166 +152,166 @@
           "url": ""
         },
         "goodreads": {
-          "score": 3.22,
-          "count": 9,
-          "url": "https://www.goodreads.com/book/show/63144620",
-          "note": "zh-title",
-          "amazon_url": "https://www.amazon.com/gp/product/752173887X/ref=x_gr_bb_amazon",
-          "confidence": 55,
-          "cross_validated": true
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%86%99%E6%89%8B%E8%B4%A6%E5%95%8A-%E4%B8%8D%E6%98%AF%E9%97%B7/dp/752173887X/ref=sr_1_1"
+          "url": "https://www.amazon.com/-/zh_TW/%E6%9D%8E%E6%99%93-ebook/dp/B09WHVGXQ5/ref=sr_1_2"
         }
       },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/p8kXjd"
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/VnAlEN"
     },
     {
-      "title": "惡魔浮生錄（普立茲小說獎與女性文學獎雙冠鉅著）",
-      "author": "芭芭拉．金索沃",
-      "original_title": "Demon Copperhead",
-      "isbn": "9786264440400",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ij08Z7cqwjGpxHDWbTFpbw?sId=edba168f-376e-4c1b-852c-08906cb6359b&ssId=t3douityIUDsaJbpDbalN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$525",
-      "cover_url": "covers/Ij08Z7cqwjGpxHDWbTFpbw.jpg",
+      "title": "雲端咕咕國",
+      "author": "安東尼．杜爾",
+      "original_title": "Cloud Cuckoo Land",
+      "isbn": "9786263969063",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/8yYOshqREDqbmb9kVTbnfw?sId=cb837698-645c-42d9-9ba0-95d317140f25&ssId=KskS2KwP94-b9tKYACJfN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$476",
+      "cover_url": "covers/8yYOshqREDqbmb9kVTbnfw.jpg",
       "sale_price": "NT$99",
-      "date": "11/07",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
+      "date": "11/14",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
       "on_sale": true,
       "publisher": "時報出版",
-      "publish_date": "2025年12月5日",
-      "language": "Chinese (Traditional)",
-      "original_author": "Barbara Kingsolver",
-      "description": "貧窮、失親、毒癮，這位地獄開局的紅髮少年，該如何扭轉人生？本書是21世紀最重要的人道關懷小說，惡魔的故事，寫出了每個社會、每個底層角落都需要的人道關懷。這是一部獻給每個孤苦無依的孩子的一本書。",
-      "last_updated": "2026-11-05T12:35:09.149768+08:00",
+      "publish_date": "2024年10月25日",
+      "language": "中文",
+      "original_author": "Anthony Doerr",
+      "description": "普立茲得獎小說《呼喚奇蹟的光》作者力作。三個時代，五個人物，兩個星球之間，藉由一本書，產生神奇連結。「閱讀」讓世人超越平凡的夢想，一本失傳的神祕希臘古書，串起數百年的希望之光，點亮沒有愛的世界。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.7,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/Ij08Z7cqwjGpxHDWbTFpbw?sId=edba168f-376e-4c1b-852c-08906cb6359b&ssId=t3douityIUDsaJbpDbalN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/8yYOshqREDqbmb9kVTbnfw?sId=cb837698-645c-42d9-9ba0-95d317140f25&ssId=KskS2KwP94-b9tKYACJfN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
         },
         "books_com": {
           "score": 5.0,
-          "count": 5,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050308636?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "count": 4,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050239911?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.5,
-          "count": 119,
-          "url": "https://moo.im/a/0dgqAW",
-          "raw_url": "https://readmoo.com/book/210436665000101"
+          "score": 4.7,
+          "count": 25,
+          "url": "https://moo.im/a/6bxAFP",
+          "raw_url": "https://readmoo.com/book/210355846000101"
         },
         "goodreads": {
-          "score": 4.46,
-          "count": 926302,
-          "url": "https://www.goodreads.com/book/show/60194162",
+          "score": 4.24,
+          "count": 287770,
+          "url": "https://www.goodreads.com/book/show/56783258",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B09QMHZ53K/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B08TRMSR3Z/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 159051,
-          "url": "https://www.amazon.com/gp/product/B09QMHZ53K/ref=x_gr_bb_kindle"
+          "score": 4.5,
+          "count": 36222,
+          "url": "https://www.amazon.com/gp/product/B08TRMSR3Z/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.35,
-      "short_affiliate_url": "https://reurl.cc/vGZXj1"
+      "avg_score": 4.27,
+      "short_affiliate_url": "https://reurl.cc/90earv"
     },
     {
-      "title": "實驗吧！我要瘋狂養生：厭世記者親身嘗試101天斷食、瑜伽、冥想，一場變健康的大冒險（Netflix影集《養生狂女子》原型故事）",
-      "author": "布里吉德‧ 迪蘭尼",
-      "original_title": "Wellmania: Misadventures in the Search for Wellness",
-      "isbn": "9786263493360",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/101-netflix?sId=6a755026-1477-40cc-9cac-0be0b1530c3b&ssId=gdho7EKKcuD93j2sM_p7i&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/101-netflix.jpg",
+      "title": "物種源始（達爾文二一二歲誕辰紀念版，完整重現寫給所有人的演化論）",
+      "author": "達爾文",
+      "original_title": "On the Origin of Species",
+      "isbn": "9789862624616",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/SSS7TdbqQzyzxlBX5_SnBg?sId=ebe9adb1-a99e-440f-8e82-44f222e993aa&ssId=8DPfs-eSzKuslzDUiZf1j&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$462",
+      "cover_url": "covers/SSS7TdbqQzyzxlBX5_SnBg.jpg",
       "sale_price": "NT$99",
-      "date": "11/08",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
+      "date": "11/15",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
       "on_sale": true,
-      "publisher": "采實文化",
-      "publish_date": "2023年6月29日",
-      "language": "Chinese (Traditional)",
-      "original_author": "Brigid Delaney",
-      "description": "成為養生狂人，就會變健康？揭開養生熱潮背後真相的瘋狂實驗計畫，每一種妙招都不放過，這樣真的有益身心？讓我們反思，進行這些琳琅滿目的養生法，是真的有益身心，還是為了不落人後。",
-      "last_updated": "2026-11-05T12:35:09.149768+08:00",
+      "publisher": "貓頭鷹出版社",
+      "publish_date": "2021年3月9日",
+      "language": "中文",
+      "original_author": "Charles Darwin",
+      "description": "十九世紀以降最重要的思想鉅著。160年來歷久彌新的經典理論，完整重現演化論精髓，了解達爾文最真實的思想。儘管在過去飽受誤解與批評，達爾文的演化論在現代對古生物學等領域仍然有舉足輕重的影響。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.0,
+          "score": 5.0,
           "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/101-netflix?sId=6a755026-1477-40cc-9cac-0be0b1530c3b&ssId=gdho7EKKcuD93j2sM_p7i&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
+          "url": "https://www.kobo.com/tw/zh/ebook/SSS7TdbqQzyzxlBX5_SnBg?sId=ebe9adb1-a99e-440f-8e82-44f222e993aa&ssId=8DPfs-eSzKuslzDUiZf1j&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050089374?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 8,
+          "url": "https://moo.im/a/08deEL",
+          "raw_url": "https://readmoo.com/book/210175039000101"
+        },
+        "goodreads": {
+          "score": 4.01,
+          "count": 125225,
+          "url": "https://www.goodreads.com/book/show/3230349",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.amazon.com/-/zh_TW/%E9%81%94%E7%88%BE%E6%96%87-Charles-Darwin-ebook/dp/B08ZXDWKG9/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.1,
+      "short_affiliate_url": "https://reurl.cc/nxaAov"
+    },
+    {
+      "title": "有一種勇敢，叫做自己：阿德勒夢之理論與精神官能症",
+      "author": "亨利．史丹",
+      "original_title": "The Collected Clinical Works of Alfred Adler Volume 6-Journal Articles:1927-1931: Structure and Unity of Neurosis Reason, Feeling, & Emotion Dream Theory",
+      "isbn": "9789576939884",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/9b28lThLmT-YIuj3o26WSw?sId=45c23f7d-b84e-4b3d-9972-90e244b486b3&ssId=ljDO0SYB91AfzOh2lWBHz&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$406",
+      "cover_url": "covers/9b28lThLmT-YIuj3o26WSw.jpg",
+      "sale_price": "NT$99",
+      "date": "11/16",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
+      "on_sale": true,
+      "publisher": "張老師文化",
+      "publish_date": "2022年5月10日",
+      "language": "中文",
+      "original_author": "Henry T. Stein",
+      "description": "阿德勒個體心理學跳脫傳統框架，指出人的天賦非天生，潛力亦非固定。天賦、潛力和特殊資質只是構成一個人的元素，而人可以根據想做的事，來決定他要如何利用這些元素。想要成功，就要有勇氣，做自己的勇氣。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/9b28lThLmT-YIuj3o26WSw?sId=45c23f7d-b84e-4b3d-9972-90e244b486b3&ssId=ljDO0SYB91AfzOh2lWBHz&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050167614?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050147568?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 3.9,
-          "count": 27,
-          "url": "https://moo.im/a/4efyCM",
-          "raw_url": "https://readmoo.com/book/210278764000101"
-        },
-        "goodreads": {
-          "score": 3.28,
-          "count": 1377,
-          "url": "https://www.goodreads.com/book/show/34451942",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B07959TC4Y/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 3.6,
-          "count": 40,
-          "url": "https://www.amazon.com/gp/product/B07959TC4Y/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 3.9,
-      "short_affiliate_url": "https://reurl.cc/Z86M5Q"
-    },
-    {
-      "title": "勝出99%人的成癮式學習法",
-      "author": "粂原圭太郎",
-      "original_title": "",
-      "isbn": "9789573298229",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/jcesSP30-jGRoZQpwNJA3A?sId=3aca9f25-023e-4f2b-8ff7-1c0a3706fe9a&ssId=emnTA1bJI7aTdrxVPECp4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$237",
-      "cover_url": "covers/jcesSP30-jGRoZQpwNJA3A.jpg",
-      "sale_price": "NT$99",
-      "date": "11/09",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
-      "on_sale": true,
-      "publisher": "遠流出版",
-      "publish_date": "2022年9月30日",
-      "language": "Chinese (Traditional)",
-      "original_author": null,
-      "description": "日本最強金頭腦密技大公開，讓學習，像沉迷遊戲一樣專注。只要用對方法，讓學習變成一件快樂的事情，就能自然而然地堅持下去，獲得最好的效果。學習高手都在用，從被動學習到主動思考的11個高效學習法。",
-      "last_updated": "2026-11-05T12:35:09.149768+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 4.3,
-          "count": 34,
-          "url": "https://www.kobo.com/tw/zh/ebook/jcesSP30-jGRoZQpwNJA3A?sId=3aca9f25-023e-4f2b-8ff7-1c0a3706fe9a&ssId=emnTA1bJI7aTdrxVPECp4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 4,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050143063?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 59,
-          "url": "https://moo.im/a/56JKMX",
-          "raw_url": "https://readmoo.com/book/210251822000101"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/3hjmBC",
+          "raw_url": "https://readmoo.com/book/210259547000101"
         },
         "goodreads": {
           "score": null,
@@ -328,116 +328,116 @@
           "url": ""
         }
       },
-      "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/YmAQrO"
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/zO3Eep"
     },
     {
-      "title": "健康占星全書：12星座的身心靈功課，校準能量的72個生活練習",
-      "author": "史蒂芬妮．莫倫歌、麗貝卡．戈登",
-      "original_title": "Your Body and the Stars: The Zodiac As Your Wellness Guide",
-      "isbn": "9786267313749",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/wxSLXfPwgjuW0emToXuYSg?sId=40736770-7524-4520-bf0d-6793f2e337b9&ssId=I5QIL8ZDlP_nhcfLEEKRa&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$199",
-      "cover_url": "covers/wxSLXfPwgjuW0emToXuYSg.jpg",
+      "title": "＜經典奇幻文學作家J. R. R. 托爾金1＞霍比特人",
+      "author": "托爾金",
+      "original_title": "The Hobbit, or There and Back Again",
+      "isbn": "9786267074824",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/j-r-r-1?sId=465198a9-00b9-48a5-acfc-57e92051efd7&ssId=lmqhUTzTDvKEWm9haqNMr&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$364",
+      "cover_url": "covers/j-r-r-1.jpg",
       "sale_price": "NT$99",
-      "date": "11/10",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
+      "date": "11/17",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
       "on_sale": true,
-      "publisher": "大雁文化事業股份有限公司",
-      "publish_date": "2024年1月8日",
-      "language": "Chinese (Traditional)",
-      "original_author": "Stephanie Marango; Rebecca Gordon",
-      "description": "台灣第一本「醫療占星」入門書，星座版的健康教育課，針對個人星座或老毛病部位，提供身心整合調養建議。不僅可以預防疾病，還可以達到身心平衡，從頭到腳開啟你和宇宙相接的療癒連線。",
-      "last_updated": "2026-11-05T12:35:09.149768+08:00",
+      "publisher": "本事出版",
+      "publish_date": "2024年3月27日",
+      "language": "中文",
+      "original_author": "J. R. R. Tolkien",
+      "description": "奇幻文學經典，史詩級神話冒險故事，《魔戒》三部曲前傳。食人妖、座狼、半獸人、巨鷹、精靈、惡龍……各種神話角色陸續登場，這是一場善惡之戰，然而這只是中洲世界神鬼人類之戰的序曲。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/wxSLXfPwgjuW0emToXuYSg?sId=40736770-7524-4520-bf0d-6793f2e337b9&ssId=I5QIL8ZDlP_nhcfLEEKRa&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/j-r-r-1?sId=465198a9-00b9-48a5-acfc-57e92051efd7&ssId=lmqhUTzTDvKEWm9haqNMr&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050197993?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "score": 3.5,
+          "count": 6,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050205641?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/347dvR",
-          "raw_url": "https://readmoo.com/book/210309185000101"
+          "score": 4.8,
+          "count": 6,
+          "url": "https://moo.im/a/7jquES",
+          "raw_url": "https://readmoo.com/book/210318365000101"
         },
         "goodreads": {
-          "score": 3.59,
-          "count": 54,
-          "url": "https://www.goodreads.com/book/show/30163955",
+          "score": 4.3,
+          "count": 4667907,
+          "url": "https://www.goodreads.com/book/show/5907",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B010MHAA9G/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B0079KT81G/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.3,
-          "count": 121,
-          "url": "https://www.amazon.com/gp/product/B010MHAA9G/ref=x_gr_bb_kindle"
+          "score": 4.7,
+          "count": 82736,
+          "url": "https://www.amazon.com/gp/product/B0079KT81G/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.12,
-      "short_affiliate_url": "https://reurl.cc/rk7Xj1"
+      "avg_score": 4.27,
+      "short_affiliate_url": "https://reurl.cc/xe5AGN"
     },
     {
-      "title": "極簡法國史",
-      "author": "福井憲彥",
-      "original_title": "一冊でわかるフランス史",
-      "isbn": "9786267108291",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/-gKT8GJNkDyL5QE-qH4zew?sId=a1f29ea4-c66d-434c-a217-127ceb335a73&ssId=NoM5QSfvqogY9e2Tss4Jb&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105",
-      "kobo_price": "NT$245",
-      "cover_url": "covers/-gKT8GJNkDyL5QE-qH4zew.jpg",
+      "title": "55歲開始的Hello Life",
+      "author": "村上龍",
+      "original_title": "",
+      "isbn": "9789861797366",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/55hello-life?sId=5967d977-c046-412f-99d7-489cb8559d1f&ssId=Jz1GCgdVBZVUQdmUZx-CH&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112",
+      "kobo_price": "NT$266",
+      "cover_url": "covers/55hello-life.jpg",
       "sale_price": "NT$99",
-      "date": "11/11",
-      "sale_start": "2026-11-05",
-      "sale_end": "2026-11-11",
+      "date": "11/18",
+      "sale_start": "2026-11-12",
+      "sale_end": "2026-11-18",
       "on_sale": true,
-      "publisher": "楓書坊文化出版社",
-      "publish_date": "2022年4月26日",
-      "language": "Chinese (Traditional)",
+      "publisher": "大田出版有限公司",
+      "publish_date": "2022年4月12日",
+      "language": "中文",
       "original_author": null,
-      "description": "大革命揭起的三色旗，如何撼動全歐洲的舊秩序？一冊認識法國，追溯浪漫國度的起源。娓娓道來法蘭西共和國的起源與變革，以及這塊土地的宗教、思想與多民族所激盪的火花與文明結晶。",
-      "last_updated": "2026-11-05T14:27:01.258661+08:00",
+      "description": "送給現在與未來55歲的你。普通的人，年紀大了，也想要有不一樣的後半生，普通的人，也想要追求自己的幸福，讓自己再出發。人生中場，還有希望「不安」轉變為「希望」，村上龍新境界代表作。",
+      "last_updated": "2026-11-12T11:48:31.197361+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.3,
-          "count": 3,
-          "url": "https://www.kobo.com/tw/zh/ebook/-gKT8GJNkDyL5QE-qH4zew?sId=a1f29ea4-c66d-434c-a217-127ceb335a73&ssId=NoM5QSfvqogY9e2Tss4Jb&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261105"
+          "score": 3.67,
+          "count": 6,
+          "url": "https://www.kobo.com/tw/zh/ebook/55hello-life?sId=5967d977-c046-412f-99d7-489cb8559d1f&ssId=Jz1GCgdVBZVUQdmUZx-CH&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261112"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050129745?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 8,
-          "url": "https://moo.im/a/gpqzMS",
-          "raw_url": "https://readmoo.com/book/210225956000101"
-        },
-        "goodreads": {
           "score": 5.0,
           "count": 1,
-          "url": "https://www.goodreads.com/book/show/103354976",
-          "note": "manual-verified",
-          "confidence": 100,
-          "cross_validated": false,
-          "amazon_url": "https://www.amazon.com/gp/product/4309811043/ref=x_gr_bb_amazon"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050129041?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 135,
+          "url": "https://moo.im/a/7bfiqL",
+          "raw_url": "https://readmoo.com/book/210223234000101"
+        },
+        "goodreads": {
+          "score": 3.91,
+          "count": 40,
+          "url": "https://www.goodreads.com/book/isbn/9789861797366",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/gp/product/B09WVQ19YM/ref=x_gr_bb_kindle",
+          "confidence": 65,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.1,
-          "count": 38,
-          "url": "https://www.amazon.com/gp/product/4309811043/ref=x_gr_bb_amazon"
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.amazon.com/-/zh_TW/%E6%9D%91%E4%B8%8A%E9%BE%8D-ebook/dp/B09WVQ19YM/ref=sr_1_1"
         }
       },
-      "avg_score": 4.13,
-      "short_affiliate_url": "https://reurl.cc/5XAayG"
+      "avg_score": 4.17,
+      "short_affiliate_url": "https://reurl.cc/8YE83b"
     }
   ]
 }
