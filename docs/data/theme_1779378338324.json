@@ -72,7 +72,7 @@
       "sale_end": "",
       "description": "臺灣文學第一本，2024美國國家圖書獎翻譯文學大獎、2024日本翻譯大賞、2021臺灣金鼎獎文學圖書獎。昭和臺灣縱貫鐵道美食之旅，楊双子《臺灣漫遊錄》華麗面世。",
       "publish_date": "2025年5月12日",
-      "last_updated": "2026-09-03T01:49:23.363506+08:00",
+      "last_updated": "2026-11-13T14:29:47.776443+08:00",
       "short_affiliate_url": "https://reurl.cc/0m55Lb",
       "genre_tags": [
         "小說與文學"
@@ -104,12 +104,12 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.amazon.com/-/zh_TW/%E6%A5%8A-%E5%8F%8C%E5%AD%90-ebook/dp/B0G8JLXM6H/ref=sr_1_1"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.2,
+      "avg_score": 4.25,
       "listed_at": "2026-05-22"
     },
     {
