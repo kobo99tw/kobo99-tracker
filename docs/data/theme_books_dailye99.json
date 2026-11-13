@@ -1,57 +1,7 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-11-09T16:32:22.105027+08:00",
+  "updated_at": "2026-11-13T13:39:04.379271+08:00",
   "books": [
-    {
-      "title": "史丹佛人際動力學：連開50年的課，教你好關係從真情流露開始",
-      "author": "大衛．布雷弗德、凱蘿．羅賓",
-      "original_title": "Connect: Building Exceptional Relationships with Family, Friends and Colleagues",
-      "original_author": "David Bradford; Carole Robin",
-      "isbn": "9789861343877",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/009/41/E050094135.jpg&v=60ab5a31k&w=1146&h=600",
-      "publish_date": "2021/06/01",
-      "date_start": "11/9",
-      "date_end": "11/9",
-      "date_label": "11/9(一)",
-      "product_url": "https://www.books.com.tw/products/E050094135",
-      "daily_price": 99,
-      "daily_price_reg": 440,
-      "last_updated": "2026-11-09T16:32:22.105027+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050094135?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 43,
-          "url": "https://moo.im/a/6afkCM",
-          "raw_url": "https://readmoo.com/book/210181107000101"
-        },
-        "goodreads": {
-          "score": 4.06,
-          "count": 1898,
-          "url": "https://www.goodreads.com/book/show/53720447",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0894279WZ/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 751,
-          "url": "https://www.amazon.com/gp/product/B0894279WZ/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.27,
-      "short_affiliate_url": ""
-    },
     {
       "title": "書法，漢字最美的歷史【暢銷新版】：讀懂書法的60堂美學課",
       "author": "黎孟德",
@@ -66,7 +16,7 @@
       "product_url": "https://www.books.com.tw/products/E050101200",
       "daily_price": 99,
       "daily_price_reg": 310,
-      "last_updated": "2026-11-09T16:32:22.105027+08:00",
+      "last_updated": "2026-11-13T13:39:04.379271+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -88,9 +38,9 @@
           "score": 3.0,
           "count": 1,
           "url": "https://www.goodreads.com/book/show/106485185",
-          "note": "zh-title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B09PL8RDJB/ref=x_gr_bb_kindle",
-          "confidence": 45,
+          "confidence": 75,
           "cross_validated": true
         },
         "amazon_com": {
@@ -103,20 +53,70 @@
       "short_affiliate_url": ""
     },
     {
-      "title": "教你寫職場 E-mail 英語",
-      "author": "賴世雄",
+      "title": "也許你該跟未來學家談談：一堂前所未見的人生規畫課，所有問題你都可以問",
+      "author": "布萊恩‧大衛‧強森",
+      "original_title": "The Future You: Break Through the Fear and Build the Life You Want",
+      "original_author": "Brian David Johnson",
+      "isbn": "9789861343808",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/009/16/E050091677.jpg&v=6082312ak&w=1146&h=600",
+      "publish_date": "2021/05/01",
+      "date_start": "11/17",
+      "date_end": "11/17",
+      "date_label": "11/17(二)",
+      "product_url": "https://www.books.com.tw/products/E050091677",
+      "daily_price": 99,
+      "daily_price_reg": 380,
+      "last_updated": "2026-11-13T13:39:04.379271+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050091677?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 56,
+          "url": "https://moo.im/a/9kmHIS",
+          "raw_url": "https://readmoo.com/book/210178609000101"
+        },
+        "goodreads": {
+          "score": 3.54,
+          "count": 123,
+          "url": "https://www.goodreads.com/book/show/53018327",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 48,
+          "url": "https://www.amazon.com/-/zh_TW/Brian-David-Johnson-ebook/dp/B086SXSCQ5/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.1,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "命案現場清潔師：跨越生與死的斷捨離．清掃死亡最前線的真實記錄",
+      "author": "盧拉拉",
       "original_title": "",
       "original_author": null,
-      "isbn": "9789867380647",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/031/19/E050311967.jpg&v=69646042k&w=1146&h=600",
-      "publish_date": "2025/01/19",
-      "date_start": "11/12",
-      "date_end": "11/12",
-      "date_label": "11/12(四)",
-      "product_url": "https://www.books.com.tw/products/E050311967",
+      "isbn": "9789865613983",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/004/87/E050048799.jpg&v=5d0b1f79k&w=1146&h=600",
+      "publish_date": "2019/06/13",
+      "date_start": "11/16",
+      "date_end": "11/16",
+      "date_label": "11/16(一)",
+      "product_url": "https://www.books.com.tw/products/E050048799",
       "daily_price": 99,
-      "daily_price_reg": 399,
-      "last_updated": "2026-11-09T16:40:20.813255+08:00",
+      "daily_price_reg": 330,
+      "last_updated": "2026-11-13T13:39:04.379271+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -124,95 +124,49 @@
           "url": ""
         },
         "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050311967?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/6rvBOX",
-          "raw_url": "https://readmoo.com/book/210447562000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.19,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "美好人生：史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵",
-      "author": "羅伯特．沃丁格、馬克．修茲",
-      "original_title": "THE GOOD LIFE: Lessons from the World’s Longest Scientific Study of Happiness",
-      "original_author": "Robert Waldinger; Marc Schulz",
-      "isbn": "9789863988922",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/016/70/E050167037.jpg&v=6491441dk&w=1146&h=600",
-      "publish_date": "2023/06/28",
-      "date_start": "11/11",
-      "date_end": "11/11",
-      "date_label": "11/11(三)",
-      "product_url": "https://www.books.com.tw/products/E050167037",
-      "daily_price": 99,
-      "daily_price_reg": 520,
-      "last_updated": "2026-11-09T16:32:22.105027+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
+          "score": 4.5,
           "count": 7,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050167037?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050048799?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.6,
-          "count": 20,
-          "url": "https://moo.im/a/lmBKLQ",
-          "raw_url": "https://readmoo.com/book/210278757000101"
+          "score": 4.5,
+          "count": 133,
+          "url": "https://moo.im/a/adEHLP",
+          "raw_url": "https://readmoo.com/book/210110610000101"
         },
         "goodreads": {
-          "score": 4.14,
-          "count": 13433,
-          "url": "https://www.goodreads.com/book/show/61272271",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0B3Y7J6PN/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
+          "score": 3.72,
+          "count": 18,
+          "url": "https://www.goodreads.com/book/show/49083048",
+          "note": "zh-title+author",
+          "amazon_url": "",
+          "confidence": 50,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 4.6,
-          "count": 2514,
-          "url": "https://www.amazon.com/gp/product/B0B3Y7J6PN/ref=x_gr_bb_kindle"
+          "score": null,
+          "count": 0,
+          "url": ""
         }
       },
-      "avg_score": 4.27,
+      "avg_score": 4.21,
       "short_affiliate_url": ""
     },
     {
-      "title": "教出殺人犯Ⅰ：你以為的反省，只會讓人變得更壞",
-      "author": "岡本茂樹",
-      "original_title": "反省させると犯罪者になります",
+      "title": "靠譜：人生突圍的132條自我提升指南",
+      "author": "侯小強",
+      "original_title": "",
       "original_author": null,
-      "isbn": "9786263611771",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/017/80/E050178015.jpg&v=64eee5d9k&w=1146&h=600",
-      "publish_date": "2023/09/01",
-      "date_start": "11/10",
-      "date_end": "11/10",
-      "date_label": "11/10(二)",
-      "product_url": "https://www.books.com.tw/products/E050178015",
-      "daily_price": 99,
-      "daily_price_reg": 360,
-      "last_updated": "2026-11-09T16:32:22.105027+08:00",
+      "isbn": "9786269789412",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/019/18/E050191836.jpg&v=65640065k&w=1146&h=600",
+      "publish_date": "2023/11/30",
+      "date_start": "11/14",
+      "date_end": "11/15",
+      "date_label": "11/14(六)-11/15(日)",
+      "product_url": "https://www.books.com.tw/products/E050191836",
+      "daily_price": 66,
+      "daily_price_reg": 420,
+      "last_updated": "2026-11-13T13:39:04.379271+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -221,31 +175,81 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 15,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050178015?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050191836?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.6,
-          "count": 88,
-          "url": "https://moo.im/a/04uyKO",
-          "raw_url": "https://readmoo.com/book/210288704000101"
+          "score": 4.3,
+          "count": 6,
+          "url": "https://moo.im/a/07cBNQ",
+          "raw_url": "https://readmoo.com/book/210302739000101"
         },
         "goodreads": {
-          "score": 3.91,
-          "count": 22,
-          "url": "https://www.goodreads.com/book/show/198277306",
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/%E4%BE%AF%E5%B0%8F%E5%BC%B7-ebook/dp/B0CYGK4CHK/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.17,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "不炒股、不投機，1年賺1億：跟億萬富翁學「實體投資法」，從零開始3個月實現FIRE的55條致富法則",
+      "author": "戶塚真由子",
+      "original_title": "１年で億り人になる",
+      "original_author": null,
+      "isbn": "9786263498549",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/024/24/E050242433.jpg&v=67452ea8k&w=1146&h=600",
+      "publish_date": "2024/11/28",
+      "date_start": "11/14",
+      "date_end": "11/15",
+      "date_label": "11/14(六)-11/15(日)",
+      "product_url": "https://www.books.com.tw/products/E050242433",
+      "daily_price": 66,
+      "daily_price_reg": 380,
+      "last_updated": "2026-11-13T13:39:04.379271+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 3.0,
+          "count": 9,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050242433?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 3.3,
+          "count": 29,
+          "url": "https://moo.im/a/6aprLX",
+          "raw_url": "https://readmoo.com/book/210358764000101"
+        },
+        "goodreads": {
+          "score": 2.75,
+          "count": 4,
+          "url": "https://www.goodreads.com/book/show/223612277",
           "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/6263611774/ref=x_gr_bb_amazon",
-          "confidence": 60,
+          "amazon_url": "https://www.amazon.com/gp/product/B0DSZVX9KP/ref=x_gr_bb_kindle",
+          "confidence": 30,
           "cross_validated": false
         },
         "amazon_com": {
-          "score": 4.3,
-          "count": 808,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4106105209/ref=sr_1_1"
+          "score": 3.6,
+          "count": 2302,
+          "url": "https://www.amazon.co.jp/-/zh/dp/476314006X/ref=sr_1_1"
         }
       },
-      "avg_score": 4.24,
+      "avg_score": 3.9,
       "short_affiliate_url": ""
     }
   ]
