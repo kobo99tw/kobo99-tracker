@@ -1,107 +1,7 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-11-13T13:39:04.379271+08:00",
+  "updated_at": "2026-11-16T14:18:08.691536+08:00",
   "books": [
-    {
-      "title": "書法，漢字最美的歷史【暢銷新版】：讀懂書法的60堂美學課",
-      "author": "黎孟德",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9789864895045",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/010/12/E050101200.jpg&v=6119ca24k&w=1146&h=600",
-      "publish_date": "2021/08/11",
-      "date_start": "11/13",
-      "date_end": "11/13",
-      "date_label": "11/13(五)",
-      "product_url": "https://www.books.com.tw/products/E050101200",
-      "daily_price": 99,
-      "daily_price_reg": 310,
-      "last_updated": "2026-11-13T13:39:04.379271+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050101200?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 3.7,
-          "count": 6,
-          "url": "https://moo.im/a/1gpBRV",
-          "raw_url": "https://readmoo.com/book/210192969000101"
-        },
-        "goodreads": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/106485185",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B09PL8RDJB/ref=x_gr_bb_kindle",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E9%BB%8E%E5%AD%9F%E5%BE%B7-ebook/dp/B09PL8RDJB/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.16,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "也許你該跟未來學家談談：一堂前所未見的人生規畫課，所有問題你都可以問",
-      "author": "布萊恩‧大衛‧強森",
-      "original_title": "The Future You: Break Through the Fear and Build the Life You Want",
-      "original_author": "Brian David Johnson",
-      "isbn": "9789861343808",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/009/16/E050091677.jpg&v=6082312ak&w=1146&h=600",
-      "publish_date": "2021/05/01",
-      "date_start": "11/17",
-      "date_end": "11/17",
-      "date_label": "11/17(二)",
-      "product_url": "https://www.books.com.tw/products/E050091677",
-      "daily_price": 99,
-      "daily_price_reg": 380,
-      "last_updated": "2026-11-13T13:39:04.379271+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050091677?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.4,
-          "count": 56,
-          "url": "https://moo.im/a/9kmHIS",
-          "raw_url": "https://readmoo.com/book/210178609000101"
-        },
-        "goodreads": {
-          "score": 3.54,
-          "count": 123,
-          "url": "https://www.goodreads.com/book/show/53018327",
-          "note": "title+author",
-          "amazon_url": "",
-          "confidence": 75,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 48,
-          "url": "https://www.amazon.com/-/zh_TW/Brian-David-Johnson-ebook/dp/B086SXSCQ5/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.1,
-      "short_affiliate_url": ""
-    },
     {
       "title": "命案現場清潔師：跨越生與死的斷捨離．清掃死亡最前線的真實記錄",
       "author": "盧拉拉",
@@ -116,7 +16,7 @@
       "product_url": "https://www.books.com.tw/products/E050048799",
       "daily_price": 99,
       "daily_price_reg": 330,
-      "last_updated": "2026-11-13T13:39:04.379271+08:00",
+      "last_updated": "2026-11-16T14:18:08.691536+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -138,35 +38,85 @@
           "score": 3.72,
           "count": 18,
           "url": "https://www.goodreads.com/book/show/49083048",
-          "note": "zh-title+author",
-          "amazon_url": "",
-          "confidence": 50,
-          "cross_validated": null
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B07X11VZ51/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.amazon.com/gp/product/B07X11VZ51/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.21,
+      "avg_score": 4.16,
       "short_affiliate_url": ""
     },
     {
-      "title": "靠譜：人生突圍的132條自我提升指南",
-      "author": "侯小強",
-      "original_title": "",
+      "title": "六個說謊的大學生【2022年本屋大賞第5名．日本書店員最想賣的燒腦神作】",
+      "author": "淺倉秋成",
+      "original_title": "六人の嘘つきな大学生",
       "original_author": null,
-      "isbn": "9786269789412",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/019/18/E050191836.jpg&v=65640065k&w=1146&h=600",
-      "publish_date": "2023/11/30",
-      "date_start": "11/14",
-      "date_end": "11/15",
-      "date_label": "11/14(六)-11/15(日)",
-      "product_url": "https://www.books.com.tw/products/E050191836",
-      "daily_price": 66,
-      "daily_price_reg": 420,
-      "last_updated": "2026-11-13T13:39:04.379271+08:00",
+      "isbn": "9789865078195",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/013/03/E050130379.jpg&v=62625278k&w=1146&h=600",
+      "publish_date": "2022/05/05",
+      "date_start": "11/20",
+      "date_end": "11/20",
+      "date_label": "11/20(五)",
+      "product_url": "https://www.books.com.tw/products/E050130379",
+      "daily_price": 99,
+      "daily_price_reg": 430,
+      "last_updated": "2026-11-16T14:18:08.691536+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 103,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050130379?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 441,
+          "url": "https://moo.im/a/dmEIQV",
+          "raw_url": "https://readmoo.com/book/210226139000101"
+        },
+        "goodreads": {
+          "score": 3.65,
+          "count": 2683,
+          "url": "https://www.goodreads.com/book/show/57322170",
+          "note": "title",
+          "amazon_url": "",
+          "confidence": 40,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 9733,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0C6LM781H/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.28,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "最強圖解潮流韓語：從追星學韓語，秒記1000+超實用單字！",
+      "author": "古田富建",
+      "original_title": "くらべて覚える韓国語",
+      "original_author": null,
+      "isbn": "9786263614710",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/021/04/E050210460.jpg&v=6602320bk&w=1146&h=600",
+      "publish_date": "2024/04/01",
+      "date_start": "11/19",
+      "date_end": "11/19",
+      "date_label": "11/19(四)",
+      "product_url": "https://www.books.com.tw/products/E050210460",
+      "daily_price": 99,
+      "daily_price_reg": 350,
+      "last_updated": "2026-11-16T14:18:08.691536+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -176,13 +126,13 @@
         "books_com": {
           "score": 5.0,
           "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050191836?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050210460?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.3,
-          "count": 6,
-          "url": "https://moo.im/a/07cBNQ",
-          "raw_url": "https://readmoo.com/book/210302739000101"
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/0aHUWZ",
+          "raw_url": "https://readmoo.com/book/210321720000101"
         },
         "goodreads": {
           "score": null,
@@ -194,29 +144,29 @@
           "cross_validated": null
         },
         "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E4%BE%AF%E5%B0%8F%E5%BC%B7-ebook/dp/B0CYGK4CHK/ref=sr_1_1"
+          "score": 4.0,
+          "count": 17,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4761276053/ref=sr_1_1"
         }
       },
-      "avg_score": 4.17,
+      "avg_score": 4.14,
       "short_affiliate_url": ""
     },
     {
-      "title": "不炒股、不投機，1年賺1億：跟億萬富翁學「實體投資法」，從零開始3個月實現FIRE的55條致富法則",
-      "author": "戶塚真由子",
-      "original_title": "１年で億り人になる",
+      "title": "卸力，打造最強體能",
+      "author": "中野崇",
+      "original_title": "最強の身体能力　プロが実践する脱力スキルの鍛え方",
       "original_author": null,
-      "isbn": "9786263498549",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/024/24/E050242433.jpg&v=67452ea8k&w=1146&h=600",
-      "publish_date": "2024/11/28",
-      "date_start": "11/14",
-      "date_end": "11/15",
-      "date_label": "11/14(六)-11/15(日)",
-      "product_url": "https://www.books.com.tw/products/E050242433",
-      "daily_price": 66,
-      "daily_price_reg": 380,
-      "last_updated": "2026-11-13T13:39:04.379271+08:00",
+      "isbn": "9786267299739",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/025/11/E050251155.jpg&v=67ac0f31k&w=1146&h=600",
+      "publish_date": "2025/02/05",
+      "date_start": "11/18",
+      "date_end": "11/18",
+      "date_label": "11/18(三)",
+      "product_url": "https://www.books.com.tw/products/E050251155",
+      "daily_price": 99,
+      "daily_price_reg": 450,
+      "last_updated": "2026-11-16T14:18:08.691536+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -225,31 +175,81 @@
         },
         "books_com": {
           "score": 3.0,
-          "count": 9,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050242433?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050251155?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 3.3,
-          "count": 29,
-          "url": "https://moo.im/a/6aprLX",
-          "raw_url": "https://readmoo.com/book/210358764000101"
+          "score": 4.6,
+          "count": 8,
+          "url": "https://moo.im/a/begRSV",
+          "raw_url": "https://readmoo.com/book/210369733000101"
         },
         "goodreads": {
-          "score": 2.75,
-          "count": 4,
-          "url": "https://www.goodreads.com/book/show/223612277",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DSZVX9KP/ref=x_gr_bb_kindle",
-          "confidence": 30,
-          "cross_validated": false
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
         },
         "amazon_com": {
-          "score": 3.6,
-          "count": 2302,
-          "url": "https://www.amazon.co.jp/-/zh/dp/476314006X/ref=sr_1_1"
+          "score": 4.4,
+          "count": 205,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4761277041/ref=sr_1_1"
         }
       },
-      "avg_score": 3.9,
+      "avg_score": 4.16,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "也許你該跟未來學家談談：一堂前所未見的人生規畫課，所有問題你都可以問",
+      "author": "布萊恩‧大衛‧強森",
+      "original_title": "The Future You: Break Through the Fear and Build the Life You Want",
+      "original_author": "Brian David Johnson",
+      "isbn": "9789861343808",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/009/16/E050091677.jpg&v=6082312ak&w=1146&h=600",
+      "publish_date": "2021/05/01",
+      "date_start": "11/17",
+      "date_end": "11/17",
+      "date_label": "11/17(二)",
+      "product_url": "https://www.books.com.tw/products/E050091677",
+      "daily_price": 99,
+      "daily_price_reg": 380,
+      "last_updated": "2026-11-16T14:18:08.691536+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050091677?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 56,
+          "url": "https://moo.im/a/9kmHIS",
+          "raw_url": "https://readmoo.com/book/210178609000101"
+        },
+        "goodreads": {
+          "score": 3.54,
+          "count": 123,
+          "url": "https://www.goodreads.com/book/show/53018327",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/B086SXSCQ5/ref=x_gr_bb_kindle",
+          "confidence": 95,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 48,
+          "url": "https://www.amazon.com/gp/product/B086SXSCQ5/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.1,
       "short_affiliate_url": ""
     }
   ]
