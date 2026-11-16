@@ -1,31 +1,421 @@
 {
-  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w46",
-  "updated_at": "2026-11-09T16:04:36.536145+08:00",
+  "source_url": "https://www.kobo.com/zh/blog/weekly-8585-2026-w47",
+  "updated_at": "2026-11-16T13:58:42.608080+08:00",
   "books": [
     {
-      "title": "透視職場冰山：薩提爾帶你終止內耗，打造高能量的行動力",
-      "author": "李崇義、謝佳芸",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786264700658",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/NVQgMI1fAj62DrNCukQnRw?sId=0bd8404d-789c-4e7b-adb4-07ce9f378b02&ssId=Cj2891XXQsd6kWy_1rEmp&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
+      "title": "會溝通的同事有祕密：你不只要會做事，還要懂這些職場眉角",
+      "author": "艾琳．麥高夫",
+      "original_title": "The Secret Language of Work: Hyper-Helpful Scripts for Every Situation",
+      "original_author": "Erin McGoff",
+      "isbn": "9786264701433",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/T6zo1rG7xzGuYXDmhy_ysg?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
       "kobo_price": "NT$338",
-      "cover_url": "covers/NVQgMI1fAj62DrNCukQnRw.jpg",
+      "cover_url": "covers/T6zo1rG7xzGuYXDmhy_ysg.jpg",
       "sale_price": "NT$287",
       "price_source": "readmoo_orig",
       "sale_end": "",
-      "description": "薩提爾模式溝通引導講師李崇義、國際教練聯盟認證教練謝佳芸帶你拆解職場困境，找回工作節奏與心理自由！從薩提爾模式的核心精神出發，讓你看見冰山下的每一個層次，引領你正視自己，重新發現既有的內在資源。",
-      "publish_date": "2026年7月31日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
+      "description": "別人一開口就是金玉良言，你多講一句馬上出事？其實他們未必比你厲害，差別常常只是一句話的說法。書中每句範例都能直接使用，你不必變成很會交際的人，只要在關鍵時刻說對一句話，事情往往就能推進！",
+      "publish_date": "2026年9月30日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
+        "企業與金融",
+        "生涯規劃與求職",
+        "求職",
+        "企業與金融",
+        "生涯規劃與求職",
+        "摘要"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/T6zo1rG7xzGuYXDmhy_ysg?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357537?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://moo.im/a/5myRUY",
+          "raw_url": "https://readmoo.com/book/210502227000101"
+        },
+        "goodreads": {
+          "score": 4.26,
+          "count": 603,
+          "url": "https://www.goodreads.com/book/show/236116676",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 187,
+          "url": "https://www.amazon.com/-/zh_TW/Erin-McGoff-ebook/dp/B0FCRG3YG9/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/1ldqrp"
+    },
+    {
+      "title": "存在感：在疏離時代重建深層連結與自我價值，重啟豐盛人生的終極力量",
+      "author": "珍妮佛．華萊士",
+      "original_title": "Mattering: The Secret to a Life of Deep Connection and Purpose",
+      "original_author": "Jennifer Wallace",
+      "isbn": "9786267916384",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/xnAOk9kVHjKCEE9q4wbHhQ?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/xnAOk9kVHjKCEE9q4wbHhQ.jpg",
+      "sale_price": "NT$287",
+      "price_source": "readmoo_orig",
+      "sale_end": "",
+      "description": "一場關於不再隱形、重新與人連結的溫柔革命。你的倦怠憂鬱、孩子的迷惘疏離，原來有一個共同的根源──我們失去了「存在感」！只要透過書中的引導，就能找回讓心理踏實、人生豐盛的終極力量。",
+      "publish_date": "2026年10月2日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
       "genre_tags": [
         "非小說",
         "健康與幸福",
+        "心理學",
+        "人際關係",
+        "非小說",
+        "健康與幸福",
         "自助",
-        "自我改善",
-        "肯定",
+        "心理健康",
+        "快樂",
+        "非小說",
+        "家庭與關係"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/xnAOk9kVHjKCEE9q4wbHhQ?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=9&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050358438?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 6,
+          "url": "https://moo.im/a/bpuyDV",
+          "raw_url": "https://readmoo.com/book/210503726000101"
+        },
+        "goodreads": {
+          "score": 3.89,
+          "count": 3878,
+          "url": "https://www.goodreads.com/book/show/237133672",
+          "note": "title+author",
+          "amazon_url": "",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 531,
+          "url": "https://www.amazon.com/-/zh_TW/Jennifer-Breheny-Wallace-ebook/dp/B0FFZY9V8V/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/KEmRVR"
+    },
+    {
+      "title": "聰明人才懂的清晰思考：簡單算計搞定複雜數據世界的八大法則",
+      "author": "奇科．亞內拉斯",
+      "original_title": "Think Clearly: Eight Simple Rules to Succeed in the Data Age",
+      "original_author": "Kiko Llaneras",
+      "isbn": "9786267966204",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/VDZ2zHKh0TqZh7N0PAVnvg?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$413",
+      "cover_url": "covers/VDZ2zHKh0TqZh7N0PAVnvg.jpg",
+      "sale_price": "NT$351",
+      "price_source": "readmoo_orig",
+      "sale_end": "",
+      "description": "你不是不會思考，只是太相信直覺、太快下結論！懂得運用數據時代的清晰思考8法則，你就是聰明人。真正重要的不是數學背景，而是數據思考力，本書將教你如何避免被直覺、偏誤、偶然性和表面數字所誤導！",
+      "publish_date": "2026年10月6日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
+        "企業與金融",
+        "生涯規劃與求職"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/VDZ2zHKh0TqZh7N0PAVnvg?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=3&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050358447?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/0qPQSW",
+          "raw_url": "https://readmoo.com/book/210503533000101"
+        },
+        "goodreads": {
+          "score": 4.11,
+          "count": 452,
+          "url": "https://www.goodreads.com/book/show/223242502",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0D2KS1GZD/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 14,
+          "url": "https://www.amazon.com/gp/product/B0D2KS1GZD/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/jVNob2"
+    },
+    {
+      "title": "迷你退休：如何在不犠牲事業的前提，勇敢放下工作去冒險、學習、實現夢想",
+      "author": "吉莉安．強思若德",
+      "original_title": "Retire Often",
+      "original_author": "Jillian Johnsrud",
+      "isbn": "9786267873342",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/zgWGYwsmmD2EwSYncwmPog?sId=86416e21-372b-4cab-a2b9-59b9e0b1240c&ssId=MbGs-_iLyF5WOx1CPpuy2&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$379",
+      "cover_url": "covers/zgWGYwsmmD2EwSYncwmPog.jpg",
+      "sale_price": "NT$322",
+      "price_source": "readmoo_orig",
+      "sale_end": "",
+      "description": "大人版的Gap_Year！退休教練教你實踐Z世代正流行的「迷你退休」！本書企圖打破傳統的退休模式，詳盡分享如何在職涯中，策略性的間歇休息、成長與探索人生，並透過聰明的財務管理來戰勝恐懼，在滿血回歸後再創高峰。",
+      "publish_date": "2026年6月11日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
         "企業與金融",
         "生涯規劃與求職",
+        "職業"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/zgWGYwsmmD2EwSYncwmPog?sId=86416e21-372b-4cab-a2b9-59b9e0b1240c&ssId=MbGs-_iLyF5WOx1CPpuy2&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 5,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050339150?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 7,
+          "url": "https://moo.im/a/agxyzV",
+          "raw_url": "https://readmoo.com/book/210479671000101"
+        },
+        "goodreads": {
+          "score": 3.83,
+          "count": 450,
+          "url": "https://www.goodreads.com/book/show/222376615",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0HKK9PGLC/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 82,
+          "url": "https://www.amazon.com/gp/product/B0HKK9PGLC/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.13,
+      "short_affiliate_url": "https://reurl.cc/omnAO3"
+    },
+    {
+      "title": "我們現在能分手了嗎？（席捲日本女性讀者，「這根本就是我」共鳴話題書！）",
+      "author": "垣谷美雨",
+      "original_title": "もう別れてもいいですか",
+      "original_author": "Miu Kakiya",
+      "isbn": "9789570881646",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw?sId=a8c95c9d-e1a9-4ebd-b587-b8448d77e259&ssId=rrqm60kgeUpN2QCixQGOw&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$315",
+      "cover_url": "covers/ZJgog-VoUTOd8zvEd-Kaqw.jpg",
+      "sale_price": "NT$268",
+      "price_source": "readmoo_orig",
+      "sale_end": "",
+      "description": "不只是離婚故事，更是女性第二人生的成長物語。不外遇、不家暴、不賭博，就能算是好老公嗎？原來，真正讓一個女人老去的，從來不是年齡，而是她以為自己已經沒有選擇。五十八歲才開始，會不會太晚？",
+      "publish_date": "2026年10月22日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
+        "小說與文學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": 4.67,
+          "count": 3,
+          "url": "https://www.kobo.com/tw/zh/ebook/ZJgog-VoUTOd8zvEd-Kaqw?sId=a8c95c9d-e1a9-4ebd-b587-b8448d77e259&ssId=rrqm60kgeUpN2QCixQGOw&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361010?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 22,
+          "url": "https://moo.im/a/opwCDI"
+        },
+        "goodreads": {
+          "score": 4.5,
+          "count": 4,
+          "url": "https://www.goodreads.com/book/show/86058408",
+          "note": "re-fetch",
+          "amazon_url": "https://www.amazon.com/gp/product/4120054888/ref=x_gr_bb_amazon",
+          "confidence": 60,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": 4.3,
+          "count": 651,
+          "url": "https://www.amazon.co.jp/-/zh/dp/412207567X/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.2,
+      "short_affiliate_url": "https://reurl.cc/Le8q9x"
+    },
+    {
+      "title": "駕馭幸運：華頓商學院市場經濟權威教授，掌握競爭優勢的隱藏經濟學",
+      "author": "賈德．凱斯勒",
+      "original_title": "Lucky by Design: The Hidden Economics You Need to Get More of What You Want",
+      "original_author": "Judd B. Kessler",
+      "isbn": "9786267859650",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/c-xgkZDFPzGn-zgke1sLjw?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$365",
+      "cover_url": "covers/c-xgkZDFPzGn-zgke1sLjw.jpg",
+      "sale_price": "NT$310",
+      "price_source": "kobo",
+      "sale_end": "",
+      "description": "好運，也可以憑實力？透過經濟學為自己創造機遇，快速實現人際、生活、事業的全方位躍升！同樣是選擇，只選擇最優解的人，成功率必然會比別人高，而助你脫穎而出的關鍵策略，就隱藏在這本書中！",
+      "publish_date": "2026年9月29日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
+        "企業與金融"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/c-xgkZDFPzGn-zgke1sLjw?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=8&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357219?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/7nFHMN",
+          "raw_url": "https://readmoo.com/book/210501985000101"
+        },
+        "goodreads": {
+          "score": 3.54,
+          "count": 162,
+          "url": "https://www.goodreads.com/book/show/225819751",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DVSNM119/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.6,
+          "count": 85,
+          "url": "https://www.amazon.com/gp/product/B0DVSNM119/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.13,
+      "short_affiliate_url": "https://reurl.cc/DYREWQ"
+    },
+    {
+      "title": "船長的晚餐：食人船難與改寫歷史的謀殺審判",
+      "author": "亞當．柯恩",
+      "original_title": "Captain's Dinner: A Shipwreck, an Act of Cannibalism, and a Murder Trial That Changed Legal History",
+      "original_author": null,
+      "isbn": "9786267835630",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Ng6k-Cklbjm2LgUDgqxaMQ?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$500",
+      "cover_url": "covers/Ng6k-Cklbjm2LgUDgqxaMQ.jpg",
+      "sale_price": "NT$425",
+      "price_source": "kobo",
+      "sale_end": "",
+      "description": "啟發《少年Pi的奇幻漂流》的真實事件。一場改變全球法律的真實海難，一個至今仍反覆叩問世人的倫理難題。麵包吃完，淡水喝盡，船上僅剩最後的晚餐：他們的同伴。為了拯救更多人，是否可以犧牲一名無辜者？",
+      "publish_date": "2026年10月1日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
+        "非小說",
+        "宗教與靈性",
+        "哲學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://www.kobo.com/tw/zh/ebook/Ng6k-Cklbjm2LgUDgqxaMQ?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=4&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357716?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 3,
+          "url": "https://moo.im/a/afgoST",
+          "raw_url": "https://readmoo.com/book/210502176000101"
+        },
+        "goodreads": {
+          "score": 3.85,
+          "count": 1229,
+          "url": "https://www.goodreads.com/book/show/248268015",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DWNJWX48/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 157,
+          "url": "https://www.amazon.com/gp/product/B0DWNJWX48/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.12,
+      "short_affiliate_url": "https://reurl.cc/3y09dV"
+    },
+    {
+      "title": "惡意是怎麼形成的？：從霸凌、劈腿到仇恨言論，歷時15年、全球超過250萬筆研究數據，心理學家教你揪出身邊有問題的人！",
+      "author": "班雅明‧E‧席比、莫頓‧摩沙根、英格‧策特勒",
+      "original_title": "Dark Factor - Die Essenz des Bösen in uns",
+      "original_author": "Benjamin E. Hilbig",
+      "isbn": "9786264600712",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vn6YGXio_j-Ts_KHbmphQA?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$340",
+      "cover_url": "covers/vn6YGXio_j-Ts_KHbmphQA.jpg",
+      "sale_price": "NT$289",
+      "price_source": "kobo",
+      "sale_end": "",
+      "description": "三位心理學家耗時15年，分析全球250萬人的研究資料，發現看似不同的黑暗人格，其實都指向同一個核心。本書能幫助你了解人性的邪惡本質、更快辨識風險。有些人，最好的相處方式，或許就是提早保持距離！",
+      "publish_date": "2026年8月4日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
         "非小說",
         "健康與幸福",
         "自助",
@@ -34,550 +424,153 @@
       ],
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/NVQgMI1fAj62DrNCukQnRw?sId=0bd8404d-789c-4e7b-adb4-07ce9f378b02&ssId=Cj2891XXQsd6kWy_1rEmp&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050346703?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
+          "score": 1.5,
           "count": 2,
-          "url": "https://moo.im/a/ruzRVZ",
-          "raw_url": "https://readmoo.com/book/210490777000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/p8G2jb"
-    },
-    {
-      "title": "破壞性創新：勢不可擋的顛覆力量，在被忽視處創造價值，改變競爭路徑，切換成長新賽道",
-      "author": "史考特・安東尼",
-      "original_title": "Epic Disruptions: 11 Innovations That Shaped Our Modern World",
-      "original_author": "Scott D. Anthony",
-      "isbn": "9786267916162",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/WMJk-em_KDWNraeX6NhZ_w?sId=b5138c5c-e121-44da-83df-fe8b5bc536db&ssId=IIHNirKTcTLAh_RiiYAGd&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$413",
-      "cover_url": "covers/WMJk-em_KDWNraeX6NhZ_w.jpg",
-      "sale_price": "NT$351",
-      "price_source": "kobo",
-      "sale_end": "",
-      "description": "劇變時代必須搶先閱讀的商業經典，深入解析11個形塑現代世界的破壞性創新，帶你看見「改變明天」的新機會！如何在變動時代中保持競爭力？關鍵就在於：企業不能只專注於「讓今天變更好」，更要追求「讓明天變不同」！",
-      "publish_date": "2026年6月3日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "企業與金融",
-        "業務參考",
-        "公司歷史",
-        "企業與金融",
-        "管理與領導",
-        "規劃與天氣預報",
-        "企業與金融",
-        "行銷與銷售",
-        "商業政策"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/WMJk-em_KDWNraeX6NhZ_w?sId=b5138c5c-e121-44da-83df-fe8b5bc536db&ssId=IIHNirKTcTLAh_RiiYAGd&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
+          "url": "https://www.kobo.com/tw/zh/ebook/vn6YGXio_j-Ts_KHbmphQA?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=6&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
         },
         "books_com": {
-          "score": 4.5,
-          "count": 8,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050335615?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
           "score": 5.0,
-          "count": 2,
-          "url": "https://moo.im/a/245anx",
-          "raw_url": "https://readmoo.com/book/210477959000101"
-        },
-        "goodreads": {
-          "score": 3.88,
-          "count": 136,
-          "url": "https://www.goodreads.com/book/show/223148084",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DRW959T2/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 64,
-          "url": "https://www.amazon.com/gp/product/B0DRW959T2/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/vGM2jj"
-    },
-    {
-      "title": "失控的同理心︰道德判斷的偏誤與理性思考的價值",
-      "author": "保羅．布倫",
-      "original_title": "Against Empathy:The Case for Rational Compassion",
-      "original_author": "Paul Bloom",
-      "isbn": "9786264600194",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/3OwawrJpLj-37-Blo8Lk7g?sId=8f016552-08ef-4a29-b475-1439fed85a58&ssId=F3I0F_kPjfYrpkoBCNXvZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$320",
-      "cover_url": "covers/3OwawrJpLj-37-Blo8Lk7g.jpg",
-      "sale_price": "NT$272",
-      "price_source": "kobo",
-      "sale_end": "",
-      "description": "當同理心變成理盲濫情，當周遭充斥正義魔人與網路公審……我們不只要有同理心，更要講道理。在本書中，作者要帶我們檢視「同理心」到底是什麼？如果你關心正義、道德與公共議題，本書將迫使你重新思考一個我們從未懷疑過的美德。",
-      "publish_date": "2026年5月7日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "非小說",
-        "家庭與關係",
-        "關係",
-        "友誼"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/3OwawrJpLj-37-Blo8Lk7g?sId=8f016552-08ef-4a29-b475-1439fed85a58&ssId=F3I0F_kPjfYrpkoBCNXvZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050333605?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "count": 4,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050354124?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://moo.im/a/1dgnoy",
+          "raw_url": "https://readmoo.com/book/210496937000101"
         },
         "goodreads": {
-          "score": 3.57,
-          "count": 6755,
-          "url": "https://www.goodreads.com/book/show/29100194",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B01CY2LCZI/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 1213,
-          "url": "https://www.amazon.com/gp/product/B01CY2LCZI/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/Ymxbra"
-    },
-    {
-      "title": "跳脫反芻思維：幫大腦踩煞車的41種行為科學練習筆記",
-      "author": "雪莉‧麥格雷戈",
-      "original_title": "",
-      "original_author": "Sheri McGregor",
-      "isbn": "9786264188029",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/OAOt_2SkCD-JcGwDiT_dpw?sId=3ae26c23-43f2-4fec-91a7-e6c74d9500cf&ssId=t4r1OgxhvGb4nkhEJ-nPZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$332",
-      "cover_url": "covers/OAOt_2SkCD-JcGwDiT_dpw.jpg",
-      "sale_price": "NT$282",
-      "price_source": "readmoo_orig",
-      "sale_end": "",
-      "description": "一句話，在腦中重播一百遍；一件事，在心裡翻攪好幾天。41個行為科學實作練習、極為簡單好操作的「反芻療法」，對症頑固的情緒漩渦和大腦的高耗能狀態，教你掙脫內耗的泥沼，陪你停止腦內重播，把心安放回今天。",
-      "publish_date": "2026年10月1日",
-      "last_updated": "2026-11-09T16:24:23.594623+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "心理學",
-        "強迫行為",
-        "非小說",
-        "科學與自然",
-        "科學"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/OAOt_2SkCD-JcGwDiT_dpw?sId=3ae26c23-43f2-4fec-91a7-e6c74d9500cf&ssId=t4r1OgxhvGb4nkhEJ-nPZ&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050358371?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/hivLSU",
-          "raw_url": "https://readmoo.com/book/210503549000101"
-        },
-        "goodreads": {
-          "score": 4.5,
-          "count": 6,
-          "url": "https://www.goodreads.com/book/show/242414972",
-          "note": "manual-verified",
-          "confidence": 100,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/5XmQyn"
-    },
-    {
-      "title": "荊棘與玫瑰【荊棘與玫瑰系列1】",
-      "author": "莎菈．J．瑪斯",
-      "original_title": "A Court of Thorns and Roses",
-      "original_author": "Sarah J. Maas",
-      "isbn": "9786264092746",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/1AcCWq_S2DW0d_yH7PP1rA?sId=cf813353-6b2a-4eec-a571-52970db05798&ssId=u-bhByLjjVuzYlnHUHicy&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$385",
-      "cover_url": "covers/1AcCWq_S2DW0d_yH7PP1rA.jpg",
-      "sale_price": "NT$327",
-      "price_source": "readmoo_orig",
-      "sale_end": "",
-      "description": "當代「浪漫奇幻女王」莎菈．J．瑪斯，統治全球社群的現象級史詩巨作！為了活下去，她踏入繁花與荊棘交織的囚籠，卻在那裡愛上了一頭受詛咒的野獸。當真心成為唯一的利刃，她能否斬斷命運，改寫所有人的結局？",
-      "publish_date": "2026年10月6日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "科幻小說與奇幻小說",
-        "幻想",
-        "愛情",
-        "科幻小說與奇幻小說"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/1AcCWq_S2DW0d_yH7PP1rA?sId=cf813353-6b2a-4eec-a571-52970db05798&ssId=u-bhByLjjVuzYlnHUHicy&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 37,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357059?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.5,
-          "count": 30,
-          "url": "https://moo.im/a/6jxDVW",
-          "raw_url": "https://readmoo.com/book/210503534000101"
-        },
-        "goodreads": {
-          "score": 4.07,
-          "count": 188,
-          "url": "https://www.goodreads.com/book/show/32873737",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B01KFZS858/ref=x_gr_bb_amazon",
-          "confidence": 75,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.26,
-      "short_affiliate_url": "https://reurl.cc/27nekn"
-    },
-    {
-      "title": "我只是說真話。從地獄哏到DEI，直球對決仇恨言論傷害的當代經典",
-      "author": "傑瑞米．瓦爾準",
-      "original_title": "The Harm in Hate Speech",
-      "original_author": null,
-      "isbn": "9786267835708",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/dei-3?utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$460",
-      "cover_url": "covers/dei-3.jpg",
-      "sale_price": "NT$391",
-      "price_source": "readmoo_orig",
-      "sale_end": "",
-      "description": "「開個玩笑而已，幹嘛那麼玻璃心？」本書結合歷史案件與各國對仇恨言論的規範，挑戰言論自由至上的迷思。在社群對立加劇、言論邊界日益模糊的今日，深刻顛覆我們對自由的既定想像，也是每位公民理解包容、平等與公共秩序的必讀之作。",
-      "publish_date": "2026年10月1日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "非小說",
-        "宗教與靈性",
-        "哲學"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/dei-3?utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050357715?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://moo.im/a/8gmovV",
-          "raw_url": "https://readmoo.com/book/210502175000101"
-        },
-        "goodreads": {
-          "score": 3.5,
-          "count": 227,
-          "url": "https://www.goodreads.com/book/show/13747793",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0GMYY2DRB/ref=x_gr_bb_kindle",
-          "confidence": 40,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.2,
-          "count": 53,
-          "url": "https://www.amazon.com/-/zh_TW/Harm-Hate-Speech-Jeremy-Waldron/dp/0674416864/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/0k3G8A"
-    },
-    {
-      "title": "真正會讀書的人，都背得很少：只背最少內容也上榜的超強學習術",
-      "author": "孫醫燦",
-      "original_title": "외우지 않는 공부법",
-      "original_author": null,
-      "isbn": "9789570881158",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/89iX_nl4MTa8ob8tfLYGpw?sId=381534c7-3119-4cbd-8f72-43fe1ca3dbbc&ssId=_EIyOSwekAYQ1JUjsQGN9&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$294",
-      "cover_url": "covers/89iX_nl4MTa8ob8tfLYGpw.jpg",
-      "sale_price": "NT$250",
-      "price_source": "kobo",
-      "sale_end": "",
-      "description": "曾因學習困難而懷疑自己是否有閱讀障礙的作者，在第一次大學聯考失利後，抱著「這次一定要錄取」的迫切心情，觀察了公務員考試、證照檢定等各類考試的合格者，並將他們的學習模式系統化，獨創出一套不靠死記的讀書法！",
-      "publish_date": "2026年9月17日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "非小說",
-        "參考與語言",
-        "外國語言"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/89iX_nl4MTa8ob8tfLYGpw?sId=381534c7-3119-4cbd-8f72-43fe1ca3dbbc&ssId=_EIyOSwekAYQ1JUjsQGN9&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050356554?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/3cdfhD",
-          "raw_url": "https://readmoo.com/book/210500159000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/AX5aeQ"
-    },
-    {
-      "title": "韌性製造：斷鏈危機下，如何打造「韌性供應鏈」大未來",
-      "author": "提姆．敏謝爾",
-      "original_title": "Your Life Is Manufactured: How We Make Things, Why It Matters and How We Can Do It Better",
-      "original_author": null,
-      "isbn": "9786267972267",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZB0e-iOHkjaATc7ObKiEnA?sId=79636087-ed26-4c21-a81a-104ee2f4494a&ssId=ib304EojpLtcZde8PSGMy&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$498",
-      "cover_url": "covers/ZB0e-iOHkjaATc7ObKiEnA.jpg",
-      "sale_price": "NT$423",
-      "price_source": "readmoo_orig",
-      "sale_end": "",
-      "description": "從晶片到普拿疼，從披薩到電動車，劍橋大學「製造學」權威直擊全球生產線，看懂從斷鏈到韌性的全球製造革命。從疫情斷鏈、塞港危機，看全球製造如何告別只追求效率的時代，創造更加永續、更能抵禦下一場危機的「韌性供應鍊」。",
-      "publish_date": "2026年9月9日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "企業與金融",
-        "經濟學",
-        "經濟發展"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/ZB0e-iOHkjaATc7ObKiEnA?sId=79636087-ed26-4c21-a81a-104ee2f4494a&ssId=ib304EojpLtcZde8PSGMy&cPos=2&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 5,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050355238?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/4ntxAV",
-          "raw_url": "https://readmoo.com/book/210499320000101"
-        },
-        "goodreads": {
-          "score": 3.62,
-          "count": 503,
-          "url": "https://www.goodreads.com/book/show/221193153",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DLWX7XCN/ref=x_gr_bb_amazon",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 113,
-          "url": "https://www.amazon.com/gp/product/B0DLWX7XCN/ref=x_gr_bb_amazon"
-        }
-      },
-      "avg_score": 4.06,
-      "short_affiliate_url": "https://reurl.cc/6X8M3r"
-    },
-    {
-      "title": "餘燼冥之島（邪惡奇幻天才大神超凡驚豔震撼全球祕密計畫）",
-      "author": "布蘭登．山德森",
-      "original_title": "Isles of the Emberdark",
-      "original_author": "Brandon Sanderson",
-      "isbn": "9786267998014",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/N4kbMPgYyDeu9pPZ-BGxog?sId=869ae198-1cc2-431a-9837-b9530b8dd38d&ssId=1JnUXy09ZFOSWbmI8EpLc&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$639",
-      "cover_url": "covers/N4kbMPgYyDeu9pPZ-BGxog.jpg",
-      "sale_price": "NT$543",
-      "price_source": "readmoo_orig",
-      "sale_end": "",
-      "description": "布蘭登．山德森驚豔震撼全球祕密計畫！看似絕不可能交集的兩人，在各自尋求答案的過程中，不停面臨險惡難料的交易、充滿毒害的政爭，以及一位逝去神祇的毀滅性迴響，他們會是彼此命運的最終解方嗎？",
-      "publish_date": "2026年9月29日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "科幻小說與奇幻小說",
-        "幻想"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/N4kbMPgYyDeu9pPZ-BGxog?sId=869ae198-1cc2-431a-9837-b9530b8dd38d&ssId=1JnUXy09ZFOSWbmI8EpLc&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050360267?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.9,
-          "count": 15,
-          "url": "https://moo.im/a/9isKOP",
-          "raw_url": "https://readmoo.com/book/210501472000101"
-        },
-        "goodreads": {
-          "score": 4.46,
-          "count": 46950,
-          "url": "https://www.goodreads.com/book/show/210300489",
-          "note": "title+author",
-          "amazon_url": "",
-          "confidence": 75,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.8,
-          "count": 7700,
-          "url": "https://www.amazon.com/-/zh_TW/Brandon-Sanderson-ebook/dp/B0DHZYWCN9/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.37,
-      "short_affiliate_url": "https://reurl.cc/1l9EaD"
-    },
-    {
-      "title": "荊棘之路【澳洲「南極光獎」得獎作！獲獎無數的澳洲奇幻小說家首部來台著作】",
-      "author": "安琪拉・史雷特",
-      "original_title": "THE PATH OF THORNS",
-      "original_author": "A.G. Slatter",
-      "isbn": "9786267839546",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/DD8YXngrdzau8FKQ_dzZqw?sId=471ba43e-177d-4cc0-8b12-64ccca7fd570&ssId=ozUzgZDb26GsOCmZpxnPN&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109",
-      "kobo_price": "NT$370",
-      "cover_url": "covers/DD8YXngrdzau8FKQ_dzZqw.jpg",
-      "sale_price": "NT$315",
-      "price_source": "readmoo_orig",
-      "sale_end": "",
-      "description": "澳洲人氣奇幻小說家著作。所有的女人都是女巫，女巫走的道路，總是長滿荊棘。亦正亦邪、最令人心痛又不禁敬佩的女性主角！她被母親的仇恨哺育長大，但從未放下愛的可能。她將實行復仇計畫，而唯一的阻撓是她自己的心。",
-      "publish_date": "2026年8月27日",
-      "last_updated": "2026-11-09T16:04:36.536145+08:00",
-      "listed_at": "2026-11-09",
-      "genre_tags": [
-        "小說與文學",
-        "文學"
-      ],
-      "ratings": {
-        "kobo": {
           "score": 4.0,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/DD8YXngrdzau8FKQ_dzZqw?sId=471ba43e-177d-4cc0-8b12-64ccca7fd570&ssId=ozUzgZDb26GsOCmZpxnPN&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261109"
+          "count": 8,
+          "url": "https://www.goodreads.com/book/show/230604921",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F2VCCHJP/ref=x_gr_bb_kindle",
+          "confidence": 80,
+          "cross_validated": true
         },
-        "books_com": {
+        "amazon_com": {
+          "score": 3.7,
+          "count": 6,
+          "url": "https://www.amazon.com/gp/product/B0F2VCCHJP/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.11,
+      "short_affiliate_url": "https://reurl.cc/eQeAjR"
+    },
+    {
+      "title": "金錢治療——看懂金錢習慣背後的情緒與創傷，修復你與金錢的關係",
+      "author": "薇琪．雷納爾",
+      "original_title": "Money on Your Mind: The Psychology Behind Your Financial Habits",
+      "original_author": "Vicky Reynal",
+      "isbn": "9786264445306",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ZC2OuKLXPz-miARamf0AbA?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$441",
+      "cover_url": "covers/ZC2OuKLXPz-miARamf0AbA.jpg",
+      "sale_price": "NT$375",
+      "price_source": "readmoo_orig",
+      "sale_end": "",
+      "description": "我們一生中最重要的關係之一，就是與金錢的關係。英國第一位「財務心理治療師」深入探討各種金錢行為，包括過度消費、過度儉省等，協助你拆解並看懂是什麼在驅動你的金錢行為，從而建立更健康的金錢關係。",
+      "publish_date": "2026年7月24日",
+      "last_updated": "2026-11-16T14:13:12.542130+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
+        "企業與金融",
+        "生涯規劃與求職",
+        "企業與金融",
+        "個人財務"
+      ],
+      "ratings": {
+        "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050353268?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.kobo.com/tw/zh/ebook/ZC2OuKLXPz-miARamf0AbA?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=1&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050351035?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.1,
-          "count": 17,
-          "url": "https://moo.im/a/8psuxD",
-          "raw_url": "https://readmoo.com/book/210496264000101"
+          "score": 3.7,
+          "count": 6,
+          "url": "https://moo.im/a/cfqLTV",
+          "price_reg": 441,
+          "price_promo": null,
+          "raw_url": "https://readmoo.com/book/210493646000101"
         },
         "goodreads": {
-          "score": 3.96,
-          "count": 5619,
-          "url": "https://www.goodreads.com/book/show/55302954",
+          "score": 4.08,
+          "count": 214,
+          "url": "https://www.goodreads.com/book/show/226442598",
           "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09GN6Y4M1/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CSWVF7L1/ref=x_gr_bb_kindle",
           "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.4,
-          "count": 914,
-          "url": "https://www.amazon.com/-/zh_TW/G-Slatter-ebook/dp/B09GN6Y4M1/ref=sr_1_1"
+          "count": 54,
+          "url": "https://www.amazon.com/gp/product/B0CSWVF7L1/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.14,
-      "short_affiliate_url": "https://reurl.cc/gNd3jL"
+      "avg_score": 4.13,
+      "short_affiliate_url": "https://reurl.cc/Wz57p5"
+    },
+    {
+      "title": "笑與幽默：正向心理學第一本專書，你要不要也開一帖大笑處方箋？",
+      "author": "弗蕾達・蓋納休肯斯基、莫夫・尼爾、傑諾米・卡森",
+      "original_title": "The Positive Psychology of Laughter and Humour",
+      "original_author": "Freda Gonot-Schoupinsky",
+      "isbn": "9789864932429",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/rfxGnD4iPjKH2gKWSrjdjw?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116",
+      "kobo_price": "NT$385",
+      "cover_url": "covers/rfxGnD4iPjKH2gKWSrjdjw.jpg",
+      "sale_price": "NT$327",
+      "price_source": "kobo",
+      "sale_end": "",
+      "description": "幽默可以引發笑意，但想發笑不見得需要幽默？ 幽默與社交智商、善良、熱血有何關聯？ 文藝復興時期的弄臣被認為是解憂劑，甚至有助消化？ 俗話說「一笑治百病」，背後有科學根據嗎？ 跟著書中簡單練習，就可以有效提升幸福感。",
+      "publish_date": "2026年6月1日",
+      "last_updated": "2026-11-16T13:58:42.608080+08:00",
+      "listed_at": "2026-11-16",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "心理學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/rfxGnD4iPjKH2gKWSrjdjw?sId=bea8377d-cf52-4fc0-8acf-75f08c7936f4&ssId=OFe6znBCg4S2wYv_3PlLT&cPos=10&utm_source=twblog&utm_medium=85x85list&utm_campaign=8585_20261116"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050336758?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 3.5,
+          "count": 2,
+          "url": "https://moo.im/a/089hyS",
+          "raw_url": "https://readmoo.com/book/210475402000101"
+        },
+        "goodreads": {
+          "score": 3.0,
+          "count": 1,
+          "url": "https://www.goodreads.com/book/show/205698729",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CSDTXTMM/ref=x_gr_bb_kindle",
+          "confidence": 60,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://www.amazon.com/gp/product/B0CSDTXTMM/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.12,
+      "short_affiliate_url": "https://reurl.cc/MWaVnn"
     }
   ]
 }
