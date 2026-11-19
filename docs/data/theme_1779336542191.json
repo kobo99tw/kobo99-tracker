@@ -1,477 +1,7 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-11-17T11:43:17.547805+08:00",
+  "updated_at": "2026-11-19T13:07:35.765681+08:00",
   "books": [
-    {
-      "title": "推理要在下課後",
-      "author": "翁德怡",
-      "original_title": "",
-      "original_author": "Te-I Weng",
-      "isbn": "9786264332798",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/IRL8CNNR1DiVOlch1M_f6w?sId=2a1fb3c8-53f8-4c7c-9fdb-1b7293db4123&ssId=BghLYtYgZJZkwRUDGr6wx&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$245",
-      "cover_url": "covers/IRL8CNNR1DiVOlch1M_f6w.jpg",
-      "sale_price": "NT$208",
-      "price_source": "readmoo_orig",
-      "sale_end": "11/13",
-      "description": "十堂課，從十個案件開始。從確認偏誤、證據判讀，到法律責任與人性理解，本書不只帶你看懂案件，更帶你練習一種在這個資訊混亂、情緒先行的時代尤其重要的能力：不讓故事取代證據，不讓推理超過科學能證明的界線。",
-      "publish_date": "2026年11月1日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
-      "listed_at": "2026-11-05",
-      "short_affiliate_url": "https://reurl.cc/LekZl9",
-      "genre_tags": [
-        "非小說",
-        "參考與語言",
-        "法律",
-        "法律教育",
-        "非小說",
-        "參考與語言",
-        "法律",
-        "鑑識科學"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/IRL8CNNR1DiVOlch1M_f6w?sId=2a1fb3c8-53f8-4c7c-9fdb-1b7293db4123&ssId=BghLYtYgZJZkwRUDGr6wx&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362442?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 3.8,
-          "count": 5,
-          "url": "https://moo.im/a/0jCEIR"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E7%BF%81%E5%BE%B7%E6%80%A1-ebook/dp/B0HQCSLYS1/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.16
-    },
-    {
-      "title": "記憶七罪【經典收藏版】",
-      "author": "丹尼爾‧沙克特",
-      "original_title": "The Seven Sins of Memory: How the Mind Forgets and Remembers",
-      "original_author": "Daniel L. Schacter",
-      "isbn": "9786264332934",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/094tyq92vTOIWYPtri6jew?sId=73d4d611-f487-4ae6-8de5-7bb54e646fd2&ssId=byPXHr4S7ov10r829yP1j&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$406",
-      "cover_url": "covers/094tyq92vTOIWYPtri6jew.jpg",
-      "sale_price": "NT$348",
-      "price_source": "kobo_page_manual",
-      "sale_end": "11/13",
-      "description": "這部開創性且屢獲殊榮的研究著作，是世界頂尖心理學家沙克特的心血結晶。本書探討記憶出了問題時為我們招惹的麻煩，以最新的研究與實驗佐證，進而提出看待記憶問題的新觀點。",
-      "publish_date": "2026年11月1日",
-      "last_updated": "2026-11-17T12:02:15.562531+08:00",
-      "listed_at": "2026-11-05",
-      "short_affiliate_url": "https://reurl.cc/DYV8lN",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "自助",
-        "自我改善",
-        "勵志",
-        "非小說",
-        "健康與幸福",
-        "心理學"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/094tyq92vTOIWYPtri6jew?sId=73d4d611-f487-4ae6-8de5-7bb54e646fd2&ssId=byPXHr4S7ov10r829yP1j&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362441?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/8cgzFG"
-        },
-        "goodreads": {
-          "score": 3.88,
-          "count": 1907,
-          "url": "https://www.goodreads.com/book/show/56592",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B003ZSISSA/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 349,
-          "url": "https://www.amazon.com/gp/product/B003ZSISSA/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.14
-    },
-    {
-      "title": "2034未來預測",
-      "author": "中島聰",
-      "original_title": "2034 未来予測──AI（きみ）のいる明日",
-      "original_author": null,
-      "isbn": "9789861345871",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/2034-ai?sId=4874ba52-139d-47a3-8c54-ebf860389454&ssId=bgY5djE00EVZLRQBkr_wZ&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/2034-ai.jpg",
-      "sale_price": "NT$226",
-      "price_source": "readmoo_orig",
-      "sale_end": "11/15",
-      "description": "當8成的工作因為AI而消失，我們將面對怎樣的「混亂」與「希望」？本書以5則短篇小說，模擬到了2034年，AI將如何融入我們的生活。重大的社會和經濟變革即將到來，帶你擴大想像，及時因應！",
-      "publish_date": "2026年11月1日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
-      "listed_at": "2026-11-05",
-      "short_affiliate_url": "https://reurl.cc/beOy36",
-      "genre_tags": [
-        "企業與金融",
-        "經濟學",
-        "規劃與天氣預報"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/2034-ai?sId=4874ba52-139d-47a3-8c54-ebf860389454&ssId=bgY5djE00EVZLRQBkr_wZ&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361548?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/478bBF"
-        },
-        "goodreads": {
-          "score": 3.88,
-          "count": 2,
-          "url": "https://www.goodreads.com/book/show/253736334",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0H4V9PVYK/ref=x_gr_bb_amazon",
-          "confidence": 75,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 497,
-          "url": "https://www.amazon.com/gp/product/B0H4V9PVYK/ref=x_gr_bb_amazon"
-        }
-      },
-      "avg_score": 4.25
-    },
-    {
-      "title": "高勝率經濟學",
-      "author": "戴露．費爾維瑟",
-      "original_title": "Hate the Game: Economic Cheat Codes for Life, Love, and Work",
-      "original_author": "Daryl Fairweather",
-      "isbn": "9786267859711",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/K2s1vAS0JTWqL4c3H69sZA?sId=ddcf9462-0774-460e-a7f5-371f765b0b70&ssId=DZExEmbuhWswQmqmPxnW7&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$335",
-      "cover_url": "covers/K2s1vAS0JTWqL4c3H69sZA.jpg",
-      "sale_price": "NT$285",
-      "price_source": "kobo",
-      "sale_end": "11/15",
-      "description": "如果你想出人頭地，這是你的必讀之作！人生中的各種挑戰，就像是一場場遊戲，而本書就是最好的人生攻略本。不論是買房、求職、升遷、婚姻和理財，其實都有「最優解」。只要讀懂其中的規則，就能靠自己定義輸贏！",
-      "publish_date": "2026年11月2日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
-      "listed_at": "2026-11-05",
-      "short_affiliate_url": "https://reurl.cc/3y2Z6L",
-      "genre_tags": [
-        "企業與金融"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/K2s1vAS0JTWqL4c3H69sZA?sId=ddcf9462-0774-460e-a7f5-371f765b0b70&ssId=DZExEmbuhWswQmqmPxnW7&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362857?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/nuAHMP"
-        },
-        "goodreads": {
-          "score": 3.53,
-          "count": 232,
-          "url": "https://www.goodreads.com/book/show/217215424",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DKB5NDJ8/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.1,
-          "count": 44,
-          "url": "https://www.amazon.com/gp/product/B0DKB5NDJ8/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.05
-    },
-    {
-      "title": "八萬小時職涯複利",
-      "author": "比爾．格利",
-      "original_title": "Runnin' Down a Dream: How to Thrive in a Career You Actually Love",
-      "original_author": "Bill Gurley",
-      "isbn": "9786267916490",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/pn9DIR_CLzWlTHZ-8PezCw?sId=acd197bc-f143-4bf9-b0f6-1faf8efc34d3&ssId=x4aq5zEH5ADZ05bsONUKP&cPos=2&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$338",
-      "cover_url": "covers/pn9DIR_CLzWlTHZ-8PezCw.jpg",
-      "sale_price": "NT$287",
-      "price_source": "readmoo_orig",
-      "sale_end": "11/18",
-      "description": "人生有八萬小時花在工作上，你是在空轉，還是在累積複利？卓越不是碰運氣，而是自己可以改寫勝率的投資！透過矽谷創投思維及六大實戰原則，擺脫「安靜離職」，告別「職涯遺憾」，主動為人生帶來高回報！",
-      "publish_date": "2026年11月4日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
-      "listed_at": "2026-11-17",
-      "genre_tags": [
-        "企業與金融",
-        "生涯規劃與求職",
-        "職業",
-        "非小說",
-        "健康與幸福",
-        "自助",
-        "自我改善",
-        "成功",
-        "企業與金融",
-        "生涯規劃與求職"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/pn9DIR_CLzWlTHZ-8PezCw?sId=acd197bc-f143-4bf9-b0f6-1faf8efc34d3&ssId=x4aq5zEH5ADZ05bsONUKP&cPos=2&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362712?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/7aeftY",
-          "raw_url": "https://readmoo.com/book/210510435000101"
-        },
-        "goodreads": {
-          "score": 4.13,
-          "count": 1348,
-          "url": "https://www.goodreads.com/book/show/237134711",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FFGH4CYY/ref=x_gr_bb_kindle",
-          "confidence": 90,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 494,
-          "url": "https://www.amazon.com/gp/product/B0FFGH4CYY/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/AXQxR8"
-    },
-    {
-      "title": "免疫力的真相",
-      "author": "丹尼爾‧戴維斯",
-      "original_title": "Self Defence: A Myth-Busting Guide to Immune Health",
-      "original_author": "Daniel M. Davis",
-      "isbn": "9786267916582",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/IkZ0mjlwSTW32MwzUJmKdg?sId=acd197bc-f143-4bf9-b0f6-1faf8efc34d3&ssId=x4aq5zEH5ADZ05bsONUKP&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$360",
-      "cover_url": "covers/IkZ0mjlwSTW32MwzUJmKdg.jpg",
-      "sale_price": "NT$306",
-      "price_source": "readmoo_orig",
-      "sale_end": "11/18",
-      "description": "為什麼熬夜加班會「過勞肥」？從壓力胖到憂鬱症，從慢性發炎到癌症，根源都在同一系統上！英國皇家學會科學圖書獎、生物學會圖書獎作者最新力作，帶你將自身健康納入人生計畫，用新科學精準調控免疫力。",
-      "publish_date": "2026年11月4日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
-      "listed_at": "2026-11-17",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "醫學",
-        "醫學科學",
-        "免疫學",
-        "非小說",
-        "健康與幸福",
-        "醫學",
-        "參考",
-        "非小說",
-        "健康與幸福",
-        "醫學",
-        "病痛與疾病",
-        "疾病"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/IkZ0mjlwSTW32MwzUJmKdg?sId=acd197bc-f143-4bf9-b0f6-1faf8efc34d3&ssId=x4aq5zEH5ADZ05bsONUKP&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362713?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://moo.im/a/0oFLNR",
-          "raw_url": "https://readmoo.com/book/210510436000101"
-        },
-        "goodreads": {
-          "score": 3.78,
-          "count": 9,
-          "url": "https://www.goodreads.com/book/show/238192956",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0FHWTSVV4/ref=x_gr_bb_kindle",
-          "confidence": 80,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.3,
-          "count": 38,
-          "url": "https://www.amazon.com/gp/product/B0FHWTSVV4/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.14,
-      "short_affiliate_url": "https://reurl.cc/1ldDoY"
-    },
-    {
-      "title": "免疫解碼",
-      "author": "麥特．瑞克托",
-      "original_title": "An Elegant Defense: The Extraordinary New Science of the Immune System, A Tale in Four Lives",
-      "original_author": null,
-      "isbn": "9786267685976",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/noEjlhcPiz6-0dZzEvY3dg?sId=acd197bc-f143-4bf9-b0f6-1faf8efc34d3&ssId=x4aq5zEH5ADZ05bsONUKP&cPos=3&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$400",
-      "cover_url": "covers/noEjlhcPiz6-0dZzEvY3dg.jpg",
-      "sale_price": "NT$340",
-      "price_source": "readmoo_orig",
-      "sale_end": "11/18",
-      "description": "比爾‧蓋茲「蓋茲筆記」夏季選書。從癌症、自體免疫失調等重症，深入探究免疫系統這人體最精微奧妙的奇蹟武器。以宏大的報導及精心的布局，成就一部史詩，也帶你認識尖端的科學新知與四位主人翁私密的生命故事！",
-      "publish_date": "2026年11月4日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
-      "listed_at": "2026-11-17",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "醫學",
-        "醫學科學",
-        "免疫學"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/noEjlhcPiz6-0dZzEvY3dg?sId=acd197bc-f143-4bf9-b0f6-1faf8efc34d3&ssId=x4aq5zEH5ADZ05bsONUKP&cPos=3&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050363110?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/8jpJNO",
-          "raw_url": "https://readmoo.com/book/210509994000101"
-        },
-        "goodreads": {
-          "score": 4.07,
-          "count": 6195,
-          "url": "https://www.goodreads.com/book/show/41806641",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B07C66KJC1/ref=x_gr_bb_kindle",
-          "confidence": 55,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.5,
-          "count": 1443,
-          "url": "https://www.amazon.com/gp/product/B07C66KJC1/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.22,
-      "short_affiliate_url": "https://reurl.cc/gNO9zz"
-    },
-    {
-      "title": "偽勞動",
-      "author": "丹尼斯．諾馬克、安德斯．福格．傑森",
-      "original_title": "Pseudowork：How we ended up being busy doing nothing",
-      "original_author": "Dennis Nørmark",
-      "isbn": "9786266504216",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/yTF_qCZqHTy_H-hJj5p5cA?sId=db18bf56-3ddd-429c-98f8-007482307b1c&ssId=m1C_cgzpKEN2giid8Gzx-&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$406",
-      "cover_url": "covers/yTF_qCZqHTy_H-hJj5p5cA.jpg",
-      "sale_price": "NT$345",
-      "price_source": "kobo_page_manual",
-      "sale_end": "11/18",
-      "description": "～別再努力做無謂的事了！～無效會議　過度管理　KPI崇拜　科技迷信　盲目模仿　破解現代職場的集體窮忙現象。揭露比「狗屁工作」更普遍的危機「偽勞動」，剖析大量無效工作的真正來源。",
-      "publish_date": "2026年11月6日",
-      "last_updated": "2026-11-17T12:02:15.348391+08:00",
-      "listed_at": "2026-11-17",
-      "genre_tags": [
-        "企業與金融"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/yTF_qCZqHTy_H-hJj5p5cA?sId=db18bf56-3ddd-429c-98f8-007482307b1c&ssId=m1C_cgzpKEN2giid8Gzx-&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 2.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362605?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/cikuNR",
-          "raw_url": "https://readmoo.com/book/210510792000101"
-        },
-        "goodreads": {
-          "score": 3.92,
-          "count": 859,
-          "url": "https://www.goodreads.com/book/show/39805645",
-          "note": "author",
-          "amazon_url": "https://www.amazon.com/gp/product/B08VN7JWGM/ref=x_gr_bb_kindle",
-          "confidence": 70,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 21,
-          "url": "https://www.amazon.com/gp/product/B08VN7JWGM/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.09,
-      "short_affiliate_url": "https://reurl.cc/DYRaZm"
-    },
     {
       "title": "超韌性",
       "author": "塔莎．歐里希",
@@ -486,8 +16,9 @@
       "sale_end": "11/23",
       "description": "為什麼有些人面對逆境卻能因此活得更好？暢銷書《深度洞察力》作者透過本書帶領我們跳脫舊有的思維框架，學會一套能重新調整人生方向的「超韌性路線圖」。培養超韌性，才能將挑戰轉化為成長的力量。",
       "publish_date": "2026年11月6日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
+      "last_updated": "2026-11-19T13:07:35.765681+08:00",
       "listed_at": "2026-11-17",
+      "short_affiliate_url": "https://reurl.cc/beLMnl",
       "genre_tags": [
         "非小說",
         "健康與幸福",
@@ -496,8 +27,8 @@
       ],
       "ratings": {
         "kobo": {
-          "score": null,
-          "count": 0,
+          "score": 5.0,
+          "count": 1,
           "url": "https://www.kobo.com/tw/zh/ebook/ooizsb40aDyfxOd8ga1MDw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
         },
         "books_com": {
@@ -512,21 +43,20 @@
         },
         "goodreads": {
           "score": 3.9,
-          "count": 356,
+          "count": 357,
           "url": "https://www.goodreads.com/book/show/217182457",
-          "note": "title",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B0DC67WTMK/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "confidence": 95,
           "cross_validated": true
         },
         "amazon_com": {
           "score": 4.7,
           "count": 119,
-          "url": "https://www.amazon.com/-/zh_TW/Tasha-Eurich-ebook/dp/B0DC67WTMK/ref=sr_1_1"
+          "url": "https://www.amazon.com/gp/product/B0DC67WTMK/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/beLMnl"
+      "avg_score": 4.18
     },
     {
       "title": "主管這麼爛，但我照樣開心上班",
@@ -542,8 +72,9 @@
       "sale_end": "11/25",
       "description": "不必離職、不起衝突！挪威人際關係專家寫給上班族的職場求生指南。既然改變不了主管，就學會應對他！學會七種職場求生策略，拿回工作主導權，將原本阻礙你發展的主管，轉化為推動職涯成長的助力！",
       "publish_date": "2026年10月27日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
+      "last_updated": "2026-11-19T13:07:35.765681+08:00",
       "listed_at": "2026-11-17",
+      "short_affiliate_url": "https://reurl.cc/4YAE3j",
       "genre_tags": [
         "企業與金融",
         "生涯規劃與求職"
@@ -562,8 +93,68 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/kCEGKP",
-          "raw_url": "https://readmoo.com/book/210511201000101"
+          "url": "https://moo.im/a/kCEGKP"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null
+    },
+    {
+      "title": "每天用得到的心理學",
+      "author": "韓昭苑 한소원",
+      "original_title": "심리학은 어떻게 삶의 무 기가 되는가",
+      "original_author": "한소원",
+      "isbn": "9786267862995",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/S4-R24qsxjiKOTA4rev-Xg?sId=dd9c6bf9-26a5-4204-acc2-ad6e59a72512&ssId=S-zFWoXFCCLFXvShI5jFb&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=publicationpicks-20261218",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/S4-R24qsxjiKOTA4rev-Xg.jpg",
+      "sale_price": "NT$250",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/26",
+      "description": "首爾大學心理學系教授帶你從日常可能遇到的問題出發，搭配經典研究、實驗和生活案例，解析背後的心理機制，再告訴你如何運用在現實生活中。84個心理學法則，幫助你調整行為、提升效率，也讓自己活得更幸福！",
+      "publish_date": "2026年11月12日",
+      "last_updated": "2026-11-19T13:07:35.765681+08:00",
+      "listed_at": "2026-11-19",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "心理學",
+        "諮詢",
+        "非小說",
+        "健康與幸福",
+        "自助",
+        "自我改善",
+        "勵志"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/S4-R24qsxjiKOTA4rev-Xg?sId=dd9c6bf9-26a5-4204-acc2-ad6e59a72512&ssId=S-zFWoXFCCLFXvShI5jFb&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=publicationpicks-20261218"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/drvMSU",
+          "raw_url": "https://readmoo.com/book/210511451000101"
         },
         "goodreads": {
           "score": null,
@@ -581,62 +172,7 @@
         }
       },
       "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/4YAE3j"
-    },
-    {
-      "title": "生命機器粒線體",
-      "author": "達莉雅・莫克利－羅森、伊曼紐・羅森",
-      "original_title": "The Life Machines: How Taking Care of Your Mitochondria Can Transform Your Health",
-      "original_author": "Daria Mochly-Rosen",
-      "isbn": "9786267873786",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/a_lf55Xh5Ty9XBO1x8SnAA",
-      "kobo_price": "NT$435",
-      "cover_url": "covers/a_lf55Xh5Ty9XBO1x8SnAA.jpg",
-      "sale_price": "NT$370",
-      "price_source": "readmoo_orig",
-      "sale_end": "11/15",
-      "description": "健康的粒線體，等於健康的細胞；而細胞健康，正是大腦、器官與身心健康的基石！巧妙融合最前沿的科研成果、真實故事與實用建議，更提供一套可於日常生活實踐的保健方法，幫助讀者重啟自體潛能，打造最強的身心狀態。",
-      "publish_date": "2026年11月2日",
-      "last_updated": "2026-11-17T11:43:17.547805+08:00",
-      "listed_at": "2026-11-05",
-      "short_affiliate_url": "https://reurl.cc/EY9agn",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "健康"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/a_lf55Xh5Ty9XBO1x8SnAA"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 3,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050362841?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/2hqBJR"
-        },
-        "goodreads": {
-          "score": 3.97,
-          "count": 92,
-          "url": "https://www.goodreads.com/book/show/224004285",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DV6L7T3M/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 53,
-          "url": "https://www.amazon.com/gp/product/B0DV6L7T3M/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.16
+      "short_affiliate_url": "https://reurl.cc/k9DWp9"
     }
   ]
 }
