@@ -1,207 +1,7 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-11-19T09:30:15.917173+08:00",
+  "updated_at": "2026-11-23T13:06:38.386801+08:00",
   "books": [
-    {
-      "title": "決定版3小時看漫畫認識印度",
-      "author": "關口真理、中島岳志、辻田祐子、三輪博樹、繁田奈歩",
-      "original_title": "インドのことがマンガで3時間でわかる本",
-      "original_author": null,
-      "isbn": "9786267730324",
-      "cover_url": "https://cdn.readmoo.com/cover/ee/dklbn9d_460x580.jpg?v=1753695064",
-      "publish_date": "2025/07/29",
-      "date": "11/19",
-      "readmoo_url": "https://readmoo.com/book/210399990000101",
-      "daily_price": 99,
-      "daily_price_reg": 336,
-      "daily_discount_label": "21折",
-      "description": "現代印度不是只有寶萊塢和咖哩，\n還有宗教政治、能源戰略與「全球南方」的主導話語權。從10億人口的「終極市場」到14億人口的世界第一大國，\n印度的變化，不再只是數據的躍升，\n而是實質影響全球格局的核心力量。",
-      "last_updated": "2026-11-19T09:30:15.917173+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050274638?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/4dyzCE",
-          "raw_url": "https://readmoo.com/book/210399990000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.0,
-          "count": 31,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4756923097/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.13,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "北台灣步道攻略完全制霸",
-      "author": "吳俊緯．蒙金蘭．墨刻編輯部",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9789862897003",
-      "cover_url": "https://cdn.readmoo.com/cover/h8/bnedo9k_460x580.jpg?v=1652168605",
-      "publish_date": "2022/04/26",
-      "date": "11/20",
-      "readmoo_url": "https://readmoo.com/book/210228200000101",
-      "daily_price": 99,
-      "daily_price_reg": 336,
-      "daily_discount_label": "",
-      "description": "踏上步道，呼吸新鮮空氣、感受大自然的洗禮吧！北台灣完整步道，內含台北大縱走全收錄！",
-      "last_updated": "2026-11-19T09:30:15.917173+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050131488?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/diszGX",
-          "raw_url": "https://readmoo.com/book/210228200000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "惡童三部曲（I）大筆記本【演員林予晞親聲朗讀有聲書】",
-      "author": "雅歌塔．克里斯多夫、Agota Kristof",
-      "original_title": "La Trilogie des jumeaux I : Le grand cahier",
-      "original_author": null,
-      "isbn": "9786267440636",
-      "cover_url": "https://cdn.readmoo.com/cover/qn/gztmvrr_460x580.jpg?v=1737077904",
-      "publish_date": "2024/12/25",
-      "date": "11/21",
-      "readmoo_url": "https://readmoo.com/book/290366958000101",
-      "daily_price": 149,
-      "daily_price_reg": 550,
-      "daily_discount_label": "",
-      "description": "神父看著我們，他問：「你們想要讀哪一類的書？」\n「歷史書和地理書。",
-      "last_updated": "2026-11-19T09:30:15.917173+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070005482?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 15,
-          "url": "https://moo.im/a/04knIJ",
-          "raw_url": "https://readmoo.com/book/290366958000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.2,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "重訓前的肌肉常識",
-      "author": "費雪曼",
-      "original_title": "",
-      "original_author": "Fisherman",
-      "isbn": "9789861797380",
-      "cover_url": "https://cdn.readmoo.com/cover/79/6114h8e_460x580.jpg?v=1657771322",
-      "publish_date": null,
-      "date": "11/22",
-      "readmoo_url": "https://readmoo.com/book/210234577000101",
-      "daily_price": 99,
-      "daily_price_reg": 266,
-      "daily_discount_label": "",
-      "description": "練出來的肌肉，是最強的抗老術，也是一輩子的財產。超過13萬Twitter追蹤的健身傳教士費雪曼寫給健身小白的第一本運動筆記\n對於「重訓」，很多人充滿誤解跟一知半解：\n以為是年輕人才需要，上了年紀，老大不小了，還有必要練嗎？",
-      "last_updated": "2026-11-19T09:30:15.917173+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050135396?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 28,
-          "url": "https://moo.im/a/3huwOP",
-          "raw_url": "https://readmoo.com/book/210234577000101"
-        },
-        "goodreads": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/121779307",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0B4S8G57P/ref=x_gr_bb_kindle",
-          "confidence": 45,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.amazon.com/-/zh_TW/%E8%B2%BB%E9%9B%AA%E6%9B%BC-Fisherman-ebook/dp/B0B4S8G57P/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.21,
-      "short_affiliate_url": ""
-    },
     {
       "title": "別再當「背多分」！東大教授親授，深化思考的最強自學法",
       "author": "柳川範之",
@@ -214,9 +14,9 @@
       "readmoo_url": "https://readmoo.com/book/210412277000101",
       "daily_price": 99,
       "daily_price_reg": 266,
-      "daily_discount_label": "",
+      "daily_discount_label": "26折",
       "description": "你是否曾對學習感到無力、疲憊，\n甚至懷疑自己根本不適合讀書？問題其實出在從來沒人教你「怎麼學」。",
-      "last_updated": "2026-11-19T09:30:15.917173+08:00",
+      "last_updated": "2026-11-23T13:06:38.386801+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -238,14 +38,14 @@
           "score": 3.6,
           "count": 5,
           "url": "https://www.goodreads.com/book/show/24908342",
-          "note": "title+author",
+          "note": "re-fetch",
           "amazon_url": "https://www.amazon.com/gp/product/B00R2X26W8/ref=x_gr_bb_amazon",
-          "confidence": 65,
+          "confidence": 80,
           "cross_validated": false
         },
         "amazon_com": {
           "score": 4.1,
-          "count": 661,
+          "count": 662,
           "url": "https://www.amazon.co.jp/-/zh/dp/4794223072/ref=sr_1_1"
         }
       },
@@ -266,7 +66,7 @@
       "daily_price_reg": 245,
       "daily_discount_label": "",
       "description": "讓人眼花撩亂、五花八門的各種起司\n究竟應該怎麼選？怎麼搭？",
-      "last_updated": "2026-11-19T09:30:15.917173+08:00",
+      "last_updated": "2026-11-23T13:06:38.386801+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -316,7 +116,7 @@
       "daily_price_reg": 450,
       "daily_discount_label": "",
       "description": "**蒙格睽違18年唯一授權著作\n用思想的力量帶你領略投資哲學，擁有看遍人生的智慧\n查理．蒙格是巴菲特的傳奇合夥人，他們合作無間，\n共同打造波克夏投資傳奇。巴菲特曾說：\n蒙格讓他從猩猩變人類，如果不是蒙格，他會比現在窮得多。",
-      "last_updated": "2026-11-19T09:42:48.276014+08:00",
+      "last_updated": "2026-11-23T13:14:58.381785+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -350,6 +150,206 @@
         }
       },
       "avg_score": 4.32,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "我的爸媽離婚了",
+      "author": "波琳．奧德",
+      "original_title": "Als je papa en mama gescheiden zijn",
+      "original_author": "Pauline Oud",
+      "isbn": "9786267038185",
+      "cover_url": "https://cdn.readmoo.com/cover/bc/ab5gk7f_460x580.jpg?v=1729740268",
+      "publish_date": "2022/03/29",
+      "date": "11/26",
+      "readmoo_url": "https://readmoo.com/book/210353252000101",
+      "daily_price": 99,
+      "daily_price_reg": 290,
+      "daily_discount_label": "",
+      "description": "當爸媽離婚了，\n你有很多新的事物需要適應，\n你可能會覺得有點傷心、生氣或不舒服。想念你的舊家、你的朋友、老師，\n想念和爸爸媽媽住在一起的時光。",
+      "last_updated": "2026-11-23T13:06:38.386801+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050238240?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/5eiBLX",
+          "raw_url": "https://readmoo.com/book/210353252000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "小公務員之死",
+      "author": "安東．巴甫洛維奇．契訶夫",
+      "original_title": "",
+      "original_author": "Антон Павлович Чехов",
+      "isbn": "9786264197625",
+      "cover_url": "https://cdn.readmoo.com/cover/lg/omkfqdb_460x580.jpg?v=1758785571",
+      "publish_date": "2025/09/09",
+      "date": "11/27",
+      "readmoo_url": "https://readmoo.com/book/210412585000101",
+      "daily_price": 99,
+      "daily_price_reg": 280,
+      "daily_discount_label": "",
+      "description": "與法國的莫泊桑和美國的歐．亨利並稱為世界短篇小說三傑的契訶夫，是海明威、托爾斯泰、毛姆、蕭伯納等文學大師齊聲讚譽的大師。他的作品致力於展現變化世事中的恆常人性，憂傷、孤獨、荒誕和無奈，以及對命運起伏的無法掌控……其作品屢次獲獎，經久不衰，入選多國語文教材，並被譯成各種文字。",
+      "last_updated": "2026-11-23T13:18:41.160461+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050290523?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.8,
+          "count": 4,
+          "url": "https://moo.im/a/03ouFT",
+          "raw_url": "https://readmoo.com/book/210412585000101"
+        },
+        "goodreads": {
+          "score": 3.75,
+          "count": 3429,
+          "url": "https://www.goodreads.com/book/isbn/9786264197625",
+          "note": "isbn",
+          "amazon_url": "https://www.amazon.com/gp/product/B00KHS25U8/ref=x_gr_bb_kindle",
+          "confidence": 50,
+          "cross_validated": false
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.12,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "惡童三部曲（Ⅱ）證據【演員鍾瑶親聲朗讀有聲書】",
+      "author": "雅歌塔．克里斯多夫、Agota Kristof",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267440650",
+      "cover_url": "https://cdn.readmoo.com/cover/bg/d6hikie_460x580.jpg?v=1739350431",
+      "publish_date": "2025/01/19",
+      "date": "11/28",
+      "readmoo_url": "https://readmoo.com/book/290370980000101",
+      "daily_price": 149,
+      "daily_price_reg": 550,
+      "daily_discount_label": "",
+      "description": "「我得留著這些筆記本，為了克洛斯。這些筆記本是寫給克洛斯看的，為了他一個人。",
+      "last_updated": "2026-11-23T13:06:38.386801+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E070005790?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 7,
+          "url": "https://moo.im/a/pBILOX",
+          "raw_url": "https://readmoo.com/book/290370980000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "聆聽與表達",
+      "author": "諸富祥彥",
+      "original_title": "プロカウンセラーの こころの声を聞く技術 聞いてもらう技術",
+      "original_author": null,
+      "isbn": "9786267548776",
+      "cover_url": "https://cdn.readmoo.com/cover/ik/qienpjk_460x580.jpg?v=1743385235",
+      "publish_date": "2025/03/31",
+      "date": "11/29",
+      "readmoo_url": "https://readmoo.com/book/210379002000101",
+      "daily_price": 99,
+      "daily_price_reg": 280,
+      "daily_discount_label": "",
+      "description": "你是否曾有以下這樣的經驗……\n當你試圖向親密的人訴說內心感受時，\n卻總覺得對方「聽不進去」，甚至話還沒說完就被打斷？或是在傾聽他人時，無意間讓對方覺得「你根本不懂我」，\n導致關係愈來愈疏遠？",
+      "last_updated": "2026-11-23T13:06:38.386801+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050256291?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 1,
+          "url": "https://moo.im/a/dsDGYZ",
+          "raw_url": "https://readmoo.com/book/210379002000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 57,
+          "url": "https://www.amazon.co.jp/-/zh/dp/B0CR1983BM/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.15,
       "short_affiliate_url": ""
     }
   ]
