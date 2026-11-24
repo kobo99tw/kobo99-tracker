@@ -159,6 +159,28 @@ header{background:var(--ink);color:#fff;padding:1.75rem 1.5rem 1.5rem;text-align
 .promo-modal-box{background:#fff;border-radius:14px;padding:1.5rem 1.75rem;width:420px;max-width:92vw;max-height:80vh;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.2)}
 .promo-modal-title{font-size:.95rem;font-weight:700;color:#7C2D12;margin-bottom:.9rem}
 .promo-modal-body{font-size:.84rem;color:#44403C;line-height:1.85;white-space:pre-wrap;overflow-wrap:break-word}
+/* 說明視窗的「簡單排版模式」（說明文字第一行寫 @fmt 才啟用；沒寫的橫幅完全不受影響） */
+.pm{white-space:normal;word-break:normal;line-height:1.75}
+.pm-h2{font-weight:700;color:#7C2D12;font-size:.9rem;margin:1.05rem 0 .3rem;padding-bottom:.15rem;border-bottom:1px solid #E7E5E4}
+.pm-h2:first-child{margin-top:0}
+.pm-h3{font-weight:700;color:#44403C;margin:.7rem 0 .15rem}
+.pm-p{margin:.2rem 0}
+.pm-li{display:flex;gap:.4em;margin:.15rem 0}
+.pm-li .pm-b{flex:0 0 1.35em;text-align:right}
+.pm-sub{margin-left:1.6em}
+.pm-cont{margin-top:0}
+.pm-li + .pm-p{margin-top:.7rem}
+.pm-tbl{border-collapse:collapse;margin:.3rem 0;width:100%}
+.pm-tbl th,.pm-tbl td{padding:.28rem .45rem;border-bottom:1px solid #E7E5E4;text-align:right;white-space:nowrap}
+.pm-tbl th{font-weight:700;color:#44403C;background:#FAF5F0}
+.pm>.pm-p:last-child{margin-top:.9rem;font-size:.78rem;color:#78716C}
+/* 橫幅主題（選用）：site.json 的 promoTheme／promo2Theme／promo3Theme 填 blackfriday 才套用；沒填＝各橫幅位原本的顏色 */
+div[id^="promoBar"].promo-theme-blackfriday{background:#26211C !important;color:#FDE68A !important;border-top:2px solid #FBBF24;border-bottom:2px solid #FBBF24}
+.promo-theme-blackfriday .promo-link,.promo-theme-blackfriday .promo-btn{color:#26211C !important;background:#FBBF24 !important}
+.promo-theme-blackfriday .promo-link:hover,.promo-theme-blackfriday .promo-btn:hover{background:#FCD34D !important}
+.promo-theme-blackfriday>button[id$="Close"]{color:rgba(253,230,138,.8) !important}
+.promo-modal-box.promo-theme-blackfriday .promo-modal-title,.promo-modal-box.promo-theme-blackfriday .pm-h2{color:#92400E}
+.promo-modal-box.promo-theme-blackfriday .promo-modal-close{background:#26211C !important;color:#FDE68A !important;background-image:none}
 .promo-modal-close{display:block;margin-top:1.2rem;margin-left:auto;background:#7C2D12;color:#FED7AA;border:none;border-radius:8px;padding:.42rem 1.2rem;font-size:.85rem;font-weight:600;cursor:pointer}
 .promo-modal-close:hover{background:#6B2010}
 
@@ -552,10 +574,39 @@ const todayVal = dateVal(todayMD);
 function openCalModal()  { document.getElementById('calModal').classList.add('open'); }
 function toggleHkTip()   { document.getElementById('hkTip').classList.toggle('open'); }
 function autolinkText(txt) {
+  if (/^@fmt\r?\n/.test(txt)) return fmtPromo(txt);   // 選用的簡單排版模式；沒有 @fmt 的舊說明文字走下面原本的做法
   const esc = txt.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   return esc.replace(/https?:\/\/\S+/g, u =>
     `<a href="${u}" target="_blank" rel="noopener" style="color:#1E3A5F;word-break:break-all">${u}</a>`
   ).replace(/\n/g,'<br>');
+}
+// 簡單排版：「## 標題」「### 小標」「- 項目」「  - 子項目」「1. 步驟」「| 表格列 |」、空行、其餘為段落；一律先跳脫 < > &，不會放進任何 HTML
+function fmtPromo(src) {
+  const E = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const L = s => E(s).replace(/https?:\/\/\S+/g, u =>
+    `<a href="${u}" target="_blank" rel="noopener" style="color:#1E3A5F;word-break:break-all">${u}</a>`);
+  let out = '', tbl = null;
+  const flush = () => { if (tbl) { out += '<table class="pm-tbl">' + tbl.join('') + '</table>'; tbl = null; } };
+  for (const raw of src.split(/\r?\n/).slice(1)) {
+    const ln = raw.replace(/\s+$/, '');
+    let m;
+    if (!ln.trim()) { flush(); continue; }
+    if ((m = /^\|(.+)\|$/.exec(ln))) {
+      const first = !tbl; tbl = tbl || [];
+      tbl.push('<tr>' + m[1].split('|').map(c => first ? `<th>${E(c.trim())}</th>` : `<td>${E(c.trim())}</td>`).join('') + '</tr>');
+      continue;
+    }
+    flush();
+    if ((m = /^### (.+)$/.exec(ln))) out += `<div class="pm-h3">${L(m[1])}</div>`;
+    else if ((m = /^## (.+)$/.exec(ln))) out += `<div class="pm-h2">${L(m[1])}</div>`;
+    else if ((m = /^ {2}- (.+)$/.exec(ln))) out += `<div class="pm-li pm-sub"><span class="pm-b">•</span><span>${L(m[1])}</span></div>`;
+    else if ((m = /^- (.+)$/.exec(ln))) out += `<div class="pm-li"><span class="pm-b">•</span><span>${L(m[1])}</span></div>`;
+    else if ((m = /^(\d+)\. (.+)$/.exec(ln))) out += `<div class="pm-li"><span class="pm-b">${m[1]}.</span><span>${L(m[2])}</span></div>`;
+    else if ((m = /^ {4}(.+)$/.exec(ln))) out += `<div class="pm-li pm-cont"><span class="pm-b"></span><span>${L(m[1])}</span></div>`;
+    else out += `<div class="pm-p">${L(ln)}</div>`;
+  }
+  flush();
+  return `<div class="pm">${out}</div>`;
 }
 function openPromoModal()   { document.getElementById('promoModal').classList.add('open'); }
 function closePromoModal()  { document.getElementById('promoModal').classList.remove('open'); }
@@ -924,6 +975,14 @@ loadData();
         const sp = document.getElementById('salePeriod');
         if (sp) { sp.textContent = cfg.saleLabelOverride; sp.style.display = cfg.saleLabelOverride === '' ? 'none' : ''; }
       }
+      // 橫幅主題（選用）：promoTheme／promo2Theme／promo3Theme 有填就套用 promo-theme-<名稱>（橫幅與說明視窗）
+      [['promoBar','promoModal','promo'],['promoBar2','promoModal2','promo2'],['promoBar3','promoModal3','promo3']].forEach(([b, m, k]) => {
+        const t = cfg[k + 'Theme'];
+        if (!t || !/^[a-z0-9-]+$/i.test(t)) return;
+        const be = document.getElementById(b), me = document.querySelector('#' + m + ' .promo-modal-box');
+        if (be) be.classList.add('promo-theme-' + t);
+        if (me) me.classList.add('promo-theme-' + t);
+      });
       // 促銷公告橫條
       if (cfg.promoVisible !== false && cfg.promoText) {
         const todayStr = new Intl.DateTimeFormat('sv', {timeZone: 'Asia/Taipei'}).format(new Date());
