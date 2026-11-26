@@ -1,263 +1,155 @@
 {
   "year": 2026,
-  "week": 47,
-  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w47",
-  "sale_label": "NT$99 特價：11/19（四）～11/25（三）",
-  "sale_start": "2026-11-19",
-  "sale_end": "2026-11-25",
+  "week": 48,
+  "kobo_url": "https://www.kobo.com/zh/blog/weekly-dd99-2026-w48",
+  "sale_label": "NT$99 特價：11/26（四）～12/2（三）",
+  "sale_start": "2026-11-26",
+  "sale_end": "2026-12-02",
   "on_sale": true,
-  "updated_at": "2026-11-19T12:55:00.620851+08:00",
+  "updated_at": "2026-11-26T09:13:32.326217+08:00",
   "books": [
     {
-      "title": "一位外科醫師的修煉",
-      "author": "葛文德",
-      "original_title": "ComplicationsA Surgeon's Notes on an Imperfect Science",
-      "isbn": "6699863208389",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/F-GGm9yiTDKhhMQqIzLP-w?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$285",
-      "cover_url": "covers/F-GGm9yiTDKhhMQqIzLP-w.jpg",
+      "title": "正念自律：在讓人分心的時代，專注於長期目標，連結內在力量提升自我實現，活出生命的意義",
+      "author": "喬瓦尼．迪恩斯特曼",
+      "original_title": "Mindful Self-Discipline: Living with Purpose and Achieving Your Goals in a World of Distractions",
+      "isbn": "9786267520949",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/u6Uqg32iMDmNONPP7hOF1A?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$99",
+      "cover_url": "covers/u6Uqg32iMDmNONPP7hOF1A.jpg",
       "sale_price": "NT$99",
-      "date": "11/19",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
+      "date": "11/26",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
       "on_sale": true,
-      "publisher": "天下文化",
-      "publish_date": "2015年9月24日",
+      "publisher": "馬可孛羅",
+      "publish_date": "2025年7月1日",
       "language": "中文",
-      "original_author": "Atul Gawande",
-      "description": "外科醫師的書寫風格一向是英雄色彩濃厚的，本書以最低調但犀利的筆法，觸及每一個外科醫師內心最痛處，勇敢面對每一個醫師都可能碰見的噩夢：併發症、醫療糾紛，更多時候是自己面對疾病的無能為力。",
-      "last_updated": "2026-11-19T12:55:00.620851+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/F-GGm9yiTDKhhMQqIzLP-w?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=7&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
-        },
-        "books_com": {
-          "score": 4.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050052527?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 14,
-          "url": "https://moo.im/a/8drsDF",
-          "raw_url": "https://readmoo.com/book/210114729000101"
-        },
-        "goodreads": {
-          "score": 4.28,
-          "count": 53823,
-          "url": "https://www.goodreads.com/book/show/127894197",
-          "note": "title+author",
-          "amazon_url": "",
-          "confidence": 75,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.6,
-          "count": 6026,
-          "url": "https://www.amazon.com/-/zh_TW/Atul-Gawande-ebook/dp/B003L1ZZFU/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.27,
-      "short_affiliate_url": "https://reurl.cc/902938"
-    },
-    {
-      "title": "論點思考：找到問題的源頭，才能解決正確的問題",
-      "author": "內田和成",
-      "original_title": "論点思考 BCG流 問題設定の技術  The BCG Way: The Art of Focusing on the Central Issue",
-      "isbn": "9789860611687",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/pW8TCl4BJzuydjymKrwloQ?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$270",
-      "cover_url": "covers/pW8TCl4BJzuydjymKrwloQ.jpg",
-      "sale_price": "NT$99",
-      "date": "11/20",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
-      "on_sale": true,
-      "publisher": "經濟新潮社",
-      "publish_date": "2014年4月3日",
-      "language": "中文",
-      "original_author": null,
-      "description": "論點思考，就是找對真正問題的過程。只要找對了問題、設定正確論點，就已經成功了一半。本書公開一直以來存放在管理顧問腦中的內隱知識，說明如何設定論點、聚焦於真正問題，帶您提振實力，提升工作的成效。",
-      "last_updated": "2026-11-19T12:55:00.620851+08:00",
+      "original_author": "Giovanni Dienstmann",
+      "description": "全球五大最受歡迎部落格主、冥想教練曁演說家，首部結合正念與自律，告訴你如何內化自律，讓自律成為習慣的完全實用指南。為許多曾經嘗試改變卻屢屢失敗的讀者，提供了一條富含同理、覺察與力量的實踐之路。",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
       "ratings": {
         "kobo": {
           "score": 4.0,
-          "count": 4,
-          "url": "https://www.kobo.com/tw/zh/ebook/pW8TCl4BJzuydjymKrwloQ?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050090278?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.3,
-          "count": 3,
-          "url": "https://moo.im/a/25fCUW",
-          "raw_url": "https://readmoo.com/book/210176949000101"
-        },
-        "goodreads": {
-          "score": 4.17,
-          "count": 6,
-          "url": "https://www.goodreads.com/book/show/30626537",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/9866031497/ref=x_gr_bb_amazon",
-          "confidence": 50,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.4,
-          "count": 1267,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4492556559/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": "https://reurl.cc/nxeMv8"
-    },
-    {
-      "title": "铁马秋风集：企业如何向军队学打胜仗",
-      "author": "宫玉振",
-      "original_title": "",
-      "isbn": "7553521736229",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/Oyh8j_L5zjO7lKmrOglFGg?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$265",
-      "cover_url": "covers/Oyh8j_L5zjO7lKmrOglFGg.jpg",
-      "sale_price": "NT$99",
-      "date": "11/20",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
-      "on_sale": true,
-      "publisher": "中信出版集团股份有限公司",
-      "publish_date": "2021年12月1日",
-      "language": "中文",
-      "original_author": null,
-      "description": "這本書是《善戰者說》之後，宮玉振教授又一部關於管理者如何向戰爭學習的力作。從戰爭視角如何理解競爭中的取勝之道，以及諸多企業家、管理者就軍事與管理的探討，如何從中感悟競爭之道，提供更多啟發。",
-      "last_updated": "2026-11-19T12:55:00.620851+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/Oyh8j_L5zjO7lKmrOglFGg?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=8&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/CN11743996?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 4.0,
           "count": 1,
-          "url": "https://www.goodreads.com/book/show/115747869",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B09SHMQ4T3/ref=x_gr_bb_amazon",
-          "confidence": 30,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.21,
-      "short_affiliate_url": "https://reurl.cc/zOxkDV"
-    },
-    {
-      "title": "都柏林人",
-      "author": "喬伊斯",
-      "original_title": "Dubliners",
-      "isbn": "3179570856262",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/cE5CQeH2xzmDj5MwgDZlyA?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$247",
-      "cover_url": "covers/cE5CQeH2xzmDj5MwgDZlyA.jpg",
-      "sale_price": "NT$99",
-      "date": "11/21",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
-      "on_sale": true,
-      "publisher": "聯經出版",
-      "publish_date": "2020年10月15日",
-      "language": "中文",
-      "original_author": "James Joyce",
-      "description": "二十世紀百大小說，認識二十世紀愛爾蘭文學大師，喬伊斯最佳途徑。喬伊斯筆下的生命是一場困局，愛爾蘭的經驗提供我們一個自我觀照與省思的機會。透過批判性的閱讀，引導我們在生命困局的掙扎中增長智慧。",
-      "last_updated": "2026-11-19T12:55:00.620851+08:00",
-      "ratings": {
-        "kobo": {
-          "score": 3.0,
-          "count": 2,
-          "url": "https://www.kobo.com/tw/zh/ebook/cE5CQeH2xzmDj5MwgDZlyA?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=5&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
+          "url": "https://www.kobo.com/tw/zh/ebook/u6Uqg32iMDmNONPP7hOF1A?utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
         },
         "books_com": {
           "score": 5.0,
           "count": 2,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050121996?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050275482?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.6,
-          "count": 9,
-          "url": "https://moo.im/a/gopIUV",
-          "raw_url": "https://readmoo.com/book/210215925000101"
+          "score": 4.7,
+          "count": 6,
+          "url": "https://moo.im/a/6abhrR",
+          "raw_url": "https://readmoo.com/book/210400225000101"
         },
         "goodreads": {
-          "score": 3.83,
-          "count": 188109,
-          "url": "https://www.goodreads.com/book/show/37151111",
-          "note": "title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B01JDOS4SS/ref=x_gr_bb_kindle",
-          "confidence": 90,
+          "score": 4.29,
+          "count": 327,
+          "url": "https://www.goodreads.com/book/show/58040483",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B094XBY8HR/ref=x_gr_bb_kindle",
+          "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.2,
-          "count": 5087,
-          "url": "https://www.amazon.com/gp/product/B01JDOS4SS/ref=x_gr_bb_kindle"
+          "score": 4.7,
+          "count": 665,
+          "url": "https://www.amazon.com/gp/product/B094XBY8HR/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.08,
-      "short_affiliate_url": "https://reurl.cc/xen8v5"
+      "avg_score": 4.26,
+      "short_affiliate_url": "https://reurl.cc/be1gX3"
     },
     {
-      "title": "天賦覺醒：超強MBTI致勝法則，全方位開啟改變的原動力",
-      "author": "李亮",
-      "original_title": "",
-      "isbn": "9786269865895",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/mbti-mbti-2?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$315",
-      "cover_url": "covers/mbti-mbti-2.jpg",
+      "title": "當上主管，難道只能被討厭？：執行長教練教你兼顧績效與人氣的帶人技術",
+      "author": "莎賓娜．納瓦茲",
+      "original_title": "You're the Boss: Become the Manager You Want to Be (and Others Need)",
+      "isbn": "9786264195669",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/aiDOoNIbkzK2fAPC0znyzw?sId=12f6c8aa-99af-4be5-b7cd-7e1df8c1da5d&ssId=12FNz035doR65YMrK4zIK&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/aiDOoNIbkzK2fAPC0znyzw.jpg",
       "sale_price": "NT$99",
-      "date": "11/22",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
+      "date": "11/27",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
       "on_sale": true,
-      "publisher": "明白文化",
-      "publish_date": "2025年3月5日",
+      "publisher": "時報出版",
+      "publish_date": "2025年7月18日",
+      "language": "中文",
+      "original_author": "Sabina Nawaz",
+      "description": "領導不是一場權力遊戲，而是一種讓他人發光的能力。破除匱乏心態，培養豐盛心態，你不需要永遠比團隊出色，讓部屬因你發光，你因他們而提升。鍛鍊微習慣，修復溝通斷層，將每一次對話變成連結的契機。",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
+      "ratings": {
+        "kobo": {
+          "score": 4.6,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/aiDOoNIbkzK2fAPC0znyzw?sId=12f6c8aa-99af-4be5-b7cd-7e1df8c1da5d&ssId=12FNz035doR65YMrK4zIK&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
+        },
+        "books_com": {
+          "score": 4.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050276102?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.0,
+          "count": 4,
+          "url": "https://moo.im/a/7htzDT",
+          "raw_url": "https://readmoo.com/book/210400949000101"
+        },
+        "goodreads": {
+          "score": 4.3,
+          "count": 135,
+          "url": "https://www.goodreads.com/book/show/211222737",
+          "note": "author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DBPHCR6L/ref=x_gr_bb_kindle",
+          "confidence": 70,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.9,
+          "count": 141,
+          "url": "https://www.amazon.com/gp/product/B0DBPHCR6L/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/4Y2OaL"
+    },
+    {
+      "title": "自行车的诞生：从手稿到环球利器",
+      "author": "上海汽车博物馆",
+      "original_title": "",
+      "isbn": "7546208175051",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/zRQhO0_BFjq7O_ReFCVD0g?sId=6dd73ca6-29c9-49c7-8702-22473692918c&ssId=UjoFMOPwo0Da9aObZ_gOK&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$487",
+      "cover_url": "covers/zRQhO0_BFjq7O_ReFCVD0g.jpg",
+      "sale_price": "NT$99",
+      "date": "11/27",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
+      "on_sale": true,
+      "publisher": "上海人民出版社",
+      "publish_date": "2022年9月1日",
       "language": "中文",
       "original_author": null,
-      "description": "怎麼樣才能忠於自我，又開啟改變的原動力？唯有讓天賦覺醒，從思維改變個性，用策略認知他人。360度掌握致勝的秘技。破解人生四大迷惘，全方位完善你的思維模式。幫助你重啟認知，設定致勝的即戰力。",
-      "last_updated": "2026-11-19T13:06:09.840290+08:00",
+      "description": "這是人類第一次擁有一種不依靠畜力，以最小的代價即可拓展自由交通半徑的工具。用四百年時間打造出這精美機械，每個時代的設計與工藝大神們都為它的完整奉獻一份力量，直至20世紀初完成了現代化的版本。",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/mbti-mbti-2?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
+          "url": "https://www.kobo.com/tw/zh/ebook/zRQhO0_BFjq7O_ReFCVD0g?sId=6dd73ca6-29c9-49c7-8702-22473692918c&ssId=UjoFMOPwo0Da9aObZ_gOK&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
         },
         "books_com": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050253141?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050181345?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/05wzBE",
-          "raw_url": "https://readmoo.com/book/210374233000101"
+          "url": ""
         },
         "goodreads": {
           "score": null,
@@ -271,172 +163,281 @@
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/-/zh_TW/%E4%B8%8A%E6%B5%B7%E6%B1%BD%E8%BD%A6%E5%8D%9A%E7%89%A9%E9%A6%86%E7%BC%96%E8%91%97-ebook/dp/B0DJ8L9CQ6/ref=sr_1_1"
         }
       },
-      "avg_score": 4.19,
-      "short_affiliate_url": "https://reurl.cc/mzEQyV"
+      "avg_score": null,
+      "short_affiliate_url": "https://reurl.cc/EYOynm"
     },
     {
-      "title": "50堂經典哲學思維課：讓你的思想更有趣，找回自己想過的人生",
-      "author": "郁喆雋",
-      "original_title": "",
-      "isbn": "9786263612419",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/_cPcqI1SBj-WbSRs33bhmA?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$356",
-      "cover_url": "covers/_cPcqI1SBj-WbSRs33bhmA.jpg",
+      "title": "霧迷宮（韓國恐怖小說大師最新力作，猶如《魷魚遊戲",
+      "author": "全建宇",
+      "original_title": "A misty labyrinth",
+      "isbn": "9786267436851",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/vDx2Rhc1Rj61sCOKUpsivw?sId=914490af-3be7-4e29-b4d7-4433cc099233&ssId=a5xdMqYZF7EhvnMolkrw3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$338",
+      "cover_url": "covers/vDx2Rhc1Rj61sCOKUpsivw.jpg",
       "sale_price": "NT$99",
-      "date": "11/23",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
+      "date": "11/28",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
       "on_sale": true,
-      "publisher": "",
-      "publish_date": "2023年9月1日",
+      "publisher": "奇幻基地",
+      "publish_date": "2025年4月24日",
       "language": "中文",
-      "original_author": null,
-      "description": "50堂質疑常態、探索本真、趣味盎然的思維訓練課。學習哲學，不是為了獲得一個唯一的答案，而是學會思維的方式，讓你勇於做出決定，明白自己想要什麼，應該如何直面人生，指引你向人類思維的邊界不斷探索。",
-      "last_updated": "2026-11-19T12:55:00.620851+08:00",
+      "original_author": "전건우",
+      "description": "被迫抓進《魷魚遊戲》般的驚悚關卡，你會是最後的生還者嗎？韓國恐怖小說大師全建宇，以「無意識轉移」這個新奇的題材，將魔幻寫實成分帶入懸疑推理文學中，燒腦、反轉直到最後一刻，結局超乎想像！",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/_cPcqI1SBj-WbSRs33bhmA?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=6&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
+          "url": "https://www.kobo.com/tw/zh/ebook/vDx2Rhc1Rj61sCOKUpsivw?sId=914490af-3be7-4e29-b4d7-4433cc099233&ssId=a5xdMqYZF7EhvnMolkrw3&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
         },
         "books_com": {
           "score": null,
           "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050178021?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050266030?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.0,
-          "count": 3,
-          "url": "https://moo.im/a/5tBOPZ",
-          "raw_url": "https://readmoo.com/book/210288702000101"
+          "score": 3.5,
+          "count": 11,
+          "url": "https://moo.im/a/fjkuwI",
+          "raw_url": "https://readmoo.com/book/210384006000101"
         },
         "goodreads": {
-          "score": 5.0,
+          "score": 2.75,
           "count": 1,
-          "url": "https://www.goodreads.com/book/show/205596441",
-          "note": "zh-title+author",
-          "amazon_url": "https://www.amazon.com/gp/product/B0CSSRMRXW/ref=x_gr_bb_amazon",
-          "confidence": 30,
+          "url": "https://www.goodreads.com/book/show/241166819",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0FPQ3PWHQ/ref=x_gr_bb_amazon",
+          "confidence": 25,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.amazon.com/-/zh_TW/Geon-Woo-Jeon/dp/B0FPQ3PWHQ/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.15,
+      "short_affiliate_url": "https://reurl.cc/OQxg0D"
+    },
+    {
+      "title": "費瑪最後定理：尋找數學的聖杯",
+      "author": "賽門‧辛",
+      "original_title": "Fermat’s Last Theorem",
+      "isbn": "9789570536614",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/7G15KPiSPDaGX8ZpWy0Kkg?sId=7201bbee-a66e-442d-bef6-4f1b9a12a98d&ssId=9SzdHxb0h0q8-fHyjt5MF&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$360",
+      "cover_url": "covers/7G15KPiSPDaGX8ZpWy0Kkg.jpg",
+      "sale_price": "NT$99",
+      "date": "11/29",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
+      "on_sale": true,
+      "publisher": "臺灣商務印書館",
+      "publish_date": "2025年8月1日",
+      "language": "中文",
+      "original_author": "Simon Singh",
+      "description": "語言文字會消亡，而數學概念卻不會，證明是數學的核心，數學不僅是計算，更是一場場思考與邏輯的遊戲，破解費瑪提出的數學難題，經過三個世紀的挑戰，終於得到證明，數學是一場人類精神與想像力的史詩級探險。",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/7G15KPiSPDaGX8ZpWy0Kkg?sId=7201bbee-a66e-442d-bef6-4f1b9a12a98d&ssId=9SzdHxb0h0q8-fHyjt5MF&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050287019?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 5.0,
+          "count": 4,
+          "url": "https://moo.im/a/bfgNRX",
+          "raw_url": "https://readmoo.com/book/210405344000101"
+        },
+        "goodreads": {
+          "score": 4.49,
+          "count": 37,
+          "url": "https://www.goodreads.com/book/show/241374508",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/1857029216/ref=x_gr_bb_amazon",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.5,
+          "count": 1567,
+          "url": "https://www.amazon.com/gp/product/1857029216/ref=x_gr_bb_amazon"
+        }
+      },
+      "avg_score": 4.25,
+      "short_affiliate_url": "https://reurl.cc/QN8g9O"
+    },
+    {
+      "title": "熵減法則：減去人生雜訊，從無序變有序，成為「最好版本的自己」",
+      "author": "何聖君",
+      "original_title": "Law of Entropy Reduction",
+      "isbn": "9786267240885",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FMH1rqOqcjqwJ71fQEtLrA?sId=101e921e-59b3-4c80-8e95-f898e9da94ad&ssId=1CXC7U85BFZWpudevuvLC&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$294",
+      "cover_url": "covers/FMH1rqOqcjqwJ71fQEtLrA.jpg",
+      "sale_price": "NT$99",
+      "date": "11/30",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
+      "on_sale": true,
+      "publisher": "堡壘文化",
+      "publish_date": "2023年8月16日",
+      "language": "中文",
+      "original_author": null,
+      "description": "找尋人生方向，熵減法則有解，六大熵減法則，脫離困頓生活的有效策略。混亂一旦開始了，就無法回頭，如同你的人生。本書一步一步帶領你重拾自我意識、設定人生目標，逆著衰敗而行，成為最好版本的自己。",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
+      "ratings": {
+        "kobo": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.kobo.com/tw/zh/ebook/FMH1rqOqcjqwJ71fQEtLrA?sId=101e921e-59b3-4c80-8e95-f898e9da94ad&ssId=1CXC7U85BFZWpudevuvLC&cPos=1&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
+        },
+        "books_com": {
+          "score": 4.5,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050177904?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 12,
+          "url": "https://moo.im/a/06hkKL",
+          "raw_url": "https://readmoo.com/book/210285561000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
           "cross_validated": null
         },
         "amazon_com": {
           "score": null,
           "count": 0,
-          "url": ""
+          "url": "https://www.amazon.com/%E7%86%B5%E6%B8%9B%E6%B3%95%E5%89%87-%E6%B8%9B%E5%8E%BB%E4%BA%BA%E7%94%9F%E9%9B%9C%E8%A8%8A%EF%BC%8C%E5%BE%9E%E7%84%A1%E5%BA%8F%E8%AE%8A%E6%9C%89%E5%BA%8F%EF%BC%8C%E6%88%90%E7%82%BA%E3%80%8C%E6%9C%80%E5%A5%BD%E7%89%88%E6%9C%AC%E7%9A%84%E8%87%AA%E5%B7%B1%E3%80%8D-Traditional-Chinese-%E4%BD%95%E8%81%96%E5%90%9B-ebook/dp/B0CGTT21TY/ref=sr_1_1"
         }
       },
-      "avg_score": 4.18,
-      "short_affiliate_url": "https://reurl.cc/8YdVXd"
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/MWngAL"
     },
     {
-      "title": "格雷的五十道陰影I：調教",
-      "author": "E L詹姆絲",
-      "original_title": "FIFTY SHADES OF GREY",
-      "isbn": "3119865922023",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/i-150?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$266",
-      "cover_url": "covers/i-150.jpg",
+      "title": "沉睡的殺手：全球暢銷榜TOP 1《安眠書店",
+      "author": "馬修．布萊克",
+      "original_title": "Anna O",
+      "isbn": "9786264310505",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/top-1-netflix-40?sId=acaad201-c5aa-4b73-a2b3-51fcc80f0342&ssId=KdrXe6yvIkQUowgy35gnN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$336",
+      "cover_url": "covers/top-1-netflix-40.jpg",
       "sale_price": "NT$99",
-      "date": "11/24",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
+      "date": "12/01",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
       "on_sale": true,
-      "publisher": "春光出版",
-      "publish_date": "2012年8月21日",
+      "publisher": "采實文化",
+      "publish_date": "2025年6月26日",
       "language": "中文",
-      "original_author": null,
-      "description": "最火辣的情愛小說。我不是會付出真心的男人，我的口味非常特別，妳應該和我保持距離。兩人的禁忌世界就此開啟，安娜一腳踏入格雷「支配與臣服」的情慾漩渦，她想當他的救贖，卻不知她的愛是否足以抵擋黑暗。",
-      "last_updated": "2026-11-19T12:55:00.620851+08:00",
+      "original_author": "Matthew Blake",
+      "description": "一本關於睡眠的心理驚悚傑作，絕對讓你捨不得入眠！一名年輕女子似夢遊時，殺了兩個好友，那一夜，究竟發生了什麼？沒有人真的無辜，連醒著的人也不一定清醒，因為最危險的殺手，從來不是醒著的人。",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
       "ratings": {
         "kobo": {
-          "score": 4.5,
-          "count": 6,
-          "url": "https://www.kobo.com/tw/zh/ebook/i-150?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=4&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
+          "score": 3.6,
+          "count": 5,
+          "url": "https://www.kobo.com/tw/zh/ebook/top-1-netflix-40?sId=acaad201-c5aa-4b73-a2b3-51fcc80f0342&ssId=KdrXe6yvIkQUowgy35gnN&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
         },
         "books_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.5,
+          "count": 9,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050271686?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
+          "score": 4.4,
+          "count": 59,
+          "url": "https://moo.im/a/8abEGV",
+          "raw_url": "https://readmoo.com/book/210396014000101"
         },
         "goodreads": {
-          "score": 3.67,
-          "count": 2940036,
-          "url": "https://www.goodreads.com/book/show/58112485",
+          "score": 3.42,
+          "count": 32924,
+          "url": "https://www.goodreads.com/book/show/134221476",
           "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B07X25R1Q9/ref=x_gr_bb_kindle",
+          "amazon_url": "https://www.amazon.com/gp/product/B0C2Q5H3YK/ref=x_gr_bb_kindle",
           "confidence": 55,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 3.3,
-          "count": 6,
-          "url": "https://www.amazon.com/-/zh_TW/L%E8%A9%B9%E5%A7%86%E7%B5%B2-ebook/dp/B07X25R1Q9/ref=sr_1_1"
+          "score": 3.8,
+          "count": 4858,
+          "url": "https://www.amazon.com/gp/product/B0C2Q5H3YK/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.05,
-      "short_affiliate_url": "https://reurl.cc/aE2DdQ"
+      "avg_score": 3.94,
+      "short_affiliate_url": "https://reurl.cc/qaM2gq"
     },
     {
-      "title": "從小致富：教導孩子正確的富人心態、培養正向習慣，帶領他走向富裕人生",
-      "author": "湯姆‧柯利",
-      "original_title": "RICH KIDS",
-      "isbn": "9789863777434",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/QDk-dgOZtT2_d9sxc7Yq4g?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118",
-      "kobo_price": "NT$228",
-      "cover_url": "covers/QDk-dgOZtT2_d9sxc7Yq4g.jpg",
+      "title": "壽命天註定？──揭開生命週期、老化與死亡的關鍵機制",
+      "author": "強納森．席佛頓",
+      "original_title": "The long and the short of it: the science of life span and aging",
+      "isbn": "9789862625842",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/JDf9OSqiUjizsyDFbhqLyQ?sId=d3d5f840-734f-4f17-b8a0-5ae12896f677&ssId=Fl1P5g3Tle6WdHkML-dqW&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126",
+      "kobo_price": "NT$273",
+      "cover_url": "covers/JDf9OSqiUjizsyDFbhqLyQ.jpg",
       "sale_price": "NT$99",
-      "date": "11/25",
-      "sale_start": "2026-11-19",
-      "sale_end": "2026-11-25",
+      "date": "12/02",
+      "sale_start": "2026-11-26",
+      "sale_end": "2026-12-02",
       "on_sale": true,
-      "publisher": "楓書坊",
-      "publish_date": "2021年12月1日",
+      "publisher": "貓頭鷹出版",
+      "publish_date": "2022年11月3日",
       "language": "中文",
-      "original_author": "Tom Corley",
-      "description": "一個與祖父共度的暑假，改變了湯姆的一生，他從未想過小時候紮根的致富習慣，決定他長大後多快迎向財務自由。財務穩定、幸福的人生，可以從小做起。教導孩子成功策略的家長，就是為孩子奠定幸福成功的基礎。",
-      "last_updated": "2026-11-19T12:55:00.620851+08:00",
+      "original_author": "Jonathan Silvertown",
+      "description": "在過去兩百年間，人類壽命似乎不斷延長，如果繼續演化，我們能不能達到長生不老？由演化角度出發，帶您看懂大自然決定生物壽命的四大機制，跟隨席佛頓的步伐進入書中，這些模糊未解的疑問都將獲得解答。",
+      "last_updated": "2026-11-26T09:13:32.326217+08:00",
       "ratings": {
         "kobo": {
           "score": null,
           "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/QDk-dgOZtT2_d9sxc7Yq4g?sId=db34a04b-a1ad-4267-885b-cc553dfaccb1&ssId=ZnZD0f2IvXhbyWY5fHa-a&cPos=2&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261118"
+          "url": "https://www.kobo.com/tw/zh/ebook/JDf9OSqiUjizsyDFbhqLyQ?sId=d3d5f840-734f-4f17-b8a0-5ae12896f677&ssId=Fl1P5g3Tle6WdHkML-dqW&utm_source=twblog&utm_medium=99list&utm_campaign=coin99_20261126"
         },
         "books_com": {
-          "score": 4.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050115522?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050146808?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 4.5,
-          "count": 8,
-          "url": "https://moo.im/a/17enDF",
-          "raw_url": "https://readmoo.com/book/210208062000101"
+          "score": 4.1,
+          "count": 7,
+          "url": "https://moo.im/a/03gnHO",
+          "raw_url": "https://readmoo.com/book/210253925000101"
         },
         "goodreads": {
-          "score": 4.22,
-          "count": 166,
-          "url": "https://www.goodreads.com/book/show/23183759",
-          "note": "title",
-          "amazon_url": "https://www.amazon.com/gp/product/B00NF3ZZJA/ref=x_gr_bb_kindle",
-          "confidence": 55,
+          "score": 3.36,
+          "count": 232,
+          "url": "https://www.goodreads.com/book/show/132905725",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B00GE4MJSM/ref=x_gr_bb_kindle",
+          "confidence": 90,
           "cross_validated": true
         },
         "amazon_com": {
-          "score": 4.7,
-          "count": 299,
-          "url": "https://www.amazon.com/-/zh_TW/Tom-Corley-ebook/dp/B00NF3ZZJA/ref=sr_1_1"
+          "score": 4.2,
+          "count": 36,
+          "url": "https://www.amazon.com/gp/product/B00GE4MJSM/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.24,
-      "short_affiliate_url": "https://reurl.cc/k9DWyG"
+      "avg_score": 4.01,
+      "short_affiliate_url": "https://reurl.cc/GgMvmy"
     }
   ]
 }

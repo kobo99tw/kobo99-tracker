@@ -7,87 +7,88 @@ X-WR-CALNAME:Kobo 每週 99 特價書單
 X-WR-CALDESC:每週 Kobo 99 元電子書特價
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:《一位外科醫師的修煉》
-DESCRIPTION:特價 NT$99｜原價 NT$285｜4.3分\nhttps://reurl.cc/902938\
- n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/902938
-UID:kobo99-2026-w47-01@kobo99-tracker
-DTSTAMP:20261119T051917Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:《正念自律：在讓人分心的時代，專注於長期目標
+ ，連結內在力量提升自我實現，活出生命的意義》
+DESCRIPTION:特價 NT$99｜原價 NT$99｜4.3分\nhttps://reurl.cc/be1gX3\n
+ 查看當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/be1gX3
+UID:kobo99-2026-w48-01@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:《論點思考：找到問題的源頭，才能解決正確的問
- 題》
-DESCRIPTION:特價 NT$99｜原價 NT$270｜4.2分\nhttps://reurl.cc/nxeMv8\
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:《當上主管，難道只能被討厭？：執行長教練教你
+ 兼顧績效與人氣的帶人技術》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜4.2分\nhttps://reurl.cc/4Y2OaL\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/nxeMv8
-UID:kobo99-2026-w47-02@kobo99-tracker
-DTSTAMP:20261119T051917Z
+URL:https://reurl.cc/4Y2OaL
+UID:kobo99-2026-w48-02@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:《铁马秋风集：企业如何向军队学打胜仗》
-DESCRIPTION:特價 NT$99｜原價 NT$265｜4.2分\nhttps://reurl.cc/zOxkDV\
- n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/zOxkDV
-UID:kobo99-2026-w47-03@kobo99-tracker
-DTSTAMP:20261119T051917Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:《自行车的诞生：从手稿到环球利器》
+DESCRIPTION:特價 NT$99｜原價 NT$487\nhttps://reurl.cc/EYOynm\n查看
+ 當週各書評價: https://kobo99.com/
+URL:https://reurl.cc/EYOynm
+UID:kobo99-2026-w48-03@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:《都柏林人》
-DESCRIPTION:特價 NT$99｜原價 NT$247｜4.1分\nhttps://reurl.cc/xen8v5\
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:《霧迷宮（韓國恐怖小說大師最新力作，猶如《魷
+ 魚遊戲》
+DESCRIPTION:特價 NT$99｜原價 NT$338｜4.2分\nhttps://reurl.cc/OQxg0D\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/xen8v5
-UID:kobo99-2026-w47-04@kobo99-tracker
-DTSTAMP:20261119T051917Z
+URL:https://reurl.cc/OQxg0D
+UID:kobo99-2026-w48-04@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:《天賦覺醒：超強MBTI致勝法則，全方位開啟改變的
- 原動力》
-DESCRIPTION:特價 NT$99｜原價 NT$315｜4.2分\nhttps://reurl.cc/mzEQyV\
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:《費瑪最後定理：尋找數學的聖杯》
+DESCRIPTION:特價 NT$99｜原價 NT$360｜4.2分\nhttps://reurl.cc/QN8g9O\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/mzEQyV
-UID:kobo99-2026-w47-05@kobo99-tracker
-DTSTAMP:20261119T051917Z
+URL:https://reurl.cc/QN8g9O
+UID:kobo99-2026-w48-05@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:《50堂經典哲學思維課：讓你的思想更有趣，找回
- 自己想過的人生》
-DESCRIPTION:特價 NT$99｜原價 NT$356｜4.2分\nhttps://reurl.cc/8YdVXd\
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:《熵減法則：減去人生雜訊，從無序變有序，成為
+ 「最好版本的自己」》
+DESCRIPTION:特價 NT$99｜原價 NT$294｜4.2分\nhttps://reurl.cc/MWngAL\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/8YdVXd
-UID:kobo99-2026-w47-06@kobo99-tracker
-DTSTAMP:20261119T051917Z
+URL:https://reurl.cc/MWngAL
+UID:kobo99-2026-w48-06@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:《格雷的五十道陰影I：調教》
-DESCRIPTION:特價 NT$99｜原價 NT$266｜4.0分\nhttps://reurl.cc/aE2DdQ\
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:《沉睡的殺手：全球暢銷榜TOP 1《安眠書店》
+DESCRIPTION:特價 NT$99｜原價 NT$336｜3.9分\nhttps://reurl.cc/qaM2gq\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/aE2DdQ
-UID:kobo99-2026-w47-07@kobo99-tracker
-DTSTAMP:20261119T051917Z
+URL:https://reurl.cc/qaM2gq
+UID:kobo99-2026-w48-07@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:《從小致富：教導孩子正確的富人心態、培養正向
- 習慣，帶領他走向富裕人生》
-DESCRIPTION:特價 NT$99｜原價 NT$228｜4.2分\nhttps://reurl.cc/k9DWyG\
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:《壽命天註定？──揭開生命週期、老化與死亡的
+ 關鍵機制》
+DESCRIPTION:特價 NT$99｜原價 NT$273｜4.0分\nhttps://reurl.cc/GgMvmy\
  n查看當週各書評價: https://kobo99.com/
-URL:https://reurl.cc/k9DWyG
-UID:kobo99-2026-w47-08@kobo99-tracker
-DTSTAMP:20261119T051917Z
+URL:https://reurl.cc/GgMvmy
+UID:kobo99-2026-w48-08@kobo99-tracker
+DTSTAMP:20261126T012725Z
 END:VEVENT
 END:VCALENDAR
