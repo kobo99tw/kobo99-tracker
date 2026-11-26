@@ -1,22 +1,172 @@
 {
   "source_url": "https://activity.books.com.tw/crosscat/show/A00000062854",
-  "updated_at": "2026-11-23T09:53:34.940770+08:00",
+  "updated_at": "2026-11-26T09:47:23.374921+08:00",
   "books": [
     {
-      "title": "直覺陷阱2：認知非理性消費偏好，避免成為聰明的傻瓜",
-      "author": "高登第",
+      "title": "假面的告白：三島由紀夫奠定文壇地位成名作【典藏版】",
+      "author": "三島由紀夫",
       "original_title": "",
       "original_author": null,
-      "isbn": "9786263747920",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/020/34/E050203414.jpg&v=65d2f132k&w=1146&h=600",
-      "publish_date": "2024/02/20",
-      "date_start": "11/23",
-      "date_end": "11/23",
-      "date_label": "11/23(一)",
-      "product_url": "https://www.books.com.tw/products/E050203414",
+      "isbn": "9789865511906",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/009/75/E050097563.jpg&v=60ee9549k&w=1146&h=600",
+      "publish_date": "2021/07/21",
+      "date_start": "11/26",
+      "date_end": "11/26",
+      "date_label": "11/26(四)",
+      "product_url": "https://www.books.com.tw/products/E050097563",
       "daily_price": 99,
-      "daily_price_reg": 380,
-      "last_updated": "2026-11-23T09:53:34.940770+08:00",
+      "daily_price_reg": 360,
+      "last_updated": "2026-11-26T09:47:23.374921+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050097563?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 7,
+          "url": "https://moo.im/a/0aqDLR",
+          "raw_url": "https://readmoo.com/book/210327001000101"
+        },
+        "goodreads": {
+          "score": 3.95,
+          "count": 43990,
+          "url": "https://www.goodreads.com/book/isbn/9789865511906",
+          "note": "isbn",
+          "amazon_url": "",
+          "confidence": 50,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.7,
+          "count": 10,
+          "url": "https://www.amazon.com/-/zh_TW/%E4%B8%89%E5%B3%B6%E7%94%B1%E7%B4%80%E5%A4%AB-ebook/dp/B09FQ259BZ/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.13,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "左撇子的隱形優勢：看過上萬人腦部影像的名醫教你將天賦才華發揮到120%的關鍵",
+      "author": "加藤俊德",
+      "original_title": "１万人の脳を見た名医が教える　すごい左利き - 選ばれた才能を１２０％活かす方法",
+      "original_author": null,
+      "isbn": "9789861366159",
+      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/012/27/E050122715.jpg&v=62148453k&w=1146&h=600",
+      "publish_date": "2022/03/01",
+      "date_start": "11/30",
+      "date_end": "11/30",
+      "date_label": "11/30(一)",
+      "product_url": "https://www.books.com.tw/products/E050122715",
+      "daily_price": 99,
+      "daily_price_reg": 320,
+      "last_updated": "2026-11-26T09:47:23.374921+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 5,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050122715?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.3,
+          "count": 36,
+          "url": "https://moo.im/a/6qCDGO",
+          "raw_url": "https://readmoo.com/book/210218093000101"
+        },
+        "goodreads": {
+          "score": 2.56,
+          "count": 4,
+          "url": "https://www.goodreads.com/book/isbn/9789861366159",
+          "note": "isbn",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": 4.1,
+          "count": 1060,
+          "url": "https://www.amazon.co.jp/-/zh/dp/4478111391/ref=sr_1_1"
+        }
+      },
+      "avg_score": 4.1,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "時疫漢方養生事典：不再擔心流行病！提升免疫、加速痊癒、後遺症調理，遠離新冠、流感、腸鼻病毒與細菌感染",
+      "author": "鄒瑋倫",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786267149423",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/015/97/E050159710.jpg&v=64520671k&w=1146&h=600",
+      "publish_date": "2023/04/13",
+      "date_start": "11/27",
+      "date_end": "11/29",
+      "date_label": "11/27(五)-11/29(日)",
+      "product_url": "https://www.books.com.tw/products/E050159710",
+      "daily_price": 66,
+      "daily_price_reg": 420,
+      "last_updated": "2026-11-26T09:47:23.374921+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050159710?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/58fBHT",
+          "raw_url": "https://readmoo.com/book/210271867000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": null,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生",
+      "author": "艾米莉．巴列斯特羅斯",
+      "original_title": "The Cure for Burnout: How to Find Balance and Reclaim Your Life",
+      "original_author": "Emily Ballesteros",
+      "isbn": "9786264190992",
+      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/025/53/E050255310.jpg&v=67cfb158k&w=1146&h=600",
+      "publish_date": "2025/02/21",
+      "date_start": "11/27",
+      "date_end": "11/29",
+      "date_label": "11/27(五)-11/29(日)",
+      "product_url": "https://www.books.com.tw/products/E050255310",
+      "daily_price": 66,
+      "daily_price_reg": 480,
+      "last_updated": "2026-11-26T09:47:23.374921+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -25,31 +175,31 @@
         },
         "books_com": {
           "score": 5.0,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050203414?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+          "count": 12,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050255310?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
         },
         "readmoo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://moo.im/a/04lqJW",
-          "raw_url": "https://readmoo.com/book/210315456000101"
+          "score": 4.4,
+          "count": 45,
+          "url": "https://moo.im/a/twyLTX",
+          "raw_url": "https://readmoo.com/book/210375475000101"
         },
         "goodreads": {
-          "score": 2.0,
-          "count": 1,
-          "url": "https://www.goodreads.com/book/show/208853556",
-          "note": "re-fetch",
-          "amazon_url": "",
-          "confidence": 60,
-          "cross_validated": null
+          "score": 4.07,
+          "count": 1899,
+          "url": "https://www.goodreads.com/book/show/185034564",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0CBBHLSKJ/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
         },
         "amazon_com": {
-          "score": 3.0,
-          "count": 1,
-          "url": "https://www.amazon.com/gp/product/B0CVWZTSXY/ref=x_gr_bb_kindle"
+          "score": 4.8,
+          "count": 88,
+          "url": "https://www.amazon.com/gp/product/B0CBBHLSKJ/ref=x_gr_bb_kindle"
         }
       },
-      "avg_score": 4.11,
+      "avg_score": 4.26,
       "short_affiliate_url": ""
     },
     {
@@ -66,7 +216,7 @@
       "product_url": "https://www.books.com.tw/products/E050308935",
       "daily_price": 99,
       "daily_price_reg": 420,
-      "last_updated": "2026-11-23T09:53:34.940770+08:00",
+      "last_updated": "2026-11-26T09:47:23.374921+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -100,155 +250,6 @@
         }
       },
       "avg_score": 4.1,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "假面的告白：三島由紀夫奠定文壇地位成名作【典藏版】",
-      "author": "三島由紀夫",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9789865511906",
-      "cover_url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/009/75/E050097563.jpg&v=60ee9549k&w=1146&h=600",
-      "publish_date": "2021/07/21",
-      "date_start": "11/26",
-      "date_end": "11/26",
-      "date_label": "11/26(四)",
-      "product_url": "https://www.books.com.tw/products/E050097563",
-      "daily_price": 99,
-      "daily_price_reg": 360,
-      "last_updated": "2026-11-23T09:53:34.940770+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050097563?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.6,
-          "count": 7,
-          "url": "https://moo.im/a/0aqDLR",
-          "raw_url": "https://readmoo.com/book/210327001000101"
-        },
-        "goodreads": {
-          "score": 3.95,
-          "count": 43960,
-          "url": "https://www.goodreads.com/book/isbn/9789865511906",
-          "note": "isbn",
-          "amazon_url": "",
-          "confidence": 50,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 10,
-          "url": "https://www.amazon.com/-/zh_TW/%E4%B8%89%E5%B3%B6%E7%94%B1%E7%B4%80%E5%A4%AB-ebook/dp/B09FQ259BZ/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.13,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "現在開始就有錢：改變一生的50個理財法則，教你利用時間複利，站上致富起跑點",
-      "author": "楊比爾（楊書銘）",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786263615595",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/021/04/E050210462.jpg&v=6602320bk&w=1146&h=600",
-      "publish_date": "2024/04/01",
-      "date_start": "11/25",
-      "date_end": "11/25",
-      "date_label": "11/25(三)",
-      "product_url": "https://www.books.com.tw/products/E050210462",
-      "daily_price": 99,
-      "daily_price_reg": 420,
-      "last_updated": "2026-11-23T09:53:34.940770+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 4.0,
-          "count": 4,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050210462?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.8,
-          "count": 5,
-          "url": "https://moo.im/a/09fimL",
-          "raw_url": "https://readmoo.com/book/210321758000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.17,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "背職場英文大躍進 1000 實用句",
-      "author": "賴世雄",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9789867380739",
-      "cover_url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/031/19/E050311968.jpg&v=69646042k&w=1146&h=600",
-      "publish_date": "2025/01/19",
-      "date_start": "11/24",
-      "date_end": "11/24",
-      "date_label": "11/24(二)",
-      "product_url": "https://www.books.com.tw/products/E050311968",
-      "daily_price": 99,
-      "daily_price_reg": 249,
-      "last_updated": "2026-11-23T09:53:34.940770+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050311968?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": null,
       "short_affiliate_url": ""
     }
   ]
