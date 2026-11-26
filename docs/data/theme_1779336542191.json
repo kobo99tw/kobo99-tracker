@@ -1,117 +1,7 @@
 {
   "source_url": "https://www.kobo.com/zh/blog/booklist_exclusive-bookpromotion",
-  "updated_at": "2026-11-19T13:07:35.765681+08:00",
+  "updated_at": "2026-11-26T09:29:36.089605+08:00",
   "books": [
-    {
-      "title": "超韌性",
-      "author": "塔莎．歐里希",
-      "original_title": "Shatterproof：How to Thrive When Resilience Alone Isn’t Enough (And Why Resilience Alone Isn’t Enough)",
-      "original_author": "Tasha Eurich",
-      "isbn": "9786264740104",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ooizsb40aDyfxOd8ga1MDw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$336",
-      "cover_url": "covers/ooizsb40aDyfxOd8ga1MDw.jpg",
-      "sale_price": "NT$286",
-      "price_source": "kobo",
-      "sale_end": "11/23",
-      "description": "為什麼有些人面對逆境卻能因此活得更好？暢銷書《深度洞察力》作者透過本書帶領我們跳脫舊有的思維框架，學會一套能重新調整人生方向的「超韌性路線圖」。培養超韌性，才能將挑戰轉化為成長的力量。",
-      "publish_date": "2026年11月6日",
-      "last_updated": "2026-11-19T13:07:35.765681+08:00",
-      "listed_at": "2026-11-17",
-      "short_affiliate_url": "https://reurl.cc/beLMnl",
-      "genre_tags": [
-        "非小說",
-        "健康與幸福",
-        "心理學",
-        "認知心理學"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": 5.0,
-          "count": 1,
-          "url": "https://www.kobo.com/tw/zh/ebook/ooizsb40aDyfxOd8ga1MDw?utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": 3.5,
-          "count": 1,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/0011066602?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "goodreads": {
-          "score": 3.9,
-          "count": 357,
-          "url": "https://www.goodreads.com/book/show/217182457",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B0DC67WTMK/ref=x_gr_bb_kindle",
-          "confidence": 95,
-          "cross_validated": true
-        },
-        "amazon_com": {
-          "score": 4.7,
-          "count": 119,
-          "url": "https://www.amazon.com/gp/product/B0DC67WTMK/ref=x_gr_bb_kindle"
-        }
-      },
-      "avg_score": 4.18
-    },
-    {
-      "title": "主管這麼爛，但我照樣開心上班",
-      "author": "佩爾．亨利克．史騰史東",
-      "original_title": "Når sjefen er en idiot (When your boss is an idiot)",
-      "original_author": "Per Henrik Stenstrøm",
-      "isbn": "9786264602051",
-      "kobo_url": "https://www.kobo.com/tw/zh/ebook/PWugBHr7WD6DigQbsfVsXw?sId=517987ff-7ac9-4065-8887-635d94ef4ec9&ssId=Qnqdh0eQH-QgLD6e-XDDA&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
-      "kobo_price": "NT$320",
-      "cover_url": "covers/PWugBHr7WD6DigQbsfVsXw.jpg",
-      "sale_price": "NT$272",
-      "price_source": "readmoo_orig",
-      "sale_end": "11/25",
-      "description": "不必離職、不起衝突！挪威人際關係專家寫給上班族的職場求生指南。既然改變不了主管，就學會應對他！學會七種職場求生策略，拿回工作主導權，將原本阻礙你發展的主管，轉化為推動職涯成長的助力！",
-      "publish_date": "2026年10月27日",
-      "last_updated": "2026-11-19T13:07:35.765681+08:00",
-      "listed_at": "2026-11-17",
-      "short_affiliate_url": "https://reurl.cc/4YAE3j",
-      "genre_tags": [
-        "企業與金融",
-        "生涯規劃與求職"
-      ],
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.kobo.com/tw/zh/ebook/PWugBHr7WD6DigQbsfVsXw?sId=517987ff-7ac9-4065-8887-635d94ef4ec9&ssId=Qnqdh0eQH-QgLD6e-XDDA&cPos=1&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050364024?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": null,
-          "count": 0,
-          "url": "https://moo.im/a/kCEGKP"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": null
-    },
     {
       "title": "每天用得到的心理學",
       "author": "韓昭苑 한소원",
@@ -126,8 +16,9 @@
       "sale_end": "11/26",
       "description": "首爾大學心理學系教授帶你從日常可能遇到的問題出發，搭配經典研究、實驗和生活案例，解析背後的心理機制，再告訴你如何運用在現實生活中。84個心理學法則，幫助你調整行為、提升效率，也讓自己活得更幸福！",
       "publish_date": "2026年11月12日",
-      "last_updated": "2026-11-19T13:07:35.765681+08:00",
+      "last_updated": "2026-11-26T09:29:36.089605+08:00",
       "listed_at": "2026-11-19",
+      "short_affiliate_url": "https://reurl.cc/k9DWp9",
       "genre_tags": [
         "非小說",
         "健康與幸福",
@@ -153,8 +44,7 @@
         "readmoo": {
           "score": null,
           "count": 0,
-          "url": "https://moo.im/a/drvMSU",
-          "raw_url": "https://readmoo.com/book/210511451000101"
+          "url": "https://moo.im/a/drvMSU"
         },
         "goodreads": {
           "score": null,
@@ -171,8 +61,124 @@
           "url": ""
         }
       },
-      "avg_score": null,
-      "short_affiliate_url": "https://reurl.cc/k9DWp9"
+      "avg_score": null
+    },
+    {
+      "title": "記憶操控",
+      "author": "史蒂夫．拉米瑞茲",
+      "original_title": "How to Change a Memory: One Neuroscientist’s Quest to Alter the Past",
+      "original_author": "Steve Ramirez",
+      "isbn": "9786264701969",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/FbWUGuNF9jSZmnaEFlzMWA?sId=11bce5f7-8274-44cc-bf41-fcd1781ddab6&ssId=MbiYmbjaR4AukTDu3_PaS&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$360",
+      "cover_url": "covers/FbWUGuNF9jSZmnaEFlzMWA.jpg",
+      "sale_price": "NT$306",
+      "price_source": "readmoo_orig",
+      "sale_end": "11/30",
+      "description": "神經科學最新研究，全面啟動創傷、焦慮、失憶療法新方向。本書作者拉米瑞茲，透過自身的研究歷程以及失去摯友的創傷過往，一步步說明神經科學中記憶研究的發展與現況，包括基礎科學及精神治療上的可能運用。",
+      "publish_date": "2026年10月30日",
+      "last_updated": "2026-11-26T09:29:36.089605+08:00",
+      "listed_at": "2026-11-26",
+      "genre_tags": [
+        "非小說",
+        "健康與幸福",
+        "自助",
+        "自我改善",
+        "記憶改進",
+        "非小說",
+        "科學與自然",
+        "科學"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/FbWUGuNF9jSZmnaEFlzMWA?sId=11bce5f7-8274-44cc-bf41-fcd1781ddab6&ssId=MbiYmbjaR4AukTDu3_PaS&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050361507?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/6bevyG",
+          "raw_url": "https://readmoo.com/book/210509051000101"
+        },
+        "goodreads": {
+          "score": 4.19,
+          "count": 102,
+          "url": "https://www.goodreads.com/book/show/228065082",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B0F647YTCH/ref=x_gr_bb_kindle",
+          "confidence": 90,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.1,
+          "count": 30,
+          "url": "https://www.amazon.com/gp/product/B0F647YTCH/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.16,
+      "short_affiliate_url": "https://reurl.cc/QN8gX5"
+    },
+    {
+      "title": "AI帝國",
+      "author": "郝珂靈",
+      "original_title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
+      "original_author": null,
+      "isbn": "9786266529103",
+      "kobo_url": "https://www.kobo.com/tw/zh/ebook/ai-openai?sId=25878f9e-11b0-4fd9-9d87-42285869d93e&ssId=6cgzs2HktaL83AVwTNGqq&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive",
+      "kobo_price": "NT$562",
+      "cover_url": "covers/ai-openai.jpg",
+      "sale_price": "NT$478",
+      "price_source": "readmoo_orig",
+      "sale_end": "12/9",
+      "description": "造福全人類的承諾？從科技巨頭的辦公室到全球各地的勞工與社群，科技記者郝珂靈歷時5年追蹤這家公司，並透過本書揭開一個令人難以迴避的問題：當少數企業握有模型、資本和制定規則的影響力，誰能參與決定AI的未來？",
+      "publish_date": "2026年11月25日",
+      "last_updated": "2026-11-26T09:29:36.089605+08:00",
+      "listed_at": "2026-11-26",
+      "genre_tags": [
+        "企業與金融",
+        "經濟學",
+        "經濟發展"
+      ],
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": "https://www.kobo.com/tw/zh/ebook/ai-openai?sId=25878f9e-11b0-4fd9-9d87-42285869d93e&ssId=6cgzs2HktaL83AVwTNGqq&utm_source=twblog&utm_medium=bookpromotion&utm_campaign=exclusive"
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050365260?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": null,
+          "count": 0,
+          "url": "https://moo.im/a/13optB",
+          "raw_url": "https://readmoo.com/book/210513450000101"
+        },
+        "goodreads": {
+          "score": 4.02,
+          "count": 17748,
+          "url": "https://www.goodreads.com/book/show/222725518",
+          "note": "title",
+          "amazon_url": "https://www.amazon.com/gp/product/B0DQSQKMY4/ref=x_gr_bb_kindle",
+          "confidence": 55,
+          "cross_validated": true
+        },
+        "amazon_com": {
+          "score": 4.4,
+          "count": 2555,
+          "url": "https://www.amazon.com/gp/product/B0DQSQKMY4/ref=x_gr_bb_kindle"
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": "https://reurl.cc/NOzg0x"
     }
   ]
 }
