@@ -1,157 +1,7 @@
 {
   "source_url": "https://readmoo.com/campaign/specialoffer/index",
-  "updated_at": "2026-11-23T13:06:38.386801+08:00",
+  "updated_at": "2026-11-26T09:34:22.660510+08:00",
   "books": [
-    {
-      "title": "別再當「背多分」！東大教授親授，深化思考的最強自學法",
-      "author": "柳川範之",
-      "original_title": "東大教授が教える独学勉強法",
-      "original_author": null,
-      "isbn": "9786267730638",
-      "cover_url": "https://cdn.readmoo.com/cover/ci/alghji6_460x580.jpg?v=1758769379",
-      "publish_date": "2025/09/26",
-      "date": "11/23",
-      "readmoo_url": "https://readmoo.com/book/210412277000101",
-      "daily_price": 99,
-      "daily_price_reg": 266,
-      "daily_discount_label": "26折",
-      "description": "你是否曾對學習感到無力、疲憊，\n甚至懷疑自己根本不適合讀書？問題其實出在從來沒人教你「怎麼學」。",
-      "last_updated": "2026-11-23T13:06:38.386801+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050291203?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 2.0,
-          "count": 1,
-          "url": "https://moo.im/a/dgimtE",
-          "raw_url": "https://readmoo.com/book/210412277000101"
-        },
-        "goodreads": {
-          "score": 3.6,
-          "count": 5,
-          "url": "https://www.goodreads.com/book/show/24908342",
-          "note": "re-fetch",
-          "amazon_url": "https://www.amazon.com/gp/product/B00R2X26W8/ref=x_gr_bb_amazon",
-          "confidence": 80,
-          "cross_validated": false
-        },
-        "amazon_com": {
-          "score": 4.1,
-          "count": 662,
-          "url": "https://www.amazon.co.jp/-/zh/dp/4794223072/ref=sr_1_1"
-        }
-      },
-      "avg_score": 4.11,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "起司品味圖鑑",
-      "author": "陳馨儀",
-      "original_title": "",
-      "original_author": null,
-      "isbn": "9786263200494",
-      "cover_url": "https://cdn.readmoo.com/cover/nn/ikqfzjp_460x580.jpg?v=1644566333",
-      "publish_date": "2022/01/15",
-      "date": "11/24",
-      "readmoo_url": "https://readmoo.com/book/210215644000101",
-      "daily_price": 99,
-      "daily_price_reg": 245,
-      "daily_discount_label": "",
-      "description": "讓人眼花撩亂、五花八門的各種起司\n究竟應該怎麼選？怎麼搭？",
-      "last_updated": "2026-11-23T13:06:38.386801+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": null,
-          "count": 0,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/0010913610?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 5.0,
-          "count": 2,
-          "url": "https://moo.im/a/cdqKVW",
-          "raw_url": "https://readmoo.com/book/210215644000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.18,
-      "short_affiliate_url": ""
-    },
-    {
-      "title": "蒙格之道",
-      "author": "查理．蒙格",
-      "original_title": "",
-      "original_author": "Charles T. Munger",
-      "isbn": "9786263553613",
-      "cover_url": "https://cdn.readmoo.com/cover/in/ckjqpjh_460x580.jpg?v=1693548955",
-      "publish_date": "2023/08/31",
-      "date": "11/25",
-      "readmoo_url": "https://readmoo.com/book/210287274000101",
-      "daily_price": 99,
-      "daily_price_reg": 450,
-      "daily_discount_label": "",
-      "description": "**蒙格睽違18年唯一授權著作\n用思想的力量帶你領略投資哲學，擁有看遍人生的智慧\n查理．蒙格是巴菲特的傳奇合夥人，他們合作無間，\n共同打造波克夏投資傳奇。巴菲特曾說：\n蒙格讓他從猩猩變人類，如果不是蒙格，他會比現在窮得多。",
-      "last_updated": "2026-11-23T13:14:58.381785+08:00",
-      "ratings": {
-        "kobo": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        },
-        "books_com": {
-          "score": 5.0,
-          "count": 32,
-          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050176423?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
-        },
-        "readmoo": {
-          "score": 4.7,
-          "count": 201,
-          "url": "https://moo.im/a/14cfDV",
-          "raw_url": "https://readmoo.com/book/210287274000101"
-        },
-        "goodreads": {
-          "score": null,
-          "count": 0,
-          "url": "",
-          "note": "無原文資訊",
-          "amazon_url": "",
-          "confidence": 20,
-          "cross_validated": null
-        },
-        "amazon_com": {
-          "score": null,
-          "count": 0,
-          "url": ""
-        }
-      },
-      "avg_score": 4.32,
-      "short_affiliate_url": ""
-    },
     {
       "title": "我的爸媽離婚了",
       "author": "波琳．奧德",
@@ -164,9 +14,9 @@
       "readmoo_url": "https://readmoo.com/book/210353252000101",
       "daily_price": 99,
       "daily_price_reg": 290,
-      "daily_discount_label": "",
+      "daily_discount_label": "26折",
       "description": "當爸媽離婚了，\n你有很多新的事物需要適應，\n你可能會覺得有點傷心、生氣或不舒服。想念你的舊家、你的朋友、老師，\n想念和爸爸媽媽住在一起的時光。",
-      "last_updated": "2026-11-23T13:06:38.386801+08:00",
+      "last_updated": "2026-11-26T09:34:22.660510+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -216,7 +66,7 @@
       "daily_price_reg": 280,
       "daily_discount_label": "",
       "description": "與法國的莫泊桑和美國的歐．亨利並稱為世界短篇小說三傑的契訶夫，是海明威、托爾斯泰、毛姆、蕭伯納等文學大師齊聲讚譽的大師。他的作品致力於展現變化世事中的恆常人性，憂傷、孤獨、荒誕和無奈，以及對命運起伏的無法掌控……其作品屢次獲獎，經久不衰，入選多國語文教材，並被譯成各種文字。",
-      "last_updated": "2026-11-23T13:18:41.160461+08:00",
+      "last_updated": "2026-11-26T09:46:39.812006+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -236,7 +86,7 @@
         },
         "goodreads": {
           "score": 3.75,
-          "count": 3429,
+          "count": 3430,
           "url": "https://www.goodreads.com/book/isbn/9786264197625",
           "note": "isbn",
           "amazon_url": "https://www.amazon.com/gp/product/B00KHS25U8/ref=x_gr_bb_kindle",
@@ -266,7 +116,7 @@
       "daily_price_reg": 550,
       "daily_discount_label": "",
       "description": "「我得留著這些筆記本，為了克洛斯。這些筆記本是寫給克洛斯看的，為了他一個人。",
-      "last_updated": "2026-11-23T13:06:38.386801+08:00",
+      "last_updated": "2026-11-26T09:34:22.660510+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -316,7 +166,7 @@
       "daily_price_reg": 280,
       "daily_discount_label": "",
       "description": "你是否曾有以下這樣的經驗……\n當你試圖向親密的人訴說內心感受時，\n卻總覺得對方「聽不進去」，甚至話還沒說完就被打斷？或是在傾聽他人時，無意間讓對方覺得「你根本不懂我」，\n導致關係愈來愈疏遠？",
-      "last_updated": "2026-11-23T13:06:38.386801+08:00",
+      "last_updated": "2026-11-26T09:34:22.660510+08:00",
       "ratings": {
         "kobo": {
           "score": null,
@@ -350,6 +200,156 @@
         }
       },
       "avg_score": 4.15,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "PUZZLE vol.7",
+      "author": "呂仁、黃羅、陳嘉振、李柏青、望日、冷言、譚劍、陳浩基、文善、臥斧",
+      "original_title": "",
+      "original_author": "皮埃爾．弗里",
+      "isbn": "9786269833863",
+      "cover_url": "https://cdn.readmoo.com/cover/in/nddqpeh_460x580.jpg?v=1758174572",
+      "publish_date": null,
+      "date": "11/30",
+      "readmoo_url": "https://readmoo.com/book/210411354000101",
+      "daily_price": 99,
+      "daily_price_reg": 299,
+      "daily_discount_label": "",
+      "description": "《PUZZLE vol.7》2025年9月持續帶來好故事！Editor’s Letter\n當形式成為創作的一環／冬陽\n如何利用電子書形式來設計謎題、表現故事？",
+      "last_updated": "2026-11-26T09:46:40.705263+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "readmoo": {
+          "score": 4.4,
+          "count": 55,
+          "url": "https://moo.im/a/aruBRW",
+          "raw_url": "https://readmoo.com/book/210411354000101"
+        },
+        "goodreads": {
+          "score": 5.0,
+          "count": 2,
+          "url": "https://www.goodreads.com/book/show/241805171",
+          "note": "zh-title",
+          "amazon_url": "https://www.amazon.com/s",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.22,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "空笑夢圖像小說：第一卷 黃金樓【電子書獨家收錄：黑狗師告別那一夜】",
+      "author": "阮光民、邱祖胤（原著）",
+      "original_title": "",
+      "original_author": null,
+      "isbn": "9786264182942",
+      "cover_url": "https://cdn.readmoo.com/cover/a7/g695id4_460x580.jpg?v=1753686858",
+      "publish_date": null,
+      "date": "12/1",
+      "readmoo_url": "https://readmoo.com/book/210400611000101",
+      "daily_price": 149,
+      "daily_price_reg": 316,
+      "daily_discount_label": "",
+      "description": "「你知道操偶師的一雙手，可以掌管多少靈魂嗎?」\n「一萬個喔！",
+      "last_updated": "2026-11-26T09:34:22.660510+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 5.0,
+          "count": 3,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050276322?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.7,
+          "count": 14,
+          "url": "https://moo.im/a/26mBMX",
+          "raw_url": "https://readmoo.com/book/210400611000101"
+        },
+        "goodreads": {
+          "score": null,
+          "count": 0,
+          "url": "",
+          "note": "無原文資訊",
+          "amazon_url": "",
+          "confidence": 20,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.19,
+      "short_affiliate_url": ""
+    },
+    {
+      "title": "你聞到了嗎？",
+      "author": "比爾．S．漢森",
+      "original_title": "DIE NASE VORN : Eine Reise in die Welt des Geruchssinns",
+      "original_author": "Bill S. Hansson",
+      "isbn": "9786263152311",
+      "cover_url": "https://cdn.readmoo.com/cover/78/2fachg7_460x580.jpg?v=1672899028",
+      "publish_date": "2023/01/03",
+      "date": "12/2",
+      "readmoo_url": "https://readmoo.com/book/210259345000101",
+      "daily_price": 99,
+      "daily_price_reg": 294,
+      "daily_discount_label": "",
+      "description": "我們聞的不只是氣味，而是關於這世界的一切訊息。「春意盎然，剛剛翻過土的田野散發出一股獨特又宜人的香氣。",
+      "last_updated": "2026-11-26T09:34:22.660510+08:00",
+      "ratings": {
+        "kobo": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        },
+        "books_com": {
+          "score": 3.5,
+          "count": 1,
+          "url": "https://www.books.com.tw/exep/assp.php/books99/products/E050151073?utm_source=books99&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202611"
+        },
+        "readmoo": {
+          "score": 4.6,
+          "count": 12,
+          "url": "https://moo.im/a/2ctFJU",
+          "raw_url": "https://readmoo.com/book/210259345000101"
+        },
+        "goodreads": {
+          "score": 3.78,
+          "count": 95,
+          "url": "https://www.goodreads.com/book/show/59817494",
+          "note": "title+author",
+          "amazon_url": "https://www.amazon.com/gp/product/B09Q8B7V4G/ref=x_gr_bb_kindle",
+          "confidence": 75,
+          "cross_validated": null
+        },
+        "amazon_com": {
+          "score": null,
+          "count": 0,
+          "url": ""
+        }
+      },
+      "avg_score": 4.14,
       "short_affiliate_url": ""
     }
   ]
